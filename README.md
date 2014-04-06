@@ -1,4 +1,4 @@
-Lacuscurtius is a collection of Classical Greek and Latin texts.
+LacusCurtius is a collection of Classical Greek and Latin texts.
 
 These files are in the public domain, [as explained here](http://thelatinlibrary.com/about.html). For a declaration of these files' status in public domain, see LICENSE.md.
 
