@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pertinax
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Septimius Severus
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+
+p348
+Didius Julianus
+	
+
 11 Didio Iuliano, qui post Pertinacem imperium adeptus est, proavus fuit Salvius1 Iulianus, bis consul, praefectus urbi et iuris consultus, quod magis eum nobilem fecit, 2 mater Clara Aemilia, pater Petronius Didius Severus, fratres Didius Proculus et Nummius Albinus, avunculus Salvius Iulianus. avus paternus Insubris Mediolanensis, maternus ex Hadrumetina colonia.
 
 	
@@ -84,138 +192,268 @@ p368quod ei cum Augustae nomine statim sublatum est. 10 corpus eius a Severo u
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 albius P.
 
 
+❦
 
 2
 idem P.
 
 
+❦
 
 3
 publicum P.
 
 
+❦
 
 4
 uectium P; Vettium Jordan, Peter.
 
 
+❦
 
 5
 cum om. in P1.
 
 
+❦
 
 6
 cum om. in P1.
 
 
+❦
 
 7
 est admissus et Peter; et admissus est P.
 
 
+❦
 
 8
 dein Peter; in P1.
 
 
+❦
 
 9
 inuitisque Peter1; inuitis eo P; † inuitis eo Peter2.
 
 
+❦
 
 10
 et P.
 
 
+❦
 
 11
 fratrem Peter2; patrem P.
 
 
+❦
 
 12
 mites P1.
 
 
+❦
 
 13
 ne litaret Edit. princeps; elitaret P.
 
 
+❦
 
 14
 quod P.
 
 
+❦
 
 15
 est P.
 
 
+❦
 
 16
 niger in illyrico s. seuerus in syria P.
 
 
+❦
 
 17
 et om. in P.
 
 
+❦
 
 18
 impetrauitque P (Dessau); imperauitque Peter.
 
 
+❦
 
 19
 Marciam una Mommsen; marci mannum P.
 
 
+❦
 
 20
 rem ins. by Peter; om. in P.
 
 
+❦
 
 21
 Plautius Peter; phaustius P.
 
 
+❦
 
 22
 habui P.
 
 
+❦
 
 23
 consuluisset P; contulisset Peter.
 
 
+❦
 
 24
 mandatamque Ursinus; tantamque P.
 
 
+❦
 
 25
 putaret Egnatius; uitaret P.
 
 
+❦
 
 26
 ducunt P.
 
 
+❦
 
 27
 se P; om. by Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIV Kal. Mar. 05

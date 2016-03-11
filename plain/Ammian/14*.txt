@@ -1,4 +1,118 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+Rerum Gestarum
+				
+
+
+
+Ammiani Marcellini
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV (recensiti MCML)
+				
+cuius textus in dominio publico est.
+
+				
+
+Textus nondum perscrutatus est —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p2
+Ammiani Marcellini
+	
+Rerum Gestarum libri qui supersunt
+	
+
+Liber XIV
+	
+
+1
+
+Galli Caesaris saevitia.1
+
 1 Post emensos insuperabilis expeditionis eventus, languentibus partium animis, quas periculorum varietas fregerat et laborum, nondum tubarum cessante clangore, vel milite locato per stationes hibernas, fortunae saevientis procellae tempestates alias rebus infudere2 communibus per multa illa et dira facinora Caesaris Galli, qui ex squalore imo miseriarum in aetatis adultae primitiis ad principale culmen insperato saltu3 provectus ultra terminos
 
 
@@ -26,6 +140,11 @@ p8destinarentur, relaturi quae audirent. Hi peragranter et dissimulanter honorat
 
 p12quoddam vexillum altius erigens, sine respectu salutis alienae vel suae ad vertenda opposita,13 instar rapidi fluminis irrevocabili impetu ferebatur.
 
+
+	
+2
+
+Isaurorum incursiones.
 
 	
 1 Nec sane haec sola pernicies orientem diversis cladibus adfligebat. Namque et Isauri, quibus est usitatum saepe pacari saepeque inopinis excursibus cuncta miscere, ex latrociniis occultis et raris, alente inpunitate adulescentem in peius audaciam ad bella gravia proruperunt, diu quidem perduelles spiritus inrequietis motibus erigentes, hac tamen indignitate perciti vehementer, ut iactitabant, quod eorum capiti quidam consortes apud Iconium Pisidiae oppidum in amphitheatrali spectaculo feris praedatricibus obiecti sunt praeter morem. 2 Atque (ut Tullius ait) ut etiam bestiae14 fame monitae plerumque ad eum locum ubi aliquando pastae sunt revertuntur, ita homines instar turbinis degressi montibus impeditis et arduis loca petivere mari confinia, per quae aviis15 latebrosis sese convallibusque occultantes cum appeterent noctes — luna etiam tum cornuta ideoque nondum solido splendore fulgente nauticos observabant quos cum in somnum sentirent effusos per ancoralia, quadrupedo gradu repentes seseque
@@ -57,6 +176,11 @@ p20firmatum, ubi conduntur nunc usque commeatus distribui militibus omne latus I
 
 p22et dolorem, proximos iam gestu terrebat sed eum in certamen alacriter consurgentem revocavere ductores rati intempestivum anceps subire certamen cum haut longe muri distarent, quorum tutela securitas poterat in solido locari cunctorum. 18 Hac ita persuasione reducti intra moenia bellatores obseratis undique portarum aditibus, propugnaculis insistebant et pinnis, congesta undique saxa telaque habentes in promptu, ut si quis se proripuisset citerius,24 multitudine missilium sterneretur et lapidum. 19 Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant. 20 Haec ubi latius fama vulgasset missaeque relationes adsiduae Gallum Caesarem permovissent, quoniam magister equitum longius ea tempestate distinebatur, iussus comes orientis Nebridius contractis undique militaribus copiis ad eximendam periculo civitatem amplam et oportunam studio properabat ingenti, quo cognito abscessere latrones nulla re amplius memorabili gesta, dispersique ut solent avia montium petiere celsorum.
 
+	p24
+3
+
+Persarum commentum irritum.
+
 	
 1 Eo adducta re per Isauriam, rege Persarum bellis finitimis inligato repellenteque a conlimitiis suis ferocissimas gentes, quae mente quadam versabili hostiliter eum saepe incessunt et in nos arma moventem aliquotiens iuvant, Nohodares quidam nomine e numero optimatum, incursare Mesopotamiam quotiens copia dederit ordinatus, explorabat nostra sollicite, si repperisset usquam locum vi subita perrupturus. 2 Et quia Mesopotamiae tractus omnes crebro inquietari sueti praetenturis et stationibus servabantur agrariis, laevorsum flexo itinere Osdroenae subsederat extimas partes, novum parumque aliquando temptatum commentum adgressus. Quod si impetrasset, fulminis modo cuncta vastarat. Erat autem quod cogitabat huius modi.
 
@@ -69,6 +193,11 @@ p26suorum indicio proditus, qui admissi flagitii metu exagitati ad praesidia des
 
 
 	
+4
+
+Saracenorum irruptiones et mores.
+
+	
 1 Saraceni tamen nec amici nobis umquam nec hostes optandi, ultro citroque discursantes quicquid inveniri poterat momento temporis parvi vastabant milvorum rapacium similes, qui si praedam dispexerint celsius, volatu rapiunt celeri, ac si26 impetraverint, non inmorantur. 2 Super quorum moribus licet in actibus principis Marci et postea aliquotiens memini rettulisse,27 tamen nunc quoque pauca de isdem expediam carptim. 3 Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti, equorum adiumento pernicium graciliumque camelorum per diversa se raptantes, in tranquillis vel turbidis rebus: nec eorum quisquam aliquando stivam adprehendit vel arborem colit aut arva subigendo quaeritat victum, sed errant semper per spatia longe lateque distenta sine lare sine sedibus fixis aut legibus: nec idem perferunt diutius caelum aut tractus unius soli illis umquam placet. 4 Vita est illis semper in fuga uxoresque mercenariae conductae ad tempus ex pacto atque, ut sit species matrimonii, dotis nomine futura coniunx hastam et tabernaculum
 
 
@@ -78,6 +207,11 @@ p28offert marito, post statum diem si id elegerit discessura, et incredibile est
 	
 7 Hactenus de natione perniciosa. Nunc ad textum propositum revertamur.
 
+
+	
+5
+
+Magnentianorum supplicia.
 
 	
 1 Dum haec in oriente aguntur, Arelate hiemem agens Constantius post theatralis ludos atque circenses ambitioso editos apparatu diem sextum idus Octobres, qui imperii eius annum tricensimum terminabat, insolentiae pondera gravius librans, siquid dubium deferebatur aut falsum, pro liquido accipiens et conperto, inter alia excarnificatum Gerontium Magnentianae comitem partis exulari maerore multavit. 2 Utque aegrum corpus quassari etiam levibus solet offensis, ita animus eius angustus et tener, quicquid increpuisset, ad salutis
@@ -96,6 +230,11 @@ p30suae dispendium existimans factum aut cogitatum, insontium caedibus fecit vic
 
 p34ferro eundem adoritur Paulum. Et quia languente dextera, letaliter ferire non potuit, iam districtum mucronem in proprium latus inpegit. Hocque deformi genere mortis excessit e vita iustissimus rector,35 ausus miserabiles casus levare multorum. 9 Quibus ita sceleste patratis Paulus cruore perfusus reversusque ad principis castra multos coopertos paene catenis adduxit in squalorem deiectos atque maestitiam, quorum adventu intendebantur eculei uncosque parabat carnifex et tormenta. Et ex his36 proscripti sunt plures actique in exilium alii, non nullos gladii consumpsere poenales. Nec enim quisquam facile meminit sub Constantio, ubi susurro tenus haec movebantur, quemquam absolutum.
 
+
+	
+6
+
+Senatus populique Romani vitia.
 
 	
 1 Inter haec Orfitus praefecti potestate regebat urbem aeternam,37 ultra modum delatae dignitatis sese efferens insolenter, vir quidem prudens et forensium negotiorum oppido gnarus, sed splendore liberalium doctrinarum minus quam nobilem decuerat institutus, quo administrante seditiones sunt concitatae graves ob inopiam vini, cuius38 avidis usibus vulgus intentum ad motus asperos excitatur et crebros.
@@ -156,6 +295,11 @@ p5023 Et quoniam apud eos ut in capite mundi morborum acerbitates celsius domin
 p52equorumque praecipua vel delicta scrutantes. 26 Et est admodum mirum videre plebem innumeram mentibus ardore quodam infuso cum dimicationum curulium eventu pendentem. Haec similiaque memorabile nihil vel serium agi Romae permittunt. Ergo redeundum ad textum.
 
 	
+7
+
+Galli Caesaris immanitas et saevitia.
+
+	
 1 Latius iam disseminata licentia onerosus bonis omnibus Caesar nullum post haec adhibens modum orientis latera cuncta vexabat nec honoratis parcens nec urbium primatibus nec plebeiis. 2 Denique Antiochensis64 ordinis vertices sub uno elogio iussit occidi, ideo efferatus, quod ei celerari65 vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia restitisset. 3 Erat autem diritatis eius hoc quoque indicium nec obscurum nec latens, quod ludicris cruentis delectabatur et in circo sex vel septem aliquotiens deditus66 certaminibus pugilum vicissim se concidentium perfusorumque sanguine specie ut lucratus ingentia laetabatur. 4 Accenderat super his incitatum propositum ad nocendum aliqua mulier vilis, quae ad palatium (ut poposcerat)
 
 
@@ -192,6 +336,11 @@ p64sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebant
 21 Iamque lituis cladium concrepantibus internarum, non celate81 (ut antea) turbidum saeviebat ingenium a veri consideratione detortum et nullo inpositorum vel conpositorum fidem sollemniter inquirente nec discernente a societate noxiorum insontes velut exturbatum e iudiciis fas omne discessit, et causarum legitima silente defensione carnifex rapinarum sequester et obductio capitum et bonorum ubique multatio versabatur per orientales provincias; quas recensere puto nunc oportunum, absque Mesopotamia, iam82 digesta cum bella Parthica narrarentur,83 et Aegypto, quam necessario aliud reieciemus84 ad tempus.
 
 	
+8
+
+Orientis provinciarum descriptio.
+
+	
 1 Superatis Tauri montis verticibus qui ad solis ortum sublimius attolluntur, Cilicia spatiis porrigitur late distentis dives bonis omnibus terra, eiusque lateri dextro adnexa Isauria, pari sorte uberi palmite viget et frugibus minutis, quam mediam navigabile flumen Calycadnus interscindit. 2 Et hanc quidem praeter oppida multa duae civitates exornant Seleucia opus Seleuci regis, et Claudiopolis quam deduxit coloniam Claudius Caesar.
 
 
@@ -225,6 +374,11 @@ p70mare, Gnaeus Pompeius superato Tigrane regnis Armeniorum abstractas dicioni R
 14 Cyprum itidem insulam procul a continenti91 discretam et portuosam inter municipia crebra urbes duae faciunt claram Salamis et Paphus, altera Iovis delubris altera Veneris templo insignis. Tanta autem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius externi indigens adminiculi indigenis viribus a fundamento ipso carinae ad supremos usque carbasos aedificet onerariam navem omnibusque armamentis instructam mari committat. 15 Nec piget dicere avide magis hanc insulam populum Romanum invasisse quam iuste. Ptolomaeo enim rege foederato nobis et socio ob aerarii nostri angustias iusso sine ulla culpa proscribi ideoque hausto veneno voluntaria morte deleto et tributaria facta est et velut hostiles eius exuviae classi inpositae in urbem advectae sunt per Catonem, nunc repetetur ordo gestorum.
 
 	
+9
+
+De Constantio Gallo Caesare.
+
+	
 1 Inter has ruinarum varietates a Nisibi quam tuebatur accitus Ursicinus,92 cui nos obsecuturos iunxerat imperiale praeceptum, dispicere litis exitialis crimina93 cogebatur, abnuens et reclamans, adulatorum oblatrantibus turmis, bellicosus sane milesque semper et militum ductor sed forensibus iurgiis longe
 
 
@@ -244,6 +398,11 @@ p76turpi confessione cogitatorum socium, quae nulla erant, fuisse firmavit cum n
 
 
 p78diaconus; cuius prolatae litterae scriptae Graeco sermone ad Tyrii textrini praepositum celerari speciem perurgebant — quam autem non indicabant — denique etiam idem ad usque discrimen vitae vexatus nihil fateri conpulsus est. 8 Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur. 9 Post quorum necem nihilo lenius ferociens Gallus ut leo cadaveribus pastus multa huius modi scrutabatur. Quae singula narrare non refert, me professione modum (quod sane vitandum97 est) excedamus.
+
+	
+10
+
+Pax ALamannis petentibus datur a Constantio A.
 
 	
 1 Haec dum oriens diu98 perferret, caeli reserato tepore Constantius consulatu suo septies et Caesaris ter egressus Arelate Valentiam petit, in Gundomadum et Vadomarium fratres Alamannorum reges arma moturus, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum. 2 Dumque ibi diu moratur commeatus opperiens, quorum
@@ -273,6 +432,11 @@ p86volui, commilitones mei fidissimi, accipite aequis auribus quae succinctius e
 
 
 p88imperator voluit promptior, laudato consilio, consensit in pacem ea ratione maxime percita, quod norat expeditionibus crebris112 fortunam eius in malis tantum civilibus vigilasse, cum autem bella moverentur externa, accidisse plerumque luctuosa, icto post haec foedere gentium ritu perfectaque sollemnitate imperator Mediolanum ad hiberna discessit.
+
+	
+11
+
+Constantius Gallus Caesar evocatur a Constantio A. et capite truncatur.
 
 	
 1 Ubi curarum abiectis ponderibus aliis tamquam nodum et obicem113 difficillimum, Caesarem convellere nisu valido cogitabat, eique deliberanti cum proximis clandestinis conloquiis et nocturnis qua vi, quibusve commentis id fieret, antequam effundendis rebus pertinacius incumberet confidentia, acciri mollioribus scriptis per simulationem tractatus publici nimis urgentis,114 eundem placuerat Gallum, ut auxilio destitutus sine ullo interiret obstaculo. 2 Huic sententiae versabilium adulatorum refragantibus globis — inter quos erat Arbetio ad insidiandum acer et flagrans, et Eusebius tunc praepositus cubiculi effusior ad nocendum — id occurrebat Caesare discedente Ursicinum in oriente perniciose
@@ -341,671 +505,808 @@ p106nobilitarunt et praefecturae. 28 Fuit134 autem forma conspicuus bona, decen
 
 p108rerum gestarum amplitudine cognomentum ad spadonum libidinem in Aegypto trucidatur. 33 Et Eunus quidam ergastularius servus eluctavit in Sicilia fugitivos. Quam multi splendido loco nati Romani,136 eadem rerum domina conivente Viriathi genua sunt amplexi vel Spartaci? quot capita, quae horruere gentes, funesti carnifices absciderunt? alter in vincula ducitur, alter insperatae praeficitur potestati, alius a summo culmine dignitatis excutitur. 34 Quae omnia si scire quisquam velit quam varia sint et adsidua, harenarum numerum idem iam desipiens et montium pondera scrutari putabit.137
 
+
+Adnotationes Editoris:
+	
+
 1
 These summaries, which are not the work of Ammianus but of some early editor, are put for convenience at the beginning of each chapter. Usually the summaries of each book are put all together at the beginning of that book, or (e.g. by Eyssenhardt) the summaries of all the books are collected at the end of the entire text.
 
 
+❦
 
 2
 infudere, HA; infundere, V.
 
 
+❦
 
 3
 saltu, Kellerbauer, Kiessling; cultu, V.
 
 
+❦
 
 4
 Constantii, Lind.; Constantiani, Val.; Constantini, V.
 
 
+❦
 
 5
 iam impotentia, Wagn.; impotentia, Momm.; iam potentia, V.
 
 
+❦
 
 6
 flagrans, eius amorem, sugg. by Clark.
 
 
+❦
 
 7
 homo, Lind.; omnino, EW2; omo (from odio), V.
 
 
+❦
 
 8
 subditicii, Lind.; subditi et, V.
 
 
+❦
 
 9
 citerioris, vulgo; citeriora eis, V.
 
 
+❦
 
 10
 scrutandi, V; scrutanda, Bent.; scrutantis sugg. by Clark, cf. XXX.5.5;
 XV.3.2.
 
 
+❦
 
 11
 ut, added in G; V omits.
 
 
+❦
 
 12
 quibus ut mox (lac. 6 letter s), V.
 
 
+❦
 
 13
 opposita, Bent.; sibi o., Langen; supposita V.
 
 
+❦
 
 14
 bestiae, added by Val., cf. Cic. l.c., note 2; ferae, W2G.
 
 
+❦
 
 15
 auiis, Kiessling; uiis, V.
 
 
+❦
 
 16
 eisdem enim, V; anim del 'W', Lit. Centralblatt, 1871, Col. 1084; e. sensim, Eyssen.; e navi, Traube.
 
 
+❦
 
 17
 intersaepientis, Lind.; intercipientes, Traube; interasipientes, V.
 
 
+❦
 
 18
 uigenti, Pet., Clark; ingenti (originally ingentis), V.
 
 
+❦
 
 19
 iniquitati, Horkel; iniquitate, V.
 
 
+❦
 
 20
 contextis cratibus, Kiessling; contexti sunt ratibus, V; contextis ratibus, BG.
 
 
+❦
 
 21
 militum, Clark; multum, V; multis, Val.
 
 
+❦
 
 22
 cedentes, Novák;º concedentes, V.
 
 
+❦
 
 23
 possit adiri, EbG; possit adire, V; posset, A, put before adiri by Clark.
 
 
+❦
 
 24
 proripuisset, EBG; p. citerius, Gronov, Fletcher; p. interius, Val.; proripuisse (lac. 3 letter s) terius, V.
 
 
+❦
 
 25
 aliaque, A, Kiessling; alia, V.
 
 
+❦
 
 26
 ac si, Mommsen; aut si, V.
 
 
+❦
 
 27
 memini rettulisse, Kiessling; meminerit tulisse, V.
 
 
+❦
 
 28
 in venerem, W2BG; in venere, Traube; invenire, V.
 
 
+❦
 
 29
 educat, Lind.; inde educat, Novák; deducat, V.
 
 
+❦
 
 30
 inminuta esse, Traube; inminuta uel laesa, Val.; inminutae (lac. 5 letter s), V.
 
 
+❦
 
 31
 suspicionumque vanitati, Heraeus; suspicionum quantitati, V.
 
 
+❦
 
 32
 petitur, Novák; periclitetur, Gardt.; per[di]tur, V.
 
 
+❦
 
 33
 coluber, Bentley, Novák; glaber, V.
 
 
+❦
 
 34
 indutum, Clark, c.c. (cf. XV.3.4); inditum, EBG; indinuum, V.
 
 
+❦
 
 35
 rector, H. Ernst, Bentley; remora, V.
 
 
+❦
 
 36
 et ex his, Eyssen.; tormentae texis, V.
 
 
+❦
 
 37
 urbem aeternam, E2A; ur (lac. of 8 letter s) nam, V1, urbem etate nam, V2.
 
 
+❦
 
 38
 cuius, C. F. W. Muller; huius, V.
 
 
+❦
 
 39
 laureas et, Kiessling; laureace, V.
 
 
+❦
 
 40
 quot orae sunt partesque, Seguine, Clark; quotque sunt partes quae, V.
 
 
+❦
 
 41
 atque, Harmon, c.c., Clark; ac, Eyssen.; ad, V.
 
 
+❦
 
 42
 ipse, Novák, Pet.; solus, Traube in lac. 3 lett.
 
 
+❦
 
 43
 insertas iugulis, W2, Gronov; inserta singulis, V.
 
 
+❦
 
 44
 exceptantes eas (expendentes eas, Val.) manu utraque et vexantes, Novák; explicantes eas, Bentley, Traube; per pia uilis expectantes, V2 in lac. 24 letters.
 
 
+❦
 
 45
 hac, Eyssen.; hic, V.
 
 
+❦
 
 46
 ob, Val.; ut, V.
 
 
+❦
 
 47
 suos, scripsi; varia or foenera enumerando, Wagner; clientes n., suggest ed by Clark; te non n., Pet.; inter miracula n., Novák; numerando, precede d by lac. of 5 letter s, V.
 
 
+❦
 
 48
 dierum, added by Val.; V omits.
 
 
+❦
 
 49
 ni inde miser, Novák; et non temisero, in lac. of 10 letter s, V2.
 
 
+❦
 
 50
 commodis, Val.; cum autem commotus, in lac. of 15 letter s, V2.
 
 
+❦
 
 51
 ignitis, Pet.; signatis, V.
 
 
+❦
 
 52
 calcibus, Bentley, Traube; calcis, V.
 
 
+❦
 
 53
 atque, added by Novák, cf. Livy, XXII.59.16; XXVII.50.6; V omits.
 
 
+❦
 
 54
 torpentis, vulgo; torrentes, V.
 
 
+❦
 
 55
 ad, BG in E2; de specie, Eyssen.; de speciem, V.
 
 
+❦
 
 56
 adsaeculae, V.
 
 
+❦
 
 57
 uolucriter, Gronov.; uoluetur, V.
 
 
+❦
 
 58
 cautioribus, Bentley, cautionibus, V.
 
 
+❦
 
 59
 ut, added by Lind.; V omits.
 
 
+❦
 
 60
 noti hac, G; non hac, EB; non haec, V.
 
 
+❦
 
 61
 sunt, Kiessling; est, V.
 
 
+❦
 
 62
 nonnulli sub velabris (nonnulli, G; uelariis, Gardt.), Her. [ul]ariis non nullis velabris, V.
 
 
+❦
 
 63
 per minutias, Lind.; perminuas, V.
 
 
+❦
 
 64
 Antiochensis, Lind.; antichisis, V.
 
 
+❦
 
 65
 celerari, Wagner; celebrari, V.
 
 
+❦
 
 66
 deditus, Pet.; vetitus, V.
 
 
+❦
 
 67
 dedit id, Eyssen.; dediti, V.
 
 
+❦
 
 68
 praesagia, W2N2; praesa anei, V.
 
 
+❦
 
 69
 tutum, C. F. W. Muller; cūtum, V.
 
 
+❦
 
 70
 quem obisse, Lind.; quē movisse, V.
 
 
+❦
 
 71
 uti est, Val.; uitiae, V.
 
 
+❦
 
 72
 acciuerat, Valesius; acciperat, V.
 
 
+❦
 
 73
 et, added by BG, omitted by V.
 
 
+❦
 
 74
 mittebat, Petschenig; dimittebat, V.
 
 
+❦
 
 75
 acer, Gronov afen, V; Afer, Bentley, Kiessling.
 
 
+❦
 
 76
 Constantii, Valesius; Constantini, V.
 
 
+❦
 
 77
 aequisoni, Traube; qui sint, V2.
 
 
+❦
 
 78
 Cilicia, Clark, Her.; e Lycia, EG; haec licia, V.
 
 
+❦
 
 79
 coepissent, EG; conperissent, PB; conpissent, V.
 
 
+❦
 
 80
 per, adde d by E2BG (B omits que); V omits.
 
 
+❦
 
 81
 concitate, Her.; concelatae, V.
 
 
+❦
 
 82
 iam, added by Val.; Mesopotamiam, V.
 
 
+❦
 
 83
 narrarentur, Her.; dicerentur, G; (lac. of 5 letter s) rentur, V.
 
 
+❦
 
 84
 reiciemus, Traube; reici (lac. of 4 letter s), V.
 
 
+❦
 
 85
 Isaura, Val.; Isauria, W2BG; Caesaris aurenimante, V.
 
 
+❦
 
 86
 amplis, EG; amplis et, V.
 
 
+❦
 
 87
 Seleucia iam, Va.; Seleuciam, V.
 
 
+❦
 
 88
 et, A; V omits.
 
 
+❦
 
 89
 in, added by E, Lind.; omitted by the other MSS., and by G.
 
 
+❦
 
 90
 provinciae, Val.; provincias, V.
 
 
+❦
 
 91
 continenti, EBG; continendisque tam, V.
 
 
+❦
 
 92
 Ursicinus, E2, Val.; V omits.
 
 
+❦
 
 93
 crimina, W2DE, Clark (c. iam, W2DE); lese (lac. of 2 letter s) mina, V.
 
 
+❦
 
 94
 ora, Novák, Her. (cf. Aen. III.425); aura, V.
 
 
+❦
 
 95
 molitioni, Lind.; militioni, V (melitioni, V3).
 
 
+❦
 
 96
 constantiae stetit, Lind.; cunctantia est et id, V.
 
 
+❦
 
 97
 sane uitandum, Cornelissen, Traube; saevitatum, V.
 
 
+❦
 
 98
 diu, V; dira, Damstqq.
 
 
+❦
 
 99
 popularium, Pet.; populari ui, Mommsen; populari ut, V.
 
 
+❦
 
 100
 coniuxque, Heraeus; damnis, BG; domus quae, V (quae del. V3).
 
 
+❦
 
 101
 amendabat, Bentley, Clark; emendabat, V.
 
 
+❦
 
 102
 pro, added by G; V omits.
 
 
+❦
 
 103
 re, E2bG; re tum, V; rerum, V.
 
 
+❦
 
 104
 firmius, V, Pet.; firmior, Clark.
 
 
+❦
 
 105
 consulit, plenus, added by Novák.
 
 
+❦
 
 106
 rationes populorum cognoscit, BG; ratio (lac. of 33 letter s), V.
 
 
+❦
 
 107
 ut, Lind.; id, V.
 
 
+❦
 
 108
 absolutio, E, Madvig, Novák; absolimo, V.
 
 
+❦
 
 109
 est, Novák, deleting at per as dittography; at per est, V.
 
 
+❦
 
 110
 abesse, Eyssen.; adesse, V.
 
 
+❦
 
 111
 Romanis, Günther in lac. of 8 letter s.
 
 
+❦
 
 112
 et crebris, V; e crebris, E, Momm.; e om. A.
 
 
+❦
 
 113
 obicem, R. Unger; odiem, V.
 
 
+❦
 
 114
 urgentis, N, Val.; argentis, V.
 
 
+❦
 
 115
 prohiberet, EAg; porhibieat, G; prohibet, V; prohibebit, Clark.
 
 
+❦
 
 116
 animi, Her.; animo, V.
 
 
+❦
 
 117
 motu miscente, Her. (cf. Aen. XII.217); tumiscente, V.
 
 
+❦
 
 118
 poterit, Kellerbauer; poterat, V.
 
 
+❦
 
 119
 clam, Her.; quam, V.
 
 
+❦
 
 120
 periuriis, Clark; periis, V (seriis, V3EBG).
 
 
+❦
 
 121
 siquid, Kiessling; quid, V.
 
 
+❦
 
 122
 adsciscet, C. F. W. Muller; adscisco et, V; adscitum ut, G; adscitum et, B.
 
 
+❦
 
 123
 capiti Thoracis, T2; capita ethoracia, V.
 
 
+❦
 
 124
 et, EG; ut, V; ac, Traube.
 
 
+❦
 
 125
 cum a. roboris, added by Novák.
 
 
+❦
 
 126
 locatae, Novák; locat, V.
 
 
+❦
 
 127
 rectis, Lind.; eiectis, V; directis, Novák.
 
 
+❦
 
 128
 Barbatio, added by Damstqq.
 
 
+❦
 
 129
 valuit, vulgo; voluit, V.
 
 
+❦
 
 130
 oppressere, NT, Val.; oppresse, V.
 
 
+❦
 
 131
 manibus anima, V; anima, del. Val.
 
 
+❦
 
 132
 versabilis librans, E. Mueirg Davies; uersabis, V1 uersabilis, V2.
 
 
+❦
 
 133
 eminentium, Fletcher, C. Q. 1930, p193; tumentium, Günther; mentium, V.
 
 
+❦
 
 134
 fuit, in lac. of 5 letter s, EDW2NA (defendo, cf. Suet.
@@ -1018,19 +1319,148 @@ Calig. 50.1); erat, Brakman (cf. XXV.4.22).
 
 
 
+❦
 
 135
 dedidit, Val.; dedit, V.
 
 
+❦
 
 136
 nati Romani, Novák; nati, E2BG; natura, V.
 
 
+❦
 
 137
 putabit, E, Val. (in text); posse putabit, Val.; putavit, V.
 
 
 
+
+
+
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Ammianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Oct. 07

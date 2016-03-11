@@ -1,5 +1,81 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+Censorinus:
+	
+de Die natali
+	
+
+
+Textus et versiones in LacuCurtio
+	
+
+
 Textus latinus
 	
 in situ meo a Johanno Cholodniaco editus est, typis Russicae Academiae Imperialis Scientiarum, Petropoli, 1889.
@@ -8,6 +84,9 @@ in situ meo a Johanno Cholodniaco editus est, typis Russicae Academiae Imperial
 Textum latinum (et versionem Gallicam) quam diligentissime potui recensui, igitur mendis eum carere puto.
 	
 Si tamen errorem quemlibet invenies, mihi, quaeso, scribe.
+	
+
+De auctore Censorino
 	
 
 Fere nihil de eo scimus: non melius facere possum quam lectorem ad
@@ -19,6 +98,9 @@ remittere.
 
 
 	
+Numeratio capitulorum sectionumque
+	
+
 Latino in textu, divisionibus numerationeque Cholodniaci usus sum; in textu Gallico, divisionibus editionis Panckoucke, quae a Latinis paulum differunt.
 	
 Versio Gallica nullos sectionum numeros habet: fidelis illae remansi, sed inserui vexillulam Sanctae Sedis — unicae in toto orbe nationis ubi lingua Latina hodie publica permaneat — conexam textui latino, qui in altera fenestra legi poterit. Sectiones textus latini sectionibus Gallicae et futurae anglicae translationum retro conexae sunt.
@@ -27,10 +109,19 @@ Capitulorum titulos ad Gallicam translationem additos retinui, et ad textus lati
 
 
 	
+Apparatus Criticus
+	
+
 Praebet Cholodniak apparatus criticum copiosum, quod (Non. Apr. 00) nondum in Rete edidi — forsitan veniet.
 	
 Prolegomena eius, qui modo de apparatu codicumque collatione disserunt, hic sunt, cum nomenclatura siglorum:
 
+
+
+p1
+
+Prolegomena editoris textus latini
+	
 
 Haec pauca habeo, quae Censorino meo praemittam: nam optime O. Jahnium neque F. Hultschium deterius de eo meritos esse iam dudum constat constiterit. Occurrunt tamen hic illic quaedam, in quis codicum maxime accuratius tractandorum auxilio quin ad verum propius accedi possit, nullus dubito: "minora quidem illa", ut Quintiliani verbis utar, "sed quae si neglegas, non est maioribus locus". Contuli itaque ipse quam diligentissime potui codices Censorini hos:
 
@@ -51,7 +142,177 @@ p2Braunschw. 1852; habet itaque longe plura "tollenda relinquendis", sed et bona
 
 	
 
+J. Ch.
+	
+
+
+
+
+C
+		
+Coloniensis 166, qui cum totus uncialibus quae dicuntur litteris exaratus sit, tamen scripturae ipsius imago typis non repraesentatur nisi ubi ad emendandum aliquid conferre videtur.
+	
+
+V
+		
+Vaticanus 4929.
+	
+
+v
+		
+Vaticanus 4498.
+	
+
+I
+		
+Iesuiticus 344.
+	
+
+
+
+
+m. 1, m. 2 = manus prima, m. secunda.
+	
+
+m. 1/2 = manus prima vel secunda, ubi non satis acute discerni possunt.
+	
+
+//, //// = rasurae unius vel plurium litterarum.
+	
+
+uncis recurvis () addenda includuntur, quadratis [] eliminanda.
+	
+At ego Thayer ad fines documenti Telarii modificavi. pro () color purpureus, pro [] color subgrisius: sic facilius scrutetur textus, signorum sine ulla additione.
+	
+
+
+
+
+Jahn = Ottonis Jahnii editio Berol. 1845.
+	
+
+Hultsch = Friderici Hultschii ed. Lipsiae 1867.
+	
+
+
+
+
+
+
+Nota Cholodniaci:
+			
+
+
 Coloniensem 166:
 			
 Post Crecelium (spicil. ex cod. Censorini Colon. Elberf. 1872), cuius collationis exemplar, non satis quidem accuratae, codici ipsi insertum inveni, librum illum attigisse mihi saltem constat neminem.
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IX Kal. Feb. 06

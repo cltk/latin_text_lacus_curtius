@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+L. Junii Columellae
+				
+
+
+
+a
+H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXLI
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber I
+				
+
+
+
+
+p2
+L. Junii Columellae
+	
+
+De Re Rustica
+	
+
+Praefatio
+	
+
 1 Saepenumero civitatis nostrae principes audio culpantes modo agrorum infecunditatem, modo caeli per multa iam tempora noxiam frugibus intemperiem; quosdam etiam praedictas querimonias velut ratione certa mitigantes, quod existiment ubertate nimia priori saevi defatigatum et effetum1 solum nequire pristina benignitate praebere mortalibus alimenta. 2 Quas ego causas, P.2 Silvine, procul a veritate abesse certum habeo, quod neque fas est existimare rerum3 Naturam, quam primus ille mundi genitor perpetua fecunditate donavit, quasi quodam morbo sterilitate quae divinam et aeternam iuventam sortita communis
 
 
@@ -78,75 +196,93 @@ p26Melampodis, et in agrorum solique molitione Triptolemi aut Aristaei prudentia
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 effectum R.
 
 
+❦
 
 2
 om. R.
 
 
+❦
 
 3
 humi R.
 
 
+❦
 
 4
 violentia SA, Lund: intemperentia R, plerique edd.
 
 
+❦
 
 5
 tractaverit R, plerique edd.
 
 
+❦
 
 6
 fericula S, Lugdunum.
 
 
+❦
 
 7
 profitentur M.
 
 
+❦
 
 8
 res prima SA1.
 
 
+❦
 
 9
 fuere R, plerisque edd.
 
 
+❦
 
 10
 prodigio codd., Lugdunum: prodigii vulgo
 
 
+❦
 
 11
 minime Schn. cum Pontedera.
 
 
+❦
 
 12
 retinendique R, Ald., Gesn.
 
 
+❦
 
 13
 perosis vulgo: per obsessa Lundström (cum codicibus, ut videtur). An . . . optabilior om. M.
 
 
+❦
 
 14
 alia SAa.
 
 
+❦
 
 15
 fluctibus pendeat Lundström (cum duobus codd. dett.): fluctibus tendere SA: se fluctibus pendeat a: fluctibus
@@ -156,209 +292,361 @@ fluctibus pendeat Lundström (cum duobus codd. dett.): fluctibus tendere SA: se
 (p7)tenderet (alias in abbr. suprascr.) pendeat M: se fluctibus audeat credere c, cett. edd.
 
 
+❦
 
 16
 nec animum S.
 
 
+❦
 
 17
 dixerim R nonnulli.
 
 
+❦
 
 18
 ignorat S, Schn.
 
 
+❦
 
 19
 facultatium SA, Lundström.
 
 
+❦
 
 20
 mercennariis vel mercenariis R: mercedariis SA.
 
 
+❦
 
 21
 quia vectigali S, Lundström: zzz vectigali A: qui (vel zzz) vectigalis R, et vulgo: quia (qui) . . . possit incl. Gesn. et Schn. veluti glossam.
 
 
+❦
 
 22
 posset SA, Lundström.
 
 
+❦
 
 23
 pudenda, aut inhonesta videatur ingenuis vulgo.
 
 
+❦
 
 24
 pluribus, Gesn., Schn.
 
 
+❦
 
 25
 sic codices recentiores et fere omnes ex Varrone, R. R. II.Praef. 3: vineis SA, Lundström.
 
 
+❦
 
 26
 laconicis R, plerique, edd.: lactucis A, Lundström: lacticis S.
 
 
+❦
 
 27
 videmus SA, Gesn.: vidimus alii (viderunt Cato apud
 	
 Sen. Epist. 122.3).º
+❦
 
 28
 qui in villis R plerique: quae inutilis SA: vilis in utiles qui M.
 
 
+❦
 
 29
 administrarentve opera colonorum om. SA, vett. edd.
 
 
+❦
 
 30
 arcessiebantur S, Lundström: arcessabantur A.
 
 
+❦
 
 31
 hosticis SA.
 
 
+❦
 
 32
 parcius SA.
 
 
+❦
 
 33
 cultus R.
 
 
+❦
 
 34
 nullis S: nullo R.
 
 
+❦
 
 35
 subtilitatem dispicio (dispitio S) SA, Lundström: numerum recenseo R, alii.
 
 
+❦
 
 36
 excipiat M.
 
 
+❦
 
 37
 umidum autumnum Lundström, cum SA the R plerisque ut vid.
 
 
+❦
 
 38
 quoto Madvig, "forsitan recte" dicit Lundström: quanto SA, Schn., Lundström: quando Gesn., cum Ald., sed quanto vel quoto maluit: quid R.
 
 
+❦
 
 39
 contingit SA. et R plerique, et edd. ante Schn.: contingerit vel quoto maluit: quid R.
 
 
+❦
 
 40
 his SA., Lundström: aliis R, et vulgo.
 
 
+❦
 
 41
 lubrica SAR, Lundström: rubrica alii.
 
 
+❦
 
 42
 Numidiaque Lundström: numidia codd., et plerique edd.: Numidiae Schn.
 
 
+❦
 
 43
 nosceret R.
 
 
+❦
 
 44
 negligantur R plerique, edd. ante Lundström.
 
 
+❦
 
 45
 coeperunt R aliquot, edd. ante Lundström.
 
 
+❦
 
 46
 describemus codd., vett. edd., Lundström: describimus vulgo.
 
 
+❦
 
 47
 tardatum iri omnes post Ald.: tardat ut rei SA. the R plerique: tardi ab rei studio discedent M.
 
 
+❦
 
 48
 nolent M, edd.: nollent SA. the R plerique.
 
 
+❦
 
 49
 tentare R plerique, edd. ante Lundström.
 
 
+❦
 
 50
 sic codd., Lundström: speravimus vulgo.
 
 
+❦
 
 51
 culmen AR., edd. ante Lundström.
 
 
+❦
 
 52
 Nam Schneider ex Cic. Orat. 1.
 
 
+❦
 
 53
 om. S.
 
 
+❦
 
 54
 Catulo R nonnulli, Ald., Gesn.: Catullo R pauci.
 
 
+❦
 
 55
 sic vulgo: consummatae sit et Lundström cum vett. edd. et codd. ut videtur (praeter consummataest S).
 
 
+❦
 
 56
 quoniam Lundström: quoniam (in abbr.) vel quom vel cum codd.: quandoquidem vulgo.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Columella
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+V Kal. Apr. 05

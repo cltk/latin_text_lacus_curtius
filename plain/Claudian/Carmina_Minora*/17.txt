@@ -1,5 +1,344 @@
 
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p188
+C. Claudiani
+	
+De piis fratribus
+	
+et de statuis eorum quae sunt apud Catinam.
+	
+
+
+
+
+
+XVII (L)
+	
+
+
+Adspice sudantes venerando pondere fratres,
+	
+divino meritos semper honore coli,
+	
+iusta quibus rapidae cessit reverentia flammae
+	
+et mirata vagas reppulit Aetna faces.
+	5
+complexi manibus fultos cervice parentes
+	
+attollunt vultus accelerantque gradus.
+	
+grandaevi gemina sublimes prole feruntur
+	
+et cara natos implicuere mora.
+	
+nonne vides, ut saeva senex incendia monstret?
+	10
+ut trepido genetrix invocet ore deos?
+	
+erexit formido comam, perque omne metallum
+	
+fusus in attonito palluit aere tremor.
+	
+in iuvenum membri animosus cernitur horror
+	
+atque oneri metuens impavidusque sui.
+	15
+reiectae vento chlamydes. dextram exerit ille
+	
+contentus laeva sustinuisse patrem;
+	
+ast illi duplices in nodum colligit ulnas
+	
+cautior in sexu debiliore labor.
+	
+hoc quoque praeteriens oculis ne forte relinquas,
+	20
+artificis tacitae quod meruere manus:
+	
+nam consanguineos eadem cum forma figuret,
+	
+hic propior matri fit tamen, ille patri
+	
+p190
+dissimiles annos sollertia temperat artis:
+	
+alter in alterius redditur ore parens,
+	25
+et nova germanis paribus discrimina praebens
+	
+divisit vultus cum pietate faber.
+
+	
+
+O bene naturae memores, documenta supernae
+	
+iustitiae, iuvenum numina, vota senum:
+	
+qui spretis opibus medios properastis in ignes
+	30
+nil praeter sanctam tollere canitiem.
+	
+haud equidem inmerito tanta virtute repressas
+	
+Enceladi fauces obriguisse reor.
+	
+ipse redundantem frenavit Mulciber Aetnam,
+	
+laederet exempli ne monumenta pii.
+	35
+senserunt elementa fidem. pater adfuit aether
+	
+terraque maternum sedula iuvit onus.
+	
+
+quodsi notus amor provexit in astra Laconas,
+	
+Aenean Phrygio raptus ab igne pater,
+	
+si vetus Argolicos inlustrat gloria fratres,
+	40
+qui sua materno colla dedere iugo:
+	
+cur non Amphinomo, cur non tibi, fortis Anapi,
+	
+aeternum Siculus templa dicavit honos?
+	
+plura licet summae dederit Trinacria laudi,
+	
+noverit hoc maius se genuisse nihil;
+	45
+nec doleat damnis, quae devius intulit ardor,
+	
+nec gemat exustas igne furente domos.
+	
+non potuit pietas flamma cessante probari:
+	
+emptum est ingenti clade perenne decus.
+		
+
+
+
+
 The Loeb edition of this poem has no critical notes. A slightly different text of the poem, however, is available on Michael Hendry's site (see navigation bar below), with several variant readings.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Aug. 07

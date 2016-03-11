@@ -1,6 +1,73 @@
 
 
 
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+
+queries and e‑mail
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to
+		
+
+Bill Thayer's Web Site
+		
+where you will find:
+
+
+
+
+
+
+
+
+
+
+
 LacusCurtius:
 			
 
@@ -11,6 +78,51 @@ the city of Rome
 of course); a site for teaching yourself to read Latin inscriptions; the complete Latin texts of Pliny the Elder's Natural History, Quintus Curtius' Histories of Alexander the Great, the Saturnalia of Macrobius, and Censorinus' de Die Natali; Suetonius, the Historia Augusta, Vitruvius, Claudian, Frontinus, Velleius Paterculus, Celsus, and Cato's de Re Rustica in both Latin and English; complete English translations of Plutarch's Lives, Polybius, Cassius Dio, Appian's Civil Wars, Dio Chrysostom, Dionysius of Halicarnassus, Quintilian, and Oppian; several complete Greek texts in the original Greek; Rodolfo Lanciani's book Pagan and Christian Rome, Christian Hülsen's book on the Roman Forum, Bury's 2‑vol. History of the Later Roman Empire, Bevan's House of Ptolemy, 4 books on Roman Britain, George Dennis's Cities and Cemeteries of Etruria; Platner and Ashby's Topographical Dictionary of Ancient Rome (nearly complete) and most of Smith's Dictionary of Greek and Roman Antiquities; about 45% of Plutarch's Moralia; some maps of the Roman Empire, and lots more.
 
 			
+
+[
+			
+2/13/13:
+			
+
+
+
+3454
+webpages,
+
+753 photos,
+
+
+737 drawings & engravings,
+
+119 plans,
+
+83 maps
+
+]
+
+
+
+
+ 
+But this website isn't all Roman:
+		
+
+
+
+
+
+
+
+[ 2/28/13:
+3483 webpages (including 40 complete books)
+			
+— 20,802 pages of print,
+682 photos,
+			
+217 maps and plans,
+347 other illustrations
+			]
+
 After September 11, like many other Americans, I found myself drawn to the history of my own country; and as my small wartime contribution, I started an
 			
 American History
@@ -19,6 +131,23 @@ site, which has turned into one of the larger ones on the Web. Large sections on
 
 (and over 2000 entries from Cullum's Register), the journal of a Mormon pioneer, a book on Washington's presidency and one on Wilson's, two books on the Spanish in America, a contemporaneous account of the Baltimore Riot of 1812, a book on the San Francisco earthquake of 1906, another on early‑19c Illinois, the log kept by the Spanish commander at the siege of Pensacola in 1781, journal articles on a variety of subjects, and many other items. More is on its way.
 		
+
+
+
+
+
+
+
+
+
+[ 9/16/11:
+71 webpages (including 2 complete books)
+			
+— 1114 pages of print,
+21 photos,
+6 maps
+			]
+
 The
 			
 History of the Americas
@@ -31,6 +160,24 @@ History of Chile, and a section on the
 History of Brazil.
 		
 
+
+
+
+
+
+
+
+
+[ 7/25/12:
+42 webpages (including 2 complete books)
+			
+— 653 pages of print,
+3 photos,
+3 maps,
+4 other illustrations
+			]
+
+
 Sidelights on French History
 			
 is my orientation page gathering
@@ -42,10 +189,36 @@ Empress Josephine, and a few excerpts from the
 Souvenirs of the Marquise de Créquy (1710?‑1803); but also several hundred more pages (already counted elsewhere) of material on the Norman history of Sicily, and French colonial and diplomatic ventures in the Americas.
 		
 
+
+
+
+
+
+
+
+
+[ 11/14/12:
+3 webpages
+			
+— 24 pages of print,
+1 map,
+1 photo
+			]
+
+
 Sidelights on Dutch History
 			
 is a similar orientation page, with journal articles on Dutch maritime power and the 1667 invasion of England; an additional 50 webpages, 1235 pages of print, fall primarily under the history of the United States and of Brazil.
 		
+
+
+
+
+
+
+
+
+
 My
 			
 Gazetteer of Italy
@@ -60,6 +233,15 @@ section, which currently
 			
 686 churches in 391 pages and 1592 photos; plus, quite separately, three entire books on the churches of Rome, covering about 900 of them, past and present, in great detail; and several books covering many of the churches of Umbria and of the city of L'Aquila in the Abruzzo. (The merest drop in a bucket, by the way: Italy's churches present and past must number at least 500,000.)
 		
+
+
+
+
+
+
+
+
+
 The United States, my home, I know far less well than I do Italy: for one thing, they're a much larger country. My
 			
 American Scrapbook
@@ -70,9 +252,17 @@ for now
 			
 Jenkins), with a bit of Chicago.
 		
+
+
+
+
+
+
+
 Also, a few loose ends that will eventually be better organized; in roughly chronological order:
 
 			
+
 Vahan Kurkjian's
 			
 History of Armenia.
@@ -99,6 +289,21 @@ A few collected
 			
 sundials.
 			
+
+
+
+
+
+
+
+
+
+
+
+[
+6/30/06: 330 pages, 741 photos
+			]
+
 About 16 months' worth of my
 			
 
@@ -113,12 +318,43 @@ Letters from Colombia
 			
 written in 1993.
 		
+
+
+
+
+
+
+
+The newest pages, put onsite in the last 10 days or so:
+			
+
+(Any numbered or lettered links, while good, are reported here just to help search engines pick up all the new pages quickly.)
+			
+
+
+
+
+
+
+
+
+28 Feb:
+			
 American & Military History:
 			
 
 History of New York State
 			 (an orientation page)
 		
+
+
+
+
+
+
+
+26 Feb:
+			
 American & Military History/
 			
 Sidelights on French History:
@@ -197,17 +433,692 @@ B
 G
 			
 
+
+
+
+
+
+
+
+25 Feb:
+			
 History of West Point:
 			
 
 The Dedication of Battle Monument
 			 (The New York Times article, May 30, 1897)
 		
+
+
+
+
+
+
+
+19 Feb:
+			
 USMA Association of Graduates obituaries:
 			
 
 Abner Doubleday
 			
 
+
+
+
+
+
+
+
+
+
+For earlier new stuff, see the complete
+			
+What's New
+			
+page.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+
 This site relies heavily on stylesheets, tables and images, and uses some very simple JavaScript but it is completely free of blinking, animation, advertising, banners and unsolicited audio or pop‑ups.
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgments and Thanks
+			
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Site updated:
+28 Feb 13
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+
+queries and e‑mail
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to
+		
+
+Bill Thayer's Web Site
+		
+where you will find:
+
+
+
+
+
+
+
+
+
+
+
+LacusCurtius:
+			
+
+a major site on Roman antiquity, including a photosampler of Roman and Etruscan cities and monuments (with a very large site on
+			
+the city of Rome
+			
+of course); a site for teaching yourself to read Latin inscriptions; the complete Latin texts of Pliny the Elder's Natural History, Quintus Curtius' Histories of Alexander the Great, the Saturnalia of Macrobius, and Censorinus' de Die Natali; Suetonius, the Historia Augusta, Vitruvius, Claudian, Frontinus, Velleius Paterculus, Celsus, and Cato's de Re Rustica in both Latin and English; complete English translations of Plutarch's Lives, Polybius, Cassius Dio, Appian's Civil Wars, Dio Chrysostom, Dionysius of Halicarnassus, Quintilian, and Oppian; several complete Greek texts in the original Greek; Rodolfo Lanciani's book Pagan and Christian Rome, Christian Hülsen's book on the Roman Forum, Bury's 2‑vol. History of the Later Roman Empire, Bevan's House of Ptolemy, 4 books on Roman Britain, George Dennis's Cities and Cemeteries of Etruria; Platner and Ashby's Topographical Dictionary of Ancient Rome (nearly complete) and most of Smith's Dictionary of Greek and Roman Antiquities; about 45% of Plutarch's Moralia; some maps of the Roman Empire, and lots more.
+
+			
+
+[
+			
+2/13/13:
+			
+
+
+
+3454
+webpages,
+
+753 photos,
+
+
+737 drawings & engravings,
+
+119 plans,
+
+83 maps
+
+]
+
+
+
+
+ 
+But this website isn't all Roman:
+		
+
+
+
+
+
+
+
+[ 2/28/13:
+3483 webpages (including 40 complete books)
+			
+— 20,802 pages of print,
+682 photos,
+			
+217 maps and plans,
+347 other illustrations
+			]
+
+After September 11, like many other Americans, I found myself drawn to the history of my own country; and as my small wartime contribution, I started an
+			
+American History
+			
+site, which has turned into one of the larger ones on the Web. Large sections on Louisiana and North Carolina and Freeman's biography of Robert E. Lee are joined by subsites on American Railroad History and American Catholic History, several books on West Point
+
+(and over 2000 entries from Cullum's Register), the journal of a Mormon pioneer, a book on Washington's presidency and one on Wilson's, two books on the Spanish in America, a contemporaneous account of the Baltimore Riot of 1812, a book on the San Francisco earthquake of 1906, another on early‑19c Illinois, the log kept by the Spanish commander at the siege of Pensacola in 1781, journal articles on a variety of subjects, and many other items. More is on its way.
+		
+
+
+
+
+
+
+
+
+
+[ 9/16/11:
+71 webpages (including 2 complete books)
+			
+— 1114 pages of print,
+21 photos,
+6 maps
+			]
+
+The
+			
+History of the Americas
+			
+section is of course hardly an appendage to United States history, but the other way round; still, I'm a North American, so we can expect the broader part of the site to be smaller. Right now, Bourne's Spain in America,
+Galdames'
+	
+History of Chile, and a section on the
+	
+History of Brazil.
+		
+
+
+
+
+
+
+
+
+
+[ 7/25/12:
+42 webpages (including 2 complete books)
+			
+— 653 pages of print,
+3 photos,
+3 maps,
+4 other illustrations
+			]
+
+
+Sidelights on French History
+			
+is my orientation page gathering
+			
+Royal Memoirs on the French Revolution, Ernest John Knapton's 1963 biography of
+			
+Empress Josephine, and a few excerpts from the
+			
+Souvenirs of the Marquise de Créquy (1710?‑1803); but also several hundred more pages (already counted elsewhere) of material on the Norman history of Sicily, and French colonial and diplomatic ventures in the Americas.
+		
+
+
+
+
+
+
+
+
+
+[ 11/14/12:
+3 webpages
+			
+— 24 pages of print,
+1 map,
+1 photo
+			]
+
+
+Sidelights on Dutch History
+			
+is a similar orientation page, with journal articles on Dutch maritime power and the 1667 invasion of England; an additional 50 webpages, 1235 pages of print, fall primarily under the history of the United States and of Brazil.
+		
+
+
+
+
+
+
+
+
+
+My
+			
+Gazetteer of Italy
+			
+— currently over 1500 mostly non-Roman pages of churches, frescoes, etc. — is my own favorite part of the site. Since 2003, I've mostly been adding to the
+			
+Churches of Italy
+			
+section, which currently
+			
+(6/8/12) covers
+			
+686 churches in 391 pages and 1592 photos; plus, quite separately, three entire books on the churches of Rome, covering about 900 of them, past and present, in great detail; and several books covering many of the churches of Umbria and of the city of L'Aquila in the Abruzzo. (The merest drop in a bucket, by the way: Italy's churches present and past must number at least 500,000.)
+		
+
+
+
+
+
+
+
+
+
+The United States, my home, I know far less well than I do Italy: for one thing, they're a much larger country. My
+			
+American Scrapbook
+			
+for now
+			
+— 1/21/10 — is mostly about Kentucky (in particular the little town of
+			
+Jenkins), with a bit of Chicago.
+		
+
+
+
+
+
+
+
+Also, a few loose ends that will eventually be better organized; in roughly chronological order:
+
+			
+
+Vahan Kurkjian's
+			
+History of Armenia.
+			
+
+Some of the work of the 12th‑century Arab geographer Sharif al‑Idrisi: for now
+			
+only the First, Second, and Third Climates
+			
+(in French).
+
+			
+Yellin and Abrahams' biography,
+			
+Maimonides.
+			
+
+Some chapters of King's
+			
+Handbook to the Cathedrals of England: currently, only Ely, Lincoln, Norwich, Oxford, and Peterborough.
+
+			
+A few collected
+			
+sundials.
+			
+
+
+
+
+
+
+
+
+
+
+
+[
+6/30/06: 330 pages, 741 photos
+			]
+
+About 16 months' worth of my
+			
+
+diary.
+			
+
+Nothing terribly titillating, really; but it's the laid-back section of this website (read: "easy to put online"), and the raw material for much of the Gazetteer. A bit of London, France, and Kentucky, and lots of Italy: Rome, Milan, Tuscany, Umbria and the Marche, large tracts of which I explored on foot, so that the diary includes details that could be useful if you're planning a trip or a bike tour. Illustrated with photos not usually found elsewhere onsite, cross-linked to Gazetteer pages and external sites, and lavishly supplied with Google maps, it's also partly indexed by place and topic.
+			
+In a similar vein, eight
+			
+Letters from Colombia
+			
+written in 1993.
+		
+
+
+
+
+
+
+
+The newest pages, put onsite in the last 10 days or so:
+			
+
+(Any numbered or lettered links, while good, are reported here just to help search engines pick up all the new pages quickly.)
+			
+
+
+
+
+
+
+
+
+28 Feb:
+			
+American & Military History:
+			
+
+History of New York State
+			 (an orientation page)
+		
+
+
+
+
+
+
+
+26 Feb:
+			
+American & Military History/
+			
+Sidelights on French History:
+			
+
+
+The Bonapartes in America
+ (book by Macartney and Dorrance)
+			
+and
+			
+F
+			
+•
+			
+1
+			
+•
+			
+2
+			
+•
+			
+3
+			
+•
+			
+4
+			
+•
+			
+5
+			
+•
+			
+6
+			
+•
+			
+7
+			
+•
+			
+8
+			
+•
+			
+9
+			
+•
+			
+10
+			
+•
+			
+11
+			
+•
+			
+12
+			
+•
+			
+13
+			
+•
+			
+14
+			
+•
+			
+B
+			
+•
+			
+G
+			
+
+
+
+
+
+
+
+
+25 Feb:
+			
+History of West Point:
+			
+
+The Dedication of Battle Monument
+			 (The New York Times article, May 30, 1897)
+		
+
+
+
+
+
+
+
+19 Feb:
+			
+USMA Association of Graduates obituaries:
+			
+
+Abner Doubleday
+			
+
+
+
+
+
+
+
+
+
+
+For earlier new stuff, see the complete
+			
+What's New
+			
+page.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+
+This site relies heavily on stylesheets, tables and images, and uses some very simple JavaScript but it is completely free of blinking, animation, advertising, banners and unsolicited audio or pop‑ups.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgments and Thanks
+			
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Site updated:
+28 Feb 13

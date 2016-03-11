@@ -1,3 +1,123 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+CXXXV‑CXLI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+Marci Catonis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+CLVI‑CLVII
+				
+
+
+
+
+
+Marci Catonis
+	
+
+De Re Rustica
+	
+
+Capitula CXLII‑CLV
+	
 p122
 142
 Vilici officia quae sunt, quae dominus praecepit, ea omnia quae in fundo fieri oportet quaeque emi pararique oportet, quo modoque cibaria, vestimenta familiae dari oportet, eadem uti curet faciatque moneo dominoque dicto audiens sit. Hoc
@@ -96,48 +216,172 @@ p140in fossis sicubi aqua constat aut aliquid aquae obstat, id emittere, patefie
 
 
 	
+
+Apparatus Criticus:
+	
+
 54
 Mommsen: reddet eaeque.
 
 
+❦
 
 55
 i.e. Sestertii nummi.
 
 
+❦
 
 56
 The abbreviation Mͦ is for modios; ∞ for M = 1000.
 
 
+❦
 
 57
 em<erit, si opus> erit trapeti (vel trapetis) suggested, with a query, by Goetz: emerit trapeti.
 
 
+❦
 
 58
 Hauler: iri pri.
 
 
+❦
 
 59
 i.e. Supra Scriptum Est.
 
 
+❦
 
 60
 Ex quo added by Mommsen.
 
 
+❦
 
 61
 Various interpretations have been proposed, of which Gesner's quemadmodum seems the most probable.
 
 
+❦
 
 62
 de dolio vinum Pontedera: decocvinum, PA.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Agricultura
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Oct. 04

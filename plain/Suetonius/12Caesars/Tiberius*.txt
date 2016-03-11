@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Divus
+				
+Augustus
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Caligula
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p290
+Tiberius
+	
+
 1
 
 1 Patricia gens Claudia — fuit enim et alia plebeia, nec potentia minor nec dignitate — orta est ex regillis oppido Sabinorum. Inde Romam recens conditam cum magna clientium manu conmigravit auctore Tito Tatio consorte Romuli, vel, quod magis constat, Atta Claudio gentis principe, post reges exactos sexto fere anno; atque in patricias cooptata1 agrum insuper trans Anienem clientibus locumque sibi ad sepulturam sub Capitolio publice accepit. 2 Deinceps procedente tempore duodetriginta consulatus, dictaturas quinque, censuras septem, triumphos sex, duas ovationes adepta est. Cum praenominibus cognominibusque variis distingueretur, Luci praenomen consensu repudiavit, postquam e duobus gentilibus praeditis eo alter latrocinii, caedis alter convictu est. Inter cognomina autem et Neronis assumpsit, quo2 significatur lingua Sabina fortis ac strenuus.
@@ -199,7 +320,25 @@ p322inibat, quotiens lucubrante se subito ac nullo propellente decideret lumen e
 p326quoque qui tecum fuerunt omnes confitentur, versum illum in te posse dici:
 
 
+
+
+
+Unus homo nobis vigilando restituit rem."
+		
+
+
+
 6 "Sive quid incidit de quo sit cogitandum diligentius, sive quid stomachor, valde medius Fidius Tiberium meum desidero succurritque versus ille Homericus:
+
+
+
+
+
+
+Τούτου γ᾽ ἑσπομένοιο καὶ ἐκ πυρὸς αἰθομένοιο
+			
+Ἄμφω νοστήσαιμεν, ἐπεὶ περίοιδε νοῆσαι.
+		
 
 
 
@@ -512,6 +651,45 @@ p374existimatione aliqua laesisse. Perit47 denique et is, qui honorem in colonia
 1 Multa praeterea specie gravitatis ac morum corrigendorum, sed et magis naturae optemperans, ita saeve et atrociter factitavit, ut nonnulli versiculis quoque et praesentia exprobrarent et futura denuntiarent mala:
 
 
+
+
+
+"Asper et inmitis, breviter vis omnia dicam?
+			
+Dispeream, si te mater amare potest.
+
+			
+Non es eques; quare? non sunt tibi milia centum;
+			
+Omnia si quaeras, et Rhodus exilium est.
+
+			
+Aurea mutasti Saturni saecula, Caesar;
+			
+Incolumi nam et ferrea semper erunt.
+
+			
+Fastidit vinum, quia iam sitit iste cruorem;
+			
+Tam bibit hunc avide, quam bibit ante merum.
+
+			
+Aspice felicem sibi, non tibi, Romule, Sullam
+			
+Et Marium, si vis, aspice, sed reducem,
+			
+Nec non Antoni civilia bella moventis
+			
+Non semel infectas aspice caede manus,
+			p376
+
+Et dic: Roma perit! regnavit sanguine multo,
+			
+Ad regnum quisquis venit ab exsilio."
+		
+
+
+
 Quae primo, quasi ab impatientibus remediorum48 ac non tam ex animi sententia quam bile et stomacho fingerentur, volebat accipi dicebatque identidem: "Oderint, dum probent." Dein vera plane certaque esse ipse fecit fidem.
 
 	
@@ -657,28 +835,37 @@ p400absente adhuc Gaio nemo exstabat qui adiri interpellarique posset, custodes,
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 cooptata, ς; coaptata, Ω.
 
 
+❦
 
 2
 quo, ς; quod, Ω.
 
 
+❦
 
 3
 Tiberius] Tibus, M; tybus, G1; tyus, G2; Tibĩ, V; the other mss. have Tibius or Tiberius.
 
 
+❦
 
 4
 Russus, conjecture of Ihm, Hermes, 36,303; Drusus, mss.
+❦
 
 5
 Glycian, Salmasius; ilycian, Ω.
 
 
+❦
 
 6
 fratrem, mss.; patrem,
@@ -686,225 +873,392 @@ fratrem, mss.; patrem,
 Cic. Cael. 34.
 
 
+❦
 
 7
 et quidem, ΠQ; the other mss. have equidem.
 
 
+❦
 
 8
 L., added by Bentley and Roth.
+❦
 
 9
 laboriosam, Pithoeus; luxoriosam, MG; the other mss. have luxuriosam.
 
 
+❦
 
 10
 iterum, Ursinus; item, Ω.
 
 
+❦
 
 11
 Atticis, Υ and V in the margin; atricis, LPS (attricis, L); acticis, T. The astici (from ἄστυ) were originally celebrated at Athens, in honour of Dionysus.
+❦
 
 12
 lusit, supplied by Bentley and after Troiam by Roth.
+❦
 
 13
 umentibus, Lipsius; tumentibus, Ω.
 
 
+❦
 
 14
 quadriduum] quatriduum, Ω.
 
 
+❦
 
 15
 Nemausenses, Q2ς; Remausenses, Ω.
 
 
+❦
 
 16
 eo, Bentley; eum, Ω.
 
 
+❦
 
 17
 Danuvium] Danubium, Ω.
 
 
+❦
 
 18
 est multique, 16th century editions; et multi, Stephanus; multi, Ω.
 
 
+❦
 
 19
 esset, Stephanus; est, Ω.
 
 
+❦
 
 20
 ageret, Tς; the other mss. have augeret.
 
 
+❦
 
 21
 μούσαις] μουιϲαϲαιϲτ, mss.
+❦
 
 22
 laudo, inserted by Stephanus.
+❦
 
 23
 mimo, J. F. Gronovius; animo, Ω.
 
 
+❦
 
 24
 sed, ΠQRP2; the other mss. have se (se et, O); omitted by Lipsius.
+❦
 
 25
 praetorianis] praetoriani, mss.
+❦
 
 26
 ullis] nullus, M; the other mss. have nullis.
 
 
+❦
 
 27
 adi(i)sse, ς; audisse, Ω.
 
 
+❦
 
 28
 et qua forma, ς; ad quam formam, Salmasius; et quam formam, Ω.
 
 
+❦
 
 29
 regum, ς; legum, Ω.
 
 
+❦
 
 30
 abesse, ς; adesse, Ω.
 
 
+❦
 
 31
 mullos, ς; the other mss. have mulos.
 
 
+❦
 
 32
 meruerant, ς (Beroaldus); meruerunt, Ω.
 
 
+❦
 
 33
 Rhascuporim, Ihm; Thrascipolim, Ω.
 
 
+❦
 
 34
 Callippides, Basle ed. of 1533; Gallipidis (Gallipedes), mss.
+❦
 
 35
 et, Erasmus; sed, MGX´; sed et, Υ.
 
 
+❦
 
 36
 mari, Stephanus; maris, mss.
+❦
 
 37
 Cestio, Roth; Sestio, Ω.
 	
 Gallo, V2 (Torrentius).
+❦
 
 38
 imperatae, ς; impetratae, Ω.
 
 
+❦
 
 39
 prostantesque, ΠQ; the other mss. have prostrantesque or prostrantisque.
 
 
+❦
 
 40
 habitu, quae palam] habituque palam, Ω.
 
 
+❦
 
 41
 nota, P2Tς; the other mss. have mora.
 
 
+❦
 
 42
 Graecorum] gratorum, Turnebus.
+❦
 
 43
 ostentant(i auferenda ipsumque iugulandum curasset. Propter) quae: the part in parenthesis is supplied by Roth.
+❦
 
 44
 exitium, GS2; the other mss. have exitum.
 
 
+❦
 
 45
 Gadareus, editions of 1472 (?) and 1480; cadareus, Ω.
 
 
+❦
 
 46
 veterumque, PR (Roth, Preud'homme).
+❦
 
 47
 periit, XΥ.
 
 
+❦
 
 48
 remediorum, Graevius; remedium, mss.
+❦
 
 49
 primarum, mss.; praetoriarum, Lipsius.
+❦
 
 50
 in, M; the other mss. have et in.
 
 
+❦
 
 51
 evocarat, ς (Beroaldus); evocabat, Ω.
 
 
+❦
 
 52
 ducem (omitting que), M; et ducem, Salmasius.
+❦
 
 53
 Iovis, Lς and the editors; Iunonis, Heinsius.
 
+
+Thayer's Note: The text as printed in the Loeb edition has: quae vocatur Iovis but the facing translation
+	
+(q.v., and my note there)
+	
+reads: "which is called Io's." I've chosen to adjust the Latin to the English rather than the other way around, in part because the need for Heinsius' conjecture is more comprehensible if manuscripts read Ionis, than if they read Iouis.
+	
+❦
+
 54
 tali, Muretus; talis, mss.
+❦
 
 55
 ex, MT; the other mss. have et ex.
 
 
+❦
 
 56
 Nigrino, Torrentius; Nigro, Ω.
 
 
+❦
 
 57
 illatis, ς; inlatus (illatus), Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Id. Aug. 12

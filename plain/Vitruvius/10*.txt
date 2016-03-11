@@ -1,5 +1,98 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IX
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber X
+	
+
+
+Praefatio
+	
+
+
 1. Nobili Graecorum et ampla civitate Ephesi lex vetusta dicitur a maioribus dura conditione sed iure esse non inquio constituta. nam architectus cum publicum opus curandum recipit, pollicetur quanto sumptu id sit futurum. tradita aestimatione magistratui bona eius obligantur, donec opus sit perfectum. absoluto autem, cum ad dictum inpensa respondit, decretis et honoribus ornatur. item si non amplius quam quarta ad aestimationem est adicienda, de publico praestatur, neque ulla poena tenetur. cum vero amplius quam quarta in opere consumitur, ex eius bonis ad perficiendum pecunia exigitur.
 
 	
@@ -16,6 +109,10 @@
 
 
 	
+
+Caput 1
+	
+
 
 1. Machina est continens e maxima coniunctio maximas ad onerum motus habens virtutes. ea movetur ex arte circulorum rotundationibus, quam Graeci κυκλικην κινησιν appellant. est autem unum genus scansorium quod graece ἀκροβατικὸν dicitur, alterum spirabile quod apud eos πνευματικον appellatur, tertium tractorium, id autem Graeci βαρουλκον vocitant. scansorium autem <est cum> machinae fuerunt conlocatae ut ad altitudinem tignis statutum et transversariis conligatis sine periculo scandatur ad apparatus spectationem. at spirabile, cum spiritus est expressionibus inpulsus ut plagae vocesque ὀργανικῶς exprimantur.
 
@@ -37,6 +134,10 @@
 
 
 	
+
+Caput 2
+	
+
 
 1. Itaque incipiemus de is quae raro veniunt ad manus ut nota sint explicare. primumque instituemus de is quae aedibus sacris ad operumque publicorum perfectionem necessitate comparantur, quae fiunt ita. tigna duo ad onerum magnitudinem ratione expediuntur. a capite ea fibula coniuncta et in imo devaricata eriguntur, funibus in capitibus conlocatis et circa dispositis erecta retinentur. alligatur in summo troclea, quem etiam nonnulli rechamum dicunt. in trocleam induntur orbiculi <II> per axiculos versationes habentes. per orbiculum <summum> traicitur ductarius funis, deinde demittitur et traducitur circa orbiculum trocleae inferioris. refertur autem ad orbiculum imum trocleae superioris et ita descendit ad inferiorem et in foramine eius religatur. altera pars funis refertur inter imas machinae partes.
 
@@ -101,6 +202,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 3
+	
+
+
 1. De tractoriis rationibus quae necessaria putavi breviter exposui. quarum motus et virtutis duae res diversae et inter se dissimiles congruentes uti principia pariunt eos perfectus, una porrecti, quam Graeci εὐθειαν vocitant, altera rotunditatis, quam Graeci κυκλωτην appellant, sed vere neque sine rotunditate motus porrecti nec sine porrecto rotationis versationes onerum possunt facere levationes. id autem ut intellegatur exponam.
 
 	
@@ -138,6 +243,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 4
+	
+
+
 1. Nunc de organis quae ad hauriendam aquam inventa sunt quemadmodum variis generibus comparentur exponam, et primum dicam de tympano. id autem non alte tollit aquam sed exhaurit expeditissime multitudinem magnam. ad tornum aut circinum fabricatur <axis,> capitibus lamna ferratis, habens in medio circa se tympanum ex tabulis inter se coagmentatum. conlocatur in stipitibus habentibus in se sub capita axis ferreas lamnas. in eius tympani cavo interponuntur octo tabulae transversae tangentes axem et extremam tympani circumitionem, quae dividunt aequalia in tympano spatia.
 
 	
@@ -151,6 +260,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 5
+	
+
+
 1. Fiunt etiam in fluminibus rotae eisdem rationibus quibus supra scriptum est. circa earum frontes adfiguntur pinnae, quae cum percutiuntur ab impetu fluminis, cogunt progredientes versari rotam, et ita modiolis haurientes et in summum referentes sine operarum calcatura ipsius fluminis inpulsu versatae praestant quod opus est ad usum.
 
 	
@@ -159,6 +272,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 6
+	
+
 
 1. Est autem etiam cocleae ratio quae magnam vim haurit aquae sed non terram alte tollit quam rota. eius autem ratio sic expeditur. tignum sumitur, cuius tigni quanta ratiocinatur pedum longitudo, tanta digitorum expeditur crassitudo. id ad circinum rotundatur. in capitibus circino dividentur circumitiones eorum tetrantibus et octantibus in partes octo, eaeque lineae ita conlocentur ut plano posito tigno utriusque capitis ad libellam lineae inter se respondeant et quam magna pars sit octava circinationis tigni, terram magna spatia decidantur in longitudinem. item tigno plano conlocato lineae ab capite ad alterum caput perducantur ad libellam convenientes. sic et in rotundatione et in longitudine aequalia spatia fient. ita quo loci describuntur lineae quae sunt in longitudine, sectantes facient decussationes et in decusationibus finita puncta.
 
@@ -176,6 +293,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 7
+	
+
 
 1. insequitur nunc de Ctesibica machina, quae in altitudinem aquam educit monstrare. ea fit ex aere, cuius in radicibus modioli fiunt gemelli paulum distantes, habentes fistulas furcillae figura similiter cohaerentes, in medium catinum concurrentes. in quo catino fiunt asses in superioribus naribus fistularum coagmentatione subtili conlocati, qui praeobturantes foramina narium non patiuntur <redire> quod spiritu in catinum est expressum.
 
@@ -197,6 +318,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 8
+	
+
 
 1. De hydraulis autem quas habeant ratiocinationes quam brevissime proximeque attingere potero et scriptura consequi, non praetermittam. de materia compacta basi, arca in ea ex aere fabricata conlocatur. supra basim eriguntur regulae dextra ac sinistra scalari forma compactae, quibus includuntur aerei modioli, fundis ambulatilibus ex torno subtiliter subactis habentibus fixos in medio ferreos ancones et verticulis cum vectibus coniunctos, pellibusque lanatis involutis. item in summa planitia foramina circiter digitorum ternum. quibus foraminibus proxime in verticulis conlocati aerei delphini pendentia habent catenis cymbala ex ore infra foramina modiolorum calata.
 
@@ -222,6 +347,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 9
+	
+
 
 1. Transfertur nunc cogitatio scripturae ad rationem non inutilem sed summa collertia a maioribus traditam, qua in via raeda sedentes vel mari navigantes scire possimus quot milia numero itineris fecerimus. hoc autem erit sic. rotae quae erunt in raeda sint latae per mediam diametron pedum quaternum et sextantis, ut cum finitum locum habeat in se rota ab eoque incipiat progrediens in solo viae facere versationem, perveniendo ad eam finitionem a qua coeperit versari certum modum spatii habeat peractum pedum XII S.
 
@@ -252,6 +381,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 10
+	
+
+
 1. nunc vero quae ad praesidia periculi et necessitatem salutis sunt inventa, id est scorpionum et ballistarum rationes quibus symmetriis comparari possint exponam. Omnes proportiones eorum organorum ratiocinantur e proposita sagittae longitudine quam id organum mittere debet, eiusque nonae partis fit foraminum in capitulis magnitudo, per quae tenduntur nervi torti qui bracchia continent.
 
 	
@@ -276,6 +409,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 11
+	
+
 
 1. ballistarum autem rationes variae sunt et differentes unius effectus causa comparatae. aliae enim vectibus et suculis, nonnullae polyspastis, aliae ergatis, quaedam etiam tympanorum torquentur rationibus. sed tamen nulla ballista perficitur nisi ad propositam magnitudinem ponderis saxi, quod in organum mittere debet. igitur de ratione earum non est omnibus expeditum nisi qui geometricis rationibus numeros et multiplicationes habent notas.
 
@@ -314,6 +451,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 12
+	
+
+
 1. sumuntur tigna amplissima longitudine, supra figuntur chelonia, in quibus includuntur suculae. per media autem spatia tignorum insecantur et exciduntur formae, in quibus excisionibus includuntur capitula catapultarum, cuneisque distinentur ne in contentionibus moveantur. tum vero modioli aerei in ea capitula includuntur et in eos cuneoli ferrei, quas ἐπιαευγιδας Graeci vocant, conlocantur.
 
 	
@@ -322,6 +463,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 13
+	
+
 
 1. primum ad oppugnationes aries sic inventus memoratur esse. Cathaginienses ad Gades oppugnandas castra posuerunt. cum autem castellum ante cepissent, id demoliri sunt conati, posteaquam non habuerunt ad demolitionem ferramenta, sumpserunt tignum idque manig sustinentes capiteque eius summum murum continenter pulsantes summos lapidum ordines deiciebant, et ita gradatim ex ordine totam communitionem dissipaverunt.
 
@@ -356,6 +501,10 @@ solidentur, quo funes alligentur.
 
 	
 
+Caput 14
+	
+
+
 1. Testudo, quae ad congestionem fossarum paratur et qua etiam accessus ad murum potest haberi, sic erit facienda. basis compingatur, quae graece ἐσχαρα dicitur, quadrata habens quoqueversus latera singula pedum XXI et transversaria IIII. haec autem contineantur ab alteris duobus crassis F Z latis Szzz, distent autem transversaria inter se circiter pedes III et S supponanturque in singulis intervallis eorum arbusculae, quae graece ἁμαξοποδες dicuntur, in quibus versantur rotarum axes conclusi lamnes ferreis. eaeque arbusculae ita sint temperatae ut habeant cardines et foramina, quo vectes traiecti versationes earum expediant, uti ante et post et ad dextrum seu sinistrum latus, sive oblique ad angulos opus fuerit, ad id per arbusculas versatas progredi potest.
 
 	
@@ -368,6 +517,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 15
+	
+
 
 1. Est autem et aliud genus testudinis, quod reliqua omnia habet quemadmodum quae supra scripta sunt, praeter capreolos, sed habet circa pluteum et pinnas ex tabulis superne subgrundas proclinatas, supraque tabulis et coriis firmiter fixis continetur. insuper vero argilla cum capillo subacta ad eam crassitudinem inducatur ut ignis omnino non possit ei machinae nocere. possunt autem si opus fuerit eae machinae ex VIII rotis esse, si ad loci naturam ita opus fuerit temperare. quae autem testudines ad fodiendum comparantur, ορυκοντιδες graece dicuntur, cetera omnia habent uti supra scriptum est, frontes vero earum fiunt quemadmodum anguli trigonorum, uti a muro tela cum in eas mittantur, non planis frontibus excipiant plagas sed ab leteribus labentes, sine periculoque fodientes qui intus sunt tueantur.
 
@@ -397,6 +550,10 @@ solidentur, quo funes alligentur.
 
 
 	
+
+Caput 16
+	
+
 
 1. De scorpionibus et catapultis et ballistis etiamque testudinibus et turribus quae maxime mihi videbantur idonea et a quibus essent inventa et quemadmodum fieri deberent explicui. scalarum autem et carchesiorum et eorum quorum rationes sunt inbecilliores non necesse habui scribere. haec etiam milites per se solent facere. neque ea ipsa omnibus locis neque eisdem rationibus possunt utilia esse, quod differentes sunt munitiones munitionibus nationumque fortitudines. namque alia ratione ad audaces et temerarios alia ad diligentes aliter ad timidos machinationes debent comparari.
 
@@ -454,3 +611,131 @@ accedens antequam adpropinquaret ad murum, in umido voragine facta consedit nec 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+III Non. Dec. 04

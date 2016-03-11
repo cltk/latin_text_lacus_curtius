@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+Vol. IIp281
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Octavus
+	
+
+I.
+ 	
+
 1 Nihil aliud in hac vitae brevitate laborandum nobis est Mavorti decus nostrum, nisi ut terreni corporis labe purgata, et amputatis si fieri potest omnibus vitiis vel certe plurimis, incorruptam animi divinitatem et nulla scelerum contagione pollutam auctori nostro reddamus deo, ne divinae fabricationis inmemorem animum nostrum vitiosis libidinum laqueis inplicatum tamquam proiectum per praecipitia perdamus. 2 Hoc est enim quod per dies singulos terrenum corpus operatur, ut possit suum divinum spiritum et pravis cupiditatum voluptatibus occupatum et blanda sollicitatione deceptum caducae fragilitati suae semper adnectere, ut demersus animus et pessumdatus numquam originis suis possit invenire principia, sed in tenebras semper in caenumque proiectus maiestatis suae originem cum quibusdam dissimulationum trepidationibus erubescat. 3 Nihil enim debemus cogitare terrenum, praesertim cum sciamus fabricatorem nostrum deum ita nos divini artificii moderatione fecisse, ut recti corporis forma ab omni humilitatis deiectione seposita, nihil aliud primum patefacta oculorum acie nisi Solem Lunam stellas et horum omnium pulcherrimum atque
 
 
@@ -18,6 +140,9 @@ p284dicitur, ut sic omnibus explicatis Sphaeram Barbaricam facilius assequamur, 
 
 
 	
+II.
+	
+
 1 [De parte nonagesima.] Primum itaque de enenecontameride disputabo, id est de parte nonagesima. Quae res plurimis incognita a paucis leviter videtur esse tractata; nam et istum tractatum Petosiris sicut mihi videtur invido voluit stridore celare. In omnibus genituris nonagesima pars sagaci debet inquisitione perquiri. Ex istis enim partibus exitus vitae mors infortunia pericula felicitates, et tota substantia geniturae colligitur. 2 Ab horoscopo itaque profectus per cetera signa partem nonagesimam quaere, et cum hanc inveneris partem, vide quo sit in signo posita, id est an in benivolae stellae domicilio an <in> malivolae reperiatur. Vide etiam dominus ipsius signi qualiter sit in genitura positus; diligenter etiam intuere quatenus benivolae <stellae quatenus malivolae> istam partem respiciant. 3 Singulae enim inspicientes istam partem pro natura sua cuncta perficiunt, et si malivolae stellae fuerint solae, pessum dabunt, si benivolae, maxima decernunt felicitatis insignia, si et benivolae, pariter et malivolae, id quod sanguinis decretum fuerit temperatur. Quaere etiam pars ipsa in cuius sit dominio
 
 
@@ -26,6 +151,9 @@ p285ac potestate, id est in cuius finibus, et dominus partis quo sit in loco pos
 
 
 	
+III.
+	
+
 1 [De signis videntibus et audientibus.] Nec quae stellae <se> videant, quae audiant explicabo. Aries Leonem non videt sed audit eum. Leo videt Arietem sed eum non audit. Aries Cancrum videt pariter et
 
 
@@ -41,6 +169,9 @@ Ut formas integras ordinationis acciperes, et scires quatenus sint in zodiaco ci
 
 
 	
+IV.
+	
+
 1 [Divisio Arietis] Nec tibi illud intimare curabo, quas partes in quibus signorum partibus quaeras. Omnes enim XXX partes per omnia signorum corpora dividuntur. Ut itaque scias ubi sit prima pars ubi sit secunda ubi ceterae, hoc totum tibi breviter indicabo. Arietis I. et II. partes in cornibus sunt constitutae, III. vero et IV. et V. in capite, VI. vero et VII. in facie, VIII. vero et IX. et X. in ore, XI. vero et XII. in pectore, XIII. et XIV. et XV. in omni cervice, XVI. et XVII. in corde, XVIII. et XIX. in armo dextro, XX. et XXI. et XXII. <in armo sinistro>, in ventre vero XXIII. et XXIV. et XXV.; novissimi autem pedes XXVI. et XXVII. habent partem, in renibus vero XXVIII. et XXIX.,
 
 
@@ -105,6 +236,9 @@ p294ut scias quod ad omnia secreta divinitatis intentio divinae mentis accessit.
 
 
 	
+V.
+	
+
 1 [Apotelesmata Sphaerae Barbaricae.] Accipies nunc Mavorti decus nostrum, plenissimam huius artis disciplinam, multis Graecis et omnibus Romanis incognitam, ad quam usque in hodiernum diem nullius adspiravit ingenium. Neque enim divini illi viri et sanctissimae religionis antistites, Petosiris sunt Nechepso, quorum alter tenuit imperii gubernacula, cum omnia quae ad huius artis pertinent disciplinam, diligentissimis ac veris interpretationibus explicassent, hoc quod nos edituri sumus, invenire potuerunt. Ne itaque or[din]ationem nostram sermo prolixus extendat, breviter tibi promissi operis intimabo secreta.
 
 	
@@ -116,6 +250,9 @@ p295aliae adhaerent stellae, sed quae numquam erratico cursu assignata sibimet d
 
 
 	
+VI.
+	
+
 1 [De ortu Navis.] [Cum] <In Arietis dextro latere in Arietis parte scilicet IV.> oritur Navis. Si quis ergo oriente had parte natus fuerit, id est si in ortu eius ruperit partum, erit gubernator nauclerus navicularius, sed qui per omne vitae suae spatium marinis optet
 
 
@@ -139,6 +276,9 @@ p299immolari. 13 Quodsi in occasu fuerint Hyades, et locum istum malivolarum st
 
 
 	
+VII. [Taurus]
+
+
 1 In Tauri parte VI. inveniuntur Pliades. º Quibus orientibus si qui nascentur, luxuriosis semper et lascivis voluptatibus inplicantur. Hos unguentis oblitos et nimiae vinolentiae deditos petulantiae vitia semper extollunt, <ut> in conviviis et in coitu hominum aliena vitia amari sermonis leporibus pulsent. Erunt sane ad omne libidinum facinus applicati, et qui salsi sermonis mordacibus dictis risus hominibus concitare consueverint. 2 Erunt semper nitidi polita fronte et accuratis vestibus prompti, ut frequenter appositis alienis crinibus fictam et conpositam pulchritudinem mentiantur,
 
 
@@ -147,10 +287,17 @@ p300totius corporis formam vario pigmentorum genere mollientes. Hi demptis pilis
 
 
 	
+p301
+VIII. [Gemini]
+
+
 1 In Geminorum parte VII. oritur Lepus. Hoc sidere <oriente> qui nati fuerint, tanta erunt levitate corpus, ut cum currere coeperint agitati <cursus> velocitate aves superare videantur. Hunc locum si Mars respexerit stadiodromos facit, si vero Luna cum Marte, pyctas †macharios, si Mercurius praestigiatores aut pilis ludentes, si Venus pantomimos aut mimologos; si vero Venus et Mercurius pariter, novas artes nimiae diligentiae studio perficient, praesertim si hos eosdem in omnibus quibus diximus apotelesmatibus prospero Iuppiter testimonium radiationis adiuverit. 2 Quodsi hunc locum Saturnus per quadratum aut per diametrum viderit, faciet fugitivos, qui lares suos ad longinquas regiones migrantes prono animositatis studio deserant. Si vero Lepus in occasu fuerit inventus, et habeat benivolarum stellarum <radios>, sicut in praecedentibus apotelesmatibus diximus, cum magno labore vitae subsidia quaerentur. Si vero solum malivolarum stellarum testimonium accesserit, a feris consumpti laceratique moriuntur.
 
 
 	
+IX. [Cancer]
+
+
 1 In I. parte Cancri oriuntur Iugulae. Quibus orientibus qui natus fuerit, erit quidem inreligiosus et perfidus,
 
 
@@ -163,6 +310,9 @@ p303aut certes parantes feris ipsarum lacerati morsibus dissipantur.
 
 
 	
+X. [Leo]
+
+
 1 In I. parte Leonis oritur Canicula quae a Graecis Sirios dicitur. Quicumque hoc sidere oriente nati fuerint, effrenatos animos ad omne studium praeposteri facinoris applicabunt. Erunt etiam ab omni humanitatis gratia separati, et qui libenter omnia violentiae studia sectentur, furiosi iracundi terribiles minaces, <et> quos oies homines et oderint pariter et metuant. 2 Erunt etiam animosi et verbosi affluentia sermonis semper inflati, et quos ad omne convicium incautus semper inpellat, nova et inaudita causarum iurgia concitantes. Horum cor crebris agitationibus palpitat, et vox eorum arescentibus faucibus canum latratus imitatur, ut impetu et furore conmoti aut dentes quatiant, aut attritu semper exacuant. 3 Sed et si hunc locum Mars viderit, fortius haec quae diximus convalescunt. Hi numquam metuunt secreta silvarum, sed omnium ferarum morsus prona animositate contemnunt, et frequenter illis pericula et a feris et ab incendiis inferentur. 4 Hunc locum si malivolae stellae radiaverint, Luna quoque vidente Saturnum, nascentur venatores arenarii parabolarii, qui sub conspectu populi in caveis cum feris pugnent. Fiunt etiam gladiatores. Erunt etiam <ea> corporis velocitate, ut leporem cursu conprehendant. 5 Si hoc sidus in occasu fuerit inventum, et Mars aut io ipso loco fuerit inventus, aut locum ipsum minaci radiatione respexerit, a lupis
 
 
@@ -171,6 +321,9 @@ p304comedi faciet aut a canibus faciet aut a feris misera laceratione consumi. 6
 
 
 	
+XI. [Virgo]
+
+
 1 In Virginis parte V. exoritur Corona. Quicumque hoc sidere oriente natus fuerit, erit variis deliciarum voluptatibus occupatus, muliebrium artium studiis deditus, florum et coronarum inventor, et qui amoenis hortorum delectationibus adhaerescat, odores unguenta aromata studiosa cupiditate desiderans, corpus suum lenocinio pulchritudinis excolens, stupra et adulteria
 
 
@@ -183,6 +336,9 @@ p306pulsatum invidia insanientis populi <rabies> dissipabit, et popularibus mani
 
 
 	
+XII. [Libra]
+
+
 1 In signo Librae <in> parte VIII. oritur Sagitta. In hoc signo qui natus fuerit, erit iaculator sagittarum, qui volantes aves speciali artificii moderatione percutiat, aut pisces tridente vel cuspide inter ipsa undarum spatia figat intrepidus. Si vero hoc sidus in occasu fuerit, et hunc eundem locum benivolae cum malivolis aequata radiatione respexerint, in exercitu constituti et in acie positi inter acerbos hostium cumulos infinito hostium sanguine cruenti hostili etiam ipsi dextra caesi moriuntur. 2 Si vero Mars solus attestante Mercurio hunc viderit locum, aut si in ipso loco fuerit, facit tales qui se ob alienae gratiae voluntatem nundinati sanguinis iactura ad mortis spectaculum vendant. Si vero Saturnus hoc fecerit, in ludum sententia iudicantis addicuntur. In hac parte Styx esse perhibetur, id est †terram Stygem esse nulla dubitatio est. †Caelestia num in exemplum timentes animo perhorrescunt, quae de caelo lapsa terrenorum corporum [lapsa] sustentationibus applicatur. 3 In Librae parte XV. oritur Haedus. Hoc signo oriente quicumque natus fuerit,
 
 
@@ -191,6 +347,9 @@ p307erit animo vario semper consilioque sollicito, qui variis cogitationibus inp
 
 
 	
+XIII. [Scorpius]
+
+
 1 In I. Scorpii parte oritur Ara. Hoc sidere oriente quicumque nati fuerint, cum benivolarum stellarum testimonio erunt sacerdotes prophetae neocori, sanctissimae cuiusdam religionis antistites, divinas quasdam artes studiosis interpretationibus explicantes. 2 Si vero hoc sidus in occasu fuerit, et hunc eundem locum Mars aut Saturnus minaci radiatione respexerit, ob
 
 
@@ -199,6 +358,9 @@ p308sacrilegium aliquod publica animadversione plectentur. Si vero his Iovis acc
 
 
 	
+XIV. [Sagittarius]
+
+
 1 In Sagittarii signo in parte V. oritur Arcturus. Hoc signo oriente qui natus fuerit, erit talis qui amicorum secreta fideli taciturnitate custodiat. Huic opes regiae credentur aut aerarium populi aut aedes publicae. Si vero hunc locum malivolae radiaverint stellae, aut cura illis populi credetur, aut fiunt domus regiae ianitores, aut quibus in palatio admittendi vel salutandi officia credantur. 2 Si vero hoc siderum is occasu fuerit inventum, et hunc locum Saturnus cum Mercurio quacumque radiatione respexerit, faciet gravis criminis pulsatos invidia, et publico carceri traditos, vinctos
 
 
@@ -207,6 +369,9 @@ p309catenis cum miseris cruciatibus interire. 3 In Sagittarii parte X. oritur 
 
 
 	
+XV. [Capricornus]
+
+
 1 In primis partibus Capricorni oritur Ofiuchus. Hoc sidere oriente qui nati fuerint, erunt Marsi qui pestiferos angues sopitis ac mitigatis aculeis mitigent. Si vero hoc sidus in occasu fuerit inventum, et hunc locum *** quacumque radiatione respexerit, venenati serpentis ictu moriuntur. 2 In postea VIII. Capricornus oritur Delfinus. Quicumque hoc sidere oriente natus fuerit, habebit natandi studium, sed cum Saturni testimonio urinator erit, cum Martis vero et Mercurii petaminarios efelmatores orchestoplarios petauristarios aut certe nautas cursus agilitate perspicuos. Si vero
 
 
@@ -214,10 +379,18 @@ p309catenis cum miseris cruciatibus interire. 3 In Sagittarii parte X. oritur 
 p310hoc sidus in occasu fuerit inventum, et hunc locum Saturnus minaci radiatione respexerit, in mari vel in fluvio procellis et turbinibus erit submersus. 3 In X. parte Capricorni oritur Lyra. Quicumque hoc sidere oriente nati fuerint, erunt Aequi rectique cupidi, ad omne apti AequiTatis officium, vindices scelerum, quibus publica iudicia quaestionesque credantur. Si vero hunc locum Saturnus quacumque radiatione respexerit, erunt tortores carnifices, qui malos homines pronae cupiditatis studio persequantur. Si vero hoc sidus in occasu fuerit inventum, publicis tormentis lacerati, aut exusti ignibus, aut torti quaestione legitima peribunt, praesertim si hunc locum Mars Saturnusve respexerit. 4 In XV. parte Capricorni oritur Cepheus. Quicumque hoc sidere oriente nati fuerint, erunt graves austeri, omni severitatis auctoritate [et] metuendi, vultum semper ex morum integritate fingentes, qui stoicam secta vero sequantur affectu. Tales fuerunt apud veteres et Catones, talis nostris temporibus Tullianus, qui severitatis merito etiam ordinarii consulatus insignia consecutus est. 5 Quodsi in hoc loco Venus et Mercurius fuerint attestantes, arte tragica carmina aut legunt semper aut faciunt. Si vero hoc sidus in occasu fuerit inventum, in scopulis in quibus aliquando periclitati fuerant, misera corporis iactura morientur, aut nati statim peribunt, aut propter incestum publica animadversione plectuntur, ut novellae his et inauditae mortis inferatur exitium.
 
 	
+p311
+XVI. [Aquarius]
+
+
 1 In Aquarii parte XII. oritur Aquila. Quicumque in ortu huius sideris nati fuerint, ex caede hominum et ex spoliis habebunt vitae subsidia. Capient etiam feras pariter et domabunt. Erunt praeterea fortes militares, quorum virtute atque praesidio bellorum metuendi impetus sopiantur. Erunt sane tanta virtute, ut nudo praediti pectore hostes sequantur, ut ad laudem suam †prospere credant, si mortem secura animositate contempserint. 2 Quodsi hunc locum benivolae stellae prospera radiatione respexerint, liberabunt patriam, condent etiam alias civitates, et devictis vel subiugatis gentibus triumphabunt. Quodsi Mars hunc locum Saturnusve respexerit, faciet praepositos tribunos ministros imperatorum, vel satellites regum, et quibus cura imperii vel armorum custodia credatur. Si vero in occasu fuerit hoc sidus inventum, faciet natos suffocari. 3 In Aquarii parte XX. oritur Cassiepia. Hac oriente qui nati fuerint, erunt aurifices bracteatores inauratores emplastratores margaritarii, has omnes artes ingeniosa conversatione tractantes. Ex huius artibus maxima vitae [suae] subsidia habebunt. Si vero hoc sidus in occasu fuerit inventum, hi qui nati fuerint aut ex ruina peribunt, aut interfecti morientur.
 
 
 	
+p312
+XVII. [Pisces]
+
+
 1 In Piscium parte XII. oritur Andromeda. Quicumque hoc sidere oriente natus fuerit, contra homines crudeli semper feritate grassabitur. Erit autem aut poenarum publicarum minister, aut carceris custodia, aut carnifex cui occidendorum hominum officia credantur. 2 Quodsi benivola stella cum malivolis iuncta hunc eundem locum viderit, facit ergastulis praepositos vel metallis. Si vero hoc sidus in occasu fuerit inventum, et locum istum malivolae stellae respexerint, facient feris obici aut in crucem tolli. Quodsi sic malivolis ordinatis benivolarum stellarum favor accesserit, facient in ludum dari, vel perpetuis stringi vinculis catenarum. 3 In Piscium parte XXI. oritur Equus. Quicumque hoc sidere oriente nati fuerint, erunt †praeterea curiosi aurigae agitatores equites veredarii speculatores, nonnumquam medici sed qui herbis medelas hominibus pecoribusque conponant. Si vero cum malivolis stellis in occasu fuerit hoc sidus, aut calcis ictu aut deiectus †curabitur, <aut> versato [servatos] vehiculo faciet interire, et misera corporis laceratione quassatos. 4 In extremis partibus Piscium oritur Ingeniculus qui a Graecis Engonasin dicitur. Hoc sidere oriente
 
 
@@ -239,10 +412,16 @@ p314sinuosis flexibus labitur. Quicumque hoc sidere oriente nati fuerint, erunt 
 
 
 	
+XVIII.
+	
+
 1 Nunc ad sequentes partes Sphaerae Barbaricae omnem tractatum transferam, quae Myriogenesim ex aliqua parte imitatur. Quicquid enim Myriogenesis de singulis minutis pronuntiat, hoc nos de singulis faciemus partibus. Integer itaque horoscopi gnomon ponendus est, ut vera pars sollerti conputatione collecta apotelesma fideli faciat pronuntiatione proferri. Si vero aliter, totum quicquid promissum fuerit, vitiis ac mendaciis obumbratur. Nunc itaque incipientes ab Ariete singulas partium vires atque earum apotelesmata secundum Sphaeram Barbaricam proferemus.
 
 
 	
+XIX. [Aries]
+
+
 1 In Arietis I. parte quicumque habuerint horoscopum, si benivolarum stellarum radius accesserit, nascentur reges duces, prospere semper ducentes exercitum. In Arietis parte II. quicumque habuerint horoscopum, erunt contumaces fures et qui semper praepostero furore grassentur, domicilium suum ad peregrinas regiones transferentes. Si vero in hac parte horoscopo constituto Mars testimonium adhibuerit, et Lunam de quadrato vel de  diametro viderit, praedictis facinoribus detectis publica animadversione plectuntur. 2 In Arietis parte III. quicumque habuerint horoscopum, erunt surdi
 
 
@@ -263,6 +442,9 @@ p319erit aurifex bracteator aut marmorarius vel his similis. In parte XXVI. Ari
 
 
 	
+XX. [Mars]
+
+
 1 In Tauri parte I. quicumque habuerit horoscopum, erit vates entheus sed qui in templis vaticinari consueverit. In parte II. Tauri quicumque habuerit horoscopum, baiulabunt stercora; latrinas cloacasque purgabunt. In parte III. Tauri quicumque habuerit horoscopum, <erunt agricolae aratores. In IV. parte Tauri quicumque habuerit horoscopum,> erunt famosi scaenici, qui in sacris certaminibus consequantur insignia coronarum. 2 In parte V. Tauri quicumque habuerit horoscopum, Marte ibi posito vel minaci radiatione coniuncto, ex gravibus offensis morietur. In parte VI. Tauri quicumque habuerit horoscopum, erunt
 
 
@@ -277,6 +459,9 @@ p320exoleti, ad omne vitium inpuritatis applicati, reumatici cinaedi sed quos gr
 p322erit rex vel dux. <Qui autem in dextro cornu habuerit horoscopum, erit princeps vel dux> magnus gloriosus terribilis, et cui imperium navale credatur, vel qui pedestrem ducat exercitum. Subiugabit alias civitates, alias liberabit. Sed huic in perpetuum soboles denegatur. † Huic etiam satis felices nascentur eunuchi, et quibus regni tuitio credatur. Multis multa praestabunt. Decernuntur illis imagines pariter et tituli, sed postea offenso principe mala morte morientur. 10 Oritur etiam cum Tauro Navis. Qui ibi habuerint horoscopum, erunt negotiatores hilares semper et laeti. Quodsi ibi benivola stella <fu>erit, erunt potentes navicularii. Quodsi et Martis accesserit testimonium et Lunae, et per mare et per terras ducent exercitum, equitibus peditibusque praepositi. <Sed> hi ira principis aut indignatione morientur. Qui autem in ipsa Navi habuerint horoscopum, erunt nautae gubernatores negotiatores, aut fabri architecti navium.
 
 	
+XXI. [Gemini]
+
+
 1 In parte I. Geminorum quicumque habuerint horoscopum, si in ea parte Saturnus <fuerit inventus, aut si eam Saturnus> quacumque radiatione respexerit, erunt potentes magni primi provinciae suae, civibus suis cum maximo honore metuendi; sed hi cum maxima principis indignatione morientur. 2 In parte II. Geminorum quicumque habuerit horoscopum, Iove illic cum Saturno
 
 
@@ -296,17 +481,27 @@ p325collocata, erit affluentibus divitiis copiosus, nobilis regum amicus, paucor
 p326qui semper <in> litibus contentionibusque versentur. Si vero Mars in ipsa parte fuerit, vel si locum ipsum quadrata vel diametra radiatione respexerit, lacerati a canibus sine filiis morientur. 13 In parte XXX. Geminorum quicumque habuerint horoscopum, Luna existente in eadem parte, erunt nobiles noti, sed in prima positi aetate morientur. Quodsi in ultima linea Geminorum fuerit horoscopus, et in eodem loco Mars fuerit inventus, a bestia vel a vipera percussi pedem vel femur perdent.
 
 	
+XXII. [Cancer]
+
+
 1 Inter oculos Cancri quicumque habuerit horoscopum, orbi vel unoculi erunt. In I. parte Cancri quicumque habuerit horoscopum, Luna in eadem parte constituta, erunt negotiatores nobiles; radiante Saturno, nautae piscatores tabernarii caupones, et his similia exercentes, semper viles ignobilesque. In parte II. Cancri quicumque habuerit horoscopum, violenti qui alienam substantiam factiosa cupiditate possideant. Ibunt sane per itinera infinita; sed morte repentina morientur. 2 In postea III. Cancri quicumque habuerit horoscopum, erunt negotiatores laboriosi non consistentes loco. In parte IV. Cancri quicumque habuerit horoscopum, inimicos suos omni genere semper inpugnant, et superiores semper efficiuntur in omni certamine. In parte V. Cancri quicumque habuerit horoscopum, lumina
 
 
 
 p327eorum calculosis vulneribus inbuentur. In parte VI. Cancri quicumque habuerit horoscopum, oculi eorum perversa semper acie vertentur. 3 In parte VII. Cancri quicumque habuerit horoscopum, habebunt in capite tubera. Sed si Luna ad horoscopum feratur, erunt astuti inpii. Quodsi Lunam et horoscopum Mars radiatione aliqua aspexerit, latrocinantes crudeli feritate grassantur. Sed hi aut in crucem tolluntur, aut publica animadversione peribunt. 4 In parte VIII. Cancri quicumque habuerit horoscopum, erunt caeci. Haec pars inter oculos Cancri [id]est. In IV. parte nebula est de qua frequentissime diximus. In IX. parte Cancri quicumque habuerit horoscopum, erunt nautae gubernatores qui naves per omne pelagus periti artificii moderatione gubernent. In parte X. Cancri quicumque habuerit horoscopum, omnia efficaci conversatione conplebunt.  ***** ***** ***** ***** ***** 5 In parte autem XXV. Cancri qui nati fuerint, Luna praesente, vel radios conmodante, erunt omni felicitate provecti. Sed hi se stupris adulteriisque conmaculabunt, quorum adolescentia laudetur, posterior vero infametur aetas. Hoc idem pars haec in mulierum genituris decernit.  ***** ***** ***** ***** *****
 
+p328
+XXIII. [Leo]
+
+
 1 In I. Leonis parte quicumque habuerit horoscopum, erunt lenones rauca voce †oriputi. Hoc et <in> illis partibus quae in ore sunt simili ratione perficitur. In parte II. Leonis quicumque habuerit horoscopum, erunt reges potentes. Sed quotienscumque ad eundem locum Mars viderit aut Saturnus, gravia illis bellorum certamina concitantur. In hac parte stella limpida est de qua in praecedentibus diximus. 2 In parte III. Leonis quicumque habuerit horoscopum, erit rex duplex potestatibus adsocians. Sed <et> in hac parte haec eadem stella radios suos ostendit. In parte IV. Leonis quicumque habuerit horoscopum, erit venator. In parte V. Leonis quicumque habuerit horoscopum, erit athletarum magister vel unctor. In parte VI. Leonis quicumque habuerit horoscopum, athleta nascetur. 3 In parte VII. Leonis quicumque habuerit horoscopum, erit hymnologus. In parte VIII. Leonis quicumque habuerit horoscopum, erit ex quodam artificio clarus et nobilis, si benivolae stellae *** hoc idem fecerint, erunt cinaedi et pantomimi, mulieres vero meretrices erunt, quae pudorem suum passivis libidinum conversationibus vendant. 4 In parte IX. Leonis quicumque habuerit horoscopum,
 
 
 
 p329erunt obstetrices, alienos filios nutrientes. Quodsi Luna in horoscopo fuerit crescens lumine, attestantibus benivolis stellis, regum vel potentium filios nutrient. In parte X. Leonis quicumque habuerit horoscopum, erit dux nobilis sagittator. Si vero Mars horam Lunamque viderit, gladiatores erunt.  ***** ***** ***** ***** *****
+
+XXIV. [Virgo]
+
 
 1 In I. Virginis parte quicumque habuerit horoscopum, si sit Luna plena luminibus, vel si prosperum horoscopo testimonium perhibeat, erit magna nobilitate perspicuus; erit postea cum rege vel cum regina, insinuatus merito litterarum, habebit plurimos in sua potestate. Sed si Mars hunc radiaverit locum, erit cinaedus. Morietur autem in humidis locis. In parte II. III. IV. V. vel VI. Virginis quicumque habuerit horoscopum, erunt speciosi sacerdotes prophetae haruspices magna nobilitate perspicui, religiosi potentes, habentes maxima divinitatis insignia. 2 In parte VII. Virginis quicumque habuerit horoscopum, Luna crescente, vel in horoscopo constituta, erunt sacerdotes, haruspices divini religiosi potentes, adversarios cum summa auctoritate semper opprimentes. Quodsi Iuppiter
 
@@ -319,6 +514,9 @@ p330et Mars hunc eundem locum radiaverint, erunt duces sed qui contra barbaros e
 p311Erunt vel magnorum templorum vel civitatum vel provinciarum rectores. Sed huius facere frequenter populorum iudica credentur. Habebunt autem ex infortuniis filiorum maximos dolores. 6 In parte XIII. Virginis quicumque habuerit horoscopum, erunt citharoedi vel hymnologi. In parte XIV. Virginis quicumque habuerit horoscopum, erunt musici. In parte XV. Virginis quicumque habuerit horoscopum, erunt elegantes qui virginum habuerint horoscopum, erunt elegantes qui virginum concubitus saepe sectentur. Habebunt in femore vitium, et eos frequenter vitiosis humoribus concretus sanguis inquietabit. In parte XVI. Virginis quicumque habuerit horoscopum, erunt magni, plura negotia tractantes. Sed biothanata morte morientur. 7 In parte XVIII. Virginis quicumque habuerit horoscopum, erit gladiator publicis voluptatibus deputatus. In parte XVIII. Virginis quicumque habuerit horoscopum, erunt beati et primi sacerdotes, docti amici regum, et qui a mulieribus amentur semper. Quodsi Mars in ipsa parte fuerit, vel in occasu partis, mulieris causa publica morte plectentur. 8 In parte XIX. Virginis quicumque habuerit horoscopum, erit architectus structor parietarius vel marmorarius. In parte XX. Virginis quicumque habuerit horoscopum, erunt musici citharoedi, cantica dulci vocis modulatione cantantes. Sed hi ad clientelas patronorum pertinebunt, obsequiis semper amoris sibi gratiam conparantes. In Virginis XXI. parte quicumque habuerit horoscopum, id est in extremo pede, erunt homines qui plurimis se negotiorum generibus involvant. Sed his frequenter iudicia credentur. Quidam amicitias adfectabunt iudicum. 9 In parte XXII. Virginis quicumque habuerit horoscopum,  ***** ***** ***** ***** ***** <In parte XXX. Virginis quicumque habuerit horoscopum,> quae pars <in> extrema linea est, attemptabitur daemone. Quodsi Mars aut in ipsa fuerit parte, aut in occasu partis, a piratis capti interficientur in mari.
 
 	
+XXV. [Libra]
+
+
 1 In I. parte Librae quicumque habuerit horoscopum, erit pulchro corpore et amabilis gratia venustatis ornatus. Quodsi Saturnus in hac parte fuerit, erit omni corpore incolumis. In parte II. Librae plurimae sunt stellae in quibus sunt aliae masculinae, aliae femininae. Quicumque in masculinis stellis habuerint horoscopum, erunt hymnodici nobiles, quibus deorum secreta credantur. Qui vero in femininis habuerint stellis, erunt cinaedi gratia semper urbanitatis perspicuis. 2 In III. parte Librae quicumque habuerint horoscopum, erunt sacerdotes iusti longaevi. In IV. parte Librae quicumque habuerit horoscopum, erit citharoedus musicus dulcisonis vocibus ornatus. In V. parte Librae quicumque habuerint horoscopum, erunt divites copiosi, sed qui semper in iudiciis versentur. In VI. parte Librae quicumque habuerint horoscopum, erunt divites, magna negotiationis officia tractantes. 3 In VII. parte Librae quicumque habuerint horoscopum, Marte in ipsa parte constituto, a piratis capti crudeli morte moriuntur,
 
 
@@ -334,6 +532,9 @@ p334horoscopum, in crucem iussu imperatoris tolletur, aut praesente imperatore t
 p335ornati. In parte XXX. Librae quicumque habuerint horoscopum, erunt mendaces verbosi, affluentia sermonis inflati. Quodsi benivolae stellae illic fuerint collocatae, erunt medici magni peregrinatores biothanati. In Boote quicumque habuerint horoscopum, erunt divini astrologi artis Chaldaicae periti.
 
 	
+XXVI. [Scorpius]
+
+
 1 In parte I. Scorpii quicumque habuerit horoscopum, erit incantator qui latentes dolores mitiget potestate verborum. In parte II. Scorpii quicumque habuerit horoscopum, erunt turpes meretricio squalore saepe polluti. In parte III. Scorpii quicumque habuerit horoscopum, erunt nani gibberosi ridiculi. In parte IV. Scorpii quicumque habuerit horoscopum, erunt nani regum vel imperatorum deliciis deputati. 2 In parte V. Scorpii quicumque habuerit horoscopum, Luna bene posita, erunt nobiles iusti religiosi, [qui] praeclaro affinitatis ornati consortio. Habebunt plurimos liberos. Sed hi ex magisterio vel interpretationibus habebunt vitae substantiam. Erunt regis scribae, litterarum tractantes officia [sua]. Hos fida regum amicitia nobilitabit. In parte VI. Scorpionis quicumque habuerit horoscopum, erunt sacerdotes divites, liberos multos habentes. Sed frequenter ex regum indignatione morientur. 3 In parte VII. Scorpii quicumque habuerit horoscopum, a bestiis morietur. In parte VIII. Scorpii quicumque habuerit horoscopum, erunt
 
 
@@ -353,6 +554,9 @@ p338et Mars in ipsa parte fuerint positi, erit potens dives longaevus, cui augme
 p339omnia quaecumque illis fuerint in legatione mandata. Consequentur munera, sed habebunt in necessariis partibus corporis vitium. 14 In parte XXX. Scorpii quicumque habuerit horoscopum, erunt Marsi venefici ad neces hominum venena vendentes, ut ex isto studio multos interficiant. Erunt sane mendaces Mali malitiosi. Quodsi Mars in ipsa parte fuerit inventus, erunt venatores sed biothanati. Adiacent Scorpio in dextra parte Ofiuchus et Vulpes, in sinistra Cynocefalus et Ara. In Ofiucho qui nati fuerint, erunt audaces enthei, praesago divinitatis instinctu futura noscentes. 15 In Vulpe qui nati fuerint, erunt callidi fraudulenti circumscriptores cordatissimi, habentes vitae subsidia ** e terrae cultura quaerentes. Quodsi Saturnus in ipso loco fuerit inventus, erunt custodes monumentorum. Hi autem morientur per dolum. In Cynocefalo qui nati fuerint, erunt frenetici valitudinarii sine filiis oligochronii. In Ara qui nati fuerint, erunt sacerdotes [qui] ex sacrificiis habentes vitae subsidia, sed periuri et mala more pereuntes.
 
 	
+XXVII. [Sagittarius]
+
+
 1 In parte I. Sagittarii quicumque habuerit horoscopum, erit nobilis religiosus iustus, et cui maxima gloriae conferantur insignia. Quodsi benivola stella in ipsa parte fuerit inventa, faciet reges vel regum proximos, qui omnia efficaciter conpleant. In parte II. Sagittarii quicumque habuerit horoscopum, erunt furiosi periuri sacrilegi. In parte III. sagi quicumque habuerit horoscopum, unum oculum quolibet genere perdent. 2 In parte IV. Sagittarii quicumque habuerit horoscopum, erunt monumentorum custodes. In parte V. Sagittarii quicumque habuerit horoscopum, erunt inpuri miseri ac turpis infamiae labe polluti. In parte VI. Sagittarii quicumque habuerit horoscopum, erunt vatii tibiis varicosi biothanati. In parte VII. Sagittarii quicumque habuerit horoscopum, eo nomine erit iustus religiosus, et cui publica iudicia credantur, ita ut de ceterorum sententia iudicet. 3 In parte VIII. Sagittarii quicumque habuerit horoscopum, si Iuppiter in ipsa parte fuerit inventus, erunt longaevi religiosi, et inter affines suos primi suscipient filios. Erunt interpretes regum, vel magistri scribae, sacrarum litterarum tractantes officia. Sed processu aetatis felicitatis illis insignia conferentur; bona morte deficient. In parte IX. Sagittarii quicumque habuerit horoscopum, erunt astrologi divini enthei cultores deorum. In parte X. Sagittarii quicumque habuerit horoscopum, erit athleta oplomachus. 4 In parte XI. Sagittarii quicumque habuerit horoscopum, in bello percussus morietur. In parte XII. Sagittarii quicumque habuerit horoscopum, erunt periculosi temerarii, et qui praepostero cupiditatis ardore ad omne facinus libenter accedant. In parte XIII. Sagittarii
 
 
@@ -367,6 +571,9 @@ p341quicumque habuerit horoscopum, *** paricidali possessus interficit, et ipse 
 
 
 	
+XXVIII. [Capricornus]
+
+
 1 In prima parte Capricorni quicumque habuerit horoscopum, erit rex imperator. In II. parte capi quicumque habuerit horoscopum, erunt campi doctores, et quibus dispositio committatur proeliorum. Sed hi biothanata morte morientur. In III. parte Capricorni quicumque habuerit horoscopum, si Mars in ipsa parte fuerit inventus, Luna vero cum eo collocata, erunt magni potentes et habentes maximam gladii potestatem, sed qui iudicia severe et crudeliter semper exerceant. Erunt crudeles ingeniosi semper audaces, et qui multos interficiant. Erunt magni exercitus duces, sed in pugna morientur. 2 In IV. parte Capricorni quicumque
 
 
@@ -384,6 +591,9 @@ p346Luna perhibente testimonium et bona radiatione coniuncta, erunt nobiles poly
 
 
 p347tententur insania. In XXV. parte Capricorni quicumque habuerit horoscopum, a bestiis consumptus morietur. In XXVI. parte Capricorni quicumque habuerit horoscopum, erit pantomimus grata venustate perspicuus. In XXVII. parte Capricorni quicumque habuerit horoscopum, erunt iusti potentes, de  Aliorum iudicum sententiis iudicantes, amici regum. Sed his ex filiorum infortuniis maxima decernuntur doloris incommoda. In XXVIII. parte Capricorni quicumque habuerit horoscopum,  ***** ***** ***** ***** ***** 12 <In XXIX. parte Capricorni quicumque habuerit horoscopum,> erit tyrannus crudelis, ad omne facinus armatus, periculosus temerarius, sed cui mors multitudinis manibus inferatur.  ***** ***** ***** ***** *****
+
+XXIX. [Aquarius]
+
 
 1 In I. parte Aquarii quicumque habuerit horoscopum, si Iuppiter et Saturnus simul fuerint inventi, vel si horoscopum trigonica radiatione respiciant, et si Luna bene fuerit collocata, erit rex magnus gloriosus polychronius, omnium terrarum possidens circulum. Sed maxima illi potentia processu temporis decernetur. Sed is in aqua morietur. In II. parte Aquarii quicumque habuerit horoscopum, habebunt artem quae pertinet ad ornatum vel ad picturas; filiis superstitibus morientur. 2 In III. parte Aquarii quicumque habuerit horoscopum, si Iuppiter in ipsa parte fuerit inventus,
 
@@ -408,6 +618,9 @@ p351horoscopum, erunt hieroduli servi templorum, in sacrorum caerimoniis hymnos 
 p352loca iter faciens multum errabit, in desertis conversabitur locis. Quidam fient aucupes. In dextra Aquarii minoris quicumque habuerit horoscopum, erunt equorum magistri. Si vero benivolae stellae testimonium perhibuerint, aurigae vel muliones erunt regis. In ventre Aquarii minoris quicumque habuerit horoscopum, [merito] erit hortulanus fenerator laboriosus biothanatus. In pede dextro quicumque habuerit horoscopum, in locis aquosis humidisque morietur. 15 In Ara quicumque habuerit horoscopum, de sacrificiis habebunt vitae subsidia; sed hi exusti morientur. In aquae effusione quicumque habuerit horoscopum, a prima aetate erit dives et possessor, et paternum patrimonium varia profusione dilapidat. Erit liberalis sed erunt illi multi frequenter ingrati. Sed hic in processu aetatis maxima et patrimonii et dignitatis habebit augmenta, et inimicos suos omnifariam subiugatos sibi videbit.
 
 	
+XXX. [Pisces]
+
+
 1 In I.parte Piscium quicumque habuerit horoscopum, erit curiosus conpositus, e regiis facultatibus habens vitae subsidia. Sed hic ex †conscriptione sororum vel ex affinium suscipiet filios. In II. parte Piscium quicumque habuerit horoscopum, erit stridentis animi suspiciosus zelotypus. In III. parte Piscium
 
 
@@ -427,6 +640,10 @@ p355in domo regia, multa imperans verecundia gravitateque morum, honesta convers
 p356actibus inplicatus. <Quodsi Mars quacumque fuerit radiatione coniunctus, erit marsus magus biothanatus.> In extrema autem cauda id est in[ter] linea[m] quae Pisces et Arietem dividit, quicumque habuerit horoscopum, Marte in eadem linea constituto, erunt apocopi abscisi virilia. 12 In Pisce septentrionali oritur Cervus Lepus, in australi Cetus id est marina belua. Quicumque itaque horoscopum in cornibus Cervi habuerit, si Mars in ipsa parte fuerit inventus, erit praepositus armorum, ducet exercitus, pugnabit peregre, morietur in proelio. In ore Cervi quicumque habuerit horoscopum, erunt marsi vestigantes prehendentesque serpentes, biothanati. In pedibus Cervi quicumque habuerit horoscopum, errantes plurimum biothanata morte morientur. 13 In Lepore quicumque habuerit horoscopum, erunt periit gubernatores. In cauda Ceti quicumque habuerit horoscopum, si Mars in ipsa parte fuerit inventus, a bestiis lacerati morientur. In II. parte Ceti quicumque habuerit horoscopum, praesente Venere et Mercurio, subiacebunt potentibus, et inde proficientes vitae consequentur augmenta. Alii erunt servi ad grandem dignitatem venientes honesto ac liberali merito servitutis. In III. parte Ceti quicumque habuerit horoscopum, navigabunt ac plurimas circumibunt terras. Quodsi Mars in ipsa parte fuerit inventus, a piratis morientur.
 
 	
+p357
+XXXI.
+	
+
 1 [In quibus sint signorum partibus clarae stellae.] In plurimis signis claras esse stellas, et regia luminis maiestate fulgentes, in VI. diximus libro. Quid itaque in istis partibus in quibus clarae inveniuntur stellae, decernat horoscopus (quae in VI. libro de Luna diximus) explicare curabo.
 
 	
@@ -441,6 +658,9 @@ p358horoscopum partiliter possederit, quicumque in ea nati fuerint, erunt potent
 p359iustus longaevus, sed cui procedenti aetate maximum potestatis conferatur imperium. 10 In X. parte Piscium est clara stella, in australi scilicet Pisce. Si itaque Venus cum horoscopo in ista stella fuerit inventa, et Luna bene sit collocata, quicumque natus fuerit in ea, erit magnus potens regi Notus, multas terras peragrabit, grande navigabit pelagus. Liburnicum illi et navale conmittetur imperium. Erit victor in proeliis, ab omnibus amabitur, erit iustus religiosus, pronus sane ad muliebres concubitus, praestans multa, potiora impetrans. Ira regis vel odio morietur.
 
 	
+XXXII.
+	
+
 1 Haec quidem de singulis partibus pronuntiat Sphaera Barbarica. Sed genitura integre explicari non poterit, nisi omnia aequatis stellarum fuerint mixturis et radiationibus conparata, quod nos frequentissime dixisse meministi. Cum enim ignitis sideribus Aliorum siderum fuerit frigus oppositum, et frigoris glacies igniti ardoris fuerit flagrantia temperata, mixtura etiam temperationis efficitur. 2 Omnia itaque pro locorum et pro stellarum potestatibus colligenda sunt. Patitur enim iacturam potestatis suae stella, cum in deiectis locis vel cum in humilitatibus suis fuerit collocata, et maximam decernendi sortitur licentiam, cum aut ex loco aut ex altitudine sua fuerit auctoritatem licentiae
 
 
@@ -448,6 +668,9 @@ p359iustus longaevus, sed cui procedenti aetate maximum potestatis conferatur im
 p360consecuta. Gaudent autem stellae sicut frequentissime diximus, principe in loco in altitudine sua positae, secundo loco in finibus suis, tertio in domibus suis. 3 CUM itaque omnia fuerint [ita] partili ratione collecta, totum debemus geniturae corpus inspicere, ut fata hominum ex omnium stellarum potestatibus colligentes, quicquid decretum fuerit, veris possimus explicare sententiis.
 
 	
+XXXIII.
+	
+
 1 Accipe itaque Mavorti decus nostrum, quod tibi cum summa animi trepidatione promisimus, septem hos libros ad septem ordinem numerumque conpositos. Nam primus liber solum patrocinium defensionis accepit; in ceteris vero libris Romanis novi operis tradidimus disciplinam. 2 Tu vero praecedenti admonitione conventus, et religiosa iurisiurandi auctoritate conmonitus, hos libros puro animo ac pura mente custodi, ne inperitis auribus et sacrilegis animis scientia istius operis intimetur. Celari se et abscondi ab initio voluit † fid huius rerum, et plurimis se tegumentis natura divinitatis abscondit, ne esset facilis accessu, ne cujus patefacta maiestatis suae origine panderetur. 3 Hoc et nos in istis libris facere conveniet, ut lectio eorum religiosis pateat, profanis semper ac sacrilegis denegetur, ne veterum veneranda commenta sacrilegis quodammodo editionibus polluamus. Quapropter
 
 
@@ -456,3 +679,122 @@ p361filiis tuis trade, quia illos a prima aetate ad omne officium virtutis instr
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

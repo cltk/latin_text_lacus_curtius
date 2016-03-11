@@ -1,4 +1,128 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Prooemium
+				
+ 
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p3
+Liber Primus
+	
+
 1
 Insula quaedam nomine Diomedea multas ardeas alit; quae, ut ajunt, barbaris neque quippiam nocent, neque eos adeunt: sin Graecus advena eo diverterit, divino quodam munere ab his avibus aditur alis explicatis, tanquam manibus ad prensationem et complexum; Graecos se pertractantes non refugientes, intrepide se palpari sustinent, et in accumbentium sinus advolant, velut ad mensas hospitales invitatae. Vulgo socii Diomedis esse jactantur, qui una cum eo contra Ilium arma tulerunt; et prima eorum natura in avium speciem immutata, etiam nunc se esse Graecos et Graecorum studiosos approbant.
 
@@ -294,5 +418,121 @@ Opinio una est, apum reges non aculeatos esse: est rursus altera, eos robore acu
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpretatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VI Kal. Oct. 04

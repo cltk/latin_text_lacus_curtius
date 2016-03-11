@@ -1,4 +1,113 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+Belli Jugurthini
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXI (recensiti MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p132
+C. Sallusti Crispi
+	
+Bellum Jugurthinum
+	
+
+Capitula I‑XXXV
+	
+
 1 
 Falso queritur de natura sua genus humanum, quod imbecilla atque aevi brevis forte potius quam virtute regatur. 2 Nam contra reputando neque maius aliud neque praestabilius invenias magisque naturae industriam hominum quam vim aut tempus deesse. 3 Sed dux atque imperator vitae mortalium animus est. Qui ubi ad gloriam virtutis via grassatur, abunde pollens potensque et clarus est neque fortuna eget, quippe1 probitatem, industriam, aliasque artis bonas neque dare neque eripere cuiquam potest. 4 Sin captus pravis cupidinibus ad inertiam et voluptates corporis pessum datus est, perniciosa lubidine paulisper usus, ubi per socordiam vires, tempus, ingenium diffluxere, naturae infirmitas accusatur; suam quisque culpam auctores2 ad negotia transferunt.
 
@@ -479,8 +588,15 @@ At Iugurtha manufestus tanti sceleris non prius omisit contra verum niti, quam a
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 quippe quae, NK1H2MDnm, Donat. Ter. Eun. 241, Ah, Or.
+
+
+
 
 
 
@@ -491,8 +607,14 @@ auctores, BH1T1; the other MSS. have actores.
 
 
 
+
+
+
 3
 is, n2; eis, PNK2l.
+
+
+
 
 
 
@@ -503,8 +625,14 @@ luxu, Ym, Fronto, p108 Naber; Diomedes, I.341.6 K; luxui, XNTlsn; luxuriae, Mac
 
 
 
+
+
+
 5
 quam liberis, MSS., Ah, Or.
+
+
+
 
 
 
@@ -515,11 +643,20 @@ praecipit, A2CBNln; the other MSS. have praecepit.
 
 
 
+
+
+
 7
 adfinium loco, VM2m1, Ah, Or; adfinium locum, A1C1; in adf. loco, MFm2; in adf. locum, the other MSS.
 
+
+
+
 8
 posse a, Vm1; possem ea, A1N; posse me, the other MSS. Ah, Or.
+
+
+
 
 
 
@@ -530,8 +667,14 @@ se, V; P omits.
 
 
 
+
+
+
 10
 non quit, V, P2.
+
+
+
 
 
 
@@ -542,8 +685,14 @@ atque, V.
 
 
 
+
+
+
 12
 neu, V.
+
+
+
 
 
 
@@ -554,8 +703,14 @@ quoius, Ah; cuius, Or.
 
 
 
+
+
+
 14
 neu iure, VP2Al, Ah, Or; ne iure, B1; ne vivere, the other MSS.
+
+
+
 
 15
 consuls, P; consulibus, H2Γln.
@@ -563,11 +718,20 @@ consuls, P; consulibus, H2Γln.
 
 
 
+
+
+
 16
 in inimicis, editors; in amicis, MSS.
 
+
+
+
 17
 arbori, MSS., Ah; arbore, Arus. VI.473.18 K, Or.
+
+
+
 
 
 
@@ -578,8 +742,14 @@ ac plerosque, Fronto, p109 N, Ah.
 
 
 
+
+
+
 19
 Omitted by Pl.
+
+
+
 
 
 
@@ -590,17 +760,32 @@ proxima, Arusianus VII.498.17 K, Ah; proxime MSS. ("fortasse recte," Ah), Or.
 
 
 
+
+
+
 21
 Carthagine, Arus. l.c., Ah, Or; Carthaginem, MSS.
+
+
+
 
 22
 proximi, Pl, Arusianus VII.498.18 K, Ah, Or; proxime, the other MSS.
 
+
+
+
 23
 Hispania, Arus., Ah, Or; Hispanias, Pl; Hispaniam, the other MSS.
 
+
+
+
 24
 The phrase de controversiisº suis . . . disceptare is omitted by all the best MSS., but is found in a few integri.
+
+
+
 
 
 
@@ -611,8 +796,14 @@ arrigere, Xls; erigere, Ynm.
 
 
 
+
+
+
 26
 diducta, NTDFsnm; deducta, Hm; ducta, Xl.
+
+
+
 
 
 
@@ -620,8 +811,14 @@ diducta, NTDFsnm; deducta, Hm; ducta, Xl.
 27
 armatus, Xln; armatis, A1 and the other MSS.
 
+
+
+
 28
 venum ire, CBHs.
+
+
+
 
 
 
@@ -632,11 +829,20 @@ The form given by some good MSS. as well as in inscrr. and the Greek writers; P
 
 
 
+
+
+
 30
 m. ne rem p. ne lib., N1m, Ah; m. rem p. (p. Rom. corr.) ne lib., A; m. P. R. ne lib., PB (movere) lsn, Or; m. ne p. Rom. ne lib., C; m. p. R. ne remp. ne lib., the other MSS.
 
+
+
+
 31
 eam, PA2CBMT.
+
+
+
 
 
 
@@ -647,11 +853,20 @@ quam, P2CB2MT.
 
 
 
+
+
+
 33
 viro, VPMm; virs, F; viros, A1N1s; virum, A2N2 and the other MSS.
 
+
+
+
 34
 alterna, VXDln.
+
+
+
 
 
 
@@ -662,14 +877,23 @@ hostibus, hostibus, P1ln; the other MSS. have only hostibus (once).
 
 
 
+
+
+
 36
 indicendo, MSS.; in . . . dicendo, Jordan, who suggests that contione has fallen out; Ah deletes in and suggests contionibus; inducendo, Or.
 
 
 
 
+
+
+
 37
 venderent, MSS., corr. by Kortte.
+
+
+
 
 
 
@@ -683,3 +907,122 @@ Oros. Hist. V.15.16, Ah, Or.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIII Kal. Mai. 07

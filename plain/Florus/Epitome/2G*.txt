@@ -1,4 +1,161 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars VI
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars VIII
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+
+
+
+XVIIII.
+		
+
+Bellum Parthicum sub Ventidio.
+		
+
+
+
+XX.
+		
+
+Bellum Parthicum sub Antonio.
+		
+
+
+
+XXI.
+		
+
+Bellum cum Antonio et Cleopatra.
+		
+
+
+
+p316
+
+XVIIII. Bellvm Parthicvm svb Ventidio
+	
+
 IIII, 9
 Quamvis in Cassio et Bruto partes sustulisset, in Pompeio totum partium nomen abolevisset, nondum tamen ad pacis stabilitatem profecerat Caesar, cum scopulus et nodus et mora publicae securitatis superesset Antonius. 2 Nec ille defuit vitiis quin periret, immo omnia expertus ambitu1 et luxuria primum hostes, deinde cives, tandem etiam saeculum terrore2 liberavit.
 
@@ -12,6 +169,10 @@ p318praesidia; Saxa legatus ne veniret in potestatem gladio5 impetravit. 5 Deni
 
 
 	
+
+XX. Bellvm Parthicvm svb Antonio
+	
+
 IIII, 10
 Expertis invicem Parthis atque Romanis, cum Crassus et Pacorus utrimque virum mutuarum documenta fecissent, pari rursus reverentia integrata amicitia, et quidem ab ipso foedus Antonio cum rege percussum. 2 Sed — inmensa vanitas hominis — dum titulorum cupidine Araxen et Euphraten sub imaginibus suis legi concupiscit, neque causa neque
 
@@ -25,6 +186,10 @@ p322Romani extulissent, adeo res miraculo fuit, ut unus ex barbaris miserit voce
 
 
 	
+
+XXI. Bellvm cvm Antonio et Cleopatra
+	
+
 IIII, 11
 Furor Antonii quatenus per ambitum non poterat interire, luxu et libidine extinctus est. Quippe cum post Parthos exosus arma in otio ageret, captus amore Cleopatrae quasi bene gestis rebus in regio se sinu reficiebat. 2 Hinc mulier Aegyptia ab ebrio imperatore pretium libidinum Romanum imperium14
 p324petit; et promisit Antonius, quasi facilior15 esset Partho Romanus. 3 Igitur coepit non sibi dominationem parare nec tacite, sed patriae, nominis, togae, fascium oblitus totus in monstrum illud ut mente, ita amictu16 quoque cultuque desciverat. Aureum in manu baculum, in latere acinaces, purpurea vestis ingentibus obstricta gemmis: diadema deerat, ut regina rex et ipse frueretur. 4 Ad primam novorum motuum famam Caesar a Brundisio traiecerat, ut venienti bello occurreret, positisque castris in Epiro omne litus Actiacum, Leucada17 insulam montemque Leucaten et Ambracii sinus cornua infesta classe succinxerat. 5 Nobis quadrigentae amplius naves, ducentae18 minus hostium; sed numerum magnitudo pensabat. Quippe a senis19 novenos remorum ordines, ad hoc turribus atque tabulatis adlevatae castellorum vel urbium specie, non sine gemitu maris et labore ventorum ferebantur; quae quidem ipsa moles exitio fuit. 6 Caesaris naves a bini remigum in senos nec amplius ordines creverant; itaque habiles in omnia quae usus posceret, ad impetus et recursus flexusque capiendos, illas graves et ad omnia praepeditas singulas plures adortae missilibus, simul rostris, ad hoc ignibus iactis ad arbitrium20 dissipavere. 7 Nec ulla re21 magis hostilium copiarum apparuit magnitudo
@@ -45,8 +210,15 @@ p328necdum adsuetae frenis servitutis tumidae gentium inflataeque cervices ab in
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 ambitu: ambitus B.
+
+
+
 
 
 
@@ -57,8 +229,14 @@ saeculum terrore Halmius: terrore saeculum B.
 
 
 
+
+
+
 3
 populi Romani: populus romanus B.
+
+
+
 
 
 
@@ -69,8 +247,14 @@ regi post acceperant add. B.
 
 
 
+
+
+
 5
 gladio Vossius: claudio B: aclaudio NL.
+
+
+
 
 
 
@@ -81,8 +265,14 @@ equitatum toto: et que tantum totum B.
 
 
 
+
+
+
 7
 in om. B.
+
+
+
 
 
 
@@ -93,8 +283,14 @@ duas: suas B.
 
 
 
+
+
+
 9
 speciem: specie B.
+
+
+
 
 
 
@@ -105,8 +301,14 @@ minor: minora B.
 
 
 
+
+
+
 11
 salmacidae infestiores Halmius: salmacidae fluvius in B: salmacidis fluvius infestior M.
+
+
+
 
 
 
@@ -117,8 +319,14 @@ hauriebantur: hauriebat B: hauriebatur NL.
 
 
 
+
+
+
 13
 et om. B.
+
+
+
 
 
 
@@ -129,8 +337,14 @@ pretium — imperium om. B.
 
 
 
+
+
+
 15
 facilior: felicior B.
+
+
+
 
 
 
@@ -138,8 +352,14 @@ facilior: felicior B.
 16
 amictu Freinshemius: animo codd.
 
+
+
+
 17
 Leucada Rossbachius: leucadam B.
+
+
+
 
 
 
@@ -150,8 +370,14 @@ non post ducentae codd., del. Titzius.
 
 
 
+
+
+
 19
 a senis: adenis B.
+
+
+
 
 
 
@@ -162,8 +388,14 @@ ad arbitrium om. B.
 
 
 
+
+
+
 21
 re: res B.
+
+
+
 
 
 
@@ -174,11 +406,20 @@ revomebant: removebant B.
 
 
 
+
+
+
 23
 infra Aldus: intra codd.
 
+
+
+
 24
 regum: regem B.
+
+
+
 
 
 
@@ -189,8 +430,14 @@ sic om. B.
 
 
 
+
+
+
 26
 recepit: recipit BNL.
+
+
+
 
 
 
@@ -201,8 +448,14 @@ soluta: resoluta cod. Iordanis Polling.: victa B.
 
 
 
+
+
+
 28
 districto circa mala sua: destricto circa asa sua B.
+
+
+
 
 
 
@@ -213,8 +466,117 @@ Moesi: misi B.
 
 
 
+
+
+
 30
 Daci: claci B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

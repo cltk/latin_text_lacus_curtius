@@ -1,5 +1,190 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p234
+C. Claudiani
+	
+Magnes
+	
+
+
+
+XXIX (XLVIII)
+	
+
+
+
+   
+5
+    
+			 
+10
+    
+15
+    
+20
+    
+25
+    
+30
+    
+35
+    
+40
+    
+45
+    
+50
+    
+55
+
+
+
+Quisquis sollicita mundum ratione secutus
+	
+semina rimatur rerum, quo luna laborat
+	
+defectu, quae causa iubet pallescere solem,
+	
+unde rubescentes ferali crine cometae,
+	
+unde fluant venti, trepidae quis viscera terrae
+	
+concutiat motus, quis fulgura ducat hiatus,
+	
+unde tonent nubes, quo lumine floreat arcus,
+	
+hoc mihi quaerenti, si quid deprendere veri
+	
+mens valet, expediat.
+	
+                                       
+
+Lapis est cognomine magnes
+	
+decolor obscurus vilis. non ille repexam
+	
+caesariem regum, non candida virginis ornat
+	
+colla nec insigni splendet per cingula morsu;
+	
+sed nova si nigri videas miracula saxi,
+	
+tunc pulchros superat cultus et quidquid Eois
+	
+Indus litoribus Rubra scrutatur in alga.
+	
+nam ferro meruit vitam ferrique rigore
+	
+vescitur; hoc dulces epulas, hoc pabula novit;
+	
+hinc proprias renovat vires; hinc fusa per artus
+	
+aspera secretum servant alimenta vigorem;
+	
+hoc absente perit: tristi morientia torpent
+	
+membra fame, venasque sitis consumit apertas.
+	
+
 Mavors, sanguinea qui cuspide verberat urbes,
 	
 et Venus, humanas quae laxat in otia curas,
@@ -74,3 +259,112 @@ et lapides suus ardor agit, ferrumque tenetur
 	
 inlecebris; rigido regnant in marmore flammae.
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIV Kal. Feb. 04

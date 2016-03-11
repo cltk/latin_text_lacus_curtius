@@ -1,16 +1,240 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p492
+Suetonius,
+	
+Vita Tibulli
+	
+
+
+
+
+
+
+
+"Te quoque Vergilio comitem non aequa, Tibulle,
+			
+Mors iuvenem campos misit ad Elysios,
+			
+Ne foret, aut elegis molles qui fleret amores
+			
+Aut caneret forti regia bella pede."
+		
+
+
+
 Albius Tibullus eques Romanus,1 insignis forma cultuque corporis observabilis, ante alios Corvinum Messalam oratorem2 dilexit, cuius etiam contubernalis Aquitanico bello militaribus donis donatus est. Hic multorum iudicio principem inter elegiographos obtinet locum. Epistolae quoque eius amatoriae, quamquam breves, omnino utiles sunt. Obiit adulescens, ut indicat epigramma supra scriptum.
 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 eques Romanus, ψ; eques Regalis, A; eques R(omanus) e Gabiis Bährens.
 
 
+❦
 
 2
 oratorem, ψ; originem, A.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08

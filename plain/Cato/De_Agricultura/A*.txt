@@ -1,5 +1,123 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+Marci Catonis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+LIII‑LX
+				
+
+
+
+
+p2
+Marci Catonis
+	
+
+De Re Rustica
+	
+
+Capitula I‑LII
+	
+
+
 Est interdum praestare mercaturis rem quaerere, nisi tam periculosum sit, et item fenerari, si tam honestum sit. Maiores nostri sic habuerunt et ita in legibus posiverunt, furem dupli condemnari, feneratorem quadrupli. Quanto peiorem civem existimarint feneratorem quam furem, hinc licet existimare. 2 Et virum bonum quom laudabant, ita laudabant, bonum agricolam bonumque colonum. Amplissime laudari existimabatur qui ita laudabatur. 3 Mercatorem autem strenuum studiosumque rei quaerendae existimo, verum, ut supra dixi, periculosum et calamitosum. 4 At ex agricolis et viri fortissimi et milites strenuissimi gignuntur, maximeque pius quaestus stabilissimusque consequitur minimeque invidiosus, minimeque male cogitantes sunt qui in eo studio occupati sunt. Nunc ut ad rem redeam, quod promisi institutum1 principium hoc erit.
 
 	
@@ -411,16 +529,22 @@ Quae diligentius propagari voles, in aullas aut in qualos pertusos propagari opo
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Institutum is taken variously; as a genitive (Friedrich); a supine (Wünsch); as = ad id institutum quod promisi (Birt); as a pleonasm (Stangl). Birt is followed here.
 
 
+❦
 
 2
 
 Pliny, N. H. XVIII, 26, quotes this operae.
 
 
+❦
 
 3
 bono et supplied by Leo from
@@ -428,16 +552,19 @@ bono et supplied by Leo from
 Varro, I.7.9.
 
 
+❦
 
 4
 far Victorius: lar or iar.
 
 
+❦
 
 5
 ea added by Keil: haec Iucundus.
 
 
+❦
 
 6
 neve fundus villam added by Iucundus from
@@ -447,16 +574,19 @@ Col., I, 4, 8, and
 Plin. N. H., XVIII, 32.
 
 
+❦
 
 7
 compluria genera Hauler: compularia.
 
 
+❦
 
 8
 pabulum malorum fiat Gesner: fabulim malorum fiant.
 
 
+❦
 
 9
 molarium added by Meursius, from
@@ -464,6 +594,7 @@ molarium added by Meursius, from
 Varro, I.19.3.
 
 
+❦
 
 10
 labrum added by Iucundus, from
@@ -471,6 +602,7 @@ labrum added by Iucundus, from
 11, 3.
 
 
+❦
 
 11a
 11b
@@ -479,84 +611,212 @@ labrum added by Iucundus, from
 The numeral has been lost.
 
 
+❦
 
 12
 centumpondium Keil: centumpondium incertum.
 
 
+❦
 
 13
 verba vti fiant Keil: v(iri) b(oni) a(rbitratu) uti fiat Brehaut.
 
 
+❦
 
 14
 Pinus added by Keil.
 
 
+❦
 
 15
 eo quia MSS. and ed. pr.: ea quae Iucundus, followed by many editors.
 
 
+❦
 
 16
 crassos . . . altos Pontedera: crassi . . . alti.
 
 
+❦
 
 17
 caveat MSS.: caveto Iucundus, followed by Schneider.
 
 
+❦
 
 18
 The older editions read, si autem labent in cupam.
 
 
+❦
 
 19
 tunicas in the older editions.
 
 
+❦
 
 20
 quam added by Keil.
 
 
+❦
 
 21
 Ubi added by Keil.
 
 
+❦
 
 22
 Indito added by Keil.
 
 
+❦
 
 23
 quom Keil: quam.
 
 
+❦
 
 24
 glubebit Keil: glube.
 
 
+❦
 
 25
 in added by Iucundus.
 
 
+❦
 
 26
 ulvamque Victorius: uvamque.
 
 
+❦
 
 27
 Vere sicca Hauler, after Turnebus: virisicca.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Agricultura
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+XVI Kal. Nov. 07

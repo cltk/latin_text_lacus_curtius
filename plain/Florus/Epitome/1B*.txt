@@ -1,4 +1,161 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars I
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars III
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+IIII.
+		
+
+Bellum Etruscum cum rege Porsenna.
+		
+
+
+
+V.
+		
+
+Bellum Latinum.
+		
+
+
+
+VI.
+		
+
+Bellum cum Etruscis Faliscis Veientibus Fidenatibus.
+		
+
+
+
+p30
+
+IIII. Bellvm Etrvscvm Cvm Rege Porsenna
+	
+
 I, 10
 Pulsis urbe regibus prima pro libertate arma corripuit. Nam Porsenna rex Etruscorum ingentibus copiis aderat et Tarquinios manu reducebat. 2 Hunc tamen, quamvis et armis et fame urgueret occupatoque Ianiculo ipsis urbis faucibus incubaret, sustinuit, reppulit, novissime etiam tanta admiratione perculit, ut superior ultro cum paene victis amicitiae foedera feriret. 3 Tunc illa tria Romani nominis1 prodigia atque miracula, Horatius, Mucius, Cloelia, qui nisi in annalibus forent, hodie fabulae viderentur. 4 Quippe Horatius Cocles postquam hostes undique instantes solus summovere non poterat, ponte rescisso transnatat Tiberim nec arma dimittit. 5 Mucius Scaevola regem per insidias in castris ipsius adgreditur, sed ubi frustrato circa purpuratum eius ictu tenetur, ardentibus focis inicit manum terroremque geminat dolo. 6 "En, ut scias,"
 
@@ -8,6 +165,10 @@ p32inquit, "quem virum effugeris; idem trecenti iuravimus"; cum interim — inma
 
 
 	
+
+V. Bellvm Latinvm
+	
+
 I, 11
 Latini quoque Tarquinios adserebant aemulatione et invidia, ut populus qui foris dominabatur saltim domi serviret. Igitur omne Latium Mamilio Tusculano duce quasi in regis ultionem tollit animos. 2 Apud Regilli lacum dimicavit diu Marte vario, donec Postumius ipse dictator signum in hostis iaculatus est — novum et insigne commentum —, ut inde repeteretur.3 3 Cossus equitum magister exuere frenos
 
@@ -29,6 +190,10 @@ p36classis, nam sex fuere rostratae. Sed hic numerus illis initiis navale bellum
 
 
 	
+
+VI. Bellvm cvm Etrvscis Faliscis Veientibvs Fidenatibvs
+	
+
 I, 12
 Adsidui vero et anniversarii hostes ab Etruria fuere Veientes, adeo ut extraordinariam manum adversus eos promiserit privatumque gesserit bellum gens una Fabiorum. Satis superque nota clades. 2 Caesi apud Cremeram trecenti, patricius exercitus;
 
@@ -43,8 +208,15 @@ p40visa est praedae magnitudo, cuius decima12 Apollini Pythio mitteretur, univer
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 illa tria Romani nominis Koehlerus: illa in romani nominis B: illa romana NL.
+
+
+
 
 
 
@@ -55,8 +227,14 @@ datis elapsa custodiam Tollius: data etlapsa custodiae B: data elapsa custodiam
 
 
 
+
+
+
 3
 ut inde repeteretur Iahnius: ut inde ipse peteretur B: uti peteretur NL.
+
+
+
 
 
 
@@ -67,8 +245,14 @@ Cora Rehd.: sora BI: Ora L.
 
 
 
+
+
+
 5
 Gesoriacum: gesoria; cum N: gersoriacum L: caesoriacum BI.
+
+
+
 
 
 
@@ -79,8 +263,14 @@ victos: victus B.
 
 
 
+
+
+
 7
 indueret: induere B: induceret N.
+
+
+
 
 
 
@@ -91,8 +281,14 @@ Maenius: menius I: menenius B: moenibus N.
 
 
 
+
+
+
 9
 sed hos om. B.
+
+
+
 
 
 
@@ -103,11 +299,123 @@ itaque scelerato signata Koehlerus: it scel. signat B: et scel. signata N.
 
 
 
+
+
+
 11
 ad Feretrium triumpho reportata Iahnius: afferret triumphum reportaret B.
 
 
 
 
+
+
+
 12
 decima Iahnius: decumae codd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

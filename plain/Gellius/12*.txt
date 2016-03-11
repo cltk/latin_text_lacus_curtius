@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XI
+				
+
+
+Haec pagina telaris liber est
+				
+
+
+
+Noctium Atticarum
+				
+
+
+A. Gellii
+				
+
+
+
+a
+Loeb Classical Library
+editarum
+				
+MCMXXVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber XIII
+				
+
+
+
+
+
+(Vol. II)
+Gellius
+	
+Noctes Atticae
+	
+
+
+Liber XII
+	
+
+1
+
+Dissertatio Favorini philosophi, qua suasit nobili feminae, uti liberos, quos peperisset, non nutricum adhibitarum, sed suo sibi lacte aleret.
+
+	
 1 Nuntiatum quondam est Favorino philosopho nobis praesentibus uxorem auditoris sectatorisque sui paululum ante enixam auctumque eum esse nato filio. 2 "Eamus" inquit "et puerperam visum et patri gratulatum". 3 Is erat loci senatorii ex familia nobiliore. Imus una, qui tum aderamus, prosecutique eum sumus ad domum, quo pergebat, et cum eo simul introgressi sumus. 4 Tum in primis aedibus complexus hominem congratulatusque adsedit. Atque ubi percontatus est quam diutinum puerperium et quam laboriosi nixus fuissent, puellamque defessam labore ac vigilia somnum capere cognovit, fabulari instituit prolixius et: "nihil" inquit "dubito, quin filium lacte suo nutritura sit". 5 Sed cum mater puellae parcendum esse ei diceret adhibendasque puero nutrices, ne ad dolores, quos in enitendo tulisset, munus quoque nutricationis grave ac difficile accederet, "oro te," inquit "mulier, sine eam totam integram matrem esse filii sui. 6 Quod est enim hoc contra naturam inperfectum atque dimidiatum matris genus peperisse ac statim a sese abiecisse? aluisse in utero sanguine suo nescio quid, quod non videret, non alere nunc suo lacte, quod videat, iam viventem, iam hominem, iam matris officia inplorantem? 7 An tu quoque" inquit "putas naturam feminis mammarum ubera quasi quosdam venustiores naevulos non liberum alendorum, sed ornandi pectoris causa dedisse? 8 Sic enim, quod a vobis scilicet abest, pleraeque istae prodigiosae mulieres fontem illum sanctissimum corporis, generis humani educatorem, arefacere et exstinguere cum periculo quoque aversi corruptique lactis laborant, tamquam pulcritudinis sibi insignia devenustet, quod quidem faciunt eadem vecordia, qua quibusdam commenticiis fraudibus nituntur, ut fetus quoque ipsi in corpore suo concepti aboriantur, ne aequor illud ventris inrugetur ac de gravitate oneris et labore partus fatiscat. 9 Quod cum sit publica detestatione communique odio dignum in ipsis hominem primordiis, dum fingitur, dum animatur, inter ipsas artificis naturae manus interfectum ire, quantulum hinc abest iam perfectum, iam genitum, iam filium proprii atque consueti atque cogniti sanguinis alimonia privare? 10 "Sed nihil interest," - hoc enim dicitur - "dum alatur et vivat, cuius id lacte fiat". 11 Cur igitur iste, qui hoc dicit, si in capessendis naturae sensibus tam obsurduit, non id quoque nihil interesse putat, cuius in corpore cuiusque ex sanguine concretus homo et coalitus sit? 12 an quia spiritu multo et calore exalbuit, non idem sanguis est nunc in uberibus, qui in utero fuit? 13 nonne hac quoque in re sollertia naturae evidens est, quod, postquam sanguis ille opifex in penetralibus suis omne corpus hominis finxit, adventante iam partus tempore in supernas se partis perfert, ad fovenda vitae atque lucis rudimenta praesto est et recens natis notum et familiarem victum offert? 14 Quamobrem non frustra creditum est, sicut valeat ad fingendas corporis atque animi similitudines vis et natura seminis, non secus ad eandem rem lactis quoque ingenia et proprietates valere. 15 Neque in hominibus id solum, sed in pecudibus quoque animadversum. Nam si ovium lacte haedi aut caprarum agni alantur, constat ferme in his lanam duriorem, in illis capillum gigni teneriorem. 16 In arboribus etiam et frugibus maior plerumque vis et potestas est ad earum indolem vel detrectandam vel augendam aquarum atque terrarum, quae alunt, quam ipsius, quod iacitur, seminis, ac saepe videas arborem laetam et nitentem in locum alium transpositam deterioris terrae suco deperisse. 17 Quae, malum, igitur ratio est nobilitatem istam nati modo hominis corpusque et animum bene ingeniatis primordiis inchoatum insitivo degenerique alimento lactis alieni corrumpere? praesertim si ista, quam ad praebendum lactem adhibebitis, aut serva aut servilis est et, ut plerumque solet, externae et barbarae nationis est, si inproba, si informis, si inpudica, si temulenta est; nam plerumque sine discrimine, quaecumque id temporis lactans est, adhiberi solet. 18 Patiemurne igitur infantem hunc nostrum pernicioso contagio infici et spiritum ducere in animum atque in corpus suum ex corpore et animo deterrimo? 19 Id hercle ipsum est, quod saepenumero miramur, quosdam pudicarum mulierum liberos parentum suorum neque corporibus neque animis similes existere. 20 Scite igitur et perite noster Maro, quod cum versus illos Homeri consectaretur:
 ouk ara moi ge pater en hippota Peleus,
 oude Thetis meter; glauke de se tikte thalassa
@@ -8,6 +130,11 @@ Hyrcanaeque admorunt ubera tigres,
 quoniam videlicet in moribus inolescendis magnam fere partem ingenium altricis et natura lactis tenet, quae iam a principio imbuta paterni seminis concretione ex matris etiam corpore et animo recentem indolem configurat. 21 "Et praeter haec autem, quis illud etiam neglegere aspernarique possit, quod, quae partus suos deserunt ablegantque a sese et aliis nutriendos dedunt, vinculum illud coagulumque animi atque amoris, quo parentes cum filiis natura consociat, interscindunt aut certe quidem diluunt deteruntque? 22 Nam ubi infantis aliorsum dati facta ex oculis amolitiost, vigor ille maternae flagrantiae sensim atque paulatim restinguitur, omnisque inpatientissimae sollicitudinis strepitus consilescit, neque multo minor amendati ad nutricem aliam filii quam morte amissi obliviost. 23 Ipsius quoque infantis adfectio animi, amoris, consuetudinis in ea sola, unde alitur, occupatur et proinde, ut in expositis usu venit, matris, quae genuit, neque sensum ullum neque desiderium capit. Ac propterea oblitteratis et abolitis nativae pietatis elementis, quicquid ita educati liberi amare patrem atque matrem videntur, magnam fere partem non naturalis ille amor est, sed civilis et opinabilis". 24 Haec Favorinum dicentem audivi Graeca oratione. Cuius sententias communis utilitatis gratia, quantum meminisse potui, rettuli, amoenitates vero et copias ubertatesque verborum Latina omnis facundia vix quaedam indipisci potuerit, mea tenuitas nequaquam.
 
 	
+2
+
+Quod Annaeus Seneca iudicans de Q. Ennio deque M. Tullio levi futtilique iudicio fuit.
+
+	
 1 De Annaeo Seneca partim existimant ut de scriptore minime utili, cuius libros adtingere nullum pretium operae sit, quod oratio eius vulgaria videatur et protrita, res atque sententiae aut inepto inanique impetu sint aut levi et causidicali argutia, eruditio autem vernacula et plebeia nihilque ex veterum scriptis habens neque gratiae neque dignitatis. Alii vero elegantiae quidem in verbis parum esse non infitias eunt, sed et rerum, quas dicat, scientiam doctrinamque ei non deesse dicunt et in vitiis morum obiurgandis severitatem gravitatemque non invenustam. 2 Mihi de omni eius ingenio deque omni scripto iudicium censuramque facere non necessum est; sed quod de M. Cicerone et Q. Ennio et P. Vergilio iudicavit, ea res cuimodi sit, ad considerandum ponemus. 3 In libro enim vicesimo secundo epistularum moralium, quas ad Lucilium conposuit, deridiculos versus Q. Ennium de Cethego antiquo viro fecisse hos dicit:
 is dictust ollis popularibus olim,
 qui tum vivebant homines atque aevum agitabant,
@@ -15,7 +142,17 @@ flos delibatus populi Suada eque medulla. 4 Ac deinde scribit de isdem versibus
 "qui huiuscemodi" inquit "versus amant, liqueat tibi eosdem admirari et Soterici lectos". 12 Dignus sane Seneca videatur lectione ac studio adulescentium, qui honorem coloremque veteris orationis Soterici lectis compararit quasi minimae scilicet gratiae et relictis iam contemptisque. 13 Audias tamen commemorari ac referri pauca quaedam, quae idem ipse Seneca bene dixerit, quale est illud, quod in hominem avarum et avidum et pecuniae sitientem dixit: "Quid enim refert, quantum habeas? multo illud plus est, quod non habes". 14 Benene hoc? sane bene; sed adulescentium indolem non tam iuvant, quae bene dicta sunt, quam inficiunt, quae pessime, multoque tanto magis, si et plura sunt, quae deteriora sunt, et quaedam in his non pro euthymemati aliquo rei parvae ac simplicis, sed in re ancipiti pro consilio dicuntur.
 
 	
+3
+
+"Lictoris" vocabulum qua ratione conceptum ortumque sit; et super eo diversae sententiae Valgi Rufi et Tulli Tironis.
+
+	
 1 Valgius Rufus in secundo librorum, quos inscripsit de rebus per epistulam quaesitis, "lictorem" dicit a "ligando" appellatum esse, quod, cum magistratus populi Romani virgis quempiam verberari iussissent, crura eius et manus ligari vincirique a viatore solita sint, isque, qui ex conlegio viatorum officium ligandi haberet, "lictor" sit appellatus; utiturque ad eam rem testimonio M. Tulli verbaque eius refert ex oratione, quae dicta est Pro C. Rabirio: 2 "Lictor", inquit "conliga manus". Haec ita Valgius. 3 Et nos sane cum illo sentimus; sed Tiro Tullius, M. Ciceronis libertus, "lictorem" vel a "limo" vel a "licio" dictum scripsit: "Licio enim transverso, quod "limum" appellatur, qui" magistratibus" inquit "praeministrabant, cincti erant". 4 Si quis autem est, qui propterea putat probabilius esse, quod Tiro dixit, quoniam prima syllaba in "lictore", sicuti in "licio", producta est et in eo verbo, quod est "ligo", correpta est, nihil ad rem istuc pertinet. Nam sicut a "ligando" "lictor", et a "legendo" "lector" et a "viendo" "vitor" et "tuendo" "tutor" et "struendo" "structor" productis, quae corripiebantur, vocalibus dicta sunt.
+
+	
+4
+
+Versus accepti ex Q. Ennii septimum annalium, quibus depingitur finiturque ingenium comitasque hominis minoris erga amicum superiorem.
 
 	
 1 Descriptum definitumque est a Quinto Ennio in annali septimo graphice admodum sciteque sub historia Gemini Servili, viri nobilis, quo ingenio, qua comitate, qua modestia, qua fide, qua linguae parsimonia, qua loquendi opportunitate, quanta rerum antiquarum morumque veterum ac novorum scientia quantaque servandi tuendique secreti religione, qualibus denique ad minuendas vitae molestias fomentis, levamentis, solaciis amicum esse conveniat hominis genere et fortuna superioris. 2 Eos ego versus non minus frequenti adsiduoque memoratu dignos puto quam philosophorum de officiis decreta. 3 Ad hoc color quidam vetustatis in his versibus tam reverendus est, suavitas tam inpromisca tamque a fuco omni remota est, ut mea quidem sententia pro antiquis sacratisque amicitiae legibus observandi, tenendi colendique sint. 4 Quapropter adscribendos eos existimavi, si quis iam statim desideraret:
@@ -39,9 +176,19 @@ prudentem qui dicta loquive tacereve posset:
 hunc inter pugnas conpellat Servilius sic. 5 L. Aelium Stilonem dicere solitum ferunt Q. Ennium de semet ipso haec scripsisse picturamque istam morum et ingenii ipsius Q. Ennii factam esse.
 
 	
+5
+
+Sermo Tauri philosophi de modo atque ratione tolerandi doloris secundum Stoicorum decreta.
+
+	
 1 Cum Delphos ad Pythia conventumque totius ferme Graeciae visendum philosophus Taurus iret nosque ei comites essemus inque eo itinere Lebadiam venissemus, quod est oppidum anticum in terra Boeotia, adfertur ibi ad Taurum amicum eius quempiam, nobilem in Stoica disciplina philosophum, aegra valitudine oppressum decumbere. 2 Tunc omisso itinere, quod alioquin maturandum erat, et relictis vehiculis pergit eum propere videre, nosque de more, quem in locum cumque iret, secuti sumus. Et ubi ad aedes, in quis ille aegrotus erat, pervenimus, videmus hominem doloribus cruciatibusque alvi, quod Graeci kolon dicunt, et febri simul rapida adflictari gemitusque ex eo conpressos erumpere spiritusque et anhelitus e pectore eius evadere non dolorem magis indicantes quam pugnam adversum dolorem. 3 Post deinde, cum Taurus et medicos accersisset conlocutusque de facienda medela esset et eum ipsum ad retinendam patientiam testimonio tolerantiae, quam videbat, perhibito stabilisset egressique inde ad vehicula et ad comites rediremus: "vidistis" inquit Taurus "non sane iucundum spectaculum, sed cognitu tamen utile, congredientes conpugnantesque philosophum et dolorem. Faciebat vis illa et natura morbi, quod erat suum, distractionem cruciatumque membrorum, faciebat contra ratio et natura animi, quod erat aeque suum: perpetiebatur et cohibebat coercebatque infra sese violentias effrenati doloris. Nullos eiulatus, nullas conplorationes, ne uras quidem voces indecoras edebat, signa tamen quaedam, sicut vidistis, existebant virtutis et corporis de possessione hominis pugnantium". 4 Tum e sectatoribus Tauri iuvenis in disciplinis philosophiae non ignavus: "si tanta" inquit "doloris acerbitas est, ut contra voluntatem contraque iudicium animi nitatur invitumque hominem cogat ad gemendum confitendumque de malo morbi saevientis, cur dolor aput Stoicos indifferens esse dicitur, non malum? cur deinde aut Stoicus homo cogi aliquid potest aut dolor cogere, cum et dolorem Stoici nihil cogere et sapientem nihil cogi posse dicant?" 5 Ad ea Taurus vultu iam propemodum laetiore - delectatus enim videbatur inlecebra quaestionis -: "si iam amicus" inquit "hic noster melius valeret, gemitus eiusmodi necessarios a calumnia defendisset et hanc, opinor, tibi quaestionem dissolvisset, me autem scis cum Stoicis non bene convenire vel cum Stoica potius; est enim pleraque et sibi et nobis incongruens, sicut libro, quem super ea re composuimus, declaratur. 6 Sed ut tibi a me mos geratur, dicam ego indoctius, ut aiunt, et apertius, quae fuisse dicturum puto sinuosius atque sollertius, si quis nunc adesset Stoicorum; nosti enim, credo, verbum illud vetus et pervolgatum:
 amathesteron pos eipe kai saphesteron lege."
 Atque hinc exorsus de dolore atque de gemitu Stoici aegrotantis ita disseruit: 7 "Natura" inquit "omnium rerum, quae nos genuit, induit nobis inolevitque in ipsis statim principiis, quibus nati sumus, amorem nostri et caritatem ita prorsus, ut nihil quicquam esset carius pensiusque nobis quam nosmet ipsi, atque hoc esse fundamentum ratast conservandae hominum perpetuitatis, si unusquisque nostrum, simul atque editus in lucem foret, harum prius rerum sensum adfectionemque caperet, quae a veteribus philosophis ta prota kata physin appellata sunt: ut omnibus scilicet corporis sui commodis gauderet, ab incommodis omnibus abhorreret. Postea per incrementa aetatis exorta e seminibus suis ratiost et utendi consilii reputatio et honestatis utilitatisque verae contemplatio subtiliorque et exploratior commodorum incommodorumque dilectus; atque ita prae ceteris omnibus enituit et praefulsit decori et honesti dignitas ac, si ei retinendae obtinendaeve incommodum extrinsecus aliquod obstaret, contemptum est; neque aliud esse vere et simpliciter bonum nisi honestum, aliud quicquam malum, nisi quod turpe esset, existimatum est. Reliqua omnia, quae in medio forent ac neque honesta essent neque turpia, neque bona esse neque mala decretum est. Productiones tamen et reiectiones suis quaeque momentis distinctae divisaeque sunt, quae proegmena et apoproegmena ipsi vocant. Propterea voluptas quoque et dolor, quod ad finem ipsum bene beateque vivendi pertinet, et in mediis relicta et neque in bonis neque in malis iudicata sunt. 8 Sed enim quoniam his primis sensibus doloris voluptatisque ante consilii et rationis exortum recens natus homo inbutus est et voluptati quidem natura conciliatus, a dolore autem quasi a gravi quodam inimico abiunctus alienatusque est, idcirco adfectiones istas primitus penitusque inditas ratio post addita convellere ab stirpe atque extinguere vix potest. Pugnat autem cum his semper et exultantis eas opprimit obteritque et parere sibi atque oboedire cogit. 9 Itaque vidistis philosophum ratione decreti sui nixum cum petulantia morbi dolorisque exultantia conluctantem, nihil cedentem, nihil confitentem neque, ut plerique dolentes solent, heiulantem atque lamentantem ac miserum sese et infelicem appellantem, sed acres tantum anhelitus et robustos gemitus edentem, signa atque indicia non victi nec obpressi a dolore, sed vincere eum atque obprimere enitentis. 10 "Sed haut scio," inquit "an dicat aliquis, ipsum illud, quod pugnat, quod gemit, si malum dolor non est, cur necesse est gemere et pugnare? Quia enim omnia, quae non sunt mala, molestia quoque omni non carent, sed sunt pleraque noxa quidem magna et pernicie privata, quia non sunt turpia, contra naturae tamen mansuetudinem lenitatemque opposita sunt et infesta per obscuram quandam et necessariam ipsius naturae consequentiam. Haec ergo vir sapiens tolerare et eluctari potest, non admittere omnino in sensum sui non potest; analgesia enim atque apatheia non meo tantum," inquit "sed quorundam etiam ex eadem porticu prudentiorum hominum, sicuti iudicio Panaetii, gravis atque docti viri, inprobata abiectaque est. 11 "Sed cur contra voluntatem suam gemitus facere cogitur philosophus Stoicus, quem nihil cogi posse dicunt? Nihil sane potest cogi vir sapiens, cum est rationi obtinendae locus: cum vero natura cogit, ratio quoque a natura data cogitur. Quaere etiam, si videtur, cur manu alicuius ob oculos suos repente agitata invitus coniveat, cur fulgente caelo a luminis iactu non sua sponte et caput et oculos declinet, cur tonitru vehementius facto sensim pavescat, cur sternumentis quatiatur, cur aut in ardoribus solis aestuet aut in pruinis inmanibus obrigescat. 12 Haec enim et pleraque alia non voluntas nec consilium nec ratio moderatur, set naturae necessitatisque decreta sunt. 13 "Fortitudo autem non east, quae contra naturam monstri vicem nititur ultraque modum eius egreditur aut stupore animi aut inmanitate aut quadam misera et necessaria in perpetiendis doloribus exercitatione, qualem fuisse accepimus ferum quendam in ludo Caesaris gladiatorem, qui, cum vulnera eius a medicis exsecabantur, ridere solitus fuit; sed ea vera et proba fortitudost, quam maiores nostri scientiam esse dixerunt rerum tolerandarum et non tolerandarum. 14 Per quod apparet esse quaedam intolerabilia, a quibus fortes viri aut obeundis abhorreant aut sustinendis". 15 Cum haec Taurus dixisset videreturque in eandem rem plura etiam dicturus, perventum est ad vehicula, et conscendimus.
+
+	
+6
+
+De aenigmate.
 
 	
 1 Quae Graeci dicunt "aenigmata", hoc genus quidam ex nostris veteribus "scirpos" appellaverunt. Quale est quod nuper invenimus per hercle anticum, perquam lepidum, tribus versibus senariis compositum aenigma, quod reliquimus inenarratum, ut legentium coniecturas in requirendo acueremus. 2 Versus tres hi sunt:
@@ -50,10 +197,25 @@ an utrumque eorum; ut quondam audivi dicier,
 Iovi ipsi regi noluit concedere. 3 Hoc qui nolet diutius aput sese quaerere, inveniet quid sit in M. Varronis de sermone Latino ad Marcellum libro secundo.
 
 	
+7
+
+Quam ob causam Cn. Dolabella proconsul ream mulierem veneficii confitentemque ad Ariopagitas reiecerit.
+
+	
 1 Ad Cn. Dolabellam proconsulari imperio provinciam Asiam obtinentem deducta mulier Smyrnaea est. 2 Eadem mulier virum et filium eodem tempore venenis clam datis vita interfecerat atque id fecisse se confitebatur dicebatque habuisse se faciendi causam, quoniam idem illi maritus et filius alterum filium mulieris ex viro priore genitum, adulescentem optimum et innocentissimum, exceptum insidiis occidissent. Idque ita esse factum controversia non erat. 3 Dolabella retulit ad consilium. 4 Nemo quisquam ex consilio sententiam ferre in causa tam ancipiti audebat, quod et confessum veneficium, quo maritus et filius necati forent, non admittendum inpunitum videbatur et digna tamen poena in homines sceleratos vindicatum fuisset. 5 Dolabella eam rem Athenas ad Ariopagitas ut ad iudices graviores exercitatioresque reiecit. 6 Ariopagitae cognita causa accusatorem mulieris et ipsam, quae accusabatur, centesimo anno adesse iusserunt. 7 Sic neque absolutum mulieris veneficium est, quod per leges non licuit, neque nocens damnata poenitaque, quae digna venia fuit. 8 Scripta haec historiast in libro Valerii Maximi factorum et dictorum memorabilium nono.
 
 	
+8
+
+Reditiones in gratiam nobilium virorum memoratu dignae.
+
+	
 1 P. Africanus superior et Tiberius Gracchus, Tiberii et C. Gracchorum pater, rerum gestarum magnitudine et honorum atque vitae dignitate inlustres viri, dissenserunt saepenumero de republica et ea sive qua alia re non amici fuerunt. 2 Ea simultas cum diu mansisset et sollemni die epulum Iovi libaretur atque ob id sacrificium senatus in Capitolio epularetur, fors fuit, ut aput eandem mensam duo illi iunctim locarentur. 3 Tum quasi diis inmortalibus arbitris in convivio Iovis optimi maximi dexteras eorum conducentibus repente amicissimi facti. Neque solum amicitia incepta, sed adfinitas simul instituta; 4 nam P. Scipio filiam virginem habens iam viro maturam ibi tunc eodem in loco despondit eam Tiberio Graccho, quem probaverat elegeratque exploratissimo iudicii tempore, dum inimicus est. 5 Aemilius quoque Lepidus et Fulvius Flaccus nobili genere amplissimisque honoribus et summo loco in civitate praediti odio inter sese gravi et simultate diutina conflictati sunt. 6 Postea populus eos simul censores facit. Atque illi, ubi voce praeconis renuntiati sunt, ibidem in campo statim nondum dimissa contione ultro uterque et pari voluntate coniuncti complexique sunt exque eo die et in ipsa censura et postea iugi concordia fidissime amicissimeque vixerunt.
+
+	
+9
+
+Quae dicantur vocabula ancipitia; et quod "honoris" quoque vocabulum ancipiti sententia fuerit.
 
 	
 1 Est plurifariam videre atque animadvertere in veteribus scriptis pleraque vocabula, quae nunc in sermonibus vulgi unam certamque rem demonstrent, ita fuisse media et communia, ut significare et capere possent duas inter se res contrarias. Ex quibus quaedam satis nota sunt, ut "tempestas", "valitudo", "facinus", "dolus", "gratia", "industria". 2 Haec enim fere iam vulgatum est ancipitia esse et utroqueversus dici posse.
@@ -61,9 +223,19 @@ Iovi ipsi regi noluit concedere. 3 Hoc qui nolet diutius aput sese quaerere, in
 kakion einai to adikein e to adikeisthai.
 
 	
+10
+
+Quod "aeditumus" verbum Latinum sit.
+
+	
 1 "Aeditimus" verbum Latinum est et vetus, ea forma dictum qua "finitimus" et "legitimus". 2 Sed pro eo a plerisque nunc "aedituus" dicitur nova et commenticia usurpatione quasi a tuendis aedibus appellatus. 3 Satis hoc esse potuit admonendi gratia dixisse . . . propter agrestes quosdam et indomitos certatores, qui nisi auctoritatibus adhibitis non comprimuntur. 4 M. Varro in libro secundo ad Marcellum de Latino sermone "aeditumum" dici oportere censet magis quam "aedituum", quod alterum sit recenti novitate fictum, alterum antiqua origine incorruptum. 5 Laevius quoque, ut opinor, in laodamia "claustritumum" dixit, qui claustris ianuae praeesset, eadem scilicet figura qua "aeditumum" dici videbat, qui aedibus praeest. 6 In IV in Verrem M. Tullii in exemplaribus fidelissimis ita inveni scriptum: "Aeditumi custodesque mature sentiunt", in libris autem hoc vulgariis "aeditui" scriptum est. 7 Pomponii fabula atellania est, quae ita scripta est: Aeditumus. In qua hic versus est:
 qui postquam tibi appareo atque aeditumor in templo tuo.
 Titus autem Lucretius in carmine suo pro "aedituis" "aedituentes" appellat.
+
+	
+11
+
+Errare istos, qui spe et fiducia latendi peccent, cum latebra peccati perpetua nulla sit; et super ea re Peregrini philosophi sermo et Sophocli poetae sententia.
 
 	
 1 Philosophum nomine Peregrinum, cui postea cognomentum Proteus factum est, virum gravem atque constantem, vidimus, cum Athenis essemus, deversantem in quodam tugurio extra urbem. Cumque ad eum frequenter ventitaremus, multa hercle dicere eum utiliter et honeste audivimus. In quibus id fuit, quod praecipuum auditu meminimus. 2 Virum quidem sapientem non peccaturum esse dicebat, etiamsi peccasse eum dii atque homines ignoraturi forent. 3 Non enim poenae aut infamiae metu non esse peccandum censebat, sed iusti honestique studio et officio. 4 Si qui tamen non essent tali vel ingenio vel disciplina praediti, uti se vi sua ac sponte facile a peccando tenerent, eos omnis tunc peccare proclivius existimabat, cum latere posse id peccatum putarent inpunitatemque ex ea latebra sperarent; 5 "at si sciant" inquit "homines nihil omnium rerum diutius posse celari, repressius pudentiusque peccabitur". 6 Propterea versus istos Sophocli, prudentissimi poetarum, in ore esse habendos dicebat:
@@ -71,13 +243,33 @@ pros tauta krypte meden, hos apanth'horon
 kai pant'akovon pant'anaptyssei chronos. 7 Alius quidam veterum poetarum, cuius nomen mihi nunc memoriae non est, Veritatem Temporis filiam esse dixit.
 
 	
+12
+
+Faceta responsio M. Ciceronis amolientis a se crimen manifesti mendacii.
+
+	
 1 Haec quoque disciplina rhetorica est callide et cum astu res criminosas citra periculum confiteri, ut, si obiectum sit turpe aliquid, quod negari non queat, responsione ioculari eludas et rem facias risu magis dignam quam crimine, sicut fecisse Ciceronem scriptum est, cum id, quod infitiari non poterat, urbano facetoque dicto diluit. 2 Nam cum emere vellet in Palatio domum et pecuniam in praesens non haberet, a P. Sulla, qui tum reus erat, mutua sestertium viciens tacita accepit. 3 Ea res tamen, priusquam emeret, prodita est et in vulgus exivit, obiectumque ei est, quod pecuniam domus emendae causa a reo accepisset. 4 Tum Cicero inopinata obprobratione permotus accepisse se negavit ac domum quoque se empturum negavit atque "adeo" inquit "verum sit accepisse me pecuniam, si domum emero". Sed cum postea emisset et hoc mendacium in senatu ei ab inimicis obiceretur, risit satis atque inter ridendum: "akoinonoetoi" inquit "homines estis, cum ignoratis prudentis et cauti patrisfamilias esse, quod emere velit, empturum sese negare propter competitores emptionis".
+
+	
+13
+
+"Intra Kalendas" cum dicitur, quid significet, utrum "ante Kalendas" an "Kalendis" an utrumque; atque inibi, quid sit in oratione M. Tulli "intra oceanum" et "intra montem Taurum" et in quadam epistula "intra modum".
 
 	
 1 Cum Romae a consulibus iudex extra ordinem datus pronuntiare "intra kalendas" iussus essem, Sulpicium Apollinarem, doctum hominem, percontatus sum, an his verbis "intra Kalendas" ipsae quoque Kalendae tenerentur, dixique ei me iudicem datum Kalendasque mihi prodictas, ut intra eum diem pronuntiarem. 2 "Cur" inquit "hoc me potius rogas quam ex istis aliquem peritis studiosisque iuris, quos adhibere in consilium iudicaturi soletis?" 3 Tum illi ego ita respondi: "Si aut de vetere" inquam "iure et recepto aut controverso et ambiguo aut novo et constituendo discendum esset, issem plane sciscitatum ad istos, quos dicis; 4 sed cum verborum Latinorum sententia, usus, ratio exploranda sit, scaevus profecto et caecus animi forem, si, cum haberem tui copiam, issem magis ad alium quam ad te". 5 "Audi igitur" inquit "de ratione verbi quid existimem, sed eo tamen pacto, ut id facias, non quod ego de proprietate vocis disseruero, sed quod in ea re omnium pluriumve consensu observari cognoveris; non enim verborum tantum communium verae atque propriae significationes longiore usu mutantur, sed legum quoque ipsarum iussa consensu tacito oblitterantur". 6 Tum deinde disseruit me et plerisque aliis audientibus in hunc ferme modum: "Cum dies" inquit "ita praefinita est, ut iudex "intra Kalendas" pronuntiet, occupavit iam haec omnes opinio non esse dubium, quin ante Kalendas iure pronuntietur, et id tantum ambigi video, quod tu quaeris, an Kalendis quoque iure pronuntietur. 7 Ipsum autem verbum sic procul dubio natum est atque ita sese habet, ut, cum dicitur "intra Kalendas", non alius accipi dies debeat, quam solae Kalendae. Nam tres istae voces "intra, citra, ultra", quibus certi locorum fines demonstrantur, singularibus apud veteres syllabis appellabantur "in, cis, uls". 8 Haec deinde particulae quoniam parvo exiguoque sonitu obscurius promebantur, addita est tribus omnibus eadem syllaba, et quod dicebatur "cis Tiberim" et "uls Tiberim", dici coeptum est "citra Tiberim" et "ultra Tiberim"; item quod erat "in", accedente eadem syllaba "intra" factum est. 9 Sunt ergo haec omnia quasi contermina iunctis inter se finibus cohaerentia: "intra oppidum", "ultra oppidum", "citra oppidum", ex quibus "intra", sicuti dixi, "in" significat; 10 nam qui dicit "intra oppidum", "intra cubiculum", "intra ferias", non dicit aliud quam "in oppido", "in cubiculo", "in feriis". 11 "Intra Kalendas" igitur non "ante Kalendas" est, sed "in Kalendis", id est eo ipso die, quo kalendae sunt. 12 Itaque secundum verbi ipsius rationem, qui iussus est "intra Kalendas" pronuntiare, nisi Kalendis pronuntiet, contra iussum vocis facit; 13 nam si ante id fiat, non "intra" pronuntiat, sed "citra". 14 Nescio quo autem pacto recepta vulgo interpretatio est absurdissima, ut "intra Kalendas" significare videatur etiam "citra kalendas" vel "ante Kalendas"; nihil enim ferme interest. 15 Atque insuper dubitatur, an Kalendis quoque pronuntiari possit, quando neque ultra neque citra, set, quod inter haec medium est, "intra Kalendas", id est kalendis, pronuntiandum sit. 16 Sed nimirum consuetudo vicit, quae cum omnium domina rerum, tum maxime verborum est". 17 Ea omnia cum Apollinaris scite perquam atque enucleate disputavisset, tum ego haec dixi: "Cordi" inquam "mihi fuit, priusquam ad te irem, quaerere explorareque, quonam modo veteres nostri particula ista, qua de agitur, usi sint, atque ita invenimus Tullium in tertia in Verrem scripsisse istoc modo: "Locus intra oceanum iam nullus est neque tam longincus neque tam reconditus, quo non per haec tempora nostrorum hominum libido iniquitasque pervaserit". 18 "Intra oceanum" dicit contra rationem tuam; non enim vult, opinor, dicere "in oceano"; terras enim demonstrat omnis, quae oceano ambiuntur, ad quas a nostris hominibus adiri potest: quae sunt "citra oceanum", non "in oceano"; neque enim videri potest insulas significare nescio quas, quae penitus esse intra aequora ipsa oceani dicuntur". 19 Tunc Sulpicius Apollinaris renidens: "non me hercule inargute" inquit "nec incallide opposuisti hoc Tullianum; sed Cicero "intra oceanum" non, ut tu interpretare, "citra oceanum" dixit. 20 Quid enim potest dici "citra oceanum" esse, cum undique oceanus circumscribat omnis terras et ambiat? Nam "citra" quod est, id extra est; qui autem potest "intra" esse dici, quod extra est? Sed si ex una tantum parte orbis oceanus foret, tum, quae terra ad eam partem foret, "citra oceanum" esse dici posset vel "ante oceanum"; cum vero omnis terras omnifariam et undiqueversum circumfluat, nihil citra eum est, sed undarum illius ambitu terris omnibus convallatis in medio eius sunt omnia, quae intra oras eius inclusa sunt, sicuti hercle sol non citra caelum vertitur, sed in caelo et intra caelum". 21 Haec tunc Apollinaris scite acuteque dicere visus est. Set postea in libro M. Tullii epistularum ad Servium Sulpicium sic dictum esse invenimus "intra modum", ut "intra Kalendas" dicunt, qui dicere "citra Kalendas" volunt. 22 Verba haec Ciceronis sunt, quae adposui: "Sed tamen, quoniam effugi eius offensionem, qui fortasse arbitraretur me hanc rem publicam non putare, si perpetuo tacerem, modice hoc faciam aut etiam intra modum, ut et illius voluntati et meis studiis serviam". 23 "Modice" dixerat "hoc faciam", id est cum modo aequo et pari; 24 deinde, quasi hoc displiceret et corrigere id vellet, addit: "aut etiam intra modum", per quod ostendit minus sese id facturum esse, quam quod fieri modice videretur, id est non ad ipsum modum, set retro paululum et citra modum. 25 In oratione etiam, quam pro P. Sestio scripsit, "intra montem Taurum" sic dicit, ut non significet "in monte Tauro", sed "usque ad montem cum ipso monte". 26 Verba sunt haec ipsius M. Tullii ex ea, qua dixi, oratione: "Antiochum Magnum illum maiores nostri magna belli contentione terra marique superatum intra montem Taurum regnare iusserunt; Asiam, qua illum multarunt, Attalo, ut is in ea regnaret, condonarunt". 27 "Intra montem" inquit "Taurum regnare iusserunt", quod non proinde est, ut "intra cubiculum" dicimus, nisi videri potest id esse "intra montem", quod est intra regiones, quae Tauri montis obiectu separantur. 28 Nam sicuti qui intra cubiculum est, is non in cubiculi parietibus, sed intra parietes est, quibus cubiculum includitur, qui tamen ipsi quoque parietes in cubiculo sunt, ita, qui regnat "intra montem Taurum", non solum in monte Tauro regnat, sed in his etiam regionibus, quae Tauro monte clauduntur. 29 Num igitur secundum istam verborum M. Tullii similitudinem, qui iubetur "intra Kalendas" pronuntiare, is et ante Kalendas et ipsis Kalendis iure pronuntiare potest? Neque id fit quasi privilegio quodam inscitae consuetudinis, sed certa rationis observatione, quoniam omne tempus, quod Kalendarum die includitur "intra kalendas" esse recte dicitur.
 
 	
+14
+
+"Saltem" particula quam vim habeat et quam originem.
+
+	
 1 "Saltem" particula quam haberet principem significationem quaeque vocis istius origo esset, quaerebamus. 2 Ita enim primitus factam esse apparet, ut non videatur, sicuti quaedam supplementa orationis, temere et incondite adsumpta. 3 Atque erat, qui diceret legisse se in grammaticis commentariis P. Nigidii "saltem" ex eo dictum, quod esset "si aliter", idque ipsum dici solitum per defectionem, nam plenam esse sententiam: "si aliter non potest". 4 Sed id nos in isdem commentariis Nigidii, cum eos non, opinor, incuriose legissemus, nusquam invenimus. 5 Videntur autem verba ista "si aliter non potest" a significatione quidem voculae huius, de qua quaerimus, non abhorrere. Set tot verba tamen in paucissimas litteras cludere inprobae cuiusdam subtilitatis est. 6 Fuit etiam, qui diceret, homo in libris atque in litteris adsiduus, "saltem" sibi dictum videri "u" littera media extrita; "salutem" enim ante dictum, quod nos "saltem" diceremus. "Nam cum alia quaedam petita et non impetrata sunt, tum solemus" inquit "quasi extremum aliquid petituri, quod negari minime debeat, dicere "hoc saltem fieri aut dari oportere", tamquam salutem postremo petentes, quam impetrari certe et obtineri sit aequissimum". 7 Sed hoc itidem non inlepide quidem fictum nimis tamen esse videtur commenticium. Censuimus igitur amplius quaerendum.
+
+	
+15
+
+Quod Sisenna in libris historiarum adverbiis huiuscemodi saepenumero usus est: "celatim", "vellicatim", "saltuatim".
 
 	
 1 Cum lectitaremus historiam Sisennae adsidue, huiuscemodi figurae adverbia in oratione eius animadvertimus, cuimodi sunt haec: "cursim", "properatim", "celatim", "vellicatim", "saltuatim". 2 Ex quibus duo prima, quia sunt notiora, exemplis non indigebant; reliqua in historiarum sexto sic scripta sunt: "Quam maxime celatim poterat, in insidiis suos disponit". Item alio in loco: "Nos una aestate in Asia et Graecia gesta litteris idcirco continentia mandavimus, ne vellicatim aut saltuatim scribendo lectorum animos impediremus".
@@ -85,3 +277,102 @@ kai pant'akovon pant'anaptyssei chronos. 7 Alius quidam veterum poetarum, cuius
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+Gellius
+			
+
+
+
+
+Classical Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Dec. 06

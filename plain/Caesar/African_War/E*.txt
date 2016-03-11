@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 67‑78
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 87‑98
+				
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p268
+[Capitula 79‑86]
+	
+
 79
 
 Postquam nulla condicione cogere adversarios poterat ut in aequum locum descenderent legionumque periculum facerent, neque ipse propius hostem castra ponere propter aquae penuriam se posse animadvertebat, adversarios non virtute eorum confidere sed aquarum inopia fretos despicere se intellexit, II Non. Apr. tertia vigilia egressus ab Aggar XVI milia nocte progressus ad Thapsum, ubi Vergilius cum grandi praesidio praeerat, castra ponit oppidumque eo die circummunire coepit locaque idonea opportunaque complura praesidiis occupare, hostes ne intrare ad se ac loca interiora capere possentrid. Scipio interim cognitis Caesaris consiliis ad necessitatem adductus dimicandi, ne per summum dedecus fidissimos suis rebus Thapsitanos et Vergilium amitteret, confestim Caesarem per superiora loca consecutus milia passuum VIII a Thapso binis castris consedit.
@@ -65,31 +183,191 @@ p282relictis, M. Messalla Uticam ante praemisso cum equitatu ipse eodem iter fa
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 The MSS. omit cohortium, which Woelfflin conjectured.
 
 
+❦
 
 2
 contra MSS.: constitutam R. Schneider.
 
 
+❦
 
 3
 secundaque MSS.: VII.que Groebe: but it is open to doubt whether the 7th & 8th legions were present: cf. note 1 on ch. 62. Nipperdey proposed X. XIII.que . . . XIIII. et VIIII.; Schneider X. VIIII.que . . . XIII. et XIIII.
 
 
+❦
 
 4
 quinque legiones MSS.: quintae legionis Vielhaber.
 
 
+❦
 
 5
 itata MSS.: iactatu Kuebler.
 
 
+❦
 
 6
 refectis MSS.: refecti Daehn.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+III Kal. Mar. 13

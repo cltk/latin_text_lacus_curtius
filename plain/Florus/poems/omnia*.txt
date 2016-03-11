@@ -1,4 +1,414 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur textus exstantium carminum
+				
+
+
+
+Flori
+				
+
+
+
+a
+Loeb Classical Library
+editus
+				
+MCMXXXIV (recensitusque MCMXXXV)
+				
+Textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+
+Florus
+	
+
+
+p426
+
+I
+	
+
+
+
+
+
+Ego nolo Caesar esse,
+			
+ambulare per Britannos
+			
+latitare per Pannoniasa
+
+Scythicas pati pruinas.
+		
+
+
+
+II‑IX. De Qualitate Vitae
+	
+
+
+II
+	
+
+
+
+
+
+Bacche, vitium repertor, plenus adsis vitibus,
+			
+effluas dulcem liquorem, comparandum nectari,
+			
+conditumque fac vetustum, ne malignis venulis
+			
+asperum ducat saporem, versus usum in alterum.
+		
+
+
+
+
+III
+	
+
+
+
+
+
+Mulier intra pectus omnis celat virus pestilens;
+			
+dulce de labris loquuntur, corde vivunt noxio.
+		
+
+
+
+p428
+
+IV
+	
+
+
+
+
+
+Sic Apollo, deinde Liber sic videtur ignifer:
+			
+ambo sunt flammis creati prosatique ex ignibus;
+			
+ambo de donis calorem, vite et radio, conferunt;
+			
+noctis hic rumpit tenebras, hic tenebras pectoris.
+		
+
+
+
+
+V
+	
+
+
+
+
+
+Quando ponebam novellas arbores mali et piri,
+			
+cortici summae notavi nomen ardoris mei.
+			
+nulla fit exinde finis vel quies cupidinis:
+			
+crescit arbor, gliscit ardor: animus implet litteras.
+		
+
+
+
+
+VI
+	
+
+
+
+
+
+Qui mali sunt non fuere matris ex alvo mali,
+			
+sed malos faciunt malorum falsa contubernia.
+		
+
+
+
+
+VII
+	
+
+
+
+
+
+Sperne mores transmarinos, mille habent offucia.
+			
+cive Romano per orbem nemo vivit rectius:
+			
+quippe malim unum Catonem quam trecentos Socratas.
+		
+
+
+
+p430
+
+VIII
+	
+
+
+
+
+
+Tam malum est habere nummos, non habere quam malum est;
+			
+tam malum est audere semper quam malum est semper pudor;
+			
+tam malum est tacere multum quam malum est multum loqui;
+			
+tam malum est foris amica quam malum est uxor domi;
+			5
+nemo non haec vera dicit, nemo non contra facit.
+		
+
+
+
+
+IX
+	
+
+
+
+
+
+Consules fiunt quotannis et novi proconsules;
+			
+solus aut rex aut poeta non quotannis nascitur.
+		
+
+
+
+
+X
+	
+De Rosis
+	
+
+
+
+
+
+Venerunt aliquando rosae. per veris amoeni
+			
+ingenium una dies ostendit spicula florum,
+			
+altera pyramidas nodo maiore tumentes,
+			
+tertia iam calathos, totum lux quarta peregit
+			5
+floris opus. pereunt hodie nisi mane leguntur.
+		
+
+
+
+
+XI
+	
+De Rosis
+	
+
+
+
+
+
+A, quales ego mane rosas procedere vidi!
+			
+nascebantur adhuc neque erat par omnibus aetas.
+			
+prima papillatos ducebat tecta corymbos,
+			
+altera puniceos apices umbone levabat,
+			5
+tertia iam totum calathi patefecerat orbem,
+			
+p432
+quarta simul nituit nudati germine floris.
+			
+dum levat una caput dumque explicat altera nodum,
+			
+sic, dum virgineus pudor exsinuatur amictu,
+			
+ne pereant lege mane rosas: cito virgo senescit.
+		
+
+
+
+
+XII
+	
+De Rosa
+	
+
+
+
+
+
+Aut hoc risit Amor aut hoc de pectine traxit
+			
+purpureis Aurora comis aut sentibus haesit
+			
+Cypris et hic spinis insedit sanguis acutis.
+		
+
+
+
+p434
+
+XIII
+	
+De Rosis
+	
+
+
+
+
+
+Hortus erat Veneris, roseis circumdatus herbis,
+			
+gratus ager dominae, quem qui vidisset amaret.
+			
+dum puer hic passim properat decerpere flores
+			
+et velare comas, spina libavit acuta
+			5
+marmoreos digitos: mox ut dolor attigit artus
+			
+sanguineamque manum, tinxit sua lumina gutta.
+			
+pervenit ad matrem frendens defertque querellas:
+			
+"unde rosae, mater, coeperunt esse nocentes?
+			
+unde tui flores pugnare latentibus armis?
+			10
+bella gerunt mecum. floris color et cruor unum est!"
+		
+
+
+
+p434
+
+XIV
+	
+De Musis
+	
+
+
+
+
+
+Clio saecla retro memorat sermone soluto.
+			
+Euterpae geminis loquitur cava tibi ventis.
+			
+voce Thalia cluens soccis dea comica gaudet.
+			
+Melpomene reboans tragicis fervescit iambis.
+			5
+aurea Terpsichorae totam lyra personat aethram.
+			
+fila premens digitis Erato modulamina fingit.
+			
+flectitur in faciles variosque Polymnia motus.
+			
+Uranie numeris scrutatur sidera mundi.
+			
+Calliope doctis dat laurea serta poetis.
+		
+
+
+
+
+Adnotatio Thayeri:
+	
+
 a
 latitare per:
 	
@@ -6,3 +416,102 @@ Historia Augusta, Hadr. 16.3; Pannonias scripsi.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Florus poeta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Non. Nov. 08

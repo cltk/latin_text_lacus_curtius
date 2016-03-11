@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p20
+Liber Secundus
+	
+
 1
 Cum grues Thracias sedes et Thracia frigora relicturae sunt, frequentes congregantur ad Hebrum, et unaquaeque earum lapillo devorato, quem prandi et saburrae loco habeat adversus ventorum impetus, migrationem aggreditur versus Nilum caloris et hiberni istic victus desiderio incensa. Cum vero proximum est, ut migrare et ultra progredi ingrediantur, grus aetate maxime provecta, ter universum gregem circumeundo emensa, humi lapsa moritur; eamque mortuam exinde sepultura reliquae adficiunt, et dein recta in Aegyptum iter faciunt, atque immensa maria alarum remigio transmittentes, nec usquam appellunt, neque interquiescunt. Aegyptios autem sementem facientes offendunt, et in arvis, ut ita dicam, mensam cibis adfluentem inveniunt, eaque hospitali, etsi non invitatae, fruuntur.
 
@@ -282,5 +404,121 @@ Bubulum genus utilissimum est, et hominibus maxime prodest, cum ad societatem re
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VI Kal. Oct. 04

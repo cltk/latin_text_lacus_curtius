@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+ 
+Tiberius
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Divus
+				
+Claudius
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p404
+
+Caligula
+	
+
 1
 
 1 Germanicus, C. Caesaris pater, Drusi et minoris Antoniae filius, a Tiberio patruo adoptatus, quaesturam quinquennio ante quam per leges liceret et post eam consulatum statim gessit, missusque ad exercitum in Germaniam, excessu Augusti nuntiato, legiones universas imperatorem Tiberium pertinacissime recusantis et sibi summam rei p. deferentis incertum pietate an constantia maiore compescuit atque hoste mox devicto triumphavit. 2 Consul deinde iterum creatus ac prius quam honorem iniret ad componendum Orientis statum expulsus, cum Armeniae regem devicisset, Cappadociam in provinciae formam redegisset, annum agens aetatis quartum et tricensimum diuturno morbo Antiochiae obiit, non sine veneni suspicione. Nam praeter livores, qui toto corpore erant, et spumas, quae per os fluebant, cremati quoque cor inter ossa incorruptum repertum est, cuius ea natura existimatur, ut tinctum veneno igne confici nequeat.
@@ -37,6 +159,14 @@ p410et uxorum capita rasisse ad indicium maximi luctus; regum etiam regem et exe
 1 Romae quidem, cum ad primam famam valitudinis attonita et maesta civitas sequentis nuntios opperiretur, et repente iam vesperi incertis auctoribus convaluisse tandem percrebruisset, passim cum luminibus et victimis in Capitolium concursum est ac paene revolsae templi fores, ne quid gestientis vota reddere moraretur, expergefactus e somno Tiberius gratulantium vocibus atque undique concinentium:
 
 
+
+
+
+"Salva Roma, salva patria, salvus est Germanicus."
+		
+
+
+
 2 Et ut demum fato functum palam factum est, non solaciis ullis, non edictis inhiberi luctus publicus potuit duravitque etiam per festos Decembris mensis dies. Auxit gloriam desideriumque defuncti et atrocitas insequentium temporum, cunctis nec temere opinantibus reverentia eius ac metu repressam Tiberi saevitiam, quae mox eruperit.
 
 	
@@ -52,6 +182,16 @@ p412Augustus in cubiculo suo positam, quotiensque introiret, exosculabatur; cete
 8
 
 1 C. Caesar natus est pridie Kal. Sept. patre suo et C. Fonteio Capitone coss. Ubi natus sit, incertum diversitas tradentium facit. Cn. Lentulus Gaetulicus Tiburi genitum scribit, Plinius Secundus in Treveris vico Ambitarvio supra Confluentes; addit etiam pro argumento aras ibi ostendi inscriptas OB AGRIPPINAE PVERPERIVM. Versiculi imperante mox eo divulgati apud hibernas legiones procreatum indicant:
+
+
+
+
+
+"In castris natus, patriis nutritus in armis,
+			
+Iam designati principis omen erat."
+		
+
 
 
 2 Ego in actis Anti editum invenio. Gaetulicum refellit Plinius quasi mentitum per adulationem, ut ad laudes iuvenis gloriosique principis aliquid etiam ex urbe Herculi sacra sumeret, abusumque audentius mendacio, quod ante annum fere natus Germanico filius Tiburi fuerat, appellatus et ipse C. Caesar, de cuius amabili pueritia immaturoque obitu supra diximus. 3 Plinium arguit ratio temporum. Nam qui res Augusti
@@ -177,11 +317,27 @@ p434Augusti theatrumque Pompei, absolvit. Incohavit autem aquae ductum regione T
 Compluribus cognominibus adsumptis — nam et "pius" et "castrorum filius" et "pater exercituum" et "optimus maximus Caesar" vocabatur — cum audiret forte reges, qui officii causa in urbem advenerant, concertantes apud se super cenam de nobilitate generis, exclamavit:
 
 
+
+
+
+Εἷς κοίρανος ἔστω, εἷς βασιλεύς.
+		
+
+
+
 Nec multum afuit quin statim diadema sumeret speciemque principatus in regni formam converteret. 2 Verum admonitus et principum et regum se excessisse fastigium, divinam ex eo maiestatem asserere sibi coepit; datoque negotio, ut simulacra numinum religione et arte praeclara, inter quae Olympii Iovis, apportarentur e Graecia,19 quibus
 
 
 
 p436capite dempto suum imponeret, partem Palatii ad Forum usque promovit, atque aede Castoris et Pollucis in vestibulum transfigurata, consistens saepe inter fratres deos, medium adorandum se adeuntibus exhibebat; et quidam eum Latiarem iovem consalutarunt. 3 Templum etiam numini suo proprium et sacerdotes et excogitatissimas hostias instituit. In templo simulacrum stabat aureum iconicum amiciebaturque cotidie veste, quali ipse uteretur. Magisteria sacerdotii ditissimus quisque et ambitione et licitatione maxima vicibus comparabant. Hostiae erant phoenicopteri, pavones, tetraones, numidicae, meleagrides, phasianae, quae generatim per singulos dies immolarentur. 4 Et noctibus quidem plenam fulgentemque lunam invitabat assidue in amplexus atque concubitum, interdiu vero cum Capitolino Iove secreto fabulabatur, modo insusurrans ac praebens in vicem aurem, modo clarius nec sine iurgiis. Nam vox comminantis audita est:
+
+
+
+
+
+Ἤ μ᾽ ἀνάειρ᾽ ἤ ἐγὼ σέ,
+		
+
 
 
 donec exoratus, ut referebat, et in contubernium ultro invitatus super templum Divi Augusti ponte transmisso Palatium Capitoliumque coniunxit. Mox, quo propior esset, in area Capitolina novae domus fundamenta iecit.
@@ -259,6 +415,14 @@ p450misit circum insulas, qui universos contrucidarent. Cum discerpi senatorem c
 
 
 p452notoque iam praecepto: "Ita feri ut se mori sentiat." Punito per errorem nominis alio quam quem destinaverat, ipsum quoque paria meruisse dixit. Tragicum illud subinde iactantibus:
+
+
+
+
+
+"Oderint, dum metuant."
+		
+
 
 
 2 Saepe in cunctos pariter senatores ut Seiani clientis, ut matris ac fratrum suorum delatores, invectus est prolatis libellis, quos crematos simulaverat, defensaque Tiberi saevitia quasi necessaria, cum tot criminantibus credendum esset. Equestrem ordinem ut scaenae harenaeque devotum assidue proscidit. Infensus turbae faventi adversus studium suum exclamavit: "Utinam p. R. unam cervicem haberet!" cumque Tetrinius latro postularetur, et qui postularent, Tetrinios esse ait. 3 Retiarii tunicati quinque numero gregatim dimicantes sine certamine ullo totidem secutoribus succubuerant; cum occidi iuberentur, unus resumpta fuscina omnes victores interemit; hanc ut crudelissimam caedem et deflevit edicto et eos, qui spectare sustinuissent, exsecratus est.
@@ -511,230 +675,390 @@ p496sepultumque. Satis constat, prius quam id fieret, hortorum custodes umbris i
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 divexanti, Torrentius; diu vexanti, mss.
+❦
 
 2
 iusticii ΠQ; the other mss. have iusti.
 
 
+❦
 
 3
 et ex ΥT; the other mss. have ex only.
 
 
+❦
 
 4
 The mss. have auctor after sola.
 
 
+❦
 
 5
 ioco, Beroaldus; loco, Ω.
 
 
+❦
 
 6
 ablegari, G; the other mss. have oblegari.
 
 
+❦
 
 7
 elicientium, L3ς; elicentium, XΠQ; the other mss. have et licentium.
 
 
+❦
 
 8
 ne, Gς; the other mss. have nec.
 
 
+❦
 
 9
 The mss. have the gloss serpentis id genus after natricem.
 
 
+❦
 
 10
 hoste, Υ; vete, M; vetere, G; ve tunc, LP1ς (ne, L); hoste tunc, OP2T. Leg. seiano ve[l] tē suspecto, mox et oppresso, e.q.s.
+❦
 
 11
 adiicerentur, sixteenth century editions; afficerentur (adficerentur) Ω.
 
 
+❦
 
 12
 adiecit, ς (Beroaldus); affecit (adfecit), Ω.
 
 
+❦
 
 13
 fascias, ς (Beroaldus); fasces, Ω.
 
 
+❦
 
 14
 atque, G; ac, ΠX; at, MQR.
 
 
+❦
 
 15
 ad, inserted by Torrentius.
+❦
 
 16
 aggere terreno, Υ′P2; the other mss. omit aggere.
 
 
+❦
 
 17
 falerato, Ω.
 
 
+❦
 
 18
 quercea, ς (Roth); quiereica, MG; quercica, Υ; insignis quoque aerea, X.
 
 
+❦
 
 19
 e Graecia, Venetian ed. of 1510; egregia, Ω.
 
 
+❦
 
 20
 Siculasque, ς; singulasque, Ω.
 
 
+❦
 
 21
 Lurconem, Stephanus; Lyrgonem, Ω.
 
 
+❦
 
 22
 oboluisset, Beroaldus; obolevisset, mss.
+❦
 
 23
 prostraverit, ς; the earlier mss. have prostravit.
 
 
+❦
 
 24
 C., mss.; P., inscriptions.
+❦
 
 25
 non prius, supplied by Roth.
+❦
 
 26
 ementitus, Bentley.
+❦
 
 27
 equestria, Sς; equestri, Ω.
 
 
+❦
 
 28
 proque, Bücheler; quoque, mss.
+❦
 
 29
 paegniaris (-iis), MGX; pegmares, ΠQ.
 
 
+❦
 
 30
 Aesius, Ihm; Esius, Ω.
 
 
+❦
 
 31
 hoplomacho, Sabellicus; aplomacho, Ω.
 
 
+❦
 
 32
 Nemorensi, G3ς; nemoressi, Ω.
 
 
+❦
 
 33
 proripuit se, Roth; proripuit, ML1P; proripuit e, GR; se proripuit, L3ST; se proripuit e, ΠQ.
 
 
+❦
 
 34
 neque suae, added in Nς; omitted by the other mss.
+❦
 
 35
 symphonias, GSNς; the other mss. have symphro or simphro.
 
 
+❦
 
 36
 Ti., Roth; T., Ω.
 
 
+❦
 
 37
 deflabat, Lipsius; deflabat, corrected to deflaebat (= deflebat), M; deflebat, XΥ; delebat, G.
 
 
+❦
 
 38
 antea iter, Gronovius; antea alter, Ω. Ante iter R. Steph. ("duo probatissimi libri" Tom).
 
 
+❦
 
 39
 senum, Lipsius; sescentorum, Ω.
 
 
+❦
 
 40
 urbem, Υ; urbem omnem, MGS; omnem urbem, X.
 
 
+❦
 
 41
 ad avertendos, TL3; animadvertendos, Υ; the other mss. have advertendos.
 
 
+❦
 
 42
 at vero maiore, MLP (ad, M.); ad (at) vero maiora, GΥ′O; ad maiora vero HNς.
 
 
+❦
 
 43
 reversus, Bentley, Cannegieter; versus, Ω.
 
 
+❦
 
 44
 Thrax, Ω.
 
 
+❦
 
 45
 deinde, MT; the other mss. have dein.
 
 
+❦
 
 46
 Mauritaniam, Ω.
 
 
+❦
 
 47
 atque altera, Ihm; altera, M; et altera, GΠQ; alteraque XR.
 
 
+❦
 
 48
 auctor, ς; actor, Ω.
 
 
+❦
 
 49
 viii, XΥ; vii, G.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VIII Kal. Jan. 04

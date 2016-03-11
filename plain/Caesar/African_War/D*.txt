@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 37‑66
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 79‑86
+				
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p248
+[Capitula 67‑78]
+	
+
 67
 
 Caesar interim, quoniam inopia frumenti premebatur, copias omnis in castra conducit atque praesidio Lepti, Ruspinae, Acyllae relicto, Cispio Aquilaeque classe tradita ut alter Hadrumetum, alter Thapsum mari obsiderent, ipse castris incensi quarta noctis vigilia acie instructa impedimentis in sinistra parte collocatis ex eo loco proficiscitur et pervenit ad oppidum Aggar, quod a Gaetulis saepe
@@ -97,8 +215,16 @@ p268universi in hostis impressione facta in fugam adversarios dederunt; multis o
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 The distances given in the MSS. — 10 and 14 (or 18, or 19) have been much disputed, and editors have amended to suit their own identification of the towns. But the general meaning seems clear — that Zeta lay closer to Scipio. I have adopted Veith's identification of Aggar, Zeta and Tegea.
+
+
+
 
 
 
@@ -109,8 +235,14 @@ primis MSS.: proximis Schneider.
 
 
 
+
+
+
 3
 eosque MSS.: equosque Hoffmann.
+
+
+
 
 
 
@@ -121,11 +253,167 @@ quodcumque proelium quotiens most MSS. quod, quotienscunque proelium Woelfflin.
 
 
 
+
+
+
 5
 productas suas copias MSS.: I have adopted Clark's conjecture.
 
 
 
 
+
+
+
 6
 The MSS. text of the earlier part of this sentence is very probably corrupt: some MSS. read de eorum ne tranfugas.º
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+X Kal. Mar. 13

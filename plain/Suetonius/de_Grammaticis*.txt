@@ -1,4 +1,105 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p396
+Suetonius
+	
+De Grammaticis
+	
+
+
 1
 
 1 Grammatica Romae ne in usu quidem olim, nedum in honore ullo erat, rudi scilicet ac bellicosa etiam tum civitate, necdum magnopere liberalibus disciplinis vacante. Initium quoque eius mediocre exstitit, siquidem antiquissimi doctorum, qui iidem1 et poetae et semigraeci erant (Livium et Ennium dico, quos utraque lingua domi forisque docuisse adnotatum est) nihil amplius quam Graecos interpretabantur, aut si quid ipsi Latine composuissent praelegebant. Nam quod nonnulli tradunt duos libros "De Litteris Syllabisque," item "De Metris" ab eodem Ennio editos, iure arguit L. Cotta non poetae sed posterioris Ennii esse, cuius etiam "De Augurandi Disciplina" volumina ferantur.
@@ -49,6 +150,16 @@ Clari professores et de quibus prodi possit aliquid dum taxat a nobis, fere hi 
 1 Saevius Nicanor primus ad famam dignationemque docendo pervenit, fecitque praeter commentarios, quorum tamen pars maxima intercepta dicitur, saturam quoque, in qua libertinum se ac duplici cognomine esse per haec indicat:
 
 
+
+
+
+"Saevius Nicanor Marci libertus negabit;
+			
+Saevius Posthumius vero14 idem ac Marcus docebit."
+		
+
+
+
 Sunt qui tradant, ob infamiam quandam eum in Sardiniam secessisse ibique diem obisse.
 
 	
@@ -81,7 +192,23 @@ p408non ipsius; in quibus et suum alicubi reperiri nomen, ut hoc * * *
 p410edidit continentem querelas de iniuriis, quas professores neglegentia aut ambitione parentum acciperent. Fuit autem naturae acerbae, non modo in antisophistas, quos omni in occasione23 laceravit, sed etiam in discipulos, ut et Horatius significat "plagosum" eum appellans, et Domitius Marsus scribens:
 
 
+
+
+
+"Si quos Orbilius ferula scuticaque cecidit."
+		
+
+
+
 Ac ne principum quidem virorum insectatione abstinuit; siquidem ignotus adhuc cum iudicio frequenti testimonium diceret, interrogatus a Varrone diversae partis advocato, quidnam ageret et quo artificio uteretur, gibberosos se de sole in umbram transferre respondit; quod Murena gibber erat. Vixit prope ad centesimum aetatis annum, amissa iam pridem memoria, ut versus Bibaculi docet:
+
+
+
+
+
+Orbilius ubinam est, litterarum oblivio?
+		
+
 
 
 Statua eius Beneventi ostenditur in Capitolio ad sinistram latus marmorea habitu sedentis ac palliati, appositis duobus scriniis. Reliquit filium Orbilium,24 et ipsum grammaticum professorem.
@@ -105,16 +232,85 @@ p414suadere quam ut noto civilique et proprio sermone utatur, vitetque maxime ob
 P.28 Valerius Cato, ut nonnulli tradiderunt, Burseni cuiusdam libertus ex Gallia; ipse libello, cui est titulus "Indignatio," ingenuum se natum ait et pupillum relictum, eoque facilius licentia Sullani temporis exutum patrimonio. Docuit multos et nobiles, visusque est peridoneus praeceptor, maxime ad poeticam tendentibus, ut quidem apparere vel his versiculis potest:
 
 
+
+
+
+"Cato grammaticus, Latina Siren,
+			
+Qui solus legit ac facit poetas."
+		
+
+
+
 Is scripsit praeter grammaticos libellos etiam poemata, ex quibus praecipue probantur "Lydia" et "Diana." "Lydiae" Ticida meminit:
+
+
+
+
+
+"Lydia doctorum maxima cura liber;"
+		
+
 
 
 "Dianae" Cinna:
 
 
+
+
+
+"Saecula permaneat nostri Dictynna Catonis."
+		
+
+
+
 Vixit ad extremam senectam, sed in summa pauperie29 et paene inopia,30 abditus modico gurgustio, postquam Tusculana villa creditoribus cesserat, ut auctor est Bibaculus:
 
 
+
+
+
+"Si quis forte mei domum Catonis,
+			
+Depictas minio assulas,31 et illos
+			
+Custodis videt hortulos Priapi:
+			
+Miratur, quibus ille disciplinis
+			
+p416
+Tantam sit32 sapientiam assecutus,
+			
+Quem tres cauliculi, selibra farris.
+			
+Racemi duo tegula sub una
+			
+Ad summam prope nutriant senectam."
+		
+
+
+
 Et rursus:
+
+
+
+
+
+"Catonis modo, Galle, Tusculanum
+			
+Tota creditor urbe venditabat.
+			
+Mirati sumus, unicum magistrum,
+			
+Summum grammaticum, optimum poetam
+			
+Omnes solvere posse quaestiones,
+			
+Unum difficile expedire nomen.
+			
+En cor Zenodoti, en iecur Cratetis."
+		
+
 
 
 12
@@ -150,6 +346,14 @@ p420lastaurum et lurconem et nebulonem popinonemque appellans, et vita scriptisq
 1 Q. Caecilius Epirota, Tusculi natus, libertus Attici40 equitis Romani, ad quem sunt Ciceronis epistulae, cum filiam patroni nuptam M. Agrippae doceret, suspectus in ea et ob hoc remotus, ad Cornelium Gallum se contulit vixitque una familiarissime, quod ipsi Gallo inter gravissima crimina ab Augusto obicitur. Post deinde damnationem mortemque Galli scholam aperuit, sed ita ut paucis et tantum adulescentibus praeciperet, praetextato nemini, nisi si cuius parenti hoc officium negare non posset. Primus dicitur Latine ex tempore disputasse, primusque Virgilium et alios poetas novos praelegere coepisse, quod etiam Domitii Marsi versiculus indicat:
 
 
+
+
+
+"Epirota, tenellorum nutricula vatum."
+		
+
+
+
 17
 
 1 M.41 Verrius Flaccus libertinus docendi genere maxime claruit. Namque ad exercitanda discentium ingenia aequales inter se committere solebat, proposita non solum materia quam scriberent,
@@ -162,6 +366,20 @@ p422sed et praemio quod victor auferret. Id erat liber aliquis antiquus pulcher 
 18
 
 1 L. Crassicius, genere Tarentinus, ordinis libertini, cognomine Pasicles, mox Pansam se transnominavit. Hic initio circa scenam versatus est, dum mimographos adiuvat; deinde in pergula45 docuit, donec commentario "Zmyrnae" edito adeo inclaruit, ut haec de eo scriberentur:
+
+
+
+
+
+"Uni Crassicio se credere Zmyrna probavit;
+			
+Desinite indocti coniugio hanc petere!
+			
+Soli Crassicio se dixit nubere velle,
+			
+Intima cui soli nota sua exstiterint."
+		
+
 
 
 Sed cum edoceret46 iam multos ac nobiles, in iis Iullum47 Antonium, triumviri filium, ut Verrio quoque
@@ -199,6 +417,16 @@ p426servitutis praesentemque condicionem verae origini anteposuit; quare cito ma
 p428fuisse, Asinius Gallus hoc in eum epigrammate ostendit:
 
 
+
+
+
+"Qui 'caput ad laevam' didicit, glossemata nobis
+	
+Praecipit; os nullum, vel potius pugilis!"
+		
+
+
+
 23
 
 1 Q. Remmius Palaemon, Vicetinus,53 mulieris verna, primo, ut ferunt, textrinum, deinde herilem filium dum comitatur in scholam, litteras didicit. Postea manumissus docuit Romae ac principem locum inter grammaticos tenuit, quanquam infamis omnibus vitiis, palamque et Tiberio et mox Claudio praedicantibus, nemini minus institutionem puerorum vel iuvenum committendam. Sed capiebat homines cum memoria rerum, tum facilitate sermonis; nec non etiam poemata faciebat ex tempore. Scripsit vero variis, nec vulgaribus metris. Arrogantia fuit tanta, ut M. Varronem porcum appellaret; secum et natas et morituras litteras iactaret; nomen suum in "Bucolicis" non temere positum, sed praesagante54 Virgilio, fore quandoque omnium poetarum ac poematum Palaemonem iudicem. Gloriabatur etiam, latrones quondam sibi propter nominis celebritatem parsisse.55 Luxuriae ita indulsit, ut saepius in die lavaret, nec sufficeret sumptibus, quanquam ex schola quadringena annua caperet, ac non multo minus ex
@@ -219,261 +447,424 @@ p432inter longos ac vulgares sermones legere quaedam, idque perraro. Nimis pauca
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 qui iidem, Stephanus; qui idem, Lachmann; quidem, VLOIG; quidam, N.
 
 
+❦
 
 2
 etiam, NGOIW; et, VL.
 
 
+❦
 
 3
 Praeconinus, Beroaldus; Praeconius or Preconius, MSS.
+❦
 
 4
 Stilo, Stephanus; istilo, MSS.
+❦
 
 5
 Metellum, W (Roth); the other MSS. have M. Metellum.
 
 
+❦
 
 6
 praemortua, Stephanus; praemortui or premortui, MSS.
+❦
 
 7
 ἀγάπημα, Toup (Reifferscheid); ἄγασμα, Baum.-Crusius (Roth).
 
 
+❦
 
 8
 conductum, Reifferscheid; conductos, MSS. except G, which has conductum ut.
 
 
+❦
 
 9
 Pescennius, Roth; Sescennius or Fescennius, MSS.
+❦
 
 10
 aliquid diligenter, nGIOW; diligenter aliquid, VL.
 
 
+❦
 
 11
 meditationum, OW, G in margin, N as correction (cf. Gell. XX.5.2); the other MSS. have institutionum.
 
 
+❦
 
 12
 ethologias, Beroaldus; aethiologias, MSS.
+❦
 
 13
 vero mane] mane vero, MSS.
+❦
 
 14
 Posthumius vero, E. H. Brewster, in Class. Phil. X pp84 ff.; post huius, VL; posthus, O; post ḥọc, G; post h᾽, I.
 
 
+❦
 
 15
 Zmyrnae, V.
 
 
+❦
 
 16
 quia, Ernesti; qui quia, MSS.
+❦
 
 17
 inscripsisse, Wolf; scripsisse, MSS. (se scripsisse, O).
 
 
+❦
 
 18
 L litteram, J. F. Gronov; litteram or literam, MSS.
+❦
 
 19
 adhuc, omitted by L.
 
 
+❦
 
 20
 grammatica, NOGIW; grammaticae, VL.
 
 
+❦
 
 21
 L. added by Roth.
 
 
+❦
 
 22
 Perialogos, MSS.; περιαλγής, Toup.
 
 
+❦
 
 23
 omni in occasione, MSS. except W, in which in is stricken out; cf. Claud. xlii.1 .
 
 
+❦
 
 24
 Orbilium, bracketed for omission by Reiff.
 
 
+❦
 
 25
 L. added by Roth.
 
 
+❦
 
 26
 quidem, O. Jahn; quidam, MSS.
+❦
 
 27
 nihil, GIW; the other MSS. have nil.
 
 
+❦
 
 28
 P. added by Roth.
 
 
+❦
 
 29
 pauperie] pauperiem, MSS.
+❦
 
 30
 inopia] inopiam, MSS.
+❦
 
 31
 assulas, Beroaldus; assylas, G; assyllas, NOI; asillas, VL.
 
 
+❦
 
 32
 sit sapientiam, L (Pontanus); sapientiam sit, VNGOI.
 
 
+❦
 
 33
 suomet aere, Roth; nametra, MSS. The text is corrupt and the meaning most uncertain; see Ihm, Rh. Mus. 61, p551.
 
 
+❦
 
 34
 Niciae, omitted by VLNGW; added from Cicero by OI.
 
 
+❦
 
 35
 antiquus] antiquos, MSS.
+❦
 
 36
 ποιητοῦ an παρεμβεβλημένοι, omitted by the MSS.; restored from Cicero by Aldus.
 
 
+❦
 
 37
 Santra, Statius; satyra or satura, MSS. (W has santyra corr. to satyra).
 
 
+❦
 
 38
 Athenis, N. Heinsius; catenis, VLNGO; tacenis, I.
 
 
+❦
 
 39
 domino, NGOIW; the other MSS. omit.
 
 
+❦
 
 40
 Attici, Beroaldus; Satti, etc., MSS.
+❦
 
 41
 M., added by Roth.
 
 
+❦
 
 42
 ne quem, OW; neque, VLNGI.
 
 
+❦
 
 43
 inferiore, VLW; superiore, NOGI.
 
 
+❦
 
 44
 contra, NOI; circa, VLG; cf. Vahlen, Index Lectionum, Berlin, 1877.
 
 
+❦
 
 45
 pergula, Ven. ed. of 1474, Beroaldus; percula, OW; parcula, VLNGI.
 
 
+❦
 
 46
 The MSS. have et doceret, except O, which omits et; W indicates a lacuna before et.
 
 
+❦
 
 47
 Iulum, OI; Iulium, VLNG.
 
 
+❦
 
 48
 Licino, Oudendorp, Bergk; Licinio, MSS.
+❦
 
 49
 Augusto etiam, NGOW; Augusto et, VLI.
 
 
+❦
 
 50
 quo delegante, O; quod elegantem, VLNGIW.
 
 
+❦
 
 51
 Tiberius verbum, W: Tyberium, V; Tyberius, O.
 
 
+❦
 
 52
 verbo, Roth; verbis, G. Faernus (Reiff.); verba, MSS.
+❦
 
 53
 Vicetinus, W; the other MSS. have Vicentinus (Vicc-, G).
 
 
+❦
 
 54
 praesagante, MSS., Roth; praesagiente, Reiff.
 
 
+❦
 
 55
 parsisse, VG; parcisse, NI; pepercisse, LO.
 
 
+❦
 
 56
 insitam S. Gelenius, Mommsen; institutam, MSS.
+❦
 
 57
 dicto quoque, VLGO; dictoque, NI.
 
 
+❦
 
 58
 qui cum, O; qui eum, VNGI; omitted by L; qui cum eum, Reiff.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08

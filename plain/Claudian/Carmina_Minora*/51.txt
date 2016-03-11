@@ -1,5 +1,274 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p278
+C. Claudiani
+	
+In sphaeram Archimedis.
+	
+
+
+
+
+
+
+
+LI (LXVIII)
+	
+
+Iuppiter in parvo cum cerneret aethera vitro,
+	
+risit et ad superos talia dicta dedit:
+	
+p280
+"hucine mortalis progressa potentia curae?
+	
+iam meus in fragili luditur orbe labor?
+	5
+iura poli rerumque fidem legesque deorum
+	
+ecce Syracusius transtulit arte senex.
+	
+inclusus variis famulatur spiritus astris
+	
+et vivum certis motibus urget opus.
+	
+percurrit proprium mentitus Signifer annum,
+	10
+et simulata novo Cynthia mense redit,
+	
+iamque suum volvens audax industria mundum
+	
+gaudet et humana sidera mente regit.
+	
+quid falso insontem tonitru Salmonea miror?
+	
+aemula naturae parva reperta manus."
+		
+
+
+
+
 The Loeb edition of this poem has no critical notes. A slightly different text of the poem, however, is available on Michael Hendry's site (see navigation bar below), with several variant readings.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Aug. 07

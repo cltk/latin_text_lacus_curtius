@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano (parziale)
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Tyranni XXX
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Aurelianus
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p152
+Divus Claudius
+	
+
 1
 
 Ventum est ad principem Claudium, qui nobis intuitu Constantii Caesaris cum cura in litteras digerendus est. de quo ego idcirco recusare non potui quod alios, tumultuarios videlicet imperatores ac regulos, scripseram eo libro quem de triginta tyrannis edidi, qui Cleopatranam etiam stirpem Victoriamque1 nunc detinet; 2 si quidem eo res processit ut mulierum etiam vitas scribi Gallieni comparatio effecerit. 3 neque enim fas erat eum tacere principem, qui tantam generis sui prolem reliquit,2 qui bellum Gothicum sua virtute
@@ -85,13 +193,49 @@ p168pertulisset! salvis militibus, quos varia proelia sustulerunt, salvis legion
 Et bene venit in mentem, exprimenda est sors quae Claudio data esse perhibetur Comagenis, ut intellegant omnes genus Claudii ad felicitatem rei publicae divinitus constitutum. 2 nam cum consuleret factus imperator quamdiu imperaturus esset, sors talis emersit:
 
 
+
+
+3 "Tu, qui nunc patrias gubernas oras
+			
+et mundum regis, arbiter deorum,
+			
+tu vinces22 veteres tuis novellis;
+			
+regnabunt etenim tui23 minores
+			
+et reges facient suos minores."
+		
+
+
+
 4 item cum Appennino de se consuleret, responsum huius modi accepit:
+
+
+
+
+"Tertia dum Latio regnantem viderit aestas."
+		
+
 
 
 5 item cum de posteris suis:
 
 
+
+
+"His ego nec metas rerum nec tempora ponam."
+		
+
+
+
 6 item cum fratre Quintillo, quem consortem habere volebat imperii, responsum est:
+
+
+
+
+"Ostendent terris hunc tantum fata."
+		
+
 
 
 7 quae idcirco posui ut sit omnibus clarum Constantium, divini generis virum, sanctissimum Caesarem, et Augustae ipsum familiae esse et Augustos multos de se daturum, salvis Diocletiano et Maximiano Augustis et eius fratre Galerio.
@@ -193,90 +337,111 @@ p190virtutibus tuis, consulem te, praefectum te! vivas Valeri, et ameris a prin
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Victoriamque Peter; Victorianamque P, Hohl.
 
 
+❦
 
 2
 reliquit ins. by Salm. foll. by Peter; om. in P.
 
 
+❦
 
 3
 nobis Salm.; bonis P.
 
 
+❦
 
 4
 negare Eyssenhardt, Peter; genere P, Σ.
 
 
+❦
 
 5
 ille Salm.; nihil P, Σ.
 
 
+❦
 
 6
 So Cas. foll. by Peter; sic loquitur pro Milone P.
 
 
+❦
 
 7
 potest Σ; post P.
 
 
+❦
 
 8
 expresso Salm.; expressa P, Peter, Hohl.
 
 
+❦
 
 9
 Vespasiani quoque Σ, Hohl; om. in P.
 
 
+❦
 
 10
 aris ac templis transp. by Klotz; after principem in P, Peter.
 
 
+❦
 
 11
 So Gruter, foll. by Peter; diximus triginta P.
 
 
+❦
 
 12
 id Peter; quid P.
 
 
+❦
 
 13
 Names corr. by Muellenhoff; virtingui sigypedes P.
 
 
+❦
 
 14
 inruperunt Peter, Hohl; in rep. uenerunt P.
 
 
+❦
 
 15
 mirantes Obrecht, Peter; militantes P.
 
 
+❦
 
 16
 mali v. Winterfeld; alio P; Gallieni Egnatius, foll. by Peter and Hohl.
 
 
+❦
 
 17
 membra Damsté, Thörnell; uerba P, Σ, Peter; reliqua Cas., Hohl.
 
 
+❦
 
 18
 salutem ins. by Hohl; om. in P; lacuna assumed by Peter.
@@ -284,119 +449,242 @@ salutem ins. by Hohl; om. in P; lacuna assumed by Peter.
 c. ix.1‑2 incl. in letter of Claudius by Thörnell and Hohl; letter ended in c. viii.6 by Peter.
 
 
+❦
 
 19
 Scythicisque Closs foll. by Peter and Hohl; senibusque P, Σ.
 
 
+❦
 
 20
 limitis Peter; miles P, Σ.
 
 
+❦
 
 21
 superfuerant Σ, Peter; superius fuerant P.
 
 
+❦
 
 22
 tu uinces Salm.; in P, Σ.
 
 
+❦
 
 23
 tui om. in P.
 
 
+❦
 
 24
 Atticiano P, Peter.
 
 
+❦
 
 25
 nos ins. by Hohl; om. in P and by Peter.
 
 
+❦
 
 26
 fugari Petschenig, Hohl; fatigari P, Peter.
 
 
+❦
 
 27
 praesidiis P.
 
 
+❦
 
 28
 quoad Petschenig, Ellis; quod P; quod foll. by lacuna Peter.
 
 
+❦
 
 29
 rege ins. by Salm.; om. in P.
 
 
+❦
 
 30
 aeque Bitschofsky; atque P; atque <fame> Salm., Peter.
 
 
+❦
 
 31
 Quintillum Salm., Peter; Claudium P, Hohl.
 
 
+❦
 
 32
 filia Σ; familia P.
 
 
+❦
 
 33
 quae res Hohl; quaeres P; quaerens editors.
 
 
+❦
 
 34
 meruit Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 35
 de om. in P.
 
 
+❦
 
 36
 ac deuotissimae Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 37
 duas ins. by Cas. foll. by Hohl; om. in P and by Peter.
 
 
+❦
 
 38
 fascias . . . duas Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 39
 ducis loco Mommsen, Hohl; ducem loco P, Σ; ducendas Cas., Peter.
 
 
+❦
 
 40
 metallarius Mommsen, Hohl; Metlarius P, Peter.
 
 
+❦
 
 41
 res erumpant Salm. foll. by Peter1 and Lenze; reserum P; rem ferant Petschenig, Peter2, Hohl.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

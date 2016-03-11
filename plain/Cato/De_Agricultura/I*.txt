@@ -1,3 +1,123 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+CXXVI‑CXXXIV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+Marci Catonis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+CXLII‑CLV
+				
+
+
+
+
+
+Marci Catonis
+	
+
+De Re Rustica
+	
+
+Capitula CXXXV‑CXLI
+	
 p116
 135
 Romae tunicas, togas, saga, centones, sculponeas; Calibus et Minturnis cuculliones, ferramenta, falces, palas, ligones, secures, ornamenta, murices, catellas; Venafro palas. Suessae et in Lucanis plostra, treblae; Albae, Romae dolia, labra; tegulae ex Venafro. 2 Aratra in terram validam Romanica bona erunt, in terram pullam Campanica; iuga Romanica optima erunt; vomeris indutilis optimus erit. Trapeti Pompeis, Nolae ad Rufri maceriam; claves, clostra Romae; hamae, urnae oleariae, urcei aquarii, urnae vinariae, alia vasa ahenea Capuae, Nolae; fiscinae Campanicae Capuae48 utiles sunt. 3 Funes subductarios, spartum omne Capuae; fiscinas Romanicas Suessae, Casino . . .49 optimae erunt Romae.
@@ -49,33 +169,154 @@ p122quoius re ergo agrum terram fundumque meum suovitaurilia circumagi iussi, ut
 
 
 	
+
+Apparatus Criticus:
+	
+
 48
 Capuae Hauler: eame MSS.: hae hamae Iucundus.
 
 
+❦
 
 49
 Lacuna, Keil: eae Iucundus.
 
 
+❦
 
 50
 Schneider; P. II digitos II, labra crassa digitum.
 
 
+❦
 
 51
 partiario added by Keil.
 
 
+❦
 
 52
 conditurus Keil: non daturus.
 
 
+❦
 
 53
 The text is corrupt. Schneider suggests porcum for Martem, thus making the meaning: "It is not permitted to call the pig, the lamb, or the calf by name."
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Agricultura
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Oct. 04

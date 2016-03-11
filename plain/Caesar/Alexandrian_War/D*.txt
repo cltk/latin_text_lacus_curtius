@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 42‑47
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Alexandrian War
+				
+
+probably by Hirtius, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 65‑78
+				
+
+
+
+
+
+Caesar
+	
+de Bello Alexandrino
+	
+
+p88
+[Capitula 48‑65]
+	
+
 48
 
 Eis autem temporibus quibus Caesar ad Dyrrachium Pompeium obsidebat et Palaepharsali rem feliciter gerebat Alexandreaeque cum periculo magno tum etiam maiore periculi fama dimicabat, Q. Cassius Longinus, in Hispania pro praetore provinciae ulterioris obtinendae causa relictus, sive consuetudine naturae suae sive odio quod in illam provinciam susceperat quaestor ex insidiis ibi vulneratus, magnas odi sui fecerat accessiones, quod vel ex conscientia sua, cum de se mutuo sentire provinciam crederet, vel multis signis et testimoniis eorum qui difficulter odia dissimulabant animum advertere poterat, et compensare offensionem provinciae exercitus amore cupiebat. Itaque, cum primum in unum locum exercitum conduxit, sestertios centenos militibus est pollicitus, nec multo post, cum in Lusitania Medobregam oppidum montemque Herminium expugnasset, quo Medobregenses confugerant,
@@ -134,8 +252,16 @@ p114dignitate iter faceret cuius magna pars ab eo defecerat, ut ceteri existimab
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 centenos is omitted in all the MSS., which vary between sestertios, sestertia and sestertiorum.
+
+
+
 
 
 
@@ -144,8 +270,14 @@ legiones V in castra remittit cohortibus XXX retentis MSS.: I have adopted K
 
 
 
+
+
+
 3
 Nipperdey assumed a lacuna here.
+
+
+
 
 
 
@@ -154,8 +286,14 @@ sh̃i X MSS.: HS LX Glandorp.
 
 
 
+
+
+
 5
 noctu MSS. Naevam Schneider.
+
+
+
 
 
 
@@ -164,6 +302,159 @@ pace added by Nipperdey.
 
 
 
+
+
+
 7
 cum added by Aldus.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Alexandrino
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Id. Feb. 13

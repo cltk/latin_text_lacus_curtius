@@ -1,4 +1,119 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 7‑36
+				
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p146
+[Capitula 1‑6]
+	
+
 1
 
 Caesar itineribus iustis confectis nullo die intermisso a. d. XIIII Kal. Ian. Lilybaeum pervenit statimque ostendit sese navis velle conscendere, cum non amplius legionem tironum haberet unam, equites vix DC. Tabernaculum secundum litus ipsum constituit, ut prope fluctus verberaret. Hoc eo consilio fecit ne quis sibi morae quicquam fore speraret et ut omnes in dies horasque parati essent. Incidit per id tempus ut tempestates ad navigandum idoneas non haberet; nihilo tamen minus in navibus remiges militesque continere et nullam praetermittere occasionem profectionis, cum praesertim ab incolis eius provinciae nuntiarentur adversariorum copiae equitatus infinitus, legiones regiae IIII, levis armaturae magna vis, Scipionis legiones X, elephanti CXX classesque esse complures; tamen non deterrebatur animoque et spe confidebat. Interim in dies et naves longae adaugeri et onerariae complures eodem
@@ -43,14 +158,172 @@ p154extremum insequi coeperunt. Quae res eum animadversa esset, subito legionari
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 in his MSS.: IIII R. Schneider.
+
+
+
 
 
 
 2
 milia . . . ibi conjectured by R. Schneider to fill the lacuna of the MSS.
 
+
+
+
 3
 petens added by Kiessling.
 
+
+
+
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XI Kal. Mar. 13

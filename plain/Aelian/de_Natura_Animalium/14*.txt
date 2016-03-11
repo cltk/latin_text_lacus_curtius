@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XIII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XV
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p201
+Liber Decimus Quartus
+	
+
 1
 In mari Ionio prope Epidamnum, ubi et Taulantii habitant, insula est, quae Minervae appellatur, eamque piscatores incolunt; et istic lacus est, ubi scombrorum, qui ad piscatorum consuetudinem assueverunt, et mansuefacti sunt, greges aluntur. Iis cibaria objiciunt piscatores, cum quibus iidem foedere et pace devinciuntur; et captura liberi sunt, atque eatenus aetate procedunt, ut vivant ibidem ad summam senectutem. Nec sane ignaviter victitant, neque in suos altores ingrati sunt; at enim de piscatoribus pastum cum mane acceperint, piscationem mox capessunt, ut se nutricantibus praemium pro nutrimento persolvant. Quare ex portu solventes ad feros scombros gentiles suos natare contendunt, ac, simul ut ad eos pervenerunt, cum ipsis ita continuo tanquam cum aliqua turma aut phalange suorum popularium errant; et nimirum cum ejusdem generis et naturae sint, non inter se fugiunt, sed simul natant; post autem cicures circum feros concursantes in orbem consistunt, et suorum corporum obstructione eos fuga exituque intercludentes, suorum nutritiorum, ut pro iis quibus expleti cibis fuerint, illos remunerentur, adventum acerrime tamdiu exspectant, dum piscatores eo profecti captorum permultas caedes effecerint. Cicures vero maturo properantes ad portum regrediuntur, atque ibidem intra cavernas abditi a piscatoribus coenam exspectant; quam quidem ipsi eis largiuntur, si ipsos ad piscatum adjutores atque amicos fidos habere velint. Haec autem quotidie ac diligenter fieri ajunt.
 
@@ -41,7 +164,6 @@ Lyncemve deformem malamque bestiam.
 
 Cur autem δύστοκον (difficulter parientem) eam dicat, a criticis quaerendum.
 
-Cur autem δύστοκον (difficulter parientem) eam dicat, a criticis quaerendum.
 7
 De magna struthione haec etiam quis dixerit. In ejus ventre a sordibus expurgato lapides inveniuntur, quos haec posteaquam devoravit, in omaso prope reticulum diu adservatos concoquit; ii sane ad efficiendam oculorum medicinam salutares sunt: atque illius adeps et nervi auxilium et salutem nervis hominum adferunt. Eadem in cursu deficiens lassitudine comprehenditur ab equitibus; etenim in orbem currit exterius, verum equites interiore et breviore orbe circumacti currendo tandem defessam adsequuntur. Ad hunc etiam modum capitur: Pedibus sane nidum ex sabulo architectans in solo humilem construit, cujus medium cavum est, labra ambientia alte exaggerat, ac tanquam muro circummunit, ne per labra defluens aqua pluvia in nidum influat, et pullos etiamnum teneros alluat. Amplius quidem octoginta ova ex sese parit, non tamen uno eodemque tempore ex ovis pullos excludit, sed ex his partim jam in lucem proferuntur, partim intra ova informantur, partim etiam foventur. Cum autem ipsam sic incubantem vir hujus venationis bene peritus animadverterit, peracuta hastilia mucronibus e ferro sursum erectis et resplendentibus circa nidum defigit; et alicubi prope in occulto latens ex insidiis rei eventum avide expectat. Struthio vero pullos suos vehementer amans, et eorum consortii quam maxime avida, a pastu revertitur; ac nimirum priusquam in nidum introeat, huc illuc versans oculos circumspectat, quod metuat ne quis ipsam speculetur; deinde ardentissimo pullorum studio victa, et tanquam oestro percita, etsi ferrum splendescit, ita tamen alis, tanquam velis expansis, continuo cursu et cum stridore fertur, et intra nidum se recipit, et miserrime quidem; nam cuspidato ferro implicata et transfixa moritur. Venator vero id anmadvertens, simul cum matre pullos capit.
 
@@ -58,7 +180,6 @@ ut canit Homerus. Non procul hac urbe Patavio distat alia, nomine Bitetia, quam 
 
 p204modicam praeterlapsus tandem in eridanum influit. Ceterum in Ereteno anguillae maximae et omnium pinguissimae nascuntur; capiunturque hoc modo: Piscator ad sinuosum locum, ubi latius confluens dilatatur, vel in saxo ex aqua eminente, vel in arbore radicitus ventorum turbinibus exstirpata, et jam putrescenti et ad ignem inutili, sedens perpinguis intestini ovilli recentis tria aut quatuor cubita patentis alterum caput in aquam dejicit, quod aquae vorticibus agitatum volutatur; idemque illius arundinis frustum perinde longum, atque gladii capulus, insertum est. Neque vero diu anguillas esca latet, gaudent ehh hoc intestino; et continuo earum prima quaeque, fame stimulata, hiante ore atque imminente hamatos ac uncinatos dentes suos in id ipsum intestinum defigit, atque hoc idem crebra insultatione detrahere conatur. At piscator anguillam intelligens ex fluctuatione intestino inhaerescere, arundinem, ad quam alligatum est intestinum, ori suo admovet, et quoad potest intestinum vehementer inflat, quod quidem ipsum defluente hominis adspiratione et impletur et intumescit; et ventus in anguillam illapsus illius caput et fauces flatu opplet, atque anhelitum eatenus obstruit, ut ea non queat neque respirare, neque intestino infixos dentes detrahere; quare suffocatur, et a tribus velut adversariis calamo, spiritu, et intestino capta subtrahitur. Hoc cum quotidie fiat, multae a multis capiuntur. Has autem istorum piscium proprietates etiam referre mihi visum fuit.
 
-ut canit Homerus
 9
 Marinum leonem locustae ferme simile esse scio; praeterquam quod corpore tenuior et gracilior apparet, et ex aliqua crustarum suarum parte caeruleus, tim quod ignavus est; et forcipes illius maximae cancrorum forcipibus figura similes sunt. A piscatoribus bene peritis membranas quasdam habere dicitur appensas ex testis et colligatas, sub quas subjectae sint molles carunculae et tenerae, quae leonis adeps appellentur. Is ad hoc ipsum, ajunt, homines adjuvat, ut squalidam et infuscatam faciem ad nitorem adducat; et cum rosaceo in unguentum conformatus formae pulchritudinem conciliat, et venustum splendorem enitere facit. Id etiam auditione accepi, terrenum leonem summe timere marini adspectum, absurdum scilicet ac formidabilem; sed neque odorem ejus ferre. Quantopere gallinaceus quidem ab eodem timeatur, supra dixi. Illum ipsum leonem terrestrem dicunt marini contritarum crustarum pulvereme ex aqua bibentem a ventris morbo liberatum iri. Haec de marini leonis natura peculiari mihi dicta sunto.
 
@@ -181,5 +302,120 @@ Ubi insignis eridanus et parum nobilis Tanarus coitionem faciunt, ibi peculiaria
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita 
+IV Kal. Apr. 05

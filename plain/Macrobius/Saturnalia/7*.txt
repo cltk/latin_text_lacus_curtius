@@ -1,4 +1,173 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VI
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+Pagina tota depicta, ite ad capita recte:
+	
+
+I
+	
+	•
+	
+II
+	
+	•
+	
+III
+	
+	•
+	
+IV
+	
+	•
+	
+V
+	
+	•
+	
+VI
+	
+	•
+	
+VII
+	
+	•
+	
+VIII
+	
+	•
+	
+IX
+	
+	•
+	
+X
+	
+	•
+	
+XI
+	
+	•
+	
+XII
+	
+	•
+	
+XIII
+	
+	•
+	
+XIV
+	
+	•
+	
+XV
+	
+	•
+	
+XVI
+	
+
+
+
+Macrobii
+	
+Saturnalia
+	
+
+
+Liber VII
+	
+p551
+
+
+I.
+	
+
 1 Primis mensis post epulas iam remotis et discursum variantibus
 
 
@@ -29,7 +198,13 @@ p557ut se totum superflua eius effusione prolueret. Nonne, si quis aut inter Pha
 
 p558sileri, non est ultra quaerendum, inter mensas philosophandum necne sit. Si vero non erunt muta convivia, cur, ubi sermo permittitur, honestus sermo prohibetur, maxime cum non minus quam dulcedo vini hilarent verba convivium? 18 Nam, si Homeri latentem prudentiam scruteris altius, delinimentum illud quod Helena vino miscuit,
 
+Νηπενθές τ᾽ ἄχολόν τε κακῶν ἐπίληθον ἁπάντων,
+
+
 non herba fuit, non ex India sucus, sed narrandi oportunitas quae hospitem moeroris oblitum flexit ad gaudium. 19 Ulixis enim praeclara facinora filio praesente narrabat:
+
+Οἷον καὶ τόδ᾽ ἔρεξε καὶ ἔτλη καρτερὸς ἀνήρ.
+
 
 Ergo paternam gloriam et singula eius facta fortia dicendo animum filii fecit alacriorem, et ita credita est contra maerorem vino remedium miscuisse. 20 Quid hoc, inquis, ad philosophiam? Immo nihil tam cognatum sapientiae quam locis et temporibus aptare sermones personarum quae aderunt aestimatione in medium vocata. 21 Alios enim relata incitarunt exempla virtutum, alios beneficiorum, nonnullos modestiae, ut et qui aliter agebant saepe auditis
 
@@ -37,11 +212,24 @@ Ergo paternam gloriam et singula eius facta fortia dicendo animum filii fecit al
 
 p559talibus ad emendationem venirent. 22 Sic autem vitiis inretitos, si et hoc in conviviis exegerit loquendi ordo, feriet philosophia non sentientes, ut Liber pater thyrso ferit per obliquationem circumfusae hederae latente mucrone, quia non ita profitebitur in convivio censorem ut palam vitia castiget: 23 ceterum his obnoxii repugnabunt, et talis erit convivii tumultus, ut sub huiusmodi invitati videantur edicto:
 
+Quod superest, laeti bene gestis corpora rebus
+	
+Procurate viri et pugnam sperate parati,
+
+aut, ut Homerus brevius et expressius dixit,
+
+Νῦν δ᾽ ἔρχεσθ᾽ ἐπὶ δεῖπνον, ἵνα ξυνάγωμεν ἄρνα.
+
+
 24
 Ergo si oportunitas necessariae reprehensionis emerserit, sic a philosopho proficiscetur, ut et tecta et efficax sit. Quid mirum, si feriet sapiens, ut dixi, non sentientes, cum interdum sic reprehendat, ut reprehensus hilaretur, nec tantum fabulis suis sed interrogationibus quoque vim philosophiae nihil ineptum loquentis ostendet? 25 Hanc ergo nullus honestus actus locusve, coetus nullus excludat, quae ita se aptat ut ubique sic appareat necessaria tamquam abesse illam nefas fuerit.
 
 
 	p560
+
+
+II.
+	
 
 1
 Et Avienus: Novas mihi duas disciplinas videris inducere interrogandi vel etiam reprehendendi, ut alacritas utrimque his ad quos sermo est excitetur, cum dolor semper reprehensionem vel iustam sequatur: unde haec quae leviter attigisti fac quaeso enarrando planiora. 2 Primum, inquit Eustathius, hoc teneas volo, non de ea me reprehensione dixisse quae speciem accusationis habet, sed quae vituperationis instar est. Hoc Graeci σκῶμμα vocant, non minus quidem amarum quam accusatio, si inportune proferatur: sed a sapiente sic proferetur ut dulcedine quoque non careat. 3 Et ut prius tibi de interrogatione respondeam, qui vult amoenus esse consultor ea interrogat quae sunt interrogato facilia responsu, et quae scit illum sedula exercitatione didicisse. 4 Gaudet enim quisquis provocatur ad doctrinam suam in medium proferendam, quia nemo vult latere quod didicit, maxime si scientia quam labore quaesivit cum paucis illi familiaris et plurimis sit incognita, ut de astronomia vel dialectica ceterisque similibus. Tunc enim videntur consequi fructum laboris, cum adipiscuntur occasionem publicandi quae didicerant sine ostentationis nota, qua caret qui non ingerit sed invitatur ut proferat. 5 Contra magnae amaritudinis est, si coram multis aliquem interroges quod non opima scientia quaesivit. Cogitur enim aut negare se scire, quod extremum verecundiae damnum putant, aut respondere temere et fortuito se eventui veri falsive committere, unde saepe nascitur inscitiae proditio: et omne hoc infortunium pudoris sui inputat consulenti. 6 Nec non et qui obierunt maria et terras gaudent, cum de ignoto multis vel terrarum situ vel sinu maris interrogantur, libenterque respondent
@@ -50,7 +238,13 @@ Et Avienus: Novas mihi duas disciplinas videris inducere interrogandi vel etiam 
 
 p561et describunt modo verbis modo radio loca, gloriosum putantes quae ipsi viderint aliorum oculis obicere. 7 Quid duces vel milites? quam fortiter a se facta semper dicturiunt, et tamen tacent arrogantiae metu? Nonne hi, si ut haec referant invitentur, mercedem sibi laboris aestimant persolutam, remunerationem putantes inter volentes narrare quae fecerint? 8 Adeo antem id genus narrationum habet quendam gloriae saporem, ut, si invidi vel aemuli forte praesentes sint, tales interrogationes obstrependo discutiant et alias inferendo fabulas prohibeant illa narrari quae solent narranti laudem creare. 9 Pericula quoque praeterita vel aerumnas penitus absolutas qui evasit ut referat gratissime provocatur: nam qui adhuc in ipsis vel paululum detinetur horret ammonitionem et formidat relatum. Id adeo Euripides expressit:
 
+ Ὡς ἡδύ τοι σωθέντα μεμνῆσθαι πόνων.
+
+
 Adiecit enim σώθεντα, ut ostenderet post finem malorum gratiam relationis incipere. Et poeta vester adiciendo olim quid aliud nisi post emensa infortunia futuro tempore iuvare dicit memoriam sedati laboris:
+
+— Forsan et haec olim meminisse iuvabit?
+
 p562
 10
 Nec negaverim esse malorum genera quae non vult qui pertulit vel transacta meminisse, nec minus interrogatus offenditur quam cum in ipsis malis fuit: ut qui carnifices expertus est et tormenta membrorum, aut qui infaustas pertulit orbitates, vel cui nota quondam adflicta censoria est. Cave interroges, ne videaris obicere. 11 Illum saepe, si potes, ad narrandum provoca, qui recitando favorabiliter exceptus est, vel qui libere et feliciter legationem peregit, vel qui ab imperatore comiter affabiliterque susceptus est, vel si quis tota paene classe a piratis occupata seu ingenio seu viribus solus evasit, quia vix inplet desiderium loquentis rerum talium vel longa narratio. 12 Iuvat, si quem dicere iusseris amici sui repentinam felicitatem quam sponte non audebat vel dicere vel tacere modo iactantiae modo malitiae metu. 13 Qui venatibus gaudet interrogetur de silvae ambitu, de ambage lustrorum, de venationis eventu. Religiosus si adest, da illi referendi copiam, quibus observationibus meruerit auxilia deorum, quantus illi cerimoniarum fructus, quia et hoc genus religionis existimant, numinum beneficia non tacere: adde quia volunt et amicos se numinibus aestimari. 14 Si vero et senex praesens est, habes occasionem
@@ -59,7 +253,28 @@ Nec negaverim esse malorum genera quae non vult qui pertulit vel transacta memin
 
 p563qua plurimum illi contulisse videaris, si eum interroges vel quae ad illum omnino non pertinent. Est enim huic aetati loquacitas familiaris. 15 Haec sciens Homerus quandam congeriem simul interrogantium Nestori fecit offerri:
 
+Ὦ Νέστορ Νηληϊάδην, σὺ δ᾽ ἀληθὲς ἔνισπε,
+	
+πῶς ἔθαν᾽ ἀτρείδης εὐρυκρείων ἀγαμέμνον;
+	
+ποῦ Μενέλαος ἔην; —
+	
+ἢ οὐκ ἄργεος ἦεν Ἀχαιϊκοῦ.
+
+
 Tot loquendi semina interrogando congessit, ut pruritum senectutis expleret. 16 Et Virgilianus Aeneas gratum se ad omnia praebens Evandro varias illi narrandi occasiones ministrat. Neque enim de una re aut altera requirit, sed
+
+— singula laetus
+	
+Exquiritque auditque virum monumenta priorum,
+
+et Evander consultationibus captus scitis quam multa narraverit.
+
+
+	
+
+III.
+	
 
 1
 Haec dicentem favor excepit omnium. Sed mox subiecit Avienus: Vos omnes, qui doctorum doctissimi adestis, oraverim ut hortatu vestro Eustathius quae de scommate paulo ante dixerit animetur aperire. Omnibusque ad hoc provocantibus ille contexuit: 2 Praeter categoriam, quae ψόγος est, et praeter διαβολὴν, quae delatio est, sunt alia duo apud Graecos nomina, λοιδορία et σκῶμμα, quibus nec vocabula Latina reperio, nisi forte
@@ -99,6 +314,10 @@ p572anceps esse omne scommatum genus, suadeo in conviviis in quibus laetitiae in
 
 
 	
+
+IV.
+	
+
 1
 Et Praetextatus: Hoc quaestionum genus, cum et senilem deceat aetatem, cur soli iuveni suadetur? Quin agite, omnes qui adestis hic, apta convivio fabulemur, nec de cibatu tantum sed et si qua de natura corporum vel alia, praesente maxime Disario nostro, cuius plurimum ad hoc genus quaestionum poterit ars et doctrina conferre: sortiamurque, si videtur, ut per ordinem unusquisque proponat quam solvendam aestimet quaestionem.
 
@@ -132,6 +351,10 @@ p579hoc ipsum in quo sumus, licet sobrium sit, tamen, quia varium est, accusare 
 
 
 	
+
+V.
+	
+
 1
 Haec cum Praetextato et ceteris prona adsensione placuissent, Euangelus exclamavit: Nihil tam indignum toleratu quam quod aures nostras Graeca lingua captivas tenet, et verborum rotunditati adsentiri cogimur circumventi volubilitate sermonis qui ad extorquendam fides agit in audientes tyrannum. 2 Et quia his loquendi labyrinthis inpares nos fatemur, age, Vetti, hortemur Eustathium ut recepta contraria disputatione quicquid pro vario cibo dici potest velit communicare nobiscum, ut suis telis lingua violenta succumbat et Graecus Graeco eripiat hunc plausum, tamquam cornix cornici oculos effodiat. 3 Et Symmachus: Rem iocundam, Euangele, amarius postulasti. Audere enim contra tam copiose et eleganter inventa res est quae habeat utilem voluptatem, sed non tamquam ingeniis insidiantes et gloriosis tractatibus invidentes hoc debemus expetere. 4 Nec abnego potuisse me quoque
 
@@ -146,6 +369,18 @@ exauctoratum conviviorum leporem. 5 Ille diu hoc a se officium deprecatus, ubi
 
 
 p581veteris comoediae poetas. Is in fabula quae inscribitur Αὶγες inducit capras de cibi sui copia in haec se verba iactantes:
+
+9
+Βοσκόμεθ᾽ ὗλης ἀπὸ παντοδαπῆς, ἐλάτης· πρίνου κομάρου τε,
+	
+πτόρθους ἁπαλοὺς ἀποιρώγουσαι, καὶ πρὸς τούτοισιν ἔτ᾽ ἄλλα,
+	
+κύτισόν τ᾽ ἠδὲ σφάκον εὐώδη καὶ σμίλακα τὴν πολύφυλλον,
+	p582
+κότινον σχῖνον μελίαν πευκήν, ἁλίαν δρῦν, κιττὸν ἐρίκην
+	
+πρόμαλον ῥάμνον φλόμον ἀνθρερικὸν κισθὸν φηγὸν θύμα θύμβραν.
+
 p583
 Videturne vobis ciborum ista simplicitas, ubi tot enumerantur vel arbusta vel frutices non minus suco diversa quam nomine? 10 Quod autem non facilius morbis homines quam pecudes occupentur, Homero teste contentus sum, qui pestilentiam refert a pecudibus inchoatam: quando morbus, antequam in homines posset inrepere, facilius captis pecoribus incubuit. 11 Sed et quanta sit mutis animalibus infirmitas vitae brevitas indicio est. Quod enim eorum quibus notitia nobis in usu est potest annos hominis aequare? nisi recurras forte ad ea, quae de corvis atque cornicibus fabulosa dicuntur, quos tamen videmus omnibus inhiare cadaveribus universisque seminibus insidiari, fructus arborum persequi: nam non minus edacitatis habent quam de longaevitate eorum opinio fabulatur. 12 Secundum, si bene recordor, exemplum est solere medicos aegris simplicem cibum offerre, non varium: cum hunc offeratis, ut opinor, non quasi digestu faciliorem, sed quasi minus adpetendum, ut horrore uniformis alimoniae edendi desiderium languesceret, quasi multis concoquendis per infirmitatem non sufficiente natura. Ideo, si quis aegrescentium vel de ipso simplici
 
@@ -153,6 +388,11 @@ Videturne vobis ciborum ista simplicitas, ubi tot enumerantur vel arbusta vel fr
 
 p584amplius adpetat, subducitis adhuc desideranti. Ideo vobis commento tali non qualitas sed modus quaeritur. 13 Quod autem in edendo sicut in potando suades varia vitari, habet latentis captionis insidias, quia nomine similitudinis coloratur. Ceterum longe alia potus alia ciborum ratio est. Quis enim umquam edendo plurimum mente sauciatus est, quod in bibendo contingit? 14 Fartus cibo stomacho vel ventre gravatur: infusus vino fit similis insano, opinor, quia crassitudo cibi uno in loco permanens expectat administrationem digestionis, et tunc demum membris sensim confectus inlabitur: potus, ut natura levior, mox altum petit, et cerebrum, quod in vertice locatum est, ferit fumi calentis aspergine. 15 Et ideo varia vina vitantur, ne res, quae ad possidendum caput repentina est, calore tam diverso quam subito consilii sedem sauciet. Quod aeque in cibi varietate metuendum nulla similitudo, ratio nulla persuadet. 16 In illa vero disputatione, qua digestionum ordinem sermone luculento et vario digessisti, illa omnia quae de natura humani corporis dicta sunt et nihil nocent propositae quaestioni et eloquenter dicta non abnego. Illi soli non adsentior quod sucos varios de ciborum varietate confectos dicis contrarios esse corporibus, cum corpora ipsa de contrariis qualitatibus fabricata sint. 17 Ex calido enim et frigido, de sicco et humido constamus. Cibus vero simplex cui adest sucum de se unius qualitatis emittit. Scimus autem similibus similia nutriri. Dic, quaeso, unde tres aliae qualitates corporis nutrientur? 18 Singula autem ad se similitudinem sui rapere testis Empedocles, qui ait:
 	p585
+ Ὡς γλυκὺ μὲν μάρπτε, πικρὸν δ᾽ ἐπὶ πικρον ὄρουσεν,
+	
+ὀξὺ δ᾽ ἐπ᾽ ὀξὺ ἔβη, θερμὸν δ᾽ ἐποχεύετο θερμῷ.
+
+
 19
 Te autem saepe audio Hippocratis tui verba cum admiratione referentem: Εἰ ἓν ἦν ὁ ἄνθρωπος, οὐκ ἂν ἤλγεεν· ἀλγεῖ δὲ, οὐκ ἄρα ἓν ἐστί. Ergo si homo non unum, nutriendus est non ex uno. 20 Nam et deus omnium fabricator aerem quo circumfundimur et cuius spiramus haustu non simplicem habere voluit qualitatem, ut aut frigidus sit semper aut caleat, sed nec continuae siccitati nec perpetuo eum addixit humori, quia una nos non poterat qualitate nutrire de permixtis quattuor fabricatos. Ver ergo calidum fecit et humectum, sicca est aestas et calida, auctumnus siccus et frigidus, hiems humida pariter et frigida est. 21 Sic et elementa, quae sunt nostra principia, ex diversitatibus et ipsa constant et nos nutriunt. Est enim ignis calidus et siccus, aer humectus et calidus, aqua similiter humecta sed frigida, terra frigida pariter et sicca. Cur ergo nos ad uniformem cibum redigis, cum nihil nec in nobis nec circa nos nec in his de quibus sumus uniforme sit? 22 Quod autem acescere vel nonnumquam fumare in stomacho cibum vis adsignare varietati, ut credamus, pronunties oportet aut semper eum qui vario cibo utitur haec pati aut
 
@@ -174,8 +414,15 @@ p589observata non sauciet, ipse tamen luxus morum sit aegritudo. 33 His favorab
 
 
 	
+
+VI.
+	
+
 1
 Post haec Flavianus: Et alios quidem medicos idem dicentes semper audivi, vinum inter calida censendum, sed et nunc Eustathius, cum causas ebrietatis attingeret, praedicabat vini calorem. Mihi autem saepe hoc mecum reputanti visa est vini natura frigori propior quam calori: et in medium profero quibus ad hoc aestimandum trahor, ut vestrum sit de mea aestimatione iudicium. 2 Vinum, quantum mea fert opinio, sicut natura frigidum est, ita capax vel etiam adpetens fit caloris, cum calidis fuerit admotum. Nam et ferrum cum tactu sit frigidum,
+
+— ψυχρὸν δ᾽ ἕλε χαλκὸν ὀδοῦσιν,
+
 
 si tamen solem pertulerit, concalescit, et calor advena nativum frigus expellit. Hoc utrum ita esse ratio persuadeat requiramus. 3 Vinum aut potu interioribus conciliatur, aut fotu, ut superficiem curet, adhibetur. Cum infunditur cuti, quin frigidum sit nec medici infitias eunt: calidum tamen in interioribus praedicant, cum non tale descendat, sed admixtum calidis concalescat. 4 Certe respondeant volo, cur stomacho in lassitudinem degeneranti ad
 
@@ -197,6 +444,10 @@ p593est foraminibus, ut pateat in meatus et vias praebeat humori in egestionis e
 
 
 	
+
+VII.
+	
+
 1
 Probata omnibus Disarii disputatione subiecit Symmachus: Ut spectata est tota ratio quam de muliebris ebrietatis raritate Disarius invenitur, ita unum ab eo praetermissum est, nimio frigore quod in earum corpore est frigescere haustum vinum, et ita debilitari, ut vis eius quae elanguit nullum possit calorem, de quo nascitur ebrietas, excitare. 2 Ad haec Horus: Tu vero, Symmache, frustra opinaris frigidam mulierum esse naturam, quam
 
@@ -216,6 +467,9 @@ p596viris ferunt, facit hoc suum frigus: similibus enim similia gaudent. Ideo ne
 13
 Sed de his singuli, ut volunt, iudicent. Ego vero ad sortem venio consulendi, et quod scitu dignum aestimo, ab eodem Disario quaero et mihi usque ad affectum nimium amico et cum in ceteris tum in his optime docto. 14 Nuper in Tusculano meo fui, cum vindemiales fructus pro annua sollemnitate legerentur. Erat videre permixtos rusticis servos haurire vel de expresso vel de sponte fluente mustum, nec tamen ebrietate capi. Quod in illis praecipue admirabar, quos inpelli ad insaniam parvo vino noveram. Quaero, quae ratio de musto ebrietatem aut tardam fieri faciat aut nullam? 15 Ad haec Disarius: Omne quod dulce est cito satiat, nec diuturnam desiderii sui fidem tenet, sed in locum satietatis succedit horror. In musto autem sola dulcedo est, suavitas nulla. Nam vinum cum in infantia est, dulce, cum pubescit, magis suave quam dulce est. 16 Esse autem harum duarum rerum distantiam certe Homerus testis est, qui ait:
 
+— Μέλιτι γλυκερῷ, καὶ ἡδέϊ οἴνῷ.
+
+
 Vocavit enim mel dulce et vinum suave. Mustum igitur cum necdum suave est, sed tantummodo dulce, horrore quodam tantum
 
 
@@ -224,6 +478,10 @@ p597sumi de se non patitur quantum sufficiat ebrietati. 17 Addo aliud, natural
 
 
 	
+
+VIII.
+	
+
 1
 Post haec Furius Albinus: Ego quoque pro virili portione Disarium nostrum inexercitum non relinquo. Dicas, quaeso, quae causa difficile digestu facit isicium, quod ab insectione insicium dictum amissione n littera postea quod nunc habet nomen
 
@@ -265,6 +523,10 @@ Cur ergo, Albinus ait, aestate cum aer calidus flabro movetur, non calorem sed f
 
 
 	
+
+IX.
+	
+
 1
 Interpellat Euangelus pergentem consultationem et: Exercebo, inquit, Disarium nostrum, si tamen minutis illis suis et rorantibus responsionibus satisfaciet consulenti. 2 Dic, Disari, cur qui ita se vertunt ut saepe in orbem rotentur et vertiginem capitis et obscuritatem patiuntur oculorum, postremo, si perseveraverint, ruunt, cum nullus alius motus corporis hanc ingerat necessitatem? 3 Ad haec Disarius: Septem, inquit, corporei motus sunt: aut enim accedit priorsum aut retrorsum recedit aut in dexteram laevamve divertitur aut sursum promovet aut deorsum aut orbiculatim rotatur. 4 Ex his septem motibus unus tantum
 
@@ -289,6 +551,10 @@ p605ventre nascentes vicem inplent fistularum, spiramentum sensificum ad sua qua
 p606Sed Eustathio iam cedo, cui praecipui consulendi locum. 27 Eustathius: Modo vel vir omnium disertissimus Eusebius vel quicunque volent alii ad exercitum consultationis accedant, nos postea liberiore otio congrediemur.
 
 	
+
+X.
+	
+
 1
 Ergo, ait Eusebius, habendus mihi sermo est, Disari, tecum de aetate cuius ianuam iam paene ambo pulsamus. Homerus, cum senes πολιοκροτάφους vocat, quaero, utrum ex parte poetico more totum caput significare velit, an ex aliqua ratione canos huic praecipue parti capitis adsignet? 2 Et Disarius: Et hoc divinus ille vates prudenter, ut cetera. Nam pars anterior capitis humidior occipitio est, et inde crebro solet incipere canities. Et si pars anterior, ait ille, humidior est, cur calvitium patitur, quod non nisi ex siccitate contingit? 3 Oportuna, inquit Disarius, obiectio, sed ratio non obscura est. Partes enim priores capitis fecit natura rariores, ut quicquid superflui aut fumei flatus circa cerebrum fuerit evanescat per plures meatus: unde videmus in siccis defunctorum capitibus velut quasdam suturas quibus hemisphaeria, ut ita dixerim, capitis alligantur. Quibus igitur illi meatus fuerint ampliores, humorem siccitate mutant et ideo tardius canescunt, sed non calvitio carent. 4 Si ergo siccitas calvos efficit, et posteriora capitis sicciora esse dixisti, cur calvum occipitium numquam videmus? 5 Ille respondit: Siccitas occipitii non ex vitio sed ex natura est: ideo omnibus sicca sunt occipitia. Ex illa autem siccitate calvitium nascitur quae per malam temperiem, quam Graeci δυσκρασίαν solent vocare, contingit. 6 Unde capillos
 
@@ -302,6 +568,10 @@ p608hunc in eunuchis debilitatem tibiis ingerentem, quarum ossa quasi semper in 
 
 
 	
+
+XI.
+	
+
 1
 His dictis cum ad interrogandum ordo Servium iam vocaret, naturali pressus ille verecundia usque ad proditionem coloris erubuit. 2 Et Disarius: Age, Servi non solum adolescentium qui tibi aequaevi sunt sed senum quoque omnium doctissime, commascula frontem, et sequestrata verecundia, quam in te
 
@@ -315,6 +585,10 @@ p610quibus tenebatur fortitudo membrorum, et inde saltu timoris agitantur. 9 Hi
 
 
 	
+
+XII.
+	
+
 1
 Tunc Avienus: Quia me ordo, ait, ad similitudinem consultationis adplicat, reducendus mihi est ad convivium sermo qui longius a mensa iam fuerat evagatus et ad alias transierat quaestiones. 2 Saepe adposita salita carne, quam laridum vocamus, ut opinor quasi large aridum, quaerere mecum ipse constitui, qua ratione carnem ad diuturnitatem usus admixtio salis servet. Hoc licet aestimare mecum possim, malo tamen ab eo qui corporibus curat certior fieri. 3 Et Disarius: Omne corpus suapte natura dissolubile et marcidum est et, nisi quodam vinculo contineatur, facile defluit. Continetur autem, quamdiu inest anima, reciprocatione aeris, qua vegetantur conceptacula spiritus, dum semper novo spirandi nutriuntur alimento. 4 Hoc cessante per animae discessum membra marcescunt, et omne pondere suo conflictum corpus obteritur: tum sanguis etiam, qui, quamdiu fuit compos caloris, dabat membris vigorem, calore discedente versus in saniem non manet intra venas, sed foras exprimitur: atque ita laxatis spiramentis effluit tabes faeculenta. 5 Id fieri sal admixtus corpori prohibet. Est enim natura siccus et calidus, et fluxum quidem corporis calore contrahit, humorem vero siccitate vel coercet vel exorbet. Certe humorem sale differri sive consumi fit hinc cognitu facile, quod, si duos panes pari magnitudine feceris, unum sale aspersum, sine sale alterum, invenies indigentem salis pondere propensiorem, scilicet humore in eo per salis penuriam permanente. 6 Et hoc a Disario meo quaesitum volo, cur
 
@@ -356,6 +630,10 @@ p619est ut graviora quaeque in fundo Propontidis ad Ponti interiora pellantur. 3
 
 
 	
+
+XIII.
+	
+
 1
 Successit Horus et: Cum multa, inquit, de potu et cibatu quaesisset Avienus, unum maxime necessarium, sponte an oblitus ignoro, praetermisit, cur ieiuni magis sitiant quam esuriant. Hoc in commune nobis, Disari, si videtur, absolve. 2 Et ille: Rem tractatu dignam, inquit, Hore, quaesisti, sed cuius ratio in aperto sit. Cum enim animal ex diversis constet elementis, unum est de his quae corpus efficiunt quod et solum aut maxime
 
@@ -386,7 +664,15 @@ p62417 Inter haec Horus ad consulendum reversus: Scis, inquit, Disari, praeter 
 
 p625qui se quaestionemque suam commisit fidei tuae. Aristoteles enim, ut nonnulla alia, magis acute quam vere ista disseruit. 22 Adeo autem aquae densitas non nocet abluendis, ut saepe qui aliquas species purgatas volunt, ne sola aqua vel dulci tardius hoc efficiant, admisceant illi cinerem vel, si defuerit, terrenum pulverem, ut crassior facta celerius possit abluere. Nihil ergo impedit marinae aquae densitas. 23 Sed nec ideo quia salsa est minus abluit. Salsitas enim findere et velut aperire solet meatus, et ideo magis elicere debuit abluenda. Sed haec una causa est cur aqua marina non sit ablutioni apta, quia pinguis est, sicut et ipse Aristoteles saepe testatus est, et sales docent quibus inesse quiddam pingue nullus ignorat. 24 Est et hoc indicium pinguis aquae marinae quod, cum inspergitur flammae, non tam extinguit quam pariter accenditur aquae pinguedine alimoniam igni subministrante. 25 Postremo Homerum sequamur, qui solus fuit naturae conscius. Facit enim Nausicaam Alcinoi filiam abluentem vestes, cum super mare esset, non in mari sed in fluvio. Idem locus Homeri docet nos marinae aquae quiddam inesse pingue permixtum. 26 Ulixes enim cum iamdudum mare evasisset et staret siccato corpore, ait ad Nausicaae famulas:
 
+ ἀμφίπολοι, στῆθ᾽ οὕτω ἀπόπροθεν, ὄφρ᾽ ἐγὼ αὐτὸς
+	
+ἅλμην ὤμοιϊν ἀπολούσομαι.
+
+
 Post haec cum descendisset in fluvium,
+
+ Ἐκ κεφαλῆς ἔσμηχεν ἁλὸς χνόον.
+
 
 27
 Divinus enim vates, qui in omni re naturam secutus est, expressit quod fieri solet, ut qui ascendunt de mari, si in sole steterint, aqua quidem celeriter sole siccetur, maneat autem in corporis superficie
@@ -397,6 +683,10 @@ p626veluti flos quidam qui et in detergendo sentitur: et haec est aquae marinae 
 
 
 	
+
+XIV.
+	
+
 1
 Et quia a ceteris expeditus mihi te paulisper indulges, modo autem nobis de aqua sermo fuit, quaero: Cur in aqua simulachra maiora veris videntur? Quod genus apud popinatores pleraque scitamentorum cernimus proposita ampliore specie quam corpore: quippe videmus in doliolis vitreis aquae plenis et ova globis maioribus et iecuscula fibris tumidioribus et bulbos spiris ingentibus. Et omnino ipsum videre qua nobis ratione
 
@@ -426,6 +716,10 @@ p632intenderit, agnoscit in turre angulos et in remo integritatem. 21 Et omnia 
 
 
 	
+
+XV.
+	
+
 1
 His dictis favor ab omnibus exortus est ammirantibus dictorum soliditatem adeo ut attestari vel ipsum Euangelum non pigeret. Disarius deinde subiecit: Isti plausus sunt qui provocant philosophiam ad vindicandos sibi de aliena arte tractatus, unde
 
@@ -445,6 +739,13 @@ p635nisi quod salutare esset animali. 9 Deinde, cum pulmo et solidus et levigat
 
 p636impetu quo trahitur praeterit in vesicam, et sicciori cibo provenit tarda digestio. Haec autem differentia non nasceretur, si a principio cibi et potus divis essent meatus. 13 Quod autem Alcaeus poeta dixit et vulgo canitur,
 
+
+
+*Οἴνῳ πνεύμονα τέγγε, τὸ γὰρ ἄστρον περιτέλλεται,
+		
+
+
+
 ideo dictum est quia pulmo revera gaudet humore, sed trahit quantum sibi aestimat necessarium. Vides satius fuisse philosophorum omnium principi alienis abstinere quam minus nota proferre. 14 Ad haec Eustathius paulo commotior: Non minus te, inquit, Disari, philosophis quam medicis inserebam, sed modo videris mihi rem consensu generis humani decantatam et creditam oblivioni dare, philosophiam artem esse artium et disciplinam disciplinarum: et nunc in ipsam invehitur parricidali ausu medicina, cum philosophia illic se habeatur augustior ubi de rationali parte, id est de incorporeis, disputat, et illic inclinetur ubi de physica, quod est de divinis corporibus vel caeli vel siderum, tractat: 15 medicina autem physicae partis extrema faex est, cui ratio
 
 
@@ -455,17 +756,41 @@ p637est cum testeis terrenisque corporibus — sed quid rationem nominavi, cum m
 
 p638nunc solius cibi tradit: nec opus esset diversis meatibus quibus singula traderentur, sed unus utrique sufficeret ab eadem statione transmisso: modo autem seorsum vesica et intestinum seorsum saluti servit, quia illi stomachus tradit, pulmo vesicae. 20 Nec hoc praetereundum est quod in urina, quae est retrimentum potus, nullum cibi vestigium reperitur, sed nec aliqua qualitate illorum retrimentorum vel coloris vel odoris inficitur, quod, si in ventre simul fuissent, aliqua illarum sordium qualitas inficeretur. 21 Nam postremo lapides qui de potu in vesica nascuntur cur numquam in ventre coalescunt, cum non nisi ex potu fiant, et nasci in ventre quoque debuerint, si venter esset receptaculum potus? 22 In pulmonem defluere potum nec poetae nobiles ignorant. Ait enim Eupolis in fabula quae inscribitur Κόλακες:
 
-p639
+
+
+
+
+— Πίνειν
+			
+γὰρ ὁ Πρωταγόρας ἐκελεύεν, ἵνα
+			
+*πρὸ τοῦ κυνὸς τὸν πνεύμον᾽ ἔκλυτον ἔχῆ.
+
+
+
+                                    
+
+	p639
 23
 Et Eratosthenes testatur idem:
 
+Καὶ βαθὺν ἀκρήτῳ πνεύμονα τεγγόμενος.
+
+
 Euripides vero huius rei manifestissimus astipulator est;
+
+Οὶνος περάσας πλευμόνων διαῤῥοάς.
+
 
 24
 Cum igitur et ratio corporeae fabricae et testium nobilis auctoritas astipuletur Platoni, nonne quisquis contra sentit insanit?
 
 
 	
+
+XVI.
+	
+
 1
 Inter haec Euangelus gloriae Graecorum invidens et inludens: Facessant, ait, haec quae inter vos in ostentationem loquacitatis agitantur: quin potius, si quid callet vestra sapientia, scire ex vobis volo, ovumne prius extiterit an gallina? 2 Inridere te putas, Disarius ait, et tamen quaestio quam movisti et inquisitu et scitu digna est. Iocum enim tibi de rei vilitate conparans consuluisti utrum prius gallina ex ovo an ovum ex gallina coeperit: sed hoc ita seriis inserendum est, ut de eo debeat vel anxie disputari. Et proferam quae in utramque partem mihi dicenda subvenient, relicturus tibi utrum eorum verius malis videri. 3 Si concedimus omnia quae sunt aliquando coepisse, ovum prius a natura factum iure aestimabitur. Semper enim quod incipit
 
@@ -493,6 +818,11 @@ p644maiore calore non fieri et ex minore ac temperato provenire dicatur. Solis e
 
 p645mirum, si ratione proprietatis quae singulis inest calor solis arefacit, lunaris humectat. 25 Hinc et nutrices pueros fellantes operimentis obtegunt, cum sub luna praetereunt, ne plenos per aetatem naturalis humoris amplius lunare lumen humectet, et sicut ligna adhuc viriore humida accepto calore curvantur, ita et illorum membra contorqueat humoris adiectio. 26 Hoc quoque notum est quia, si quis diu sub luna somno se dederit, aegre excitatur et proximus fit insano, pondere pressus humoris qui in omne eius corpus diffusus atque dispersus est proprietate lunari: quae ut corpus infundat, omnes eius aperit et laxat meatus. 27 Hinc est quod Diana, quae luna est, ἄρτεμις dicitur, quasi ἀερότεμις, hoc est aerem secans. Lucina a parturientibus invocatur, quia proprium eius munus est distendere rimas corporis et meatibus viam dare, quod est accelerando partu salutare. 28 Et hoc est quod eleganter poeta Timotheus expressit:
 	p646
+— Διὰ λαμπρὸν πόλον ἄστρων
+	
+διὰ τ᾽ ὠκυτόκοιο σελάνας.
+
+
 29
 Nec minus circa inanima lunae proprietas ostenditur. Nam ligna quae luna vel iam plena vel adhuc crescente deiecta sunt inepta sunt fabricis, quasi emollita per humoris conceptionem. Et agricolis curae est frumenta de areis non nisi luna deficiente colligere, ut sicca permaneant. 30 Contra quae humecta desideras luna crescente conficies. Tunc et arbores aptius seres, maxime cum illa est super terram, quia ad incrementa stirpium necessarium est humoris alimentum. 31 Aer ipse proprietatem lunaris humoris et patitur et prodit. Nam cum luna plena est vel cum nascitur (et tunc enim a parte qua sursum suspicit plena est), aer aut in pluviam solvitur aut, si sudus sit, multum de se roris emittit: unde et Alcman lyricus dixit rorem aeris et lunae filium. 32 Ita undique versum probatur ad humectandas dissolvendasque carnes inesse lunari lumini proprietatem, quam magis usus quam ratio deprehendit. 33 Quod autem dixisti, Evangele, de acuto aeneo, ni fallor coniectura mea, a vero non deviat. Est enim in aere vis
 
@@ -501,3 +831,121 @@ Nec minus circa inanima lunae proprietas ostenditur. Nam ligna quae luna vel iam
 p647acrior, quam medici stypticam vocant, unde squamas eius adiciunt remediis quae contra perniciem putredinis advocantur. Deinde qui in metallo aeris morantur semper oculorum sanitate pollent, et quibus ante palpebrae nudatae fuerant illic convestiuntur: aura enim quae ex aere procedit, in oculos incidens haurit et exiccat quod male influit. 34 Unde et Homerus modo εὐήνορα modo νώροπα χαλκὸν has causas secutus appellat. Aristoteles vero auctor est vulnera quae ex aereo mucrone fiunt minus esse noxia quam ex ferro faciliusque curari, qui inest, inquit, aeri vis quaedam remedialis et siccifica, quam demittit in vulnere. Pari ergo ratione infixum corpori pecudis lunari repugnat humori.
 
 	
+* * *
+	p648
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Saturnalia:
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+1 Feb 06

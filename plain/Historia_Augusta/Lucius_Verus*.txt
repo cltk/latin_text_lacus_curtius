@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Marcus Aurelius
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Avidius Cassius
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p206
+Verus
+	
+
 11 Scio plerosque ita vitam Marci ac Veri litteris atque historiae dedicasse ut priorem Verum intimandum legentibus darent, non imperandi secutos1 ordinem sed vivendi; 2 ego vero, quod prior Marcus imperare coepit, dein Verus, qui superstite periit Marco, priorem Marcum dehinc Verum credidi celebrandum.
 
 	
@@ -107,226 +215,376 @@ p230libertum proditum Marco, anteventum44 Lucium a Faustina,45 ne praeveniret.
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 secutus P1; secuti sunt P corr.
+❦
 
 2
 caelius P.
 
 
+❦
 
 3
 pari P.
 
 
+❦
 
 4
 talephum P.
 
 
+❦
 
 5
 Hefaestionem Peter; fertionem P.
 
 
+❦
 
 6
 arpocrationem Pb; acprocrationem Pa;
 
 
+❦
 
 7
 So P; uoluptuarius Peter.
 
 
+❦
 
 8
 se resedit P.
 
 
+❦
 
 9
 Sextio Peter with Clinton; sestilio P.
 
 
+❦
 
 10
 ei P.
 
 
+❦
 
 11
 nam neque Jordan; namque P.
 
 
+❦
 
 12
 puritatemque P, perhaps a corruption; Peter suggests hilaritatemque.
 
 
+❦
 
 13
 post consulatus Petrarch; proconsulatos P1; proconsulatus P corr.
+❦
 
 14
 Thus Lenze; si susciperet obsecutus P; † si susciperet obsecutus Peter.
 
 
+❦
 
 15
 So Damsté; Marcus pro ambobus P.
 
 
+❦
 
 16
 pro consensu imperii Jordan; pro consensus imperio P.
 
 
+❦
 
 17
 Syria P, Peter.
 
 
+❦
 
 18
 So Winterfeld; iuuentis P1; iuuentutis P corr.; incestis Peter.
 
 
+❦
 
 19
 posteaquam Petrarch; quam postea P, Peter.
 
 
+❦
 
 20
 deuertebat P, which Lessing restores; diuertebat edd.
 
 
+❦
 
 21
 So Oberdick; omnia nesciens P; omnia non nesciens Peter.
 
 
+❦
 
 22
 So Novak; prae (·R· in P) before pudore Peter.
 
 
+❦
 
 23
 So P; quadrupedium B, Peter.
 
 
+❦
 
 24
 So Pb; alienis temporibus P corr.
+❦
 
 25
 e added by Salm.; prouincialibus P corr.
+❦
 
 26
 So Peter; quod eum P1 (m later erased).
 
 
+❦
 
 27
 So Peter2; impulsum . . . secunde P1; inpulsu . . . secum P corr.
+❦
 
 28
 urbemque P.
 
 
+❦
 
 29
 So Richter; paribus P, Peter.
 
 
+❦
 
 30
 praesentiae nulla Novak; praesentia ulla P; in praesentia nulla Peter.
 
 
+❦
 
 31
 haec . . . diuersitas P.
 
 
+❦
 
 32
 fratrem suum se Peter; fratres suos P.
 
 
+❦
 
 33
 qui P.
 
 
+❦
 
 34
 ab Vero Peter; habero P.
 
 
+❦
 
 35
 adiecit P.
 
 
+❦
 
 36
 uectatus P.
 
 
+❦
 
 37
 quid Novak; quidem P; quidem quid Peter.
 
 
+❦
 
 38
 quidem P.
 
 
+❦
 
 39
 redieret Pb; rediret Pa;
 
 
+❦
 
 40
 quoque P.
 
 
+❦
 
 41
 festinatum Peter; destinatum P.
 
 
+❦
 
 42
 Lucilla Mommsen; lucii P; uel Marci P corr.
+❦
 
 43
 ut Novak; ut si P; uti Peter.
 
 
+❦
 
 44
 ante aduentum P.
 
 
+❦
 
 45
 a Faustina Mommsen; a omitted in P.
 
 
+❦
 
 46
 positionis P.
 
 
+❦
 
 47
 se ad hoc P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

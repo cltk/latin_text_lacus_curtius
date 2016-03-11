@@ -1,76 +1,558 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p268
+Calpurnius Siculus
+	
+VI
+	
+
+
+Astylus: Lycidas: Mnasyllus
+	
+
+
+
+
+
+A.
+
+Serus ades, Lycida: modo Nyctilus et puer Alcon
+	
+certavere sub his alterno carmine ramis
+	
+iudice me, sed non sine pignore. Nyctilus haedos
+	
+p270
+iuncta matre dedit; catulum dedit ille leaenae1
+5
+iuravitque genus, sed sustulit omnia victor.
+
+	
+L.
+
+Nyctilon ut cantu rudis exsuperavit Alcon,
+	
+Astyle, credibile est, si vincat acanthida cornix,
+	
+vocalem superet si dirus aedona bubo.
+
+	
+A.
+
+non potiar Petale,2 qua nunc ego maceror una,
+	10
+si magis aut docili calamorum Nyctilus arte
+	
+aut cantu magis est quam vultu proximus illi.
+
+	
+L.
+
+iam non decipior: te iudice pallidus alter
+	
+venit et hirsuta spinosior hystrice barbam;
+	
+candidus alter erat levique decentior ovo
+	15
+et ridens oculis crinemque simillimus auro,
+	
+qui posset dici, si non cantaret, Apollo.
+
+	
+A.
+
+o Lycida, si quis tibi carminis usus inesset,
+	
+tu quoque laudatum nosses3 Alcona probare.
+
+	
+L.
+
+vis igitur, quoniam nec nobis, improbe, par es,
+	20
+ipse tuos iudex calamos committere nostris?
+	
+vis conferre manum? veniat licet arbiter Alcon.
+
+	
+A.
+
+vincere4 tu quemquam? vel te certamine quisquam
+	
+dignetur, qui vix stillantes, aride, voces
+	
+rumpis et expellis male singultantia verba?
+
+	25
+L.
+
+fingas plura licet: nec enim potes, improbe, vera
+	
+p272
+exprobrare mihi, sicut tibi multa Lycotas.
+	
+sed quid opus vana consumere tempora lite?
+	
+ecce venit Mnasyllus: erit (nisi forte recusas)
+	
+arbiter inflatis non credulus, improbe, verbis.
+
+	30
+A.
+
+malueram, fateor, vel praedamnatus5 abire
+	
+quam tibi certanti partem committere vocis.
+	
+ne tamen hoc impune feras: en adspicis illum,
+	
+candida qui medius cubat inter lilia, cervum?
+	
+quamvis hunc Petale mea diligat, accipe victor.
+	35
+scit frenos et ferre iugum sequiturque vocantem
+	
+credulus et mensae non improba porrigit ora.
+	
+adspicis, ut fruticat late caput utque sub ipsis
+	
+cornibus et tereti pendent redimicula collo?
+	
+adspicis, ut niveo frons irretita capistro
+	40
+lucet et a dorso, quae totam circuit alvum,
+	
+alternat vitreas lateralis cingula bullas?
+	
+cornua subtiles6 ramosaque tempora molles
+	
+implicuere rosae rutiloque monilia torque
+	
+extrema cervice natant,7 ubi pendulus apri
+	45
+dens sedet et nivea distinguit pectora luna.
+	
+hunc, sicutque vides, pignus, Mnasylle, paciscor
+	
+pendere, dum sciat hic se non sine pignore vinci.
+
+	
+L.
+
+terreri, Mnasylle, suo me munere credit:
+	
+adspice, quam timeam! genus est, ut scitis, equarum
+	50
+p274
+non vulgare8 mihi; quarum de sanguine ponam
+	
+velocem Petason, qui gramina matre relicta
+	
+nunc primum teneris libavit dentibus: illi9
+
+terga sedent, micat acre caput, sine pondere cervix,
+	
+pes levis, adductum latus, excelsissima frons est,
+	55
+et tornata brevi substringitur ungula cornu,
+	
+ungula, qua viridi sic exsultavit in arvo,
+	
+tangeret ut fragiles, sed non curvaret, aristas:
+	
+hunc dare, si vincar, silvestria numina iuro.
+
+	
+M.
+
+et vacat et vestros cantus audire iuvabit.
+	60
+iudice me sane10 contendite, si libet: istic
+	
+protinus ecce torum fecere sub ilice Musae.
+
+	
+A.
+
+sed, ne vicini nobis sonus obstrepat amnis,
+	
+gramina linquamus ripamque volubilis undae.
+	
+namque sub exeso raucum mihi pumice lymphae
+	65
+respondent et obest arguti glarea rivi.
+
+	
+L.
+
+si placet, antra magis vicinaque saxa petamus,
+	
+saxa, quibus viridis stillanti vellere muscus
+	
+dependet scopulisque cavum sinuantibus arcum
+	
+imminet exesa veluti testudine concha.
+
+	70
+M.
+
+venimus et tacito sonum mutavimus11 antro:
+	
+seu residere libet, dabit ecce sedilia tophus,
+	
+ponere seu cubitum, melior viret herba tapetis.
+	
+nunc mihi seposita reddantur carmina lite;
+	
+nam vicibus teneros malim cantetis amores:
+	75
+Astyle, tu Petalen, Lycida, tu Phyllida lauda.
+
+	
+p276
+L.
+
+tu modo nos illis (iam nunc, Mnasylle, precamur)
+	
+auribus accipias, quibus hunc et Acanthida nuper
+	
+diceris in silva iudex audisse Thalea.
+
+	
+A.
+
+non equidem possum, cum provocet iste, tacere.
+	80
+rumpor enim, Mnasylle:12 nihil nisi iurgia quaerit.
+	
+audiat aut dicat, quoniam cupit; hoc mihi certe
+	
+dulce satis fuerit, Lycidam spectare trementem,
+	
+dum te teste13 palam sua crimina pallidus audit.
+
+	
+L.
+
+me, puto, vicinus Stimicon, me proximus Aegon
+	85
+hos inter frutices tacite risere volentem
+	
+oscula cum tenero simulare14 virilia Mopso.
+
+	
+A.
+
+fortior o utinam nondum Mnasyllus adesset!
+	
+efficerem, ne te quisquam tibi turpior esset.
+
+	
+M.
+
+quid furitis, quo vos insania tendere iussit?
+	90
+si vicibus certare placet — sed15 non ego vobis
+	
+arbiter: hoc alius possit discernere iudex!
+	
+et venit ecce Micon, venit et vicinus Iollas:
+	
+litibus hi vestris poterunt imponere finem.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 Laconem vel Lacaenae Heinsius.
 
 
+❦
 
 2
 Petale editio Ascensiana et vulgo: Crocale GV.
 
 
+❦
 
 3
 posses codd: nosses Haupt.
 
 
+❦
 
 4
 vinces NG: vincere V: vincen Glaeser, Baehrens.
 
 
+❦
 
 5
 praedamnatus NA: predam nactus V.
 
 
+❦
 
 6
 subtiles codd.: summa vides F. Leo: subtilius molles ramosa corollis Heinsius.
 
 
+❦
 
 7
 natant NH: natent G: notant V: nitent Ulitius.
 
 
+❦
 
 8
 vulgare NGA: ĭŭgale V.
 
 
+❦
 
 9
 Post 52 vel post 53 est vulgo insertus dubius versus 54 (pes levis etc.): 53‑57 exstant in Exc. Par., om. 54.
 
 
+❦
 
 10
 me sane NV: mascillo G: Mnasyllo Baehrens.
 
 
+❦
 
 11
 mutavimus NG: mutabimus Burman.
 
 
+❦
 
 12
 mnasille N: mascille G: merito V.
 
 
+❦
 
 13
 te teste GH: te stante NV.
 
 
+❦
 
 14
 mutare Maehly: miscere Baehrens: sociare C. Schenkl.
 
 
+❦
 
 15
 sed G: sum Baehrens: sic Barth.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Id. Feb. 09

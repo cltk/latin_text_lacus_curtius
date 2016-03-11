@@ -1,4 +1,130 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber II
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber IV
+				
+
+
+
+
+
+Vol. Ip90
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Tertius
+	
+
+
+Prooemium
+	
+
 1 Matheseos sermo totus qui pertinet ad definitionem apotelesmatum in sententias transferatur, ut patefactis omnibus atque monstratis, quae divini veteres ediderunt, studiosis huiusce artis viris tota plenissime per nos insinuetur huius prudentiae disciplina. 2 Scire itaque nos principe in loco oportet, Lolliane decus nostrum, quod ad imaginem speciemque mundi formam hominis ac statum totamque substantiam deus ille fabricator hominis natura monstrante perfecerit; nam corpus hominis ut mundi ex quattuor elementorum commixtione composuit, ignis scilicet et aquae, aëris et terrae, ut omnium istorum coniunctio temperata animal ad formam divinae imitationis ornaret, et ita hominem artificio divinae fabricationis composuit, ut in parvo corpore omnem elementorum vim atque substantiam natura cogente conferret, ut divino illi spiritui, qui ad sustentationem mortalis corporis ex caelesti mente descendit, licet fragile sed tamen simile mundo pararet hospitium. 3 Hac ex causa hominem quasi minorem quendam mundum stellae quinque, Sol etiam et Luna ignita ac
 
 
@@ -7,6 +133,9 @@ p91sempiterna agitatione sustentant, ut animal, quod ad imitationem mundi factum
 
 
 	
+I. Thema mundi.
+	
+
 1 Mundi itaque genituram hanc esse voluerunt secuti Aesculapium et Hanubium, quibus potentissimum Mercurii numen istius scientiae secreta commisit. Constituerunt Solem in Leonis parte XV., Lunam in Cancri parte XV., Saturnum in Capricorni parte XV., <Iovem in Sagittarii parte XV., Martem in Scorpionis parte XV.>, Venerem in Librae parte XV., Mercurium in Virginis parte XV., horam in Cancri parte XV. 2 Secundum hanc itaque genituram et secundum has conditiones stellarum et secundum testimonia, quae huic geniturae perhibent, et secundum istas rationes etiam hominum volunt fata disponi, sicut in illo libro continetur Aesculapii, qui Myriogenesis appellatur, prorsus ut nihil ab ista mundi genitura in singulis hominum genituris alienum
 
 
@@ -44,6 +173,9 @@ p97suos in hoc signum miserint. Quibus omnibus †gentibus siderum initium ex ho
 
 
 	
+II. De Saturni stella.
+	
+
 1 Saturnus per diem in horoscopo partiliter constitutus, id est si in ea parte est qua horoscopus, faciet cum summo clamore edi partum. Erit autem iste, qui nascitur, maior omnibus fratribus, aut, si quis ante eum natus fuerit, a parentibus separatur. Semper autem deus iste per diem in omnibus quattuor cardinibus faciet primos nasci aut primos nutriri aut eos fratres, qui ante se nati fuerint, . . . . . facit inflatos ac superbiae spiritu sublevatos. 2 Si vero Saturno per diem in horoscopo constituto Mars alium geniturae possederit cardinem vel in anafora cardinis fuerit, multorum malorum significat adventum. Faciet enim maxima pericula et labem patrimonii; frequenter vero, si nulla <se> istis benivola stella in bono geniturae loco posita forti radiatione coniunxerit et si crescentis
 
 
@@ -112,6 +244,9 @@ p104enim, si sic fuerit collocatus, paralyticos ridiculos gibbos nanos incurvos 
 
 
 	
+III. Iuppiter.
+	
+
 1 Si Iuppiter in primo cardine partiliter id est in parte horoscopi fuerit constitutus, in his praesertim signis, in quibus gaudet, vel in suis domiciliis vel in suis finibus vel in altitudine sua, faciet nobiles gloriosos magnis semper praepositos civitatibus, interdum magnarum civitatum decem primos pro mensura geniturae, bonos venustos benivolos laetos divites, praesertim si per diem in horoscopi partibus fuerit inventus et si nulla malivola stella sic ei posito ex aliqua parte restiterit. Nam si Iovem sic positum malivola stella contraria radiatione respexerit, totum quicquid Iuppiter decreverit ex maxima parte minuitur. 2 Si vero per noctem in horoscopi parte fuerit inventus, faciet primum nasci inter fratres vel, qui ante ipsum natus fuerit, interimit vel in longinquis eum †separavit et constituit regionibus ac locis, ut ipse in paterna domo habeat principatum. Facit autem bene nutriri et parentes eius in maxima felicitate constituit. Quodsi sic per noctem Iove posito malivola stella restiterit, omnem paternam ac maternam substantiam dissipabit. 3 Semper autem Iuppiter in cardinibus geniturae collocatus aut primos nasci faciet aut fratres
 
 
@@ -180,6 +315,10 @@ p113ei vel honorum vel dignitatis conlatum fuerit, miseriarum atque infelicitati
 
 
 	
+p114
+IV. Mars.
+	
+
 1 Mars in horoscopi partibus partiliter constitutus in nocturna genitura et in masculinis signis faciet militares; matutinus autem si fuerit partiliter in horoscopo constitutus sine radiatione Iovis, faciet nigrastros alteros longiores, plus volentes donare, quam patrimonii ipsorum substantia patitur, ita ut profusi esse videantur, sed quorum actus omni semper ratione publicentur. 2 Si vero per noctem horoscopus in Martis domicilio sit constitutus, in signo scilicet masculino, et in eodem signo idest horoscopo Mars fuerit inventus et Iuppiter cum eo sit partiliter in eodem signo aut solida eum radiatione respexerit, faciet bellorum duces, sed quibus omnis committatur exercitus, mortis ac vitae dominos et quorum adventum civitates semper aut provinciae maximae perhorrescant, felices fortes graves et quorum irae magnis semper indignationibus proferantur. Sed nec coniugem nec filios sic positus caro diligere permittit adfectu. 3 Per diem vero si in horoscopo partiliter fuerit inventus, calidos audaces furiosos peregrinos facit et in omnibus semper instabiles et <qui>, quicquid ausi fuerint, nulla potuerunt ratione complere, sed semper de manibus eorum quicquid nacti fuerint defluit; patrimonia autem eorum, qui sic Martem habuerint, dissipantur. Sed et omne vitae substantiam, uxores etiam ac filios amittunt, nec aliquid illis [vel ab ipsis] de paterna substantia reservatur, sed et haec prima aetate depereunt. 4 Quodsi sic Iuppiter positum Martem per diem ipse in domicilio
 
 
@@ -267,6 +406,9 @@ p127respexerit, filios denegabit. 39 Si vero per noctem ipse dator vitae fuerit
 
 
 	
+V. De sole.
+	
+
 1 Sol in parte horoscopi constitutus difficile fratres dabit; in masculino autem signo constitutus in domo sua aut in altitudine sua et benivolae stellae radiatione coniunctus <aut a> benivolis protectus magnae nobilitati largitur insignia. Si vero malivolae stellae Sole in horoscopo constituto prope radiis accedant, oculorum aciem ex maxima parte debilitat. Sed quia diximus eum maximas decernere felicitates, omnia debemus specialiter explicare. 2 Cum Saturno in horoscopi cardine partiliter constitutus in his, quibus diximus, partibus per diem imperatores faciet ac reges; quodsi vires eius leviter fuerint impeditae,
 
 
@@ -367,6 +509,9 @@ p142aut aliqua illi radiatione coniunctae, nihil quidem <in> actibus neque honor
 
 
 	
+VI. Venus.
+	
+
 1 Venus in parte horoscopi constituta si per noctem in hoc loco fuerit, divinis ingeniis homines faciet, amicos imperatorum aut potentium reddit et quibus imperatorum ac magnorum virorum negotia credantur. Faciet etiam oratores maximos et bonos secundum naturam qualitatemque signorum. Si enim in humanis signis partiliter in horoscopo fuerit inventa, faciet sacerdotum principes et qui in ipsis sacerdotiis purpureis aut auratis vestibus induantur et qui futura praedicant. Faciet autem gratos venustos divites, si nulla malivola stella sic positae Veneri aliqua se potestate radiationis obiecerit. 2 Si vero in his, quibus diximus, signis partiliter Venere in horoscopo
 
 
@@ -455,6 +600,9 @@ p155responsionibus constitit. Male enim constituitur Venus, si cum illo fuerit c
 
 
 	
+VII. Mercurius.
+	
+
 1 Mercurius in parte horoscopi partiliter constitutus in his, in quibus gaudet signis, in diurna genitura facit philosophos, grammaticae artis magistros aut geometras aut caelestia saepe tractantes aut qui ad hoc spectent, ut deorum possint praesentiam intueri, aut sacrarum litterarum peritos; facit etiam frequenter oratores et advocatos, praesertim si in hoc loco vel in suis signis vel in ceteris vocalibus signis fuerit inventus. 2 Quodsi sic Mercurium Sol aut Saturnus aut
 
 
@@ -531,6 +679,9 @@ p165malis malum, explicare debemus, quid in genituris cum singularum societate d
 
 
 	
+VIII. Mercurius cum Sole.
+	
+
 1 Per diem Mercurius cum Sole partiliter in horoscopo constitutus faciet reges duces potentes; si vero per noctem in hoc loco fuerint partiliter inventi, patrem degenerem et ignobilem faciunt; erunt autem in artibus publicis, sed absconsis et miseris secundum naturam qualitatemque signorum.
 
 	
@@ -572,6 +723,9 @@ p166honestos et graves. Quodsi sic positi fuerint in quarto loco geniturae, cons
 
 
 	
+IX. Saturnus et Mercurius.
+	
+
 1 Mercurius et Saturnus in parte horoscopi partiliter constituti in diurna genitura absconsores pecuniarum faciunt, advocatos aut iureperitos aut scribas, sed languidos et qui cito deficiant. Si vero per noctem in hoc loco fuerint constituti, servos aut captivos ex liberis facient et tradunt eos potentibus viris
 
 
@@ -621,6 +775,9 @@ p171ab horoscopo partiliter constituti quid decernant, sextus geniturae locus ma
 
 
 	
+X. Mercurius et Iuppiter.
+	
+
 1 Mercurius cum Iove partiliter in horoscopo constitutus in diurna genitura faciet claros et gloriosos, civitatibus praepositos aut maximarum civitatum decem primos, iuridicos et qui provinciis aut civitatibus iura restituant, sed qui iustis semper gaudeant causis. Si vero per noctem sic fuerint inventi, procuratores aut actores aut negotiorum praepositos, sed magnorum aut potentium virorum interdum facit scribas, rationibus mensis apothecis negotiationibusque praepositos, argutos vero, ingeniosos et quibus ex bonitate ingenii felicitas maxima conferatur.
 
 	
@@ -670,6 +827,10 @@ temporis mediocriter substantiae incrementa decernunt. Si vero per noctem in hoc
 
 
 	
+p175
+XI. Mercurius et Mars.
+	
+
 1 Si in parte horoscopi Mercurius et Mars partiliter fuerint constituti, in diurna scilicet genitura, anaforicos cardiacos facient et oligochronios et infelices; aut enim ex occasione mulierum aut ex amoris inlecebris aut absconsis scripturis aut de maleficiis aut de falso damnari eos facient; et faciunt biothanatos interire. 2 Si vero per noctem in horoscopo partiliter fuerint inventi, facient magnos magnarum religionum praepositos, duces aut praenuntios aut protectores aut satellites imperatorum, administratores maximos, <quibus ex> eventu pugnarum maxima felicitas conferatur. Si vero sic per noctem positos Mercurium et Martem Saturnus de quadrato vel de diametro respexerit, faciet eos periculosos et qui saepissime decipiantur; nam in omnibus impediuntur actibus; sic enim constitutus Saturnus inertes et sine arte faciet homines et qui omni infelicitas onere praegraventur.
 
 	
@@ -724,6 +885,9 @@ p181In domo vero Veneris aut in partibus constituti faciunt linteones, textores 
 
 
 	
+XII. Mercurius et Venus.
+	
+
 1 In horoscopo Mercurius et Venus partiliter constituti in diurna genitura faciunt scutarios vel protectores imperatorum vel qui proprio excubitu salutem principis servent aut qui pecunias aut thesauros regios suis iubeantur dispositionibus gubernare, et quibus huiuscemodi administrationum officia credantur; facient enim musicos choricos et qui musicos modos faciant aut certe publicos magistros aut oratores aut
 
 
@@ -777,6 +941,10 @@ p186aut civitatibus honorentur, sed qui de uxoris actibus infamiam contrahant. M
 
 
 	
+p187
+XIII. De Luna.
+	
+ 
 1 Luna in horoscopo partiliter constituta in nocturna genitura si plena et in quibus gaudet signis fuerit inventa, grandia fortunae incrementa decernit; praeponi fratribus facit et aetate semper et merito. Si vero per diem in hoc loco partiliter fuerit inventa, gubernatores maiorum navium faciet. 2 Si vero sic per diem Luna constituta alium geniturae cardinem Mars Saturnusque possederint, idest si in quadrato vel diametro vel si cum ipsa fuerint inventi, facient piratas crudeli feritatis atrocitate famosos aut inaccessorum locorum praepositos iudices. Si vero sic Lunam positam cum malivolis nulla benivola stella respexerit, eos, qui nati fuerint, faciet exponi aut nulla vitae tempora decernit et statim faciet interire aut malum vitae finem biothanatumque decernit.
 
 	
@@ -795,6 +963,8 @@ p188horoscopi fuerit constitutus, perficit repentinis oculorum vulneribus caecit
 
 
 p189fuerit inventus et Venus fuerit in occasu, mater de ingenuitate ad servitutem transfertur et fiet aliquando captiva. Si vero per noctem Luna in hoc loco fuerit inventa plena lumine, matrem faciet nobilem divitem et ipsos adsiduis faciet divitiarum augmentis maxime sublevari. 8 Si vero Sole partiliter in horoscopo constituto Luna in quarto loco fuerit inventa, idest in <IMC.>
+
+ ***
 
 <incre>menta felicitatis accipient; alios compellit maximas colere religiones, aliis mulierum facit negotia committi. Si vero per diem sic fuerit inventa, peregrinos ignobiles faciet et quorum vitae erroribus periculisque quatiantur; aliis in templis ignobilia decernit officia, alios in templis facit ministeria exercere servilia, praesertim si sic Lunam positam malivola stella respexerit.
 
@@ -820,6 +990,9 @@ p191ipsi pariter ac matri. 13 Si vero nullo in horoscopo constituto sola per di
 
 
 	
+XIV. <Luna in loco Fortunae>
+
+
 1 In loco Fortunae Luna si fuerit inventa et sic posita, ut ad Iovem feratur vel [si] cum ipso sit, ducatus administrationes gloriam felicitatemque decernit. Si cum Venere in hoc loco fuerit constituta <vel> ad
 
 
@@ -835,3 +1008,122 @@ p193decernit, si vero per diem in hoc loco posita minuto lumine ad Saturnum fera
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

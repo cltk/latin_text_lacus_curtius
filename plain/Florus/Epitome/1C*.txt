@@ -1,4 +1,185 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars II
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars IV
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+VII.
+		
+
+Bellum Gallicum.
+		
+
+
+
+VIII.
+		
+
+Bella Gallica.
+		
+
+
+
+VIIII.
+		
+
+Bellum Latinum.
+		
+
+
+
+X.
+		
+
+Bellum Sabinum.
+		
+
+
+
+XI.
+		
+
+Bellum Samniticum.
+		
+
+
+
+XII.
+		
+
+Bellum Etruscum Samniticum Gallicum.
+		
+
+
+
+p40
+
+VII. Bellvm Gallicvm
+	
+
 I, 13
 Hic sive invidia deum sive fato rapidissimus procurrentis imperii cursus parumper Gallorum Senonum incursione supprimitur. 2 Quod tempus populo Romano nescio utrum clade funestius fuerit, an virtutis experimentis speciosius. 3 Ea certe fuit vis calamitatis, ut in experimentum inlatam putem divinitus, scire volentibus inmortalibus dis, an Romana virtus imperium orbis mereretur.
 
@@ -20,6 +201,10 @@ p46Atque ille per media hostium tela incolumis religionis auxilio redivit propit
 
 
 	
+
+VIII. Bella Gallica
+	
+
 Ac primum omnium illam ipsam Gallicam gentem non contentus moenibus expulisse, cum per Italiam naufragia sua latius traherent, sic persecutus est duce Camillo, ut hodie nulla Senonum vestigia supersint. 20 Semel apud Anienem trucidati, cum singulari certamine Manlius aureum torquem barbaro
 
 
@@ -28,16 +213,29 @@ p48inter spolia detraxit, unde Torquati. Iterum Pomptino agro, cum in simili pug
 
 
 	
+
+VIIII. Bellvm Latinvm
+	
+
 I, 14
 Conversus a Gallis in Latinos Manlio Torquato Decio Mure consulibus, semper quidem aemulatione imperii infestos, tum vero contemptu urbis incensae, cum ius civitatis partem imperii8 et magistratuum9 poscerent, apud Capuam proeliis congredi audentes.10 2 Quo tempore quis cessisse hostem mirabitur? Cum alter consulum filium suum, quia contra imperium pugnaverat, quamvis victorem occiderit ostenderitque plus esse in imperio quam in victoria; 3 alter quasi monitu deorum capite velato primam ante aciem dis manibus se devoverit, ut in confertissima se hostium tela iaculatus novum ad victoriam iter sanguinis sui limite aperiret.
 
 
 	
+p50
+
+X. Bellvm Sabinvm
+	
+
 I, 15
 A Latinis adgressus est gentem Sabinorum, qui immemores factae sub Tito Tatio adfinitatis quodam contagio belli se Latinis adiunxerant. 2 Sed Curio Dentato consule omnem eum tractum, qua Nar, Anio, fontes Velini, Hadriano tenus mari igni ferroque vastavit. 3 Qua victoria tantum hominum, tantum agrorum redactum est in potestatem, ut in utro plus esset nec ipse posset aestimare qui vicerat.
 
 
 	
+
+XI. Bellvm Samniticvm
+	
+
 I, 16
 Precibus deinde Campaniae motus non pro se, sed eo speciosius pro sociis Samnitas invadit. 2 Erat foedus cum utrisque percussum, sed hoc Campani sanctius et prius omnium suorum deditione fecerunt; sic ergo Romanus bellum Samniticum tamquam sibi gessit.
 
@@ -55,6 +253,10 @@ p54occasione dux hostium Pontius Herennium patrem consuluit. Et ille, mitteret o
 
 
 	
+
+XII. Bellvm Etrvscvm Samniticvm Gallicvm
+	
+
 I, 17
 Hactenus populus Romanus cum singulis gentibus, mox acervatim; sic tamen quoque par omnibus fuit. Etruscorum duodecim populi, Umbri in id tempus intacti, antiquissimus Italiae populus, Samnitium reliqui in excidium Romani nominis repente coniurant. 2 Erat terror ingens tot simul tantorumque populorum. Late per Etruriam infesta
 
@@ -65,8 +267,15 @@ p56quattuor agminum signa volitabant. 3 Ciminius15 interim saltus in medio, ant
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 se om. B.
+
+
+
 
 
 
@@ -79,14 +288,23 @@ Liv. V.40: Atinius B: Albinus L.
 
 
 
+
+
+
 3
 Manlio: Manilio B.
 
 
 
 
+
+
+
 4
 rupe — summa om. B.
+
+
+
 
 
 
@@ -98,8 +316,14 @@ Liv. V.48): insuper victis B: superbe victis NL.
 
 
 
+
+
+
 6
 a manlio L: amillio B: a manilio N.
+
+
+
 
 
 
@@ -110,8 +334,14 @@ qui L: quae BIN.
 
 
 
+
+
+
 8
 partem imperii Rossbachius: pari imperio BI.
+
+
+
 
 
 
@@ -122,11 +352,20 @@ magistratuum Rossbachius: magistratum B.
 
 
 
+
+
+
 10
 audentes Mommsenus: auderent codd.
 
+
+
+
 11
 amicti: amici B.
+
+
+
 
 
 
@@ -137,8 +376,14 @@ post maximas add. BINL romam carthaginemque, del. Hauptius.
 
 
 
+
+
+
 13
 ornatam Iord. Cod. Bamb., Heinsius: armatam BI.
+
+
+
 
 
 
@@ -149,8 +394,117 @@ sacratis: sacris BI.
 
 
 
+
+
+
 15
 Ciminius: Cyminius Rehd. man. sec.: geminius BIN.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber X
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XII
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p160
+Liber Undecimus
+	
+
 1
 Hyperboreorum gentem, et Apollinis apud eos honores, non modo poetae, sed alii etiam scriptores celebrant; et inter alios Hecataeus, non Milesius ille, sed Abderita. Is cum et alia quaedam, nec pauca nec vilia, referat, quae in praesentia recitari nihil attinet; ea in aliud tempus differentur, quo et mihi narrare jucundius, et aliis forsan audire sit commodius: quae vero praesentis sunt instituti, ea nunc solum exponam. Apollini igitur sacri sunt Boreae et Chionis filii, tres numero fratres, sex cubitorum proceritate. Hi cum solenne sacrificium stato et praefinito tempore peragunt, innumera cycnorum examina e Rhipaeis ut ipsi appellant1 montibus advolant; qui ubi templum volando circumvecti fuerint, et veluti lustrarint, in septum templi descendunt, quod et spatio amplissimum est, et specie pulcherrimum. Cum autem cantores vernaculo musicae genere deum celebrant, et simul citharistae suavissimam melodiam cantantium choro adsonant: cycni etiam ipsis concinne accinunt, nec usquam absona aut inepta voce aberrant; sed tanquam incitamentum et auspicium cantus a chorodidascalo editum secuti, peritissimis carminum sacrorum decantatoribus concinunt. Hymno jam perfecto, volucris ille chorus, ut ita dicam recedit, postquam solito sibi dei celebrandi munere est defunctus, ac divinos honores per totum audivit diem, simulque et ipse cantavit, et oblectavit alios.
 
@@ -56,6 +179,16 @@ Cum cycnos Riphaeos, quod Jovis et Latonae filio apud Hyperboreos quotidie studi
 
 
 p163adventum, tum Dei exortum celebrantes, quas etiam saltationes tum agant, quae convivia agitent quos conventus habeant, tum quemadmodum omnes urbes et vici immortaliter gaudeant, longum esset explicare. Is autem, ex cujus armento haec divina bestia exorta fuerit, beatus et habetur et est summamque Aegyptiorum admirationem habet. Is bos praesensione valet: nec sane vel puellas, vel aniculas ad tripodem sessitane habet, neque sacra potione implet; sed pueri divino adflatu concitati supra ludentes, atque inter se ad numerum salantes, consul entibus futura praedicunt, quae vel iis, quae apud Sagram contigerunt, veriora habeantur. Apin sane Aegyptii etiam Oro comparant, quem frugum proventus et totius anni fertilitatis praecipuum esse auctorem existim ant. Hinc est quod de multifario ejus colore disserunt, fructuum varietatem hoc symbolo innuentes. Extat et propheticus quidam sermo, non passim notus, aeegiorum regem Menin (al. Mnevin) cum inquireret quodnam potissimum animal esset colendum ceteris omnibus taurum praetulisse, quod illum omnium esse formosissimum judicaret, Homeri quidem hac in re, ut ferunt, vestigia secutus. Sic enim in Iliade Homerus canit:
+
+
+
+
+Taurus in armento praecellit ut omnibus unus,
+			
+Dux gregis et princeps.
+		
+
+
 
 Cetera, quae Aegyptii animalium naturae scriptores de hac animante fabulantur, rerum veritate perversa, repetere mihi non libet.
 
@@ -224,5 +357,121 @@ Oves etiam tum quadricornes, tum tricornes, fuerunt in templo Jovis custodis urb
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Kal. Oct. 04

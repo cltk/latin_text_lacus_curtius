@@ -1,4 +1,97 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+
+Liber II
+	
+
+
+
+
+1
+
 Mundum et hoc quodcumque nomine alio caelum appellare libuit, cuius circumflexu degunt cuncta, numen esse credi par est, aeternum, inmensum, neque genitum neque interiturum umquam. huius extera indagare nec interest hominum nec capit humanae coniectura mentis.
 	
 2
@@ -10,8 +103,22 @@ furor est mensuram eius animo quosdam agitasse atque prodere ausos, alios rursus
 4
 furor est profecto, furor egredi ex eo et, tamquam interna eius cuncta plane iam nota sint, ita scrutari extera, quasi vero mensuram ullius rei possit agere qui sui nesciat, aut mens hominis videre quae mundus ipse non capiat.
 		
+
+
+
+
+
+5
+
 Formam eius in speciem orbis absoluti globatam esse nomen in primis et consensus in eo mortalium orbem appellantium, sed et argumenta rerum docent, non solum quia talis figura omnibus sui partibus vergit in sese ac sibi ipsa toleranda est seque includit et continet nullarum egens compagium nec finem aut initium ullis sui partibus sentiens, nec quia ad motum, quo subinde verti mox adparebit, talis aptissima est, sed oculorum quoque probatione, quod convexu mediusque quacumque cernatur, cum id accidere in alia non possit figura.
 		
+
+
+
+
+
+6
+
 Hanc ergo formam eius aeterno et inrequieto ambitu, inenarrabili celeritate, viginti quattuor horarum spatio circumagi solis exortus et occasus haut dubium reliquere. an sit inmensus et ideo sensum aurium excedens tantae molis rotatae vertigine adsidua sonitus, non equidem facile dixerim, non, Hercule, magis quam circumactorum simul tinnitus siderum suosque volventium orbes an dulcis quidam et incredibili suavitate concentus. nobis qui intus agimus iuxta diebus noctibusque tacitus labitur mundus.
 	
 7
@@ -23,8 +130,24 @@ equidem et consensu gentium moveor; namque et Graeci nomine ornamenti appellaver
 9
 adiuvat rerum ordo discripto circulo qui signifer vocatur in duodecim animalium effigies et per illas solis cursus congruens tot saeculis ratio.
 		
+
+
+
+
+
+10
+
 Nec de elementis video dubitari quattuor esse ea: ignium summum, inde tot stellarum illos conlucentium oculos; proximum spiritus, quem Graeci nostrique eodem vocabulo aera appellant, vitalem hunc et per cuncta rerum meabilem totoque consertum; huius vi suspensam cum quarto aquarum elemento librari medio spatii tellurem.
 		
+
+
+
+cum: Teubner has an obvious typo here, rum.
+		
+
+
+11
+
 ita mutuo conplexu diversitatis effici nexum et levia ponderibus inhiberi quo minus evolent, contraque gravia ne ruant suspendi, levibus in sublime tendentibus. sic pari in diversa nisu in suo quaeque consistere, inrequieto mundi ipsius constricta circuitu, quo semper in se recurrente imam atque mediam in toto esse terram, eandemque universo cardine stare pendentem, librantem per quae pendeat, ita solam inmobilem circa eam volubili universitate; eandem ex omnibus necti eidemque omnia inniti.
 	
 12
@@ -33,6 +156,12 @@ inter hanc caelumque eodem spiritu pendent certis discreta spatiis septem sidera
 13
 hunc esse mundi totius animum ac planius mentem, hunc principale naturae regimen ac numen credere decet opera eius aestimantes. hic lucem rebus ministrat aufertque tenebras, hic reliqua sidera occultat, inlustrat; hic vices temporum annumque semper renascentem ex usu naturae temperat; hic caeli tristitiam discutit atque etiam humani nubila animi serenat; hic suum lumen ceteris quoque sideribus fenerat, praeclarus, eximius, omnia intuens, omnia etiam exaudiens, ut principi litterarum Homero placuisse in uno eo video.
 		
+
+
+
+
+
+
 14
 Quapropter effigiem dei formamque quaerere inbecillitatis humanae reor. quisquis est deus, si modo est alius, et quacumque in parte, totus est sensus, totus visus, totus auditus, totus animae, totus animi, totus sui. innumeros quidem credere atque etiam ex vitiis hominum, ut Pudicitiam, Concordiam, Mentem, Spem, Honorem, Clementiam, Fidem, aut, ut Democrito placuit, duos omnino, Poenam et Beneficium, maiorem ad socordiam accedit.
 	
@@ -75,6 +204,14 @@ Verum in his deos agere curam rerum humanarum credi ex usu vitae est poenasque m
 27
 inperfectae vero in homine naturae praecipua solatia, ne deum quidem posse omnia — namque nec sibi potest mortem consciscere, si velit, quod homini dedit optimum in tantis vitae poenis, nec mortalies aeternitate donare aut revocare defunctos nec facere ut qui vixit non vixerit, qui honores gessit non gesserit — nullumque habere in praeterita ius praeterquem oblivionis atque (ut facetis quoque argumentis societas haec cum deo copuletur) ut bis dena viginti non sunt aut multa similiter efficere non posse. per quae declaratur haut dubie naturae potentia idque esse quod deum vocemus. in haec divertisse non fuerit alienum, vulgata iam propter adsiduam quaestionem de deo.
 		
+
+
+
+
+
+28
+Hinc redeamus ad reliqua naturae. sidera, quae adfixa diximus mundo, non illa, ut existimat volgus, singulis attributa nobis et clara divitibus, minora pauperibus, obscura defectis ac pro sorte cuiusque lucentia adnumerata mortalibus, cum suo quaeque homine orta moriuntur nec aliquem exstingui decidua significant.
+	
 29
 non tanta caelo societas nobiscum est, ut nostro fato mortalis sit ibi quoque siderum fulgor. illa nimio alimento tracti umoris ignea vi abundantiam reddunt, cum decidere creduntur, ut apud nos quoque luminibus accensis liquore olei notamus accidere.
 	
@@ -131,11 +268,25 @@ quando ipsa totiens solem redeuntem ad principia consequitur; solis fulgore, ut 
 46
 in coitu quidem non cerni, quoniam haustum omnem lucis aversa illo regerat, unde acceperit. sidera vero haut dubie umore terreno pasci, quia dimidio orbe numquam maculoso cernatur, scilicet nondum suppetente ad hauriendum ultra iusta vi; masculas enim non aliud esse quam terrae raptas cum umore sordes. defectus autem suos et solis, rem in tota contemplatione naturae maxime miram et ostento similem, magnitudinem umbraeque indices exsistere.
 		
+
+
+
+
+
+47
+
 quippe manifestum est solem interventu lunae occultari lunamque terrae obiectu ac vices reddi, eosdem solis radios luna interpositu suo auferente terrae terraque lunae. hac subeunte repentinas obduci tenebras rursumque illius umbra sidus hebetari. neque aliud esse noctem quam terrae umbram, figuram autem umbrae similem metae ac turbini inverso, quando mucrone tantum ingruat neque lunae excedat altitudinem, quoniam nullum aliud sidus eodem modo obscuretur et talis figura semper mucrone deficiat.
 	
 48
 spatio quidem consumi umbras indicio sunt volucrum praealti volatus. ergo confinium illis est aeris terminus initiumque aetheris. supra lunam pura omnia ac diurnae lucis plena. a nobis autem per noctem cernuntur sidera, ut reliqua lumina est tenebris, et propter has causas nocturno tempore deficit luna. stati autem atque menstrui non sunt utrique defectus propter obliquitatem signiferi lunaeque multivagos, ut dictum est, flexus, non semper in scripulis partium congruente siderum motu.
 		
+
+
+
+
+
+49
+
 Haec ratio mortales animos subducti in caelum ac velut inde contemplantibus trium maximarum rerum naturae partium magnitudinem detegit. non posset quippe totus sol adimi terris intercedente luna, si terra maior esset quam luna. tertia ex utroque vastitas solis aperietur, ut non sit necesse amplitudinem eius oculorum argumentis atque coniectura animi scrutari:
 	
 50
@@ -149,6 +300,13 @@ palam fit, ut nulla amplius relinquatur dubitatio, superari magnitudinem terrae.
 		
 
 
+
+
+
+53
+
+
+
 Et rationem quidem defectus utriusque primus Romani generis in vulgum extulit Sulpicius Gallus, qui consul cum M. Marcello fuit, sed tum tribunus militum, sollicitudine exercitu liberato pridie quam Perses rex superatus a Paulo est in concionem ab imperatore productus ad praedicendam eclipsim, mox et composito volumine. apud Graecos autem investigavit primus omnium Thales Milesius Olympiadis XLVIII anno quarto praedicto solis defectu, qui Alyatte rege factus est urbis conditae anno CLXX. post eos utriusque sideris cursum in sexcentos annos praececinit Hipparchus, menses gentium diesque et horas ac situs locorum et visus populorum complexus, aevo teste haut alio modo quam consiliorum naturae particeps.
 	
 54
@@ -159,13 +317,34 @@ quo deos hominesque vicistis! quis enim haec cernens et statos siderum (quoniam 
 			 
 Nunc confessa de iisdem breviter atque capitulatim attingam ratione admodum necessariis locis strictimque reddita, nam neque instituti operis talis argumentatio est neque omnium rerum afferri posse causas minus mirum est quam constare in aliquis.
 		
+
+
+
+
+
+56
+
 Defectus CCXXIII mensibus redire in suos orbes certum est, solis defectus non nisi novissima primare fieri luna, quod vocant coitum, lunae autem non nisi plena, semperque citra quam proxime fuerint; omnibus autem annis fieri utriusque sideris defectus statis diebus horisque sub terra nec tamen, cum superne fiant, ubique cerni, aliquando propter nubila, saepius globo terrae obstante convexitatibus mundi.
 	
 57
 intra ducentos annos Hipparchi sagacitate compertum est et lunae defectum aliquando quinto mense a priore fieri, solis vero septimo, eundem bis in XXX diebus super terras occultari, sed ab aliis hoc cerni, quaeque sunt in hoc miraculo maxime mira, cum conveniat umbra terrae lunam hebetari, nunc ab occasus parte hoc ei accidere, nunc ab exortus, quanam ratione, cum solis exortu umbrae illa hebetatrix sub terra esse debeat, semel iam acciderit ut in occasu lunae deficeret utroque super terram conspicuo sidere. nam ut XV diebus utrumque sidus quaereretur, et nostro aevo accidit imperatoribus Vespasianis patre III. filio consulibus.
 		
+
+
+
+
+
+58
+
 Lunam semper aversis a sole cornibus, si crescat, ortus spectare, si minuatur, occasus, haut dubium est; lucere dodrantes semuncias horarum ab secunda adicientem usque ad plenum orbem detrahentemque in deminutionem; intra XIIII autem partes solis semper occultam esse. qui argumento amplior errantium stellarum qui lunae magnitudo colligitur, quando illae et a septenis interdum partibus emergant. sed altitudo cogit minores videri, sicut adfixas caelo solis fulgor interdiu non cerni, cum aeque ac noctu luceant idque manifestum fiat defectu solis et praealtis puteis.
 		
+
+
+
+
+
+59
+
 Errantium autem tres, quas supra solem diximus sitas, occultantur meantes cum eo, exoriuntur vero matutino discedentes partibus numquam amplius undenis. postea radiorum eius contactu reguntur et in triquetro a partibus CXX stationes matutinas faciunt, quae est primae vocantur, mox in adverso a partibus CLXXX exortus vespertinos, iterumque in CXX ab alio latere appropinquantes stationes vespertinas, quas est secundas vocant, donec assecutus in partibus duodenis occultet illas, qui vespertini occasus appellantur.
 	
 60
@@ -174,6 +353,13 @@ Martis stella, ut propior, etiam ex quadrato sentit radios, a XC partibus, unde
 61
 inferiores autem duae occultantur in coitu vespertino simili modo, relictaeque a sole totidem in partibus faciunt exortus matutinos, ad quos longissimis distantiae suae metis solem inequuntur adeptaeque occasu matutino conduntur ac praetereunt. mox eodem intervallo vespere exoriuntur usque ad quos diximus terminos. ab his retrogradiuntur ad solem et occasu vespertino delitescunt. Veneris stella et stationes duas, matutinam verspertinamque, ab utroque exortu facit a longissimis distantiae suae finibus, Mercurii stationum breviore momento quam ut deprehendi possint.
 		
+
+
+
+
+
+62
+
 Haec est luminum occultationum ratio, perplexior motu multisque involuta miraculis, siquidem magnitudines suas et colores mutant, et eaedem ad septentrionem accedunt abeuntque ad austrum terrisque propiores aut caelo repente cernuntur. in quibus aliter multa quam priores tradituri fatemur ea quoque illorum esse muneris qui primi vias quaerendi demonstraverint, modo ne quis desperet saecula proficere semper.
 	
 63
@@ -204,6 +390,13 @@ hoc non protinus intellegi potest visu nostro, ideoque existimantur stare, unde 
 71
 ab exortu vespertino latitudo descenditur parcius iam se minuente motu, non tamen ante stationes secundas augente, cum et altitudo descenditur, superveniente ab alio latere radio eademque vi rursus ad terras deprimente, qua sustulerat in caelum e priore triquetro. tantum interest, subeant radii an superveniant, multoque eadem magis in vespertino occasu accidunt, haec est superiorum stellarum ratio; difficilior reliquarum et a nullo ante nos reddita.
 		
+
+
+
+
+
+72
+
 Primum igitur dicatur, cur Veneris stella numquam longius XLVI partibus, Mercurii XX ab sole abscedant, saepe citra eas ad solem reciprocent. conversas habent utraeque apsidas ut infra solem sitae, tantumque circulis earum subter est quantum superne praedictarum, et ideo non possunt abesse amplius, quoniam curvatura apsidum ibi non habet longitudinem maiorem. ergo utrique simili ratione modum statuunt apsidum suarum margines, ac spatia longitudinis latitudinum evagatione pensant. at enim
 	
 73
@@ -218,24 +411,73 @@ incipit autem ab exortu matutino latitudinem scandere, altitudinem vero ac solem
 76
 mox ab altitudine descendit retroque graditur ab occasu vespertino usque exortum matutinum, tantumque haec et luna totidem diebus, quot subiere, descendunt. Veneris quindecies pluribus subit, rursus Saturni et Iovis duplicato degrediuntur, Martis etiam quadruplicato. tanta est naturae varietas, sed ratio evidens. nam quae in vaporem solis nituntur, etiam descendunt aegre.
 		
+
+
+
+
+
+77
+
 Multa promi amplius circa haec possunt secreta naturae legesque, quibus ipsa servat, exempli gratia in Martis sidere, cuius est maxime inobservabilis cursus, numquam id stationem facere Iovis sidere triquetro, raro admodum LX partibus discreto, qui numerus sexangulas mundi efficit formas, nec exortus nisi in duobus signis tantum, cancri et leonis, simul edere, Mercurii vero sidus exortus vespertinos in piscibus raros facere, creberrimos in virgine, in libra matutinos, item matutinos in aquario, rarissimos in leone, retrogradum in tauro et geminis non fieri, in cancro vero non citra vicesimam quintam partem,
 	
 78
 lunam bis coitum cum sole in nullo alio signo facere quam geminis, non coire aliquando in sagittario tantum, novissimam vero primamque eadem die vel nocte nullo alio in signo quam ariete conspici — id quoque paucis mortalium contigit, et inde fama cernendi Lynceo —, non conparere in caelo Saturni sidus et Martis, cum plurimum, diebus CLXX, Iovis XXXVI aut, cum minimum, LII, Mercuri XIII aut, cum plurimum, XVII.
 		
+
+
+
+
+
+79
+
 Colores ratio altitudinum temperat, siquidem earum similitudinem trahunt, in quarum aera venere subeundo, inguitque adpropinquantes utralibet alieni meatus circulus, frigidior in pallorem, ardentior in ruborem, ventosus in horrorem, sol atque commissurae apsidum extremaeque orbitae atram in obscuritatem. suus quidem cuique color est: Saturno candidus, Iovi clarus, Marti igneus, Lucifero candens, Vesperi refulgens, Mercurio radians, lunae blandus, soli, cum oritur, ardens, postea radians, his causis conexo visu et earum quae caelo continentur.
 	
 80
 namque modo multitudo conferta inest circa dimidos orbes lunae, placida nocte leniter inlustrante eas, modo raritas, ut fugisse miremur, plenilunio abscondente aut cum solis suprave dictarum radii visus praestrinzere nostros. et ipsa autem luna ingruentium solis radiorum haut dubie differentias sentit, hebetante cetero inflexus mundi convexitate eos praeterquam ubi recti angulorum conpetant ictus. itaque in quadrato solis dividua est, in triquetro seminani ambitur orbe, inpletur autem in adverso, rursusque minuens easdem effigies paribus edit intervallis, simili ratione qua super solem tria sidera.
 		
+
+
+
+
+
+81
+
 Sol autem ipse quattuor differentias habet, bis aequata nocte diei, vere et autumno, in centrum incidens terrae octavis in partibus arietis ac librae, bis permutatis spatiis, in auctum diei bruma, octava in parte capricorni, noctis vero solstitio, totidem in partibus cancri. inaequalitatis causa obliquitas est signiferi, cum pars aequa mundi super subterque terras omnibus fiat momentis. sed quae recta in exortu suo consurgunt signa longiore tractu tenent lucem; quae vero obliqua, ociore transeunt spatio.
 		
+
+
+
+
+
+82
+
 Latet plerosque magna caeli adsectatione conpertum principibus doctrinae viris, superiorem trium siderum ignes esse qui decidui ad terras fulminum nomen habeant, sed maxime Iovis medio loco siti, fortassis quoniam contagium nimii umoris ex superiore circulo atque ardoris ex subiecto per hunc modum egerat, ideoque dictum Iovem fulmina iaculari. ergo ut e flagrante ligno carbo cum crepitu, sic a sidere caelestis igni exspuitur praescita secum adferens, ne abdicata quidem sui parte in divinis cessante operibus. idque maxime turbato fit aere, quia collectus umor abundantium stimulat aut quia turbatur quodam ceu gravidi sideris partu.
 		
+
+
+
+
+
+83
+
 Intervalla quoque siderum a terra multi indagare temptarunt, et solem abesse a luna undeviginti partes quantam lunam ipsam a terra prodiderunt. Pythagoras vero, vir sagacis animi, a terra ad lunam CXXVI stadiorum esse collegit, ad solem ab ea duplum, inde ad duodecim signa triplicatum, in qua sententia et Gallus Sulpicius fuit noster.
 		
+
+
+
+
+
+84
+
 Sed Pythagoras interdum et musica ratione appellat quantum absit a terra luna, ab ea ad Mercurium dimidium spatii et ab eo ad Veneris, a quo ad solem sescuplum, a sole ad Martem tonum [id est quantum ad lunam a terra], ab eo ad Iovem dimidium et ab eo ad Saturni, et inde sescuplum ad signiferum; ita septem tonis effici quam διὰ πασων ἁρμονίαν hoc est universitatem concentus; in ea Saturnum Dorio moveri phthongo, Iovem Phrygio et in reliquis similia, iucunda magis quam necessaria subtilitate.
 		
+
+
+
+
+
+85
+
 Stadium CXXV nostros efficit passus, hoc est pedes DCXXV. Posidonius non minus XL stadiorum a terra altitudinem esse, in quam nubila ac venti nubesque perveniant, inde purum liquidumque et inperturbatae lucis aera, sed a turbido ad lunam viciens C milia stadiorum, inde ad solem quinquiens miliens, et spatio fieri, ut tam inmensa eius magnitudo non exurat terras. plures autem DCCCC in altitudinem nubes subire prodiderunt. inconperta haec et inextricabilia, sed prodenda, quia sunt prodita, in quis tamen una ratio geometricae collectionis numquam fallacis possit non repudiari, si cui libeat altius ita persequi, nec ut mensura — id enim velle paene dementis otii est —, sed ut tantum aestimatio coniectanti constet animo.
 	
 86
@@ -247,11 +489,25 @@ miror quo procedat inprobitas cordis humani parvolo aliquo invitata successu, si
 88
 Aegyptia ratio, quam Petosiris et Nechepsos ostendere, singulas partes in lunari circulo, ut citum est, minimo XXXIII stadiis paulo amplius patere colligit, in Saturni amplissimo duplum, in solis, quem medium esse diximus, utriusque mensurae dimidium. quae computatio plurimum habet pudoris, quoniam ad Saturni circulum addito signiferi ipsius intervallo nec numerabilis multiplicatio efficitur.
 		
+
+
+
+
+
+89
+
 Restant pauca de mundo, namque et in ipso caelo stellae repente nascuntur. plura eodem genera. cometas Graeci vocant, nostri crinitas, horrentes crine sanguineo et comarum modo in vertice hispidas. iidem pogonias quibus inferiore ex parte in speciem barbae longae promittitur iuba. acontiae iaculi modo vibrantur, ocissimo significatu. haec fuit, de qua quinto consulatu suo Titus Imperator Caesar praeclaro carmine perscripsit, ad hunc diem novissima visa. easdem breviores et in mucronem fastigata xiphias vocavere, quae sunt omnium pallidissimae et quodam gladii nitore ac sine ullis radiis, quos et disceus, nomini similis, colore autem electro, raros e margine emittit.
 	
 90
 pitheus doliorum cernitur figura, in concavo fumidae lucis. ceratias cornus speciem habet, qualis fuit cum Graecia apud Salamina depugnavit. lampadias ardentes imitatur faces, hippeus equinas iubas, celerrimi motus atque in orbem circa se euntes. fit et candidus Διος cometes, argenteo crine ita refulgens, ut vix contueri liceat, specieque humana dei effigiem in se ostendens. fiunt et hirci, villorum specie et nube aliqua circumdati. semel adhuc iubae effigies mutata in hastam est, Olympiade CVIII, urbis anno CCCCVIII. brevissimum quo cernerentur spatium VII dierum adnotatum est, longissimum CLXXX.
 		
+
+
+
+
+
+91
+
 Moventur autem aliae errantium modo, aliae inmobiles haerent, omnes ferme sub ipso septentrione aliqua eius parte non certa, sed maxime in candida, quae lactei circuli nomen accepit. Aristoteles tradit et simul plures cerni, nemini compertum alteri, quod equidem sciam, ventos autem ab iis graves aestusve significari. fiunt et hibernis mensibus et in austrino polo, sed ibi citra ullum iubar. diraque conperta Aethiopum et Aegypti populis spirae modo intorta, visu quoque torvo, nec stella verius quam quidam igneus modus.
 	
 92
@@ -267,32 +523,137 @@ gaudium prodit is: Ipsis ludorum meorum diebus sidus crinitum per septem dies in
 			 
 Sunt qui et haec sidera perpetua esse credant suoque ambitu ire, sed non nisi relicta ab sole cerni; alii vero qui nasci umore fortuito et ignea vi ideoque solvi.
 		
+
+
+
+
+
+95
+
 Idem Hipparchus numquam satis laudatus, ut quo nemo magis adprobaverit cognationem cum homine siderum animasque nostras partem esse caeli, novam stellam et aliam in aevo suo genitam deprehendit eiusque motu, qua fulsit, ad dubitationem est adductus, anne hoc saepius fieret moverenturque et eae, quas putamus adfixas, ideoque ausus rem etiam deo inprobam, adnumerare posteris stellas ac sidera ad nomen expungere organis excogitatis, per quae singularum loca atque magnitudines signaret, ut facile discerni posset ex eo non modo an obirent ac nascerentur, sed an omnino aliquae transirent moverenturque, item an crescerent minuerenturque, caelo in hereditate cunctis relicto, si quisquam, qui cretionem eam caperet, inventus esset.
 		
+
+
+
+
+
+96
+
 Emicant et faces, non nisi cum decidunt visae, qualis Germanico Caesare gladiatorum spectaculum edente praeter ora populi meridiano transcucurrit. duo genera earum. lampadas vocant plane faces, alterum bolidas, quale Mutinensibus malis visum est. distant quod faces vestigia longa faciunt priore ardente parte, bolis vero perpetua ardens longiorem trahit limitem.
 		
+
+
+
+
+
+
 Emicant et trabes simili modo, quas δοκους vocant, qualis cum Lacedaemonii classe victi imperium Graeci amisere. fit et caeli ipsius hiatus, quod vocant chasma,
 		
+
+
+
+
+
+97
+
 fit et sanguinea species et, quo nihil terribilius mortalium timori est, incendium ad terras cadens inde, sicut Olympiadis CVII anno tertio, cum rex Philippus Graeciam quateret. atque ego haec statis temporibus naturae vi, ut cetera, arbitror existere, non, ut plerique, variis de causis, quas ingeniorum acumen excogitat, quippe ingentium malorum fuere praenuntia; sed ea accidisse non quia haec facta sunt arbitror, verum haec ideo facta quia incasura erant illa, raritate autem occultam eorum esse rationem ideoque non, sicut exortus supra dictos defectusque et multa alia, nosci.
 		
+
+
+
+
+
+98
+
 Cernuntur et stellae cum sole totis diebus, plerumque et circa solis orbem ceu speiceae coronae et versicolores circuli, qualiter Augusto Caesare in prima iuventa urbem intrante post obitum patris ad nomen ingens capessendum. existunt eaedem coronae circa lunam et circa nobilia astra caeloque inhaerentia.
 		
+
+
+
+
+
+
 circa solem arcus adparuit L. Opimio Q. Fabio cos., orbis C. Porcio M'. Acilio, circulus rubri coloris L. Iulio P. Rutilio cos.
 		
+
+
+
+
+
+
 Fiunt prodigiosi et longiores solis defectus, qualis occiso dictatore Caesare et Antoniano bello totius paene anni pallore continuo
 		
+
+
+
+
+
+99
+et rursus soles plures simul cernuntur, nec supra ipsum nec infra, sed ex obliquo, numquam iuxta nec contra terram nec noctu, sed aut oriente aut occidente. semel et meridie conspecti in Bosporo produntur, qui ab matutino tempore duraverunt in occasum. trinos soles et antiqui saepius videre, sicut Sp. Postumio Q. Mucio et Q. Marcio M. Porcio et M. Antonio P. Dolabella et M. Lepido L. Planco cos., et nostra aetas vidit Divo Claudio principe, consulatu eius Cornelio Orfito collega. plures quam tres simul visi ad hoc aevi numquam produntur.
+		
+
+
+
+
+
+
 Lunae quoque trinae, ut Cn. Domitio C. Fannio consulibus, apparuere.
 		
+
+
+
+
+
+
+100
+
 Quod plerisque appellaverunt soles nocturnos, lumen de caelo noctu visum est C. Caecilio Cn. Papirio consulibus et saepe alias, ut diei species nocte luceret.
 		
+
+
+
+
+
+
+
 Clipeus ardens ab occasu ad ortum scintillans transcucurrit solis occasu L. Valerio C. Mario consulibus.
 		
+
+
+
+
+
+
+
 Scintillam visam e stella cadere et augeri terrae adpropinquantem ac, postquam lunae magnitudine facta sit, inluxisse ceu nubilo die, dein, cum in caelum se reciperet, lampadem factam semel umquam proditur Cn. Octavio C. Scribonio consulibus. vidit id Silanus proconsul cum comitatu suo.
 		
+
+
+
+
+
+
+
 Fieri videntur et discursus stellarum numquam temere, ut non ex ea parte truces venti cooriantur.
 		
+
+
+
+
+
+
+101
+
 Existunt stellae et in mari terrisque. vidi nocturnis militum vigiliis inhaerere pilis pro vallo fulgorem effigie ea; et antennis navigantium aliisque navium partibus ceu vocali quodam sono insistunt, ut volucres sedem ex sede mutantes, graves, cum solitariae venere, mergentesque navigia et, si in carinae ima deciderint, exurentes, geminae autem salutares et prosperi cursus nuntiae, quarum adventu fugari diram illam ac minacem appellatamque Helenam ferunt et ob id Polluci ac Castori id numen adsignant eosque in mari invocant. hominum quoque capita vespertinis magno praesagio circumfulgent. omnia incerta ratione et in naturae maiestate abdita.
 		
+
+
+
+
+
+
+102
+
 Hactenus de mundo ipso sideribusque: nunc reliqua caeli memorabilia. namque et hoc caelum appellavere maiores quod alio nomine aëra, omne quod inani simile vitalem hunc spiritum fundit. infra lunam haec sedes multoque inferior, ut animadverto propemodum constare, infinitum ex superiore natura aëris, infinitum terreni halitus miscens utraque sorte confunditur. hinc nubila, tonitrua et alia fulmina, hinc grandines, pruinae, imbres, procellae, turbines, hinc plurima mortalium mala et rerum naturae pugna secum.
 	
 103
@@ -301,13 +662,37 @@ terrena in caelum tendentia deprimit siderum vis eademque quae sponte non subean
 104
 sic ultro citro commeante natura ut tormento aliquo mundi celeritate discordia accenditur. nec stare pugnae licet, sed adsidue rapta convolvitur et circa terram inmenso rerum causas globo ostendit, subinde per nubes caelum aliud obtexens. ventorum hoc regnum. itaque praecipua eorum natura ibi et ferme reliquas complexa eas causas, quoniam tonitruum et fulminum iactus horum violentiae plerique adsignant, quin et ideo lapidibus pluere interim, quia vento sint rapti, et multa similiter. quam ob rem simul plura dicenda sunt.
 		
+
+
+
+
+
+
+105
+
 Tempestatum imbriumque quasdam statas esse causas, quasdam vero fortuitas aut adhuc rationis inconpertae, manifestum est. quis enim aestates et hiemes quaeque in temporibus annua vice intelleguntur siderum motu fieri dubitet? ergo ut solis natura temperando intellegitur anno, sic reliquorum quoque siderum propria est cuiusque vis et ad suam cuique naturam fertilis. alia sunt in liquorem soluti umoris fecunda, alia concreti in pruinas aut coacti in nives aut glaciati in grandines, alia flatus, teporis alia aut vaporis, alia roris, alia rigoris. nec vero haec tanta debent existimari, quanta cernuntur, cum esse eorum nullum minus luna tam inmensae altitudinis ratio declaret.
 	
 106
 igitur in suo quaeque motu naturam suam exercent, quod manifestum Saturni maxime transitus imbribus faciunt. nec meantium modo siderum haec vis est, sed multorum etiam adhaerentium caelo, quotiens errantium accessu inpulsa aut coneiectu radiorum exstimulata sunt, qualiter in suculus sentimus accidere, quas Graeci ob id pluvio nomine appellant. quin et sua sponte quaedam statisque temporibus, ut haedorum exortus. arcturi vero sidus non ferme sine procellosa grandine emergit.
 		
+
+
+
+
+
+
+107
+
 Nam caniculae exortu acendi solis vapores quis ignorat? cuius sideris effectus amplissimi in terra sentiuntur: fervent maria exoriente eo, fluctuant in cellis vina, moventur stagna. orygem appellat Aegyptus feram, quam in exortu eius contra stare et contueri tradit ac velut adorare, cum sternuerit. canes quidem toto eo spatio maxime in rabiem agi non est dubium.
 		
+
+
+
+
+
+
+108
+
 Quin partibus quoque signorum quorundam sua vis inest, ut autumnali aequinoctio brumaeque, cum tempestatibus confici sidus intellegimus, nec imbribus tantum tempestatibusque, sed multis et corporum et ruris experimentis. adflantur alii sidere, alii commoventur statis temporibus alvo, nervis, capite, mente. olea et populus alba et salices solstitio folia circumagunt. floret ipso brumali die suspensi in tectis arentis herba pulei.
 	
 109
@@ -316,18 +701,50 @@ rumpuntur intentae spiritu membranae. miretur hoc qui non observet cotidiano exp
 110
 quo turpior homini inscitia est fatenti praecipue iumentorum quorundam in oculis morbos cum luna increscere ac minui. patrocinatur vastitas rei, inmensa discreta altitudine in duo atque septuaginta signa, hoc est rerum aut animantium effigies, in quas digessere caelum periti. in iis quidem MDC adnotavere stellas, insignes scilicet effectu visuve, exempli gratia in cauda tauri septem quas appellavere vergilias, in fronte suculas, booten, quae sequitur septem triones.
 		
+
+
+
+
+
+
+111
+
 Extra has causas non negaverim exsistere imbres ventosque, quoniam umidam a terra, alias vero propter vaporem fumidam exhalari caliginem certum est nubesque liquore egresso in sublime aut aëre coacto in liquorem gigni. densitas earum corpusque haut dubio coniectatur argumento, cum solem obumbrent, perspicuum alias etiam urinantibus in quamlibet profundam aquarum altitudinem.
 		
+
+
+
+
+
+
+112
+
 Igitur non eam infitias posse in has et ignes superne stellarum decidere, quales sereno saepe cernimus, quorum ictu concuti aëra verum est, quando et tela vibrata stridunt, cum vero in nubem perveniunt, vaporem dissonum gigni, ut candente ferro in aquam demerso, et fumidum verticem volvi. hinc nasci procellas et, si in nube luctetur flatus aut vapor, tonitrua edi; si erumpat ardens, fulmina; si longiore tractu nitatur, fulgetras. his findi nubem, illis perrumpi, et esse tonitrua inpactorum ignium plagas, ideoque protinus coruscare igneas nubium rimas.
 	
 113
 posse et repulsu siderum depressum qui a terra meaverit spiritum nube cohibitum tonare, natura strangulante sonitum, dux rixetur, edito fragore, cum erumpat, ut in membrana spiritu intenta. posse et attritu, dum praeceps feratur, illum, quisquis est, spiritum accendi. posse et conflictu nubium elidi, ut duorum lapidum, hinc bruta fulmina et vana, ut quae nullam habeant rationem naturae. his percuti montes, his maria, omnesque alios inritos iactus. illa vero fatidica ex alto statisque de causis et ex suis venire sideribus.
 		
+
+
+
+
+
+
+114
+
 Simili modo ventos vel potius flatus posse et arido siccoque anhelitu terrae gigni non negaverim, posse et aquis aëra exspirantibus, qui neque in nebulam densetur nec crassescat in nubes, posse et solis inpulsu agi, quoniam ventus haut aliud intellegatur quam fluctus aëris, pluribusque etiam modis. namque et e fluminibus ac nivibus et e mari videmus, et quidem tranquillo, et alios, quos vocant altanos, e terra consurgere. qui, cum e mari redeunt, tropaei vocantur, si pergunt, apogei.
 	
 115
 Montium vero flexus crebrique vertices et conflexa cubito aut confracta in umeros iuga, concavi vallium sinus, scindentes inaequalitate ideo resultantem aëra — quae causa etiam voces multis in locis reciprocas facit —, sine fine ventos generant. iam quidem et specus, qualis in Dalmatia ore vasto, praeceps hiatu, in quem deiecto levi pondere quamvis tranquillo die turbini similis emicat procella; nomen loco est Senta. quin et in Cyrenaica provincia rupes quaedam austro traditur sacra, quam profanum sit attrectari hominis manu, confestim austro volvente harenas. in domibus etiam multis madefacta inclusa opacitate conceptacula auras suas habent. adeo causa non deest.
 		
+
+
+
+
+
+
+116
+
 Sed plurimum interest, flatus sit an ventus. illos statos atque perspirantes, quos non tractus aliquis, verum terrae sentiunt, qui non aura, non procella, sed, mares appellatione quoque ipsa, venti sunt, sive adsiduo mundi motu et contrario siderum occursu nascuntur, sive hic est ille generabilis rerum naturae spiritus huc illuc tamquam in utero aliquo vagus, sive disparili errantium siderum ictu radiorumque multiformi iactu flagellatus aër, sive a suis sideribus exeunt his propioribus sive ab illis caelo adfixis cadunt, palam est illos quoque legem habere naturae non ignotam, etiamsi nondum percognitam.
 	
 117
@@ -336,6 +753,14 @@ viginti amplius auctores Graeci veteres prodidere de his observationes. quo mag
 118
 non erant maiora praemia, in multos dispersa fortunae magnitudine, et ista plures sine praemio alio quam posteros iuvandi eruerunt. namque mores hominum senuere, non fructus, et inmensa multitudo aperto, quodcumque est, mari hospitalique litorum omnium adpulsu navigat, sed lucri, non scientiae, gratia. nec reputat caeca mens et tantum avaritiae intenta id ipsum scientia posse tutius fieri. quapropter scrupulosius, quam instituto fortassis conveniat operi, tractabo ventos, tot milia navigantium cernens.
 		
+
+
+
+
+
+
+119
+
 Veteres quattuor omnino servavere per totidem mundi partes — ideo nec Homerus plures nominat — hebeti, ut mox iudicatum est, ratione; secuta aetas octo addidit nimis subtili atque concisa. proximis inter utramque media placuit, ad brevem ex numerosa additis quattuor. sunt ergo bini in quattuor caeli partibus, ab oriente aequinoctiali subsolanus, ab oriente brumali vulturnus. illum apelioten, hunc Graeci eurum appellant. a meridie auster et ab occasu brumali Africus; notum et Liba nominant. ab occasu aequinoctiali favonius, ab occasu solstitiali corus; zephyrum et argesten vocant. a septentrionibus septentrio, interque eum et exortum solstitialem quilo, aparctias et boreas dicti.
 	
 120
@@ -344,6 +769,14 @@ numerosior ratio quattuor his interiecerat, thrascian media regione inter septen
 121
 consuetudo omnibus his nominibus argesten intellegit. caecian aliqui vocant Hellespontian, et eosdem alii aliter. item in Narbonensi provincia clarissimus ventorum est circius nec ullo omnium violentia inferior, Ostiam plerumque secto Ligustico mari perferens. idem non modo in reliquis partibus caeli ignotus est, sed ne Viennam quidem eiusdem provinciae urbem attingens: paucis ante milibus iugi modici occursu tantus ille ventorum coercitus! et austros in Aegyptum penetrare negat Fabianus. quo fit manifesta lex naturae, ventis etiam et tempore et fine dicto.
 		
+
+
+
+
+
+
+122
+
 Ver ergo aperit navigantibus maria, cuius in principio favonii hibernum molliunt caelum sole aquarii XXV obtinente partem. is dies sextus Februarias ante idus. competit ferme et hoc omnibus, quos deinde ponam, per singulas intercalationes uno die anticipantibus rursusque lustro sequenti ordinem servantibus. favonium quidam a. d. VIII kalendas Martias chelidonian vocant ab hirundinis visu, nonnulli vero ornithian, uno et LXX die post brumam ab adventu avium flantem per dies VIIII. favonio contrarius est quem subsolanum appellavimus.
 	
 123
@@ -355,6 +788,14 @@ post biduum autem exortus iidem aquilones constantius perflant diebus XL. quos e
 125
 post id aequinoctium diebus fere IIII et XL vergiliarum occasus hiemem inchoat, quod tempus in III idus Novembres incidere consuevit; hoc est aquilonis hiberni multumque aestivo illi dissimilis, cuius ex adverso est Africus. ante brumam autem VII diebus totidemque post eam sternitur mare alcyonum feturae, unde nomen II dies traxere. reliquum tempus hiemat. nec tamen saevitia tempestatum concludit mare. piratae primum coegere mortis periculo in mortem ruere et hiberna experiri maria; nunc idem avaritia cogit.
 		
+
+
+
+
+
+
+126
+
 Ventorum frigidissimi sunt quos a septentrione diximus spirare et vicinus iis corus. hi et reliquos conpescunt et nubes abigunt. umidi Africus et praecipue auster Italiae. narrant et in Ponto caecian in se trahere nubes. sicci corus et vulturnus, praeterqueam desinentes. nivales aquilo et septentrio. grandines septentrio inportat et corus. aestuosus auster, tepidi vulturnus et favonius. iidem subsolano sicciores, et in totum omnes a septentrione et occidente sicciores quam a meridie et oriente.
 	
 127
@@ -369,23 +810,59 @@ ideoque post austros noxii praecipue terrae motus. noctu auster, interdiu aquilo
 130
 omnium quidem — si libeat observare minimos ambitus — redire easdem vices quadriennio exacto Eudoxus putat, non ventorum modo, verum et reliquarum tempestatum magna ex parte. et est principium lustri eius semper intercalario anno caniculae ortu. de generalibus ventis haec.
 		
+
+
+
+
+
+
+131
+
 Nunc de repentinis flatibus, qui exhalante terra, ut dictum est, coorti rursusque deiecti, interim obducta nubium cute, multiformes exsistunt. vagi quippe et ruentes torrentium modo, ut aliquis placere ostendimus, tonitrua et fulgura edunt. maiore vero inlati pondere incursusque, si late siccam rupere nubem, procellam gignunt, quae vocatur a Graecis ecnephias; sin vero depresso sinu artius rotati effregerunt, sine igni, hoc est sine fulmine, verticem faciunt, qui typon vocatur, id est vibratus ecnephias.
 	
 132
 defert hic secum aliquid abruptum e nube gelidia, convolvens versansque et ruinam suam illo pondere adgravans ac locum ex loco mutans rapida vertigine, praecipua navigantium pestis, non antemnas modo, verum ipsa navigia contorta franges, tenui remedio aceti in advenientem effusi, cui frigidissima est natura. idem inlisu ipso repercussus correpta secum in caelum refert sorbetque in excelsum.
 		
+
+
+
+
+
+133
+
 quod si maiore depressae nubis eruperit specu, sed minus lato quam procella, nec sine fragore, turbinem vocant, proxima quaeque prosternentem. idem ardentior accensusque, dum furit, prester vocatur, amburens contacta pariter et proterens. non fit autem aquilonius typhon, nec nivalis aut nive iacente ecnephias. quod si simul rupit nubem exarsitque et ignem habuit, non postea concepit, fulmen est.
 	
 134
 distat a prestere quo flamma ab igni. hic late funditur flatu, illud conglobatur impetu. vertex autem remeando distat a turbine et quo stridor a fragore, procella latitudine ab utroque, disiecta nube verius quam rupta. fit et caligo beluae similis in nube, dira navigantibus. vocatur et columna, cum spissatus umor rigensque ipse se sustinet, ex eodem genere et aulon, cum veluti fistula nubes aquam trahit.
 		
+
+
+
+
+
+135
+
 Hieme et aestate rara fulmina contrariis de causis, quoniam hieme densatus aër nubium crassiore corio spissatur, omnisque terrarum exhalatio rigens ac gelida quicquid accipit ignei vaporis exstinguit. quae ratio inmunem Scythiam et circa rigentia a fulminum casu praestat, e diverso nimius ardor Aegyptium, siquidem calidi siccique halitus terrae raro admodum tenuesque et infirmas densantur in nubes.
 	
 136
 vere autem et autumno crebriora fulmina, corruptis in utroque tempore aestatis hiemisque causis, qua ratione crebra in Italia, quia mobilior aer mitiore hieme et aestate nimbosa semper quodammodo vernat vel autumnat. Italiaeque partibus iis, quae a septentrione descendunt ad teporem, qualis est urbis et Campaniae tractus, iuxta hieme et aestate fulgurat, quod non in alio situ.
 		
+
+
+
+
+
+137
+
 Fulminum ipsorum plura genera traduntur. quae sicca veniunt, non adurunt, sed dissipant; quae umida, non urunt, sed infuscant. tertium est quod clarum vocant, mirificae maximae naturae, quo dolia exhauriuntur intactis operimentis nulloque alio vestigio relicto, aurum et aes et argentum liquatur intus, sacculis ipsis nullo modo ambustis ac ne confuso quidem signo cerae. Marcia, . . . princeps Romanorum, icta gravida partu exanimatio ipsa citra ullum aliud incommodum vixit. in Catilinanis prodigiis Pompeiano ex municipio M. Herennius decurio sereno die fulmine ictus est.
 		
+
+
+
+
+
+138
+
 Tuscorum litterae novem deos emittere existimant, eaque esse undecim generum; Iovem enim trina iaculari. Romani duo tantum ex iis servavere, diurna attribuentes Iovi, nocturna Summano, rariora sane eadem de causa frigidioris caeli. Etruria erumpere terra quoque arbitratur, quae infera appellat, brumali tempore facta saeva maxime et exsecrabilia, cum sint omnia, quae terrena existimant, non illa generalia nec a sideribus venientia, sed ex proxima atque turbidiore natura. argumentum evidens, quod omnia superiora e caelo decidentis obliquos habent ictus, haec autem, quae vocant terrena, rectos.
 	
 139
@@ -393,11 +870,25 @@ et quae ex propiore materia cadunt, ideo creduntur e terra exire, quoniam ex re
 	
 Volsinii, oppidum Tuscorum opulentissimum, totum concrematum est fulmine. vocant et familiaria in totam vitam fatidica, quae prima fiunt familiam suam cuique indepto. ceterum existimant non ultra decem annos portendere privata, praeterquam aut primo patrimonio facta aut natali die, publica non ultra tricesimum annum, praeterquam in deductione oppidi.
 		
+
+
+
+
+
+140
+
 Exstat annalium memoria sacris quibusdam et precationibus vel cogi fulmina vel impetrari. vetus fama Etruriae est, impetratum Volsinios urbem depopulatis agris subeunte monstro, quod vocavere Oltam, evocatum a Porsina suo rege. et ante eum a Numa saepius hoc factitatum in primo annalium suorum tradit L. Piso, gravis auctor, quod imitatum parum rite Tullum Hostilium ictum fulmine. lucosque et aras et sacra habemus interque Statores ac Tonantes et Feretrios Elicium quoque accepimus Iovem.
 	
 141
 varia in hoc vitae sententia et pro cuiusque animo. imperare naturae sacra audacis est credere, nec minus hebetis beneficiis abrogare vires, quando in fulgurum quoque interpretatione eo profecit scientia, ut ventura alia finito die praecinat et an peremptura sint factum aut prius alia facta quae lateant, innumerabilibus in utroque publicis privatisque experimentis. quam ob rem sint ista ut rerum naturae libuit, alias certa alias dubia, aliis probata aliis damnanda: nos de cetero quae sunt in his memorabilia non omittemus.
 		
+
+
+
+
+
+142
+
 Fulgetrum prius cerni quam tonitrua audiri, cum simul fiant, certum est, nec mirum, quoniam lux sonitu velocior, ictum autem et sonitum congruere ita modulante natura, sed sonitum profecti esse fulminis, non inlati, etiamnum spiritum ociorem fulmine, ideo quati prius omne et adflari quam percuti, nec quemquam tangi qui prior viderit fulmen aut tonitrua audierit. laeva prospera existimantur, quoniam laeva parte mundi ortus est. nec tamen adventus spectatur quam reditus, sive ab ictu resilit ignis sive opere confecto aut igne consumpto spiritus remeat.
 	
 143
@@ -409,26 +900,86 @@ ideo cum a prima caeli parte venerint et in eandem concesserint, summa felicita
 145
 Unum animal, hominem, non semper exstinguit, cetera ilico, hunc videlicet natura tribuente honorem, cum tot beluae viribus praestent. omnia contrarias incubant partes. homo, nisi convertatur in percussas, non respirat. superne icti considunt. vigilans ictus convenientibus oculis, dormiens patentibus reperitur. hominem ita exanimatum cremari fas non est, condi terra religio tradidit. nullum animal nisi exanimatum fulmine accenditur. vulnera fulminatorum frigidiora sunt reliquo corpore.
 		
+
+
+
+
+
+146
+
 ex iis, quae terra gignuntur, lauri fruticem non icit nec umquam quinque altius pedibus descendit in terram. ideo pavidi altiores specus tutissimos putant aut tabernacula pellibus beluarum, quas vitulos appellant, quoniam hoc solum animal ex marinis non percutiat, sicut nec e volucribus aquilam, quae ob hoc armigera huius teli fingitur. in Italia inter Tarracinam et aedem Feroniae turres belli civilis temporibus desiere fieri, nulla non earum fulmine diruta.
 		
+
+
+
+
+
+147
+
 Praeter haec inferiore caelo relatum in monumenta est lacte et sanguine pluisse M'. Acilio C. Porcio cos. et saepe alias, sicut carne P. Volumnio Servio Sulpicio cos., exque ea non perputruisse quod non diripuissent aves, item ferro in Lucanis anno ante quam M. Crassus a Parthis interemptus est omnesque cum eo Lucani milites, quorum magnus numerus in exercitu erat.effigies quo pluit ferri spongiarum similis fuit. haruspices praemonuerunt superna volnera. L. autem Paulo C. Marcello cos. lana pluit circa castellum Carissanum, iuxta quod post annum T. Annius Milo occisus est. eodem causam dicente lateribus coctis pluisse in acta eius anni relatum est.
 		
+
+
+
+
+
+148
+
 Armorum crepitus et tubae sonitus auditos e caelo Cimbricis bellis accepimus, crebroque et prius et postea. tertio vero consulatu Mari ab Amerinis et Tudertibus spectata arma caelestia ab ortu occasuque inter se concurrentia, pulsis quae ab occasu erant. ipsum ardere caelum minime mirum est et saepius visum maiore igni nubibus correptis.
 		
+
+
+
+
+
+149
+
 Celebrant Graeci Anaxagoran Clazomenium Olympiadis LXXVIII secundo anno praedixisse caelestium litterarum scientia, quibus diebus saxum casurum esset e sole, idque factum interdiu in Thraciae parte ad Aegos flumen, qui lapis etiam nunc ostenditur magnitudine vehis, colore adusto, comete quoque illis noctibus flagrante. quod si quis praedictum credat, simul fateatur necesse est, maioris miraculi divinitatem Anaxagorae fuisse solvique rerum naturae intellectum et confundi omnia, si aut ipse sol lapis esse aut umquam lapidem in eo fuisse credatur. decidere tamen crebro non erit dubium.
 	
 150
 in Abydi gymnasio ex ea causa colitur hodieque modicus quidem, sed quem in media terrarum casurum idem Anaxagoras praedixisse narretur. colitur et Cassandriae, quae Potidaea quondam vocitata est, ob id deducta. ego ipse vidi in Vocontiorum agro paulo ante delatum.
 		
+
+
+
+
+
+
 Arcus vocamus extra miraculum frequentes et extra ostentum. nam ne pluvios quidem aut serenos dies cum fide portendunt. manifestum est radium solis inmissum cavae nubi repulsa acie in solem refringi, colorumque varietatem mixtura nubium, ignium, aëris fieri. certe nisi sole adverso non fiunt nec umquam nisi dimidia circuli forma nec noctu, quamvis Aristoteles prodat aliquando visum, quod tamen fatetur idem non nisi XXX luna posse fieri.
 	
 151
 fiunt autem hieme maxime ab aequinoctio autumnali die decrescente. quo rursus crescente ab aequinoctio verno non exsistunt, nec circa solstitium longissimis diebus, bruma vero [id est brevissimis] frequenter, iidem sublimes humili sole humilesque sublimi, et minores oriente aut occidente, sed in latitudinem dimissi, meridie exiles, verum ambitus maioris. aestate autem per meridiem non cernuntur, post autumni aequinoctium quacumque hora, nec umquam plures simul quam duo.
 		
+
+This last statement is not true. Three is possible. For my own photograph of two, though, see
+			
+here. Appropriately enough, it was taken about 60 miles N of Rome.
+		
+
+
+
+
+
+152
+
 Cetera eiusdem naturae non multis dubia esse video: grandinem conglaciato imbre gigni et nivem eodem umore mollius coacto, pruinam autem ex rore gelido; per hiemem nives cadere, non grandines, ipsaque grandines interdiu saepius quam noctu, et multo celerius resolvi quam nives; nebulas nec aestate nec maximo frigore exsistere, rores neque gelu neque ardoribus neque ventis nec nisi serena nocte; gelando liquorem minui, resolutaque glacie non eundem inveniri modum; varietates colorum figurarumque in nubibus cerni, prout admixtus ignis superet aut vincatur.
 		
+
+
+
+
+
+153
+
 Praeterea quasdam proprietates quibusdam locis esse, roscidas aestate Africae noctes, in Italia Locris et in lacu Velino nullo non die apparere arcus, Rhodi et Syracusis numquam tanta nubila obduci, ut non aliqua hora sol cernatur, qualia aptius suis referentur locis. haec sint dicta de aëre.
 		
+
+
+
+
+
+154
+
 Sequitur terra, cui uni rerum naturae partium eximia propter merita cognomen indidimus maternae venerationis. sic hominum illa, ut caelum dei, quae nos nascentes excipit, natos alit semelque editos et sustinet semper, novissime conplexa gremio iam a reliqua natura abdicatos, tum maxime ut mater operiens, nullo magis sacra merito quam quo nos quoque sacros facit, etiam monimenta ac titulos gerens nomenque prorogans nostrum et memoriam extendens contra brevitatem aevi, cuius numen ultimum iam nullis precamur irati grave, tamquam nesciamus hanc esse solam quae numquam irascatur homini.
 	
 155
@@ -448,8 +999,22 @@ ferae enim, credo, custodiunt illam arcentque sacrilegas manus. non inter serpen
 			 
 Inter crimina ingrati animi et hoc duxerim quod naturam eius ignoramus.
 		
+
+
+
+
+
+160
+
 est autem figura prima, de qua consensus iudicat. orbem certe dicimus terrae globumque verticibus includi fatemur. neque enim absoluti orbis est forma in tanta montium excelsitate, tanta camporum planitie, sed cuius amplexus, si cuncta liniarum comprehendantur ambitu, figuram absoluti orbis efficiat, id quod ipsa rerum natura cogit, non isdem causis, quas attulimus in caelo. namque in illo cava in se convexitas vergit et cardini suo, hoc est terrae, undique incumbit. haec ut solida ac conferta adsurgit intumescenti similis extraque protenditur. mundus in centrum vergit, at terra exit a centro, inmensum eius globum in formam orbis adsidua circa eam mundi volubilitate cogente.
 		
+
+
+
+
+
+161
+
 Ingens hic pugna litterarum contraque vulgi, circumfundi terrae undique homines conversisque inter se pedibus stare, et cunctis similem esse verticem, simili modo et quacumque parte media calcari, illo quaerente, cur non decidant contra siti, tamquam non ratio praesto sit, ut nos non decidere mirentur illi. intervenit sententia quamvis indocili probabilis turbae, inaequali globo, ut si sit figura pineae nucis, nihilo minus terram undique incoli.
 	
 162
@@ -466,8 +1031,22 @@ eadem est causa, propter quam e navibus terra non cernatur, e navium malis con
 165
 namque cum e sublimi in inferiora aquae ferantur et sit haec natura earum confessa nec quisquam dubitet in litore ullo accessisse eas quo longissime devexitas passa sit, procul dubio apparere, quo quid humilius sit, propius a centro esse terrae, omnesque linias, quae emittantur ex eo ad proximas aquas, breviores fieri quam quae ad extremum mare a primis aquis; ergo totas omnique ex parte aquas vergere in centrum ideoque non decidere, quoniam in interiora nitantur.
 		
+
+
+
+
+
+166
+
 Quod ita formasse artifex natura credi debet, ut, cum terra arida et sicca constare per se ac sine umore non posset, nec rursus stare aqua nisi sustinente terra, mutuo inplexu iungerentur, hac sinus pandente, illa vero permeante totam, intra extra, supra infra, venis ut vinculis discurrentibus, atque etiam in summis iugis erumpente, quo spiritu acta et terrae pondere expressa siphonum modo emicat tantumque a periculo decidendi abest, ut in summa quaeque et altissima exsiliat. qua ratione manifestum est, quare tot fluminum cotidiano accessu maria non crescant. est igitur in toto suo globo tellus medio ambitu praecincta circumfluo mari, nec argumentis hoc investigandum, sed iam experimentis cognitum.
 		
+
+
+
+
+
+167
+
 A Gadibus columnisque Herculis Hispaniae et Galliarum circuitu totus hodie navigatur occidens. septentrionalis vero oceanus maiore ex parte navigatus est, auspiciis Divi Augusti Germaniam classe circumvecta ad Cimbrorum promunturium et inde inmenso mari prospecto aut fama cognito Scythicam ad plagam et umore nimio rigentia. propter quod minime verisimile est illic maria deficere, ubi umoris vis superet. iuxta vero ab ortu ex Indico mari sub eodem sidere pars tota vergens in Caspium mare pernavigata est Macedonum armis Seleuco atque Antiocho regnantibus, qui et Seleucida et Antiochida ab ipsis appellari voluere.
 	
 168
@@ -479,6 +1058,13 @@ et Hanno Carthaginis potentia florente circumvectus a Gadibus ad finem Arabiae 
 170
 idem Nepos de septentrionali circuitu tradit Quinto Metello Celeri, Afrani in consulatu collegae, sed tum Galliae proconsuli, Indos a rege Sueborum dono datos, qui ex India commercii causa navigantes tempestatibus essent in Germaniam abrepti. sic maria circumfusa undique dividuo globo partem orbis auferunt nobis, nec inde huc nec hinc illo pervio tractu. quae contemplatio apta detegendae mortalium vanitati poscere videtur, ut totum hoc, quicquid est, in quo singulis nihil satis est, ceu subiectum oculis quantum sit ostendam.
 		
+
+
+
+
+
+171
+
 Iam primum in dimidio conputari videtur, tamquam nulla portio ipsi decedat oceano, qui toto circumdatus medio et omnes ceteras fundens recipiensque aquas et quicquid exit in nubes ac sidera ipsa tot ac tantae magnitudinis pascens, quo tandem amplitudinis spatio credetur habitare? inproba et infinita debet esse tam vastae molis possessio.
 	
 172
@@ -493,10 +1079,30 @@ conputetur etiamnum mensura tot fluminum, tantarum paludium, addantur et lacus, 
 175
 et, ut publicos gentium furores transeam, haec, in qua conterminos pellimus furtoque vicini caespitem nostro solo adfodimus, ut, qui latissime rura metatus fuerit ultraque famam exegerit adcolas, quota terrarum parte gaudeat vel, cum ad mensuram avaritiae suae propagaverit, quam tandem portionem eius defunctus obtineat?
 		
+
+
+
+
+
+176
+
 Mediam esse mundi totius haut dubiis constat argumentis, sed clarissimo aequinocti paribus horis. nam nisi in medio esset, aequales dies noctesque habere non posse deprehendere est dioptraeque vel maxime confirmant, cum aequinoctiali tempore ex eadem linia ortus occasusque cernatur, solstitiali exortus per suam liniam, brumali occasus. quae accidere nullo modo possent nisi in centro sita.
 		
+
+
+
+
+
+177
+
 Tres autem circuli supra dictis zonis inplexi inaequalitates temporum distingunt: solstitialis a parte signiferi excelsissima nobis ad septentrionalem plagam versus, contraque ad alium polum brumalis, item medio ambitu signiferi orbis incedens aequinoctialis.
 		
+
+
+
+
+
+
 Reliquorum quae miramur causa in ipsius terrae figura est, quam globo similem et cum ea aquas isdem intellegitur argumentis. sic enim fit haut dubie, ut nobis septentrionalis plagae sidera numquam occidant, contra meridianae numquam oriantur, rursusque haec illis non cernantur, attollente se contra medios visus terrarum globo.
 	
 178
@@ -505,12 +1111,40 @@ septentriones non cernit Trogodytice et confinis Aegyptus, nec canopum Italia et
 179
 navigantium haec maxime cursus deprehendunt, in alia adverso, in alia prono mari, subitoque conspicuis atque ut e freto emergentibus, quae in anfractu pilae latuere, sideribus. neque enim, ut dixere aliqui, mundus hoc polo excelsiore se attollit — aut undique cernerentur haec sidera —, verum haec eadem quibusque proximis sublimiora creduntur eademque demersa longinquis, utque nunc sublimis in deiectu positis videtur hic vertex, sic in illam terrae devexitatem transgressis illa se attollunt, residentibus quae hic excelsa fuerant, quod nisi in figura pilae accidere non posset.
 		
+
+
+
+
+
+180
+
 Ideo defectus solis ac lunae vespertinos orientis incolae non sentiunt nec matutinos ad occasum habitantes, meridianos vero serius nobis illi. apud Arbilam Magni Alexandri victoria luna defecisse noctis secunda hora est prodita eademque in Sicilia exoriens. solis defectum Vipstano et Fonteio cos., qui fuere ante paucos annos, factum pridie kalendas Maias Campania hora diei inter septimam et octavam sensit, Corbulo dux in Armenia inter horam diei decimam et undecimam prodidit visum, circuitu globi alia aliis detegente et occultante. quod si plana esset terra, simul omnia apparerent cunctis noctesque non fierent inaequales; nam aeque aliis quam in medio sitis paria duodecim horarum intervalla cernerentur, quae nunc non in omni parte simili modo congruunt.
 		
+
+
+
+
+
+181
+
 Ideo nec nox diesque, quamvis eadem, toto orbe simul est, oppositu globi noctem aut ambitu diem adferente. multis hoc cognitum experimentis, in Africa Hispaniaque turrium Hannibalis, in Asia vero propter piraticos terrores simili specularum praesidio excitato, in quis praenuntios ignes sexta hora diei accensos saepe conpertum est tertia noctis a tergo ultimis visos. eiusdem Alexandri cursor Philonides ex Sicyone Elin mille et ducenta stadia novem diei confecit horis indeque, quamvis declivi itinere, tertia noctis hora remensus est saepius. causa, quod eunti cum sole iter erat, eundem remeans obvium contrario praetervertebat occursu. qua de causa ad occasum navigantes, quamvis brevissimo die, vincunt spatia nocturnae navigationis, ut solem ipsum comitantes.
 		
+
+
+
+
+
+182
+
 Vasaque horoscopa non ubique eadem sunt usui, in trecenis stadiis aut, ut longissime, in quingenis mutantibus semet umbris solis. itaque umbilici, quem gnomonem appellant, umbra in Aegypto meridiano tempore aequinoctii die paulo plus quam dimidiam gnomonis mensuram efficit, in urbe Roma nona pars gnomonis deest umbrae, in oppido Ancona superest quinta tricesima, in parte Italiae, quae Venetia appellatur, isdem horis umbra gnomoni par fit.
 		
+
+
+
+
+
+183
+
 Simili modo tradunt in Syene oppido, quod est supra Alexandriam quinque milibus stadium, solstiti die medio nullam umbram iaci puteumque eius experimenti gratia factum totum inluminari. ex quo apparere tum solem illi loco supra verticem esse, quod et in India supra flumen Hypasim fieri tempore eodem Onesicritus scribit. constatque in Berenice urbe Trogodytarum, et inde stadiis IIII·DCCCXX in eadem gente Ptolemaide oppido, quod in margine Rubri maris ad primos elephantorum venatus conditum est, hoc idem ante solstitum quadragenis quinis diebus totidemque postea fieri, et per eos XC dies in meridiem umbras iaci.
 	
 184
@@ -519,19 +1153,70 @@ rursus in Meroë — insula haec caputque gentis Aethiopum V milibus stadium a 
 185
 septentrionem ibi Alexandro morante adnotantum prima tantum parte noctis aspici. Onesicritus, dux eius, scripsit, quibus in locis Indiae umbrae non sint, septentrionem non conspici, et ea loca appellari ascia, nec horas dinumerari ibi.
 		
+
+
+
+
+
+et tota Trogodytice umbras bis quadragenis quinis diebus in anno Eratosthenes in contrarium cadere prodidit.
+		
+
+
+
+
+
+186
+sic fit, ut vario lucis incremento in Meroë longissimus dies XII horas aequinoctiales et octo partes unius horae colligat, Alexandriae vero XIIII horas, in Italia XV, in Britannia XVII, ubi aestate lucidae noctes haut dubie se promittunt, id quod cogit ratio credi, solstiti diebus accedente sole propius verticem mundi angusto lucis ambitu subiecta terrae continuos dies habere senis mensibus noctesque e diverso ad brumam remoto.
+	
 187
 quod fieri in insula Thyle Pytheas Massiliensis scribit, sex dierum navigatione in septentrionem a Britannia distante, quidam vero et in Mona, quae distat a Camaloduno Britanniae oppido circiter CC, adfirmant.
 		
+
+
+
+
+
+Umbrarum hanc rationem et quam vocant gnomonicen invenit Anaximenes Milesius, Anaximandri, de quo diximus, discipulus, primusque horologium, quod appellant sciothericon, Lacedaemone ostendit.
+		
+
+
+
+
+
+188
+Ipsum diem alii aliter observavere: Babylonii inter duos solis exortus, Athenienses inter duos occasus, Umbri a meridie ad meridiem, vulgus omne a luce ad tenebras, sacerdotes Romani et qui diem finiere civilem, item Aegyptii et Hipparchus a media nocte in mediam. minora autem intervalla esse lucis inter ortus solis iuxta solstitia quam aequinoctia apparet, quia positio signiferi circa media sui obliquior est, iuxta solstitium autem rectior.
+		
+
+
+
+
+
+189
+
 Contexenda sunt his caelestibus nexa causis. namque et Aethiopas vicini sideris vapore torreri adustisque similes gigni, barba et capillo vibrato, non est dubium, et adversa plaga mundi candida atque glaciali cute esse gentes, flavis promissas crinibus, truces vero ex caeli rigore has, illas mobilitate sapientes, ipsoque crurum argumento illis in supera sucum revocari natura vaporis, his in inferas partes depelli umore deciduo; hic graves feras, illic varias effigies animalium provenire et maxime alitum multas figuras igni volucres; corporum autem proceritatem utrobique, illic ignium nisu, hic umoris alimento;
 	
 190
 medio vero terrae salubri utrimque mixtura fertiles ad omnia tractus, modicos corporum habitus magna et in colore temperie, ritus molles, sensus liquidos, ingenia fecunda totiusque naturae capacia, isdem imperia, quae numquam extimis gentibus fuerint, sicut ne illae quidem his paruerint, avolsae ac pro numine naturae urguentis illas solitariae.
 		
+
+
+
+
+
+191
+
 Babyloniorum placita et motus terrae hiatusque, qua cetera omnia, siderum vi existimant fieri, sed illorum trium, quibus fulmina adsignant, fieri autem meantium cum sole aut congruentium et maxime circa quadrata mundi. praeclara quaedam et inmortalis in eo, si credimus, divinitas perhibetur Anaximandro Milesio physico, quem ferunt Lacedaemoniis praedixisse ut urbem ac tecta custodirent, instare enim motum terrae, cum et urbs tota eorum corruit et Taygeti montis magna pars, ad formam puppis eminens, abrupta cladem eam insuper ruina pressit. perhibetur et Pherecydi, Pythagorae doctori, alia coniectatio, sed et illa divina, haustu aquae e puteo praesensisse ac praedixisse civibus terrae motum.
 	
 192
 quae si vera sunt, quantum a deo tandem videri possunt tales distare, dum vivant? et haec quidem arbitrio cuiusque existimanda relinquantur: ventos in causa esse non dubium reor. neque enim umquam intremiscunt terrae nisi sopito mari caeloque adeo tranquillo, ut volatus avium non pendeant, subtracto omni spiritu qui vehit, nec umquam nisi post ventos, condito scilicet in venas et cava eius occulta flatu. neque aliud est in terra tremor quam in nube tonitruum, nec hiatus aliud quam cum fulmen erumpit incluso spiritu luctante et ad libertatem exire nitente.
 		
+
+
+
+
+
+193
+
 Varie itaque quatitur, et mira eduntur opera, alibi prostratis moenibus, alibi hiatu profundo haustis, alibi egestis molibus, alibi emissis amnibus, nonnumquam etiam ignibus calidisve fontibus, alibi averso fluminum cursu. praecedit vero comitaturque terribilis sonus, alias murmuri similis, alias mugitibus aut clamori humano armorumve pulsantium fragori, pro qualitate materiae excipientis formaque vel cavernarum vel cuniculi, per quem meet, exilius grassante in angusto, eodem rauco in recurvis, resultante in duris, fervente in umidis, fluctuante in stagnantibus, furente contra solida.
 	
 194
@@ -540,32 +1225,121 @@ itaque et sine motu saepe editur sonus. nec simplici modo quatitur umquam sed tr
 195
 et autumno ac vere terrae crebrius moventur, sicut fulmina. ideo Galliae et Aegyptus minime quatiuntur, quoniam hic aestatis causa obstat, illic hiemis. item noctu saepius quam interdiu. maximi autem motus existunt matutini vespertinique, sed propinqua luce crebri, interdiu autem circa meridiem. fiunt et solis lunaeque defectu, quoniam tempestates tunc sopiuntur, praecipue vero cum sequitur imbres aestus imbresve aestum.
 		
+
+
+
+
+
+196
+
 Navigantes quoque sentiunt non dubia coniectura, sine flatu intumescente fluctu subito aut quatiente ictu. intremunt vero et in navibus postes aeque quam in aedificiis crepituque praenuntiant. quin et volucres non inpavidae sedent. est et in caelo signum praeceditque motu futuro aut interdiu aut paulo post occasum sereno tenuis ceu lineae nube in longum porrecta spatium.
 		
+
+
+
+
+
+197
+
 Est et in puteis turbidior aqua nec sine odoris taedio, sicut in isdem et remedium, quale et crebri specus praebent; conceptum enim spiritum exhalant. quod in totis notatur oppidis: minus quatiuntur crebris ad eluviem cuniculis cavata, multoque sunt tutiora in isdem illis quae pendent, sicuti Neapoli in Italia intellegitur, parte eius, quae solida est, ad tales casus obnoxia. tutissimi sunt aedificiorum fornices, anguli quoque parietum postesque, alterno pulsu renitente. et latere terreno facti parietes minore noxa quatiuntur.
 	
 198
 magna differentia est et in ipso genere motus, pluribus siquidem modis quatitur. tutissimum est cum vibrat crispante aedificiorum crepitu et cum intumescit adsurgens alternoque motu residit; innoxium et cum concurrentia tecta contrario ictu arietant, quoniam alter motus alteri renititur. undantis inclinatio et fluctus more quaedam volutatio infesta est aut cum in unam partem totus se motus inpellit. desinunt autem tremores, cum ventus emersit; sin vero duravere, non ante XL dies sistuntur, plerumque et tardius, utpote cum quidam annuo et bienni spatio duraverint.
 		
+
+
+
+
+
+199
+
 Factum est semel, quod equidem in Etruscae disciplinae voluminibus invenio, ingens terrarum portentum L. Marcio Sexto Iulio cos. in agro Mutinensi. namque montes duo inter se concurrerunt crepito maximo adsultantes recedentesque, inter eos flamma fumoque in caelum exeunte interdiu, spectante e via Aemilia magna equitum Romanorum familiarumque et viatorum multitudine. eo concursu villae omnes elisae, animalia permulta, quae intra fuerant, exanimata sunt, anno ante sociale bellum, quod haud scio an funestius terrae ipsi Italiae fuerit quam civilia. non minus mirum ostentum et nostra cognovit aetas anno Neronis principis supremo, sicut in rebus eius exposuimus, pratis oleis intercedente publica via in contrarias sedes transgressis in agro Marrucino praediis Vetti Marcelli equitis Romani res Neronis procurantis.
 		
+
+
+
+
+
+200
+
 Fiunt simul cum terrae motu et inundationes maris, eodem videlicet spiritu infusi aut terrae sidentis sinu recepti. maximus terrae memoria mortalium exstitit motus Tiberii Caesaris principatu, XII urbibus Asiae una nocte prostratis; creberrimus Punico bello intra eundem annum septies ac quinquagies nuntiatus Romam, quo quidem anno ad Trasimenum lacum dimicantes maximum motum neque Poeni sensere nec Romani. nec vero simplex malum aut in ipso tantum motu periculum est, sed par aut maius ostento. numquam urbs Roma tremuit, ut non futuri eventus alicuius id praenuntium esset.
 		
+
+
+
+
+
+201
+
 Eadem nascentium causa terrarum est, cum idem ille spiritus adtollendo potens solo non valuit erumpere. nascuntur enim, nec fluminum tantum invectu, sicut Echinades insulae ab Acheloo amne congestae maiorque pars Aegypti a Nilo, in quam a Pharo insula noctis et diei cursum fuisse Homero credimus, nec recessu maris, sicuti olim Cerceis. quod accidisse et in Ambraciae portu decem milium passuum intervallo et Atheniensium quinque milium ad Piraeeum memoratur. et Ephesius quondam aedem Dianae adluebat. Herodoto quidem si credimus, mare fuit supra Memphim usque ad Aethiopum montes itemque a planis Arabiae, mare circa Ilium et tota Teuthranie quaque campos intulerit Maeander.
 		
+
+
+
+
+
+202
+
 Nascuntur et alio modo terrae ac repente in aliquo mari emergunt, velut paria secum faciente natura quaeque hauserit hiatus alio loco reddente.
 		
+
+
+
+
+
+
 Clarae iam pridem insulae Delos et Rhodos memoriae produntur; et natae postea minores, ultra Melon Anaphe, inter Lemnum et Hellespontum Neae, inter Lebedum et Teon Halone, inter Cycladas * Thera et Therasia, inter easdem * Olympiadis CXLV anno * quarto [post annos CXXX] Hiera eademque Automate, et ab ea duobus stadiis post annos CCXLII nostro aevo Iunio Silano Valerio [Balbo] cos. a. d. VIII idus Iulias Thia.
 	
 203
 ante nos et iuxta Italiam inter Aeolias insulas, item iuxta Cretam emersit MM·D passuum una cum calidis fontibus, altera Olympiadis CLXIII anno tertio in Tusco sinu, flagrans haec violento cum flatu, proditurque memoriae, magna circa eam multitudine piscium fluitante confestim expirasse quibus ex his cibus fuisset. sic et Pithecussas in Campano sinu ferunt ortas, mox in his montem Epopon, cum repente flamma ex eo emicuisset, campestri aequatum planitiei. in eadem et oppidum haustum profundo, alioque motu terrae stagnum emersisse, et alio provolutis montibus insulam extitisse Prochytam.
 		
+
+
+
+
+
+204
+
 Namque et hoc modo insulas rerum natura fecit: avellit Siciliam Italiae, Cyprum Syriae, Euboeam Boeotiae, Euboeae Atalanten et Macrian, Besbicum Bithyniae, Leucosian Sirenum promunturio.
 		
+
+
+
+
+
+rursus abstulit insulas mari iunxitque terris, Antissam Lesbo, Zephyrium Halicarnaso, Aethusan Myndo, Dromiscon et Pernen Mileto, Narthecusam Parthenio promunturio. Hybanda, quondam insula Ioniae, ducentis nunc a mari abest stadiis, Syrien Ephesus in mediterraneo habet, Derasidas et Sapphoniam vicina ei Magnesia. Epidaurus et Oricum insulae esse desierunt.
+		
+
+
+
+
+
+205
+in totum abstulit terras primum omnium ubi Atlanticum mare est, si Platoni credimus, inmenso spatio, mox interno quoque: videmus hodie mersam Acarnaniam Ambracio sinu, Achaiam Corinthio, Europam Asiamque Propontide et Ponto. ad hoc perrupit mare Leucada, Antirrhium, Hellespontum, Bosporos duos.
+		
+
+
+
+
+
+
 Atque ut sinus et stagna praeteream, ipsa se comest terra. devoravit Cibotum altissimum montem cum oppido Cariae, Sipylum in Magnesia et prius in eodem loco clarissimam urbem, quae Tantalis vocabatur, Galenes et Gamales urbium in Phoenice agros cum ipsis, Phegium, Aethiopiae iugum excelsissimum, tamquam non infida grassarentur et litora.
 		
+
+
+
+
+
+206
+
 Pyrram et Antissam circa Maeotim pontus abstulit, Helicen et Buram sinus Corinthius, quarum in alto vestigia apparent. ex insula Cea amplius triginta milia passuum abrupta subito cum plurimis mortalium rapuit et in Sicilia dimidiam Tyndarida urbem ac quicquid ab Italia deest, similiter in Boeotia Eleusina.
 		
+
+
+
+
+
+
 Motus enim terrae sileantur et quicquid est, ubi saltem busta urbium exstant, simul ut terrae miracula potius dicamus quam scelera naturae. et, Hercules, non caelestia enarratu difficiliora fuerint.
 	
 207
@@ -576,10 +1350,39 @@ Soracte vicino urbi tractu, aliubi praeter hominem ceteris animantibus,
 208
 nonnumquam et homini, ut in Sinuessano agro et Puteolano! spiracula vocant, alii Charonea, scrobes mortiferum spiritum exhalantes, item in Hirpinis Ampsancti ad Mephitis aedem locum, quem qui intravere moriuntur; simili modo Hierapoli in Asia, Matris tantum Magnae sacerdoti innoxium. aliubi fatidici specus, quorum exhalatione temulenti futura praecinant, ut Delphis nobilissimo oraculo. quibus in rebus quid possit aliud causae adferre mortalium quispiam quam diffusae per omne naturae subinde aliter atque aliter numen erumpens?
 		
+
+
+
+
+
+209
+
 Quaedam vero terrae ad ingressus tremunt, sicut in Gabiensi agro non procul urbe Roma iugera ferme ducenta equitantium cursu; similiter in Reatino. quaedam insulae semper fluctuantur, sicut in agro Caecubo et eodem Reatino, Mutinensi, Statoniensi, in Vadimonis lacu, ad Cutilias aquas opaca silva, quae numquam die ac nocte eodem loco visitur, in Lydia quae vocantur Calaminae, non ventis solum, sed etiam contis quo libeat inpulsae, multorum civium Mithridatico bello salus. sunt et in Nymphaeo parvae, Saliares dictae, quoniam in symphoniae cantu ad ictus modulantium pedum moventur. in Tarquiniensi lacu magno Italiae duae nemora circumferunt, nunc triquetram figuram edentes, nunc rotundam conplexu ventis inpellentibus, quadratam numquam.
 		
+
+
+
+
+
+210
+
 Celebre fanum habet Veneris Paphos, in cuius quandam aream non inpluit, item in Nea, oppido Troadis, circa simulacrum Minervae; in eodem et relicta sacrificia non putrescunt.
 		
+
+
+
+
+
+211
+iuxta Harpasa oppidum Asiae cautes stat horrenda, uno digito mobilis, eadem, si toto corpore inpellatur, resistens. in Taurorum paeninsula in civitate Parasino terra est, qua sanantur omnia vulnera. at circa Asson Troadis lapis nascitur, quo consumuntur omnia corpora; sarcophagus vocatur. duo sunt montes iuxta flumen Indum: alteri natura ut ferrum omne teneat, alteri ut respuat, itaque, si sint clavi in calciamento, vestigia evelli in altero non possint, in altero sisti. Locris et Crotone pestilentiam numquam fuisse nec in Ilio terrae motum adnotatum est, in Lycia vero semper a terrae motu quadraginta dies serenos esse. in agro Arpano frumentum satum non nascitur; ad aras Mucias in Veiente et apud Tusculanum et in silva Ciminia loca sunt, in quibus in terram depacta non extrahuntur. in Crustumino natum faenum ibi noxium, extra salubre est.
+		
+
+
+
+
+
+212
+
 Et de aquarum natura complura dicta sunt, sed aestus mari accedere ac reciprocare maxime mirum, pluribus quidem modis, verum causa in sole lunaque. bis inter duos exortus lunae adfluunt bisque remeant vicenis quaternisque semper horis, et primum attollente se cum ea mundo intumescentes, mox a meridiano caeli fastigio vergente in occasum residentes, rursusque ab occasu subter ad caeli ima et meridiano contraria accedente inundantes, hinc, donec iterum exoriatur, se resorbentes
 	
 213
@@ -600,29 +1403,76 @@ Omnes autem aestus in oceano maiora integunt spatia nudantque quam in reliquo ma
 218
 quibusdam tamen in locis spatiosior laxitas dicioni paret, utpote cum plura exempla sint in tranquillo mari nulloque velorum pulsu tertio die ex Italia pervectorum Uticam aestu fervente. circa litora autem magis quam in alto deprehenduntur hi motus, quoniam et in corpore extrema pulsum venarum, id est spiritus, magis sentiunt. in plerisque tractu exortus aestuariis propter dispares siderum in quoque tractu exortus diversi existunt aestus, tempore, non ratione discordes, sicut in Syrtibus.
 		
+
+
+
+
+
+219
+
 Et quorundam tamen privata natura est, velut Tauromenitani euripi saepius et in Euboea septies die ac nocte reciprocantis. idem aestus triduo in mense consistit, septima, octava nonaque luna.
 			
 Gadibus qui est delubro Herculis proximus fons, inclusus ad putei modum, alias simul cum oceano augetur minuiturque, alias utrumque contrariis temporibus; eodem in loco alter oceani motibus consentit. in ripa Baetis oppidum est, cuius putei crescente aestu minuuntur, augescunt decedente, mediis temporum inmobiles. eadem natura
 			
 Hispali oppido uni puteo, ceteris vulgaris. et Pontus semper extra meat in Propontidem, introrsus in Pontum numquam refluo mari.
 		
+
+
+
+
+
+220
+
 Omnia plenilunio maria purgantur, quaedam et stato tempore. circa Messanam et Mylas fimo similia expuuntur in litus purgamenta, unde fabula est Solis boves ibi stabulari. his addit — ut nihil, quod equidem noverim, praeteream — Aristoteles nullum animal nisi aestu recedente expirare. observatum id multis in Gallico oceano et dumtaxat in homine compertum.
 		
+
+
+
+
+
+221
+
 quo vera coniectatio existit, haut frustra spiritus sidus lunam existimari; hoc esse quod terras saturet accedensque corpora impleat, abscedens inaniat. ideo cum incremento eius augeri conchylia et maxime spiritum sentire quibus sanguis non sit, sed et sanguinem, hominum etiam, cum lumine eius augeri ac minui, frondes quoque et pabula —
 			
 ut suo loco dicetur
 			
 — sentire, in omnia eadem penetrante vi.
 		
+
+
+
+
+
+222
+
 itaque solis ardore siccatur liquor, et hoc esse masculum sidus accepimus, torrens cuncta sorbensque.
 		
+
+
+
+
+
+
 sic mari late patenti saporem incoqui salis, aut quia exhausto inde dulci tenuique, quod facillime trahat vis ignea, omne asperius crassiusque linquatur — ideo summam aequorum aquam dulciorem profunda; hanc esse veriorem causam asperi saporis quam quod mare terrae sudor sit aeternus — aut quia plurimus ex arido misceatur illi vapor aut quia terrae natura sicut medicatas aquas inficiat. est in exemplis Dionysio Siciliae tyranno, cum pulsus est ea potentia, accidisse prodigium, ut uno die in portu dulcesceret mare.
 	
 223
 e contrario ferunt lunae femineum ac molle sidus, atque nocturnum solvere umorem et trahere, non auferre. id manifestum esse, quod ferarum occisa corpora in tabem visu suo resolvat somnoque sopitis torporem contractum in caput revocet, glaciem refundat cunctaque umifico spiritu laxet. ita pensari naturae vices semperque sufficere, aliis siderum elementa cogentibus, aliis vero fundentibus. sed in dulcibus aquis lunae alimentum esse, sicut in marinis solis.
 		
+
+
+
+
+
+224
+
 Altissimum mare XV stadiorum Fabianus tradit. alii in Ponto ex adverso Coraxorum gentis — vocant Bathea Ponti — trecentis fere a continente stadiis inmensam altitudinem maris tradunt, vadis numquam repertis.
 		
+
+
+
+
+
+
 mirabilius id faciunt aquae dulces iuxta mare ut fistulis emicantes. nam nec aquarum natura miraculis cessat. dulces mari invehuntur, leviores haut dubie; ideo et marinae, quarum natura gravior, magis invecta sustinent. quaedam vero et dulces inter se supermeant alias, ut in Fucino lacu invectus Pitonius amnis, in Lario Addua, in Verbanno Ticinus, in Benaco Mincius, in Sebinno Ollius, in Lemanno Rhodanus: his trans Alpis, superiores in Italia, multorum milium transitu hospitali suas tantum nec largiores quam intulere aquas evehentes. proditum hoc et in Oronte amne Syriae multisque aliis.
 	
 225
@@ -634,6 +1484,9 @@ nihil in Asphaltite Iudeae lacu, qui bitumen gignit, mergi potest nec in Armenia
 227
 Sed fontium plurimorum natura mira est fervore, idque etiam in iugis Alpium ipsoque in mari inter Italiam et Aenariam in Baiano sinu et in Liri fluvio multisque aliis. nam dulcis haustus in mari plurimis locis, ut ad Chelidonias insulas et Aradum et in Gaditano oceano. Patavinorum aquis calidis herbae virentes innascuntur, Pisanorum ranae, ad Vetulonios in Etruria non procul a mari pisces. in Casinate fluvius appellatur Scatebra, frigidus, abundantior aestate; in eo, ut in Arcadia Stymphali, nascuntur aquatiles musculi.
 		
+
+These are probably the hot springs of Saturnia.
+	
 228
 in Dodone Iovis fons, cum sit gelidus et inmersas faces extinguat, si extinctae admoveantur, accendit. idem meridie semper deficit, qua de causa ἀναπαυόμενον vocant, mox increscens ad medium noctis exuberat, ab eo rursus sensim deficit. in Illyricis supra fontem frigidum expansae vestes accenduntur. Iovis Hammonis stagnum, interdiu frigidum, noctibus fervet. in Trogodytis fons Solis appellatur dulcis et circa meridiem maxime frigidus; mox paulatim tepescens ad noctis media fervore et amaritudine infestatur.
 	
@@ -655,10 +1508,37 @@ Iam omnes fontes aestate quam hieme gelidiores esse quem fallit? sicut illa perm
 234
 marinas tardius gelari, celerius accendi; hieme mare calidius esse, autumnale salsius; omne oleo tranquillari, et ob id urinantes ore spargere, quoniam mitiget naturam asperam lucemque deportet; nives in alto mari non cadere; cum omnis aqua deorsum feratur, exilire fontes atque etiam in Aetnae radicibus, flagrantis in tantum, ut quinquagena, centena milia passuum harenas flammarum globo eructet.
 		
+
+
+
+
+
+235
+namque et ignium, quod est naturae quartum elementum, reddamus aliqua miracula, sed primum ex aquis.
+		
+
+
+
+
+
+
 In urbe Commagenes Samosata stagnum est emittens limum — maltham vocant — flagrantem. cum quid attigit solidi, adhaeret; praeterea tactu et sequitur fugientes. sic defendere muros oppugnante Lucullo; flagrabat miles armis suis. aquis et accenditur; terra tantum restingui docuere experimenta.
 		
+
+
+
+
+
+
 similis est natura naphthae. ita appellatur circa Babylonem et in Austacenis Parthiae profluens bituminis liquidi modo. huic magna cognatio ignium, transiliuntque in eam protinus undecumque visam. ita ferunt a Medea paelicem crematam, postquam sacrificatura ad aras accesserat, corona igne rapto.
 		
+
+
+
+
+
+236
+
 verum in montium miraculis ardet Aetna noctibus semper tantoque aevo materia ignium sufficit, nivalis hibernis temporibus egestumque cinerem pruinis operiens. nec in illo tantum natura saevit exustionem terris denuntians: flagrat in Phaselitis mons Chimaera, et quidem inmortali diebus ac noctibus flamma; ignem eius accendi aqua, extingui vero terra aut fimo Cnidius Ctesias tradit. eadem in Lycia Hephaesti montes taeda flammante tacti flagrant, et adeo ut lapides quoque rivorum et harenae in ipsis aquis ardeant, aliturque ignis ille pluviis; baculo si quis ex iis accenso traxerit sulcum, rivos ignium sequi narrant. flagrat in Bactris Cophanti noctibus vertex.
 	
 237
@@ -667,6 +1547,13 @@ flagrat in Medis et in Sittacene confinio Persidis, Susis quidem ad Turrim Albam
 238
 sed quis haec miretur? in medio mari Hiera et Lipara insulae Aeoliae iuxta Italiam cum ipso mari arsere per aliquot dies sociali bello, donec legatio senatus piavit. maximo tamen ardet incendio Theon ochema dictum Aethiopum iugum torrentesque solis ardoribus flammas egerit. tot locis, tot incendiis rerum natura terras cremat!
 		
+
+
+
+
+
+239
+
 Praeterea cum sit huius unius elementi ratio fecunda seque ipsa pariat et minimis crescat a scintillis, quid fore putandum est in tot rogis terrae? quae est illa natura, quae voracitatem in toto mundo avidissimam sine damno sui pascit? addantur his sidera innumera ingensque sol, addantur humani ignes et lapidum quoque insiti naturae attritique inter se ligni, iam nubium et origines fulminum: excedet profecto miracula omnia ullum diem fuisse, quo non cuncta conflagrarent, cum specula quoque concava adversa solis radiis facilius etiam accendant quam ullus alius ignis.
 	
 240
@@ -675,6 +1562,13 @@ quid quod innumerabiles parvi, sed naturales, scatent? in Nymphaeo exit e petra
 241
 quin et repentinos existere ignes et in aquis et in corporibus, etiam humanis: Trasimenum lacum arsisse totum; Servio Tullio dormienti in pueritia ex capite flammam emicuisse, L. Marcio in Hispania interemptis Scipionibus contionanti et milites ad ultionem exhortanti arsisse simili modo Valerius Antias narrat. plura mox et distinctius; nunc enim quadam mixtura rerum omnium exhibentur miracula. verum egressa mens interpretationem naturae festinat legentium animos per totum orbem veluti manu ducere.
 		
+
+
+
+
+
+242
+
 Pars nostra terrarum, de qua memoro, ambienti, ut dictum est, oceano velut innatans longissime ab ortu ad occasum patet, hoc est ab India ad Herculis columnas Gadibus sacratas |LXXXV|·LXXVIII p., ut Artemidoro auctori placet, ut vero Isidoro, |XCVIII|·XVIII. Artemidorus adicit amplius a Gadibus circuitu Sacri promunturii ad promunturium Artabrum, quo longissime frons procurrat Hispaniae, DCCCCXCI·D.
 	
 243
@@ -696,9 +1590,143 @@ De longitudine ac latitudine haec sunt, quae digna memoratu putem. universum au
 248
 alia Dionysodoro fides. neque enim subtraham exemplum vanitatis Graecae maximum. Melius hic fuit, geometricae scientia nobilis; senecta diem obiit in patria. funus duxere ei propinquae, ad quas pertinebat hereditas. hae cum secutis diebus iusta peragerent, invenisse dicuntur in sepulchro epistulam Dionysodori nomine ad superos scriptam: pervenisse eum a sepulchro ad infimam terram; esse eo stadiorum XLII. nec defuere geometrae qui interpretarentur, significare epistulam a medio terrarum orbe missam, quod deorsum ab summo longissimum esset spatium et idem pilae medium. ex quo consecuta conputatio est, ut circuitum esse CCLII stadiorum pronuntiarent.
 		
+
+
+
+
+
+
 Harmonica ratio, quae cogit rerum naturam sibi ipsam congruere, addit huic mensurae stadiorum XII terramque XCVI partem totius mundi facit.
 		
+
+
+
+
+Thayer's Note:
+	
+
 a
 These are still the degrees of the exaltations of the planets in 20c astrology. Typically, however, although astrologers claim vast antiquity for their art, the modern degrees and the ancient degrees, despite appearances, are not the same. Pliny is counting inclusively and naturally, so that 3 Tauri starts after 2 full degrees have been passed; but modern astrologers start numbering the degrees of each sign at 0: so that when they give as a rule that the Moon is exalted in 3 Tauri, they mean after 3 full degrees have been passed — and this is not what the ancients said. I haven't narrowed down exactly when the error in transmission occurred, but Manilius and Firmicus Maternus agree with Pliny; I suspect the late 19c, in fact.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+I am indebted to
+			
+Silvio Levy
+			
+for correcting from the original edition some transcription errors of mine that would otherwise have been particularly hard to catch.
+		
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Naturalis
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+16 Jun 04

@@ -1,4 +1,113 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+Belli Jugurthini
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXI (recensiti MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p296
+C. Sallusti Crispi
+	
+Bellum Jugurthinum
+	
+
+Capitula LXXVII‑CXIV
+	
+
 77
 
 Sed pariter cum capta Thala legati ex oppido Lepci ad Metellum venerant, orantes uti praesidium praefectumque eo mitteret: Hamilcarem quendam, hominem nobilem, factiosum, novis rebus studere, advorsum quem neque imperia magistratuum neque leges valerent. Ni id festinaret, in summo periculo suam salutem, illorum socios fore. 2 Nam Lepcitani iam inde a principio belli Iugurthini ad Bestiam consulem et postea Romam miserant amicitiam societatemque rogatum. 3 Deinde, ubi ea impetrata, semper boni fidelesque mansere et cuncta a Bestia, Albino Metelloque imperata nave fecerant. 4 Itaque ab imperatore facile quae petebant adepti. Emissae eo cohortes Ligurum quattuor et C. Annius praefectus.
@@ -455,8 +564,15 @@ p380Romam vinctum adduci nuntiatum est, Marius consul absens factus est et ei de
 
 
 	
+
+Apparatus Criticus:
+	
+
 102
 alta alia alia, A; alta alia, the other MSS.
+
+
+
 
 103
 in t. deleted by Kunze, Ah.
@@ -464,11 +580,20 @@ in t. deleted by Kunze, Ah.
 
 
 
+
+
+
 104
 pleraque Africa, An, Arus. VII.481.22; pleraeque Africae, the other MSS.
 
+
+
+
 105
 Bocchi, A2CBn1.
+
+
+
 
 
 
@@ -479,8 +604,14 @@ ibiq(ue), Pl; Q. Metellus, the other MSS., Ah, Or.
 
 
 
+
+
+
 107
 regibus sociisque, MSS., Or. Wirz placed sociisque after Latio, followed by Ah.
+
+
+
 
 
 
@@ -491,11 +622,20 @@ sustineo, P.
 
 
 
+
+
+
 109
 aut, VA, Ah, Or; et, the other MSS.
 
+
+
+
 110
 obiciuntur, VP2.
+
+
+
 
 
 
@@ -506,8 +646,14 @@ faciunt, PA1; facient, n.
 
 
 
+
+
+
 112
 labori innocentiae, VPM2; l. et inn., NKHM1sm; et l. inn. A.
+
+
+
 
 
 
@@ -518,8 +664,14 @@ fateor, Vs; patior, the other MSS. ("fortasse recte," Ah).
 
 
 
+
+
+
 114
 meque, VLn; me, the other MSS. (vos meque, m).
+
+
+
 
 
 
@@ -527,8 +679,14 @@ meque, VLn; me, the other MSS. (vos meque, m).
 115
 parvi, VP2, Nonius, p257.35 M (391.35 L); parum, the other MSS.
 
+
+
+
 116
 mollitiam, VTn.
+
+
+
 
 
 
@@ -539,11 +697,20 @@ alia talia Fabri, Ah; alia, VPCB; talia, the other MSS., Or.
 
 
 
+
+
+
 118
 levia alia, Ciacconius; alia levia, MSS.
 
+
+
+
 119
 accipitur, P1A1CNl; the other MSS. have excipitur.
+
+
+
 
 
 
@@ -554,8 +721,14 @@ id ibique et, CB and m2 of AKHMDm; id ubique et, the other MSS.; idque ibi ut, 
 
 
 
+
+
+
 121
 que . . . agebat, MSS.; qua . . . agebatur, Linker; qua . . . agebant, Jordan.
+
+
+
 
 
 
@@ -566,8 +739,14 @@ gulae irritamenta, Prisc. II.147.5 K.
 
 
 
+
+
+
 123
 adversus, PH; advorsus, Or.
+
+
+
 
 
 
@@ -578,8 +757,14 @@ peregit, A2CBn; the other MSS. omit.
 
 
 
+
+
+
 125
 deserta, found only in a few later integri.
+
+
+
 
 
 
@@ -590,8 +775,14 @@ magna vis et frumenti, MSS., Ah, Or; et m. v. f., Jordan.
 
 
 
+
+
+
 127
 aliis, Ysn (cf. xxi.3); altis, Xl; talibus, m.
+
+
+
 
 
 
@@ -602,8 +793,14 @@ centuriones, MSS.; centuriatos, Eussner.
 
 
 
+
+
+
 129
 escensuri erant, Carrio; ascensuri erant, A1T2F2; e centuriis erant, P; centuriis praeerant, A2CBn; et centuriae praeerant, Ys; centuriones erant, l.
+
+
+
 
 
 
@@ -614,14 +811,26 @@ vetustae, P; vetustate, the other MSS., Ah, Or.
 
 
 
+
+
+
 131
 escenderent, PAN1; ascenderent, the other MSS.
+
+
+
 
 132
 prae, KTs; pro, P1; per, the other MSS.
 
+
+
+
 133
 atque doctissume, MSS.; omitted by Ah (Vogel).
+
+
+
 
 
 
@@ -632,8 +841,14 @@ ascendere (scandere, A1), MSS., Or; esc. N1, Arus. VII.472.12 K, Ah.
 
 
 
+
+
+
 135
 alii alii, Linker, Ah; alios alios, MSS.; alius alius, Or (Klotz).
+
+
+
 
 
 
@@ -641,8 +856,14 @@ alii alii, Linker, Ah; alios alios, MSS.; alius alius, Or (Klotz).
 136
 multi, Dietsch; multa, A1N; multos, the other MSS.
 
+
+
+
 137
 n. veteresque, Wölfflin; v. novique, MSS.; veteres, Ah, Or.
+
+
+
 
 138
 quaerebat, editors; gerebant, XDl; gerebat, K2HTFsnm; regebant, A1(?)N1K1; regebat, M.
@@ -650,14 +871,26 @@ quaerebat, editors; gerebant, XDl; gerebat, K2HTFsnm; regebant, A1(?)N1K1; rege
 
 
 
+
+
+
 139
 fugerant, A2C2; fugere aut, the other MSS.
+
+
+
 
 140
 vigiles, Korrte; vectigales, MSS.
 
+
+
+
 141
 formido, MT, Or, omitting terrore.
+
+
+
 
 
 
@@ -668,8 +901,14 @@ terror, A2, Ah.
 
 
 
+
+
+
 143
 The MSS. omit proficiscitur and nam (Nipperdey); in hiberna it: propter, Ah (CBm); in h.—nam, Or.
+
+
+
 
 
 
@@ -677,8 +916,14 @@ The MSS. omit proficiscitur and nam (Nipperdey); in hiberna it: propter, Ah (CB
 144
 dextumos, P2ACBK2Tsn; Prisc. II.95.5, 98.14 K; extimos, m; extremos, the other MSS.
 
+
+
+
 145
 aiebant; a pueritia, Eussner; aiebant quod a pueritia, mss.
+
+
+
 
 
 
@@ -686,8 +931,14 @@ aiebant; a pueritia, Eussner; aiebant quod a pueritia, mss.
 146
 habuisse, PA1NK1; habuisset, the other MSS.
 
+
+
+
 147
 res publica (R.P. or r.p.), CNKMsm; Fronto, p110 N; reip. PA2BHTDF; remp., A1.
+
+
+
 
 
 
@@ -695,8 +946,14 @@ res publica (R.P. or r.p.), CNKMsm; Fronto, p110 N; reip. PA2BHTDF; remp., A1.
 148
 agebat, CBH; agitabat, A2n; erat, the other MSS.
 
+
+
+
 149
 sinistraque, K2m, Ah.
+
+
+
 
 
 
@@ -707,8 +964,14 @@ se, A2CB.
 
 
 
+
+
+
 151
 imperi, Selling; inopi, VP2A2CBK2Hsn, Ah, Or.
+
+
+
 
 
 
@@ -719,8 +982,14 @@ esses, MSS. (esse, V); es, Fabri, Or ("fort. recte," Ah).
 
 
 
+
+
+
 153
 actutum, Jordan.
+
+
+
 
 
 
@@ -728,8 +997,14 @@ actutum, Jordan.
 154
 Bocchus seu, Cls; Bocchus, feliciter seu, the other MSS.
 
+
+
+
 155
 The codices mutili omit from quinque to pacem, cxii.3.
+
+
+
 
 
 
@@ -740,8 +1015,14 @@ benevolentia, HRl; benevolentiam, CTsn; benevolentiae, the other MSS., Ah, Or.
 
 
 
+
+
+
 157
 infecto, KHMTD1mπ, Ah; confecto, the other MSS., Or.
+
+
+
 
 
 
@@ -752,14 +1033,26 @@ quod, KTDQm.
 
 
 
+
+
+
 159
 praetorem, MDQmπ, Ah, Or; praetorem Utica(m), the other MSS.
+
+
+
 
 160
 legatis, Fπ, Ah, Or; in (om. Q; a, M) quibus (quis, n) legatis, the other MSS.
 
+
+
+
 161
 fit omitted by C; fuit, R1; fieret, Dietsch.
+
+
+
 
 
 
@@ -770,8 +1063,14 @@ petiverat, HTDQm.
 
 
 
+
+
+
 163
 de communibus, KF.
+
+
+
 
 
 
@@ -782,8 +1081,14 @@ atque peditum (p. item f., TQm) MSS.; p. deleted by Korrte.
 
 
 
+
+
+
 165
 patefacit Fπ, Ah; patefecit, the other MSS., Or.
+
+
+
 
 
 
@@ -795,3 +1100,122 @@ Serv. Aen. VII.251; Klotz regards both corporis and et oculis as glosses.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIII Kal. Mai. 07

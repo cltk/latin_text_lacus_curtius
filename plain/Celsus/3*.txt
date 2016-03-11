@@ -1,4 +1,124 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+II
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber
+				
+IV
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p218
+Liber III
+	
+
 Provisis omnibus, quae pertinent ad universa genera morborum, ad singulorum curationes veniam. Hos autem in duas species Graeci diviserunt, aliosque ex his acutos, alios longos esse dixerunt. Idemque quoniam non semper eodem modo respondebant, eosdem alii inter acutos, alii inter longos rettulerunt; ex quo plura eorum genera esse manifestum est. 2 Quidam enim breves utique sunt, qui cito vel tollunt hominem, vel ipsi cito finiuntur; quidam longi, sub quibus neque sanitas in propinquo neque exitium est; tertiumque genus eorum est, qui modo acuti, modo longi sunt, idque non in febribus tantummodo, in quibus frequentissimum est, sed in aliis quoque fit. 3 Atque etiam praeter hos quartum est, quod neque acutum dici potest, quia non peremit, quod neque utique longum, quia, si occurritur, facile sanatur. Ego cum de singulis dicam, cuius quisque generis sit indicabo. Dividam autem omnes in eos, qui in totis corporibus consistere videntur, et eos, qui oriuntur in partibus. Incipiam a prioribus, pauca de omnibus praefatus.
 
 	
@@ -503,25 +623,33 @@ p350est, tum oleo leviter diuque in lectulo perfricari manibus puerilibus quam v
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Marx suggests that something is lost here.
 
 
+❦
 
 2
 Marx notes that some word has fallen out, e.g., varii; this suggestion is translated.
 
 
+❦
 
 3
 Marx supplies 'iunguntur ut' after aliae which is translated.
 
 
+❦
 
 4
 Marx suggests 'accessio' after vehementior which is translated: cf. 5.3.
 
 
+❦
 
 5
 Marx refers to
@@ -529,80 +657,96 @@ Marx refers to
 I.2.7, conclavi quam maxime et alto et lucido et spatioso. Probably the same epithets have fallen out here.
 
 
+❦
 
 6
 The text here appears to be corrupt; si interdum non vacat does not seem relevant. One MS. reads quibus for si.
 
 
+❦
 
 7
 Ritter and other editors have noted that there is a lacuna here.
 
 
+❦
 
 8
 v. d. Linden suggested cucurbitulis, 'cupping', for siti.
 
 
+❦
 
 9
 Some MSS. read non defectio non deiectio and some editors keep defectio (fainting) deleting deiectio as a gloss on profluvium alvi.
 
 
+❦
 
 10
 Marx suggests that the words 'celebris. Fuit' have fallen out.
 
 
+❦
 
 11
 Marx suggests frigus which is translated.
 
 
+❦
 
 12
 The text is uncertain. One MS. reads proximum est quies tot dierum et abstinentia, etc.
 
 
+❦
 
 13
 Bracketed by Marx as a gloss.
 
 
+❦
 
 14
 Marx supplies 'concharum vel,' and this has been translated. See
 II.29; III6.14.
 
 
+❦
 
 15
 poterit added by Marx.
 
 
+❦
 
 16
 There is a lacuna here. Marx suggests species similes habet and this has been translated.
 
 
+❦
 
 17
 To fill the lacuna here Marx suggests alieno, and this has been translated.
 
 
+❦
 
 18
 The text here is corrupt. Marx conjectures remedium for eum, and this is translated. Other MSS. readings are ei and ei ut for eum.
 
 
+❦
 
 19
 A name has probably fallen out here. Marx suggests Zeno (who wrote a treatise on medicaments, cf. Celsus V.Proem. 4) or Meno (a pupil of Aristotle and author of a work Iatrika).
 
 
+❦
 
 20
 So v. d. Linden, followed by Daremberg and Marx for the decipi, quae decipi or dici of the MSS.
+❦
 
 21
 iactum. The reading of the best MSS. is corrupt: Daremberg following one MS. reads mixtum, Marx conjectures calefactum.
@@ -610,3 +754,116 @@ iactum. The reading of the best MSS. is corrupt: Daremberg following one MS. re
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+VI Id. Feb. 06

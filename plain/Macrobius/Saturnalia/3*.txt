@@ -1,12 +1,215 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber II
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber IV
+				
+
+
+
+
+Pagina tota depicta, ite ad capita recte:
+	
+
+I
+	
+	•
+	
+II
+	
+	•
+	
+III
+	
+	•
+	
+IV
+	
+	•
+	
+V
+	
+	•
+	
+VI
+	
+	•
+	
+VII
+	
+	•
+	
+VIII
+	
+	•
+	
+IX
+	
+	•
+	
+X
+	
+	•
+	
+XI
+	
+	•
+	
+XII
+	
+	•
+	
+XIII
+	
+	•
+	
+XIV
+	
+	•
+	
+XV
+	
+	•
+	
+XVI
+	
+	•
+	
+XVII
+	
+	•
+	
+XVIII
+	
+	•
+	
+XIX
+	
+	•
+	
+XX
+	
+
+
+
+Macrobii
+	
+Saturnalia
+	
+
+
+Liber III
+	
+p263
+Caput I
+	
+
+
 *** violatum cum se nosset multa caede pollutum:
 	p264
+
+Tu, genitor, cape sacra manu patriosque Penates.
+	
+Me bello e tanto digressum et caede recenti
+	
+Attrectare nefas, donec me flumine vivo
+	
+Abluero.
+
 
 2
 Post Caietae quoque nutricis sepulturam, quo potissimum navigans adpellitur quam ad eam partem per quam
 
+— fluvio Tiberinus amoeno
+	
+In mare prorumpit,
+
+
 ut confestim in ipso Italiae limine fluviali unda ablutus possit quam purissime
+
+— Iovem Phrygiamque ex ordine Matrem
+
 
 invocare? 3 Quid quod Evandrum aditurus per Tiberim navigat, quod eum esset reperturus Herculi sacra celebrantem, ut sic purificatus sacris possit hospitalibus interesse? 4 Hinc et Iuno ipsa conqueritur non magis quod Aeneam contigisset contra suam velle in Italiam pervenire quam quod optato potiretur Tibridis alveo, quia sciret eum hoc amne purificatum posse sacra etiam sibi
 
@@ -14,16 +217,51 @@ invocare? 3 Quid quod Evandrum aditurus per Tiberim navigat, quod eum esset rep
 
 p265rite perficere: nam ne supplicare quidem sibi ab eo vellet. 5 Nunc, quoniam purificationem ad sacra superorum pertinentem deorum in Virgiliana observatione monstravimus, videamus utrum et circa inferorum deorum cultum proprietatem moris idem poeta servaverit. 6 Constat dis superis sacra facturum corporis ablutione purgari: cum vero inferis litandum est, satis actum videtur si aspersio sola contingat. De sacris igitur superorum ait Aeneas:
 
+— donec me flumine vivo
+	
+Abluero.
+
+
 7
 At Dido, cum sacra dis inferis instituit, ait:
+
+Annam, cara mihi nutrix, huc siste sororem:
+	
+Dic corpus properet fluviali spargere lympha.
+
+et alibi:
+
+
+	
+Sparserat et latices simulatos fontis Averni.
+	
 
 8
 Nec non, cum Misenum sepulturae mandari refert:
 
+Idem ter socios pura circumtulit unda,
+	
+Spargens rore levi.
+
+
 Sic et, cum facit Aeneam apud inferos ramum Proserpinae consecraturum, ita infert:
+
+Occupat Aeneas aditum corpusque recenti
+	
+Spargit aqua.
+
+
+
+II.
+	
 
 1
 Verborum autem proprietas tam poetae huic familiaris est, ut talis observatio in Virgilio laus esse iam desinat: nullis tamen magis proprie usus est quam sacris vel sacrificalibus verbis. 2 Et primum illud non omiserim, in quo plerique falluntur:
+
+— Extaque salsos
+	
+Porriciam in fluctus,
+
 
 non, ut quidam, proiciam, aestimantes dixisse Virgilium proicienda exta, quia adiecit in fluctus. 3 Sed non ita est. Nam et ex disciplina
 
@@ -31,7 +269,20 @@ non, ut quidam, proiciam, aestimantes dixisse Virgilium proicienda exta, quia ad
 
 p266haruspicum et ex praecepto pontificum verbum hoc sollemne sacrificantibus est, sicut Veranius ex primo libro Pictoris ita dissertationem huius verbi executus est: Exta porriciunto, dis danto, in altaria aramve focumve eove quo exta dari debebunt. 4 Porricere ergo, non proicere, proprium sacrificii verbum est: et quia dixit Veranius: in aram focumve eove quo exta dari debebunt, nunc pro ara et foco mare accipiendum est, cum sacrificium dis maris dicatur. 5 Ait enim:
 
+Di, quibus imperium est pelagi, quorum aequora curro,
+	
+Vobis laetus ego hoc candentem in litore taurum
+	
+Constituam ante aras voti reus, extaque salsos
+	
+Porriciam in fluctus, et vina liquentia fundam.
+
+
 Ex his docetur in mare rite potuisse porrici exta, non proici.
+
+6
+Constituam ante aras voti reus.
+
 
 Haec vox propria sacrorum est, ut reus vocetur qui suscepto voto se numinibus obligat, damnatus autem qui promissa vota iam solvit. Sed de hoc non opus est a me plura proferri, cum vir doctissimus Eustathius paulo ante hanc partem plenius executus sit.
 
@@ -39,10 +290,18 @@ Haec vox propria sacrorum est, ut reus vocetur qui suscepto voto se numinibus ob
 7
 Est profundam scientiam huius poetae in uno saepe reperire verbo, quod fortuito dictum vulgus putaret. Multifariam enim legimus, quod litare sola non possit oratio nisi ut is qui deos precatur etiam aram manibus adprehendat. 8 Inde Varro Divinarum libro quinto dicit aras primum asas dictas, quod esset necessarium a sacrificantibus eas teneri: ansis autem teneri solere vasa quis dubitet? Conumtatione ergo litterarum aras dici coeptas, ut Valesios et Fusios dictos prius nunc Valerios et Furios dici. 9 Haec omnia illo versu poeta executus est:
 
+Talibus orantem dictis arasque tenentem
+	
+Audiit omnipotens.
+
+
 Nonne eo additum credideris, non quia orabat tantum, sed quia et aras tenebat, auditum? Nec non cum ait:
 
 
 	
+Talibus orabat dictis arasque tenebat.
+	
+
 item: Tango aras, medios ignes ac numina testor, eandem vim nominis ex adprehensione significat.
 
 	
@@ -52,6 +311,9 @@ Idem poeta tam scientia profundus quam amoenus ingenio nonnulla de veteribus ve
 
 
 p268quinto decimo Rerum divinarum ita refert, quod pontifex in sacris quibusdam vitulari soleat, quod Graeci παιανίζειν vocant. 12 Has tot interpretationes ambages quam paucis verbis docta elegantia Maronis expressit:
+
+— Laetumque choro paeana canentes!
+
 
 Nam si vitulari est voce laetari, quod est παιανίζειν, nonne in cantu laeti παιᾶνος enarratio verbi perfecta servata est? 13 Et, ut huic vocabulo diutius immoremur, Hyllus libro quem de dis conposuit ait Vitulam vocari deam quae laetitiae praeest. 14 Piso ait vitulam victoriam nominari. Cuius rei hoc argumentum profert, quod postridie Nonas Iulias re bene gesta, cum pridie populus a Tuscis in fugam versus sit (unde
 	
@@ -65,14 +327,27 @@ p269pro frugibus fieri sacra dicuntur, quia frugibus vita humana toleratur. Unde
 
 
 	
+Cum faciam vitulam pro frugibus, ipse venito
+	
+
 ut vitulam dixerit pro vitulatione, quod nomen esse sacrificii ob laetitiam facti superius expressimus? 16 Meminerimus tamen sic legendum per ablativum:
 
 
 	
+Cum faciam vitula pro frugibus
+	
+
 id est: cum faciam rem divinam non ove, non capra, sed vitula, tamquam dicat: cum vitulam pro frugibus sacrificavero, quod est: cum vitula rem divinam fecero. 17 Pontificem Aeneam vel ex nomine referendorum laborum eius ostendit. Pontificibus enim permissa est potestas memoriam rerum gestarum in tabulas conferendi, et hos annales appellant equidem maximos, quasi a pontificibus maximis factos. Unde ex persona Aeneae ait:
 
 
 	
+Et vacet annales tantorum audire laborum.
+	
+
+
+III.
+	
+
 1
 Et quia inter decreta pontificum hoc maxime quaeritur, quid sacrum, [quid profanum,] quid sanctum, quid religiosum,
 
@@ -86,11 +361,43 @@ Sacrum est, ut Trebatius libro primo de religionibus refert, quicquid est quod 
 
 
 	
+Sacra Dionaeae matri divisque ferebam
+	
+Item:
+
+	
+Sacra Iovi Stygio quae rite incepta parabam.
+	
+Item:
+
+— Tibi enim, tibi, maxima Iuno,
+	
+Mactat sacra ferens.
+
+
 3
 Profanum omnes paene consentiunt id esse quod extra fanaticam causam sit, quasi porro a fano et a religione secretum. Cuius significatus exemplum executus est, cum de luco et aditu inferorum sacro utroque loqueretur:
 
+— Procul, o procul este profani,
+	
+Conclamat vates, totoque absistite luco.
+
+
 4
 Eo accedit quod Trebatius profanum id proprie dici ait quod ex religioso vel sacro in hominum usum proprietatemque conversum est, quod apertissime poeta servavit, cum ait:
+
+Faune, precor, miserere, inquit, tuque optima ferrum
+	
+Terra tene, colui vestros si semper honores:
+	
+Quos contra Aeneadae bello fecere profanos.
+
+Dixerat enim:
+
+Sed stirpem Teucri nullo discrimine sacrum
+	
+Sustulerant,
+
 
 unde ostendit proprie profanatum, quod ex sacro promiscuum humanis actibus commodatum est.
 
@@ -102,11 +409,37 @@ Sanctum est, ut idem Trebatius libro decimo Religionum refert, interdum idem quo
 
 p271aliud, hoc est nec sacrum nec religiosum, est. 6 Quod ad secundam speciem pertinet:
 
+Sancta ad vos anima, atque istius inscia culpae,
+	
+Descendam.
+
+
 Non enim sacro aut religioso eius anima tenebatur, quam sanctam, hoc est incorruptam, voluit ostendere, ut in illo quoque:
+
+— Tuque, o sanctissima coniunx,
+	
+Felix morte tua.
+
 
 In quo castitatis honorem incorruptae uxoris amplexus est: unde et sanctae leges, quae non debeant poenae sanctione corrumpi. 7 Quod autem ad priorem speciei definitionem de sancto attinet, id est ut non aliud sit quam sacrum aut religiosum:
 
+Ecce levis summo de vertice visus Iuli
+	
+Fundere lumen apex,
+
+et paulo post:
+
+Nos pavidi trepidare metu crinemque flagrantem
+	
+Excutere et sanctos restinguere fontibus ignes.
+
+
 Hic enim sanctos ac si sacros accipiemus, quia divinitus contigerunt. Item:
+
+— Tuque, o sanctissima vates
+	
+Praescia venturi,
+
 
 non aliud nisi sacram vocat, quam videlicet vatem, et deo plenam et sacerdotem.
 
@@ -114,12 +447,32 @@ non aliud nisi sacram vocat, quam videlicet vatem, et deo plenam et sacerdotem.
 8
 Superest ut quid sit religiosum cum Virgilio communicemus. Servius Sulpicius religionem esse dictam tradidit quae propter sanctitatem aliquam remota ac seposita a nobis sit, quasi a relinquendo dicta ut a carendo cerimonia. 9 Hoc Virgilius servans ait:
 
+Est ingens gelidum lucus prope Caeretis amnem
+	
+Religione patrum late sacer,
+
+
 et adiecit, quo proprietatem religionis exprimeret:
+
+undique colles
+	
+Inclusere cavi, et nigra nemus abiete cingit,
+
 
 quae res utique faciebat lucum a populi communione secretum. Et ut relictum locum ostenderet non sola adeundi difficultate, adiecit et sanctitatem:
 
+Silvano fama est veteres sacrasse Pelasgos
+	
+Agrorum pecorisque deo.
+
+
 10
 Secundum Pompeium Festum religiosi sunt qui facienda et vitanda discernunt. Hinc Maro ait:
+
+— Rivos deducere nulla
+	
+Religio vetuit.
+
 
 Quod autem ait deducere, nihil aliud est quam detergere. Nam festis diebus rivos veteres sordidatos detergere licet, novos fodere non licet. 11 In transcursu et hoc notandum est quod et ipse velut
 
@@ -127,10 +480,17 @@ Quod autem ait deducere, nihil aliud est quam detergere. Nam festis diebus rivos
 
 p273praeteriens sub unius verbi significatione proiecit. Cavetur enim in iure pontificio ut, quoniam oves duabus ex causis lavari solent, aut ut curetur scabies aut ut lana purgetur, festis diebus purgandae lanae gratia oves lavare non liceat, liceat autem, si curatione scabies abluenda sit. 12 Ideo hoc quoque inter concessa numeravit:
 
+Balantumque gregem fluvio mersare —,
+
+
 quod si hucusque dixisset, licita et vetita confunderet: sed adiciendo salubri causam concessae ablutionis expressit.
 
 
 	
+
+IV.
+	
+
 1
 Nomina etiam sacrorum locorum sub congrua proprietate proferre pontificalis observatio est. Ergo delubrum quid pontifices proprie vocent, et qualiter hoc nomine Virgilius usus sit, requiramus. 2 Varro libro octavo Rerum divinarum: Delubrum ait alios aestimare in quo praeter aedem sit area adsumpta deum causa, ut est in Circo Flaminio Iovis Statoris: alios in quo loco dei simulachrum dedicatum sit, et adiecit: sicut locum in quo figerent candelam candelabrum appellatum, ita in quo deum ponerent nominatum delubrum. 3 His a Varrone praescriptis intellegere possumus
 
@@ -138,10 +498,37 @@ Nomina etiam sacrorum locorum sub congrua proprietate proferre pontificalis obse
 
 p274id potissimum ab eo probatum quod ex sua consuetudine in ultimo posuit, ut a dei dedicato simulachro delubrum coeperit nuncupari. 4 Virgilius tamen utramque rationem diligenter est executus. Ut enim a postrema incipiamus, observavit delubrum nominaturus aut proprie deorum nomina aut ea quae dis accommodarentur inserere:
 
+At gemini lapsu delubra ad summa dracones
+	
+Effugiunt,
+
+
 et, ut mox simulachrum nominaret, subtexuit:
+
+saevaeque petunt Tritonidis arcem,
+	
+Sub pedibusque deae clypeique sub orbe teguntur,
+
+item:
+
+Nos delubra deum miseri, quibus ultimus esset
+	
+Ille dies.
+
 
 5
 Illam vero opinionem de area, quam Varro praedixerat, non omisit:
+
+Principio delubra adeunt, pacemque per aras
+	
+Exquirunt,
+
+et mox:
+
+
+	
+Aut ante ora deum pingues spatiatur ad aras
+	
 
 Quid enim est spatiatur quam spatio lati itineris obambulat? Quod adiciendo ante aras ostendit aream adsumptam deorum causa. Ita suo more velut aliud agendo inplet archana.
 
@@ -153,6 +540,11 @@ De dis quoque Romanorum propriis, id est Penatibus,
 
 p275aspersa est huic operi non incuriosa subtilitas. Nigidius enim de dis libro nono decimo requirit, num di Penates sint Troianorum Apollo et Neptunus, qui muros eis fecisse dicuntur, et num eos in Italiam Aeneas advexerit. Cornelius quoque Labeo de dis Penatibus eadem existimat. Hanc opinionem sequitur Maro, cum dicit:
 
+Sic fatus meritos aris mactabat honores,
+	
+Taurum Neptuno, taurum tibi, pulcher Apollo.
+
+
 7
 Varro Humanarum secundo Dardanum refert deos Penates ex Samothrace in Phrygiam, et Aeneam ex Phrygia in Italiam detulisse. Qui sint autem di Penates, in libro quidem memorato Varro non exprimit: 8 sed qui diligentius eruunt veritatem Penates esse dixerunt per quos penitus spiramus, per quos habemus corpus, per quos rationem animi possidemus: esse autem medium aethera Iovem, Iunonem
 
@@ -162,30 +554,87 @@ p276vero imum aera cum terra, et Minervam summum aetheris cacumen: et argumento 
 
 
 	
+Cum sociis natoque, Penatibus et magnis dis
+	
+
 quod exprimit θεοὺς μεγάλους. 10 Sed et omnia haec nomina cum in uno de supradictis numinibus servat, doctrinam procul dubio suam de omni hac opinione confirmat. Cum enim ait:
 p277
+
+Iunonis magnae primum prece numen adora
+	
+τὴν μεγάλην nominavit:
+
+
+	
+Adsit laetitiae Bacchus dator et bona Iuno
+	
 
 τὴν χρηστήν; dominamque potentem, τὴν δυνατήν. 11 Eodem nomine appellavit et Vestam, quam de numero Penatium aut certe comitem eorum esse manifestum est, adeo ut et consules et praetores seu dictatores, cum adeunt magistratum, Lavinii rem divinam faciant Penatibus pariter et Vestae. 12 Sed et Virgilius, ubi ex persona Hectoris dixit:
 
 	
+Sacra suosque tibi commendat Troia Penates
+	
+mox adiecit:
+
+	
+Sic ait, et manibus vittas Vestamque potentem,
+	
+Aeternumque adytis effert penetralibus ignem.
+	
+
 13
 Addidit Hyginus in libro quem de dis Penatibus scripsit vocari eos θεοὺς πατρῷους. Sed nec hoc Virgilius ignoratum reliquit:
 p278
 
+Di patrii, servate domum, servate nepotem
+	
+et alibi:
+
+— patriique Penates.
+
+
+
+V.
+	
+
 1
 Nec minus de sacrificiorum usu quam de deorum scientia diligentiam suam pandit. Cum enim Trebatius libro primo de Religionibus doceat hostiarum genera esse duo, unum in quo voluntas dei per exta disquiritur, alterum in quo sola anima deo sacratur, unde etiam haruspices animales has hostias vocant; utrumque hostiarum genus in carmine suo Virgilius ostendit. 2 Et primo quidem illud quo voluntas numinum per exta monstratur:
+
+— Mactat lectas de more bidentes,
+
+et mox:
+
+— Pecudumque reclusis
+	
+Pectoribus inhians spirantia consulit exta.
+
 
 3
 Alterum illud in quo hostia animalis dicitur, quod eius tantum anima sacratur, ostendit, cum facit Entellum victorem Eryci mactare taurum. Nam ut expleret animalis hostiae causas, ipso usus est nomine:
 
 
 	
+Hanc tibi Eryx meliorem animam pro morte Daretis
+	
+
 et ut nuncupata vota signaret, ait persolvo, quod de voto proprie dicitur; utque ostenderet persolutum dis, signavit dicens:
 
 
 	
+Sternitur, exanimisque tremens procumbit humi bos
+	
+
 4
 Videndum etiam ne et illam hostiam ostendat animalem:
+
+Sanguine placastis ventos et virgine caesa,
+	
+Cum primum Iliacas Danai venistis ad oras:
+	
+Sanguine quaerendi reditus, animaque litandum
+	
+Argolica.
+
 
 Nam et animam, id est hostiae nomen, posuit, et litare, quod significat sacrificio facto placasse numen.
 
@@ -193,26 +642,59 @@ Nam et animam, id est hostiae nomen, posuit, et litare, quod significat sacrific
 5
 In his ipsis hostiis, vel animalibus vel consultatoriis, quaedam sunt quae iniuges vocantur, id est quae numquam domitae aut iugo subditae sunt. Harum quoque noster poeta sic meminit:
 
+Nunc grege de intacto septem mactare iuvencos
+	
+Praestiterit, totidem lectas de more bidentes,
+
+
 et ut iniuges evidentius exprimeret, adiecit:
+
+— Et intacta totidem cervice iuvencos.
+
 
 6
 Eximii quoque in sacrificiis vocabulum non poeticum ἐπίθετον sed sacerdotale nomen est. Veranius enim in Pontificalibus quaestionibus docet eximias dictas hostias quae ad sacrificium destinatae eximantur e grege, vel quod eximia specie quasi offerendae numinibus eligantur. Hinc ait:
 
 
 	
+Quattuor eximios praestanti corpore tauros
+	
+
 7
 ubi quod eximuntur eximios, quod eliguntur praestanti corpore dicendo monstravit. Ambarvalis hostia est, ut ait Pompeius Festus, quae rei divinae causa circum arva ducitur ab his qui pro frugibus faciunt. Huius sacrificii mentionem in Bucolicis habet ubi de apotheosi Daphnidis loquitur:
 
+Haec tibi semper erunt, et cum sollemnia vota
+	
+Reddemus nymphis, et cum lustrabimus agros,
+
+
 ubi lustrare significat circumire: hinc enim videlicet et nomen hostiae acquisitum est, ab ambiendis arvis; sed et in Georgicorum libro primo:
 p280
+
+Terque novas circum felix eat hostia fruges
+	
 
 8
 Observatum est a sacrificantibus ut, si hostia quae ad aras duceretur fuisset vehementius reluctata ostendissetque se invitam altaribus admoveri, amoveretur, quia invito deo offerri eam putabant. Quae autem stetisset oblata, hanc volenti numini dari aestimabant. Hinc noster:
 
 
 	
+Et ductus cornu stabit sacer hircus ad aras
+	
+et alibi:
+
+
+	
+Et statuam ante aras aurata fronte iuvencum
+	
+
 9
 Adeo autem omnem pietatem in sacrificiis quae dis exhibenda sunt ponit, ut propter contrariam causam Mezentium vocaverit contemptorem deorum. Neque enim, ut Aspro videtur, ideo contemptor divum dictus est, quod sine respectu deorum in homines inpius fuerit: alioquin multo magis hoc de Busiride dixisset, quem longe crudeliorem inlaudatum vocasse contentus est. 10 Sed verum huius contumacissimi nominis causam in primo libro Originum Catonis diligens lector inveniet. Ait enim Mezentium Rutulis imperasse ut sibi offerrent quas dis primitias offerebant, et Latinos omnes similis imperii metu ita vovisse: IUPPITER, SI TIBI MAGIS CORDI EST NOS EA TIBI DARE POTIUS QUAM MEZENTIO, UTI NOS VICTORES FACIAS. 11 Ergo quod divinos honores sibi exegerat, merito dictus est a Virgilio contemptor deorum. Hinc pia illa insultatio sacerdotis:
+
+
+— Haec sunt spolia et de rege superbo
+	
+Primitiae,
 
 
 ut nomine contumaciae cui poenas luit raptas de eo notaret exuvias.
@@ -220,11 +702,18 @@ ut nomine contumaciae cui poenas luit raptas de eo notaret exuvias.
 
 	p281
 
+
+VI.
+	
+
 1
 Mirandum est huius poetae et circa nostra et circa externa sacra doctrinam. Neque enim de nihilo est quod, cum Delon venit Aeneas, nulla ab eo caesa est hostia, nisi, cum proficisceretur, Apollini et Neptuno res facta divina est. 2 Constat enim, sicut Cloatius Verus Ordinatorum libro secundo docet, esse Deli aram apud quem hostia non caeditur, sed tantum sollemni deum prece venerantur. Verba Cloatii haec sunt: Deli ara est Apollinis Γενέτορος in qua nullum animal sacrificatur, quam Pythagoram velut inviolatum adoravisse produnt. 3 Hanc ergo esse, quae adoratur ab Aenea, Γενέτορος aram poeta demonstrat, siquidem templum ingressus pontifex nullo acto sacrificio statim inchoat precem, et ut Γενέτορα expressus nominaret:
 
 
 	
+Da, pater, augurium
+	
+
 4
 At vero cum taurum mox immolat Apollini et Neptuno, apud aliam utique aram factum intellegimus: et bene supra tantummodo patrem, quod ibi proprium est, et infra, quod commune est, Apollinem nominat. 5 Meminit huius arae et Varro Cato de liberis educandis
 
@@ -235,6 +724,11 @@ p282in haec verba: Nutrix haec omnia faciebat in verbenis ac tubis since hostia,
 
 
 p283ergo, si praesidio religionis tutam insulam semper ostendens ad reverentiam sibi locorum accessisse dicit continuam saxi eiusdem, id est insulae, firmitatem. 9 Ut servavit Apollinis Genitoris proprietatem patrem vocando, idem curavit Herculem vocando victorem:
+
+Haec, inquit, limina victor
+	
+Alcides subiit.
+
 
 10
 Varro Divinarum libro quarto victorem Herculem putat dictum, quod omne genus animalium vicerit. Romae autem
@@ -251,6 +745,9 @@ p284Postea, cum navigans hoc idem ageret, a praedonibus circumventus fortissime
 
 
 	
+Et domus Herculei custos Pinaria sacri
+	
+
 Quidam enim aram Maximam, cum vicino conflagraret incendio, liberatam a Pinariis ferunt, et ideo sacri custodem domum Pinariam dixisse Virgilium. 13 Asper: Κατὰ διαστολὴν, inquit, Potitiorum, qui ab Appio Claudio praemio corrupti sacra servis publicis prodiderunt. 14 Sed Veranius Pontificalium eo libro quem fecit de
 
 
@@ -259,9 +756,23 @@ p285supplicationibus ita ait: Pinariis, qui novissimi comeso prandio venissent, 
 
 
 	
+At Triviae custos iamdudum in montibus Opis
+	
+
 id est ministra; nisi forte custodem dixit eam quae se prohibuerit et continuerit a sacris, ut ipse alibi:
 
+Et custos furum atque avium cum falce saligna
+	
+Hellespontiaci servet tutela Priapi.
+
+
 Hic utique custodem prohibitorem avium furumque significat.
+
+16
+Haec ubi dicta, dapes iubet et sublata reponi
+	
+Pocula, gramineoque viros locat ipse sedili.
+
 
 Non vacat quod dixit sedili. Nam propria observatio est in Herculis sacris epulari sedentes: et Cornelius Balbus Ἐξηγητικῶν libro octavo decimo ait apud aram Maximam observatum ne lectisternium fiat. 17 Custoditur in eodem loco ut omnes aperto capite
 
@@ -269,8 +780,17 @@ Non vacat quod dixit sedili. Nam propria observatio est in Herculis sacris epula
 
 p286sacra faciant. Hoc fit, ne quis in aede dei habitum eius imitetur: nam ipse ibi operto est capite. Varro ait Graecum hunc esse morem, quia sive ipse sive qui ab eo relicti aram Maximam statuerunt Graeco ritu sacrificaverunt. Hoc amplius addit Gavius Bassus. Idcirco enim hoc fieri dicit, quia ara Maxima ante adventum Aeneae in Italia constituta est, qui hunc ritum velandi capitis invenit.
 
+
+VII.
+	
+
 1
 Ea quoque quae incuriose transmittuntur a legentium plebe non carent profunditate. Nam cum loqueretur de filio Pollionis, id quod ad principem suum spectaret, adiecit:
+
+Ipse sed in pratis aries iam suave rubenti
+	
+Murice, iam croceo mutabit vellera luto.
+
 
 2
 Traditur autem in libro Etruscorum, si hoc animal insolito colore fuerit inductum, portendi imperatori rerum omnium felicitatem.
@@ -283,6 +803,11 @@ p287Est super hoc liber Tarquitii transcriptus ex Ostentario Tusco. Ibi reperitu
 3
 Verbis etiam singulis de sacro ritu quam ex alto petita significet, vel hinc licebit advertere:
 
+Iniecere manum Parcae, telisque sacrarunt
+	
+Evandri.
+
+
 Nam quicquid destinatum est dis sacrum vocatur: pervenire autem ad deos non potest, nisi libera ab onere corporis fuerit, anima, quod nisi morte fieri non potest. Ita ergo oportune sacratum Halesum facit, quia erat oppetiturus. 4 Et hic proprietatem et humani et divini iuris secutus est. Nam ex manus iniectione paene mancipium designavit, et sacrationis vocaulo observantiam divini iuris inplevit. 5 Hoc loco non alienum videtur de conditione eorum hominum referre quos leges sacros esse certis dis iubent, quia non ignoro quibusdam mirum videri quod, cum cetera sacra violari nefas sit, hominem sacrum ius fuerit occidi. Cuius rei
 
 
@@ -291,13 +816,25 @@ p288causa haec est. 6 Veteres nullum animal sacrum in finibus suis esse patieba
 
 
 	
+
+VIII.
+	
+
 1
 Nonnullorum quae scientissime prolata sunt male enuntiando corrumpimus dignitatem, ut quidam legunt:
+
+Discedo ac ducente dea flammam inter et hostes
+	
+Expedior,
+
 
 2
 cum ille doctissime dixerit: ducente deo, non dea. Nam et apud Calvum Aterianus adfirmat legendum:
 
 p289
+
+Pollentemque deum Venerem
+	
 
 non deam. Signum etiam eius est Cypri barbatum corpore, sed veste muliebri, cum sceptro ac natura virili: et putant eandem marem ac feminam esse. 3 Aristophanes eam Ἀφρόδιτον appellat. Laevinus etiam sic ait: Venerem igitur almum adorans, sive femina sive mas est, ita uti alma Noctiluca est. Philochorus quoque in Atthide eandem adfirmat esse lunam, et ei sacrificium facere viros cum veste muliebri, mulieres cum virili, quod eadem et mas aestimatur et femina.
 
@@ -305,17 +842,37 @@ p290
 4
 Hoc quoque de prudentia religionis a Virgilio dictum est:
 
+Decidet exanimis, vitamque reliquit in astris
+	
+Aereis.
+
+
 Hyginus enim de proprietatibus deorum, cum de astris ac de stellis loqueretur, ait oportere his volucres immolari. Docte ergo Virgilius dixit apud ea numina animam volucris remansisse quibus ad litandum data est.
 
 	
 5
 Nec nomen apud se, quod fortuitum esse poterat, vacare permittit:
 
+— Matrisque vocavit
+	
+Nomine Casmillae mutate parte Camillam.
+
+
 6
 Nam Statius Tullianus de vocabulis rerum libro primo ait dixisse Callimachum Tuscos Camillum appellare Mercurium, quo vocabulo significant praeministrum deorum. Unde Virgilium ait Metabum Camillam appellasse filiam, Dianae scilicet praeministram. 7 Nam et Pacubius, cum de Medea loqueretur:
 p291
 
+Caelitum camilla, expectata advenis, salve hospita
+	
+
 Romani quoque pueros et puellas nobiles et investes camillos et camillas appellant, flaminicarum et flaminum praeministros. 8 Hanc quoque observationem eius non convenit praeterire.
+
+Mos erat, inquit, Hesperio in Latio, quem protinus urbes
+	
+Albanae coluere sacrum, nunc maxima rerum
+	
+Roma colit.
+
 
 9
 Varro de moribus morem dicit esse in iudicio animi, quem sequi debeat consuetudo. *Iulius Festus de verborum significationibus
@@ -324,16 +881,39 @@ Varro de moribus morem dicit esse in iudicio animi, quem sequi debeat consuetud
 
 p292libro tertio decimo: Mos est, inquit, institutum patrium, pertinens ad religiones cerimoniasque maiorum. 10 Ergo Virgilius utrumque auctorem secutus, et primo quidem Varronem, quoniam ille dixerat morem praecedere, sequi consuetudinem, postquam dixit: Mos erat, subiunxit: Quem protinus urbes Albanae coluere, et: Nunc maxima rerum Roma colit, 11 quo perseverantiam consuetudinis monstrat. Et quoniam Festus pertinere ad cerimonias ait, hoc idem docuit Maro adiciendo sacrum:
 
+— Quem protinus urbes
+	
+Albanae coluere sacrum.
+
+
 12
 Mos ergo praecessit et cultus moris secutus est, quod est consuetudo: et hic definitionem Varronis inplevit. Adiciendo deinde sacrum ostendit morem cerimoniis dicatum, quod Festus adseruit. 13 Idem observavit et in duodecimo libro, cum ait:
 
+— Morem ritusque sacrorum
+	
+Adiciam,
+
+
 14
 in quo ostendit aperte morem esse ritus sacrorum. Sed historiae quoque fidem in his versibus secutus est:
+
+Mos erat Hesperio in Latio, et reliqua.
+
 
 Servavit enim regnorum successionem: quippe primi regnaverunt Latini, deinde Albani, et inde Romani. Ideo: Mos erat, primum dixit, Hesperio in Latio, et postea: Quem protinus urbes Albanae coluere sacrum; deinde subiecit: Nunc maxima rerum Roma colit.
 
 
 	
+
+IX.
+	
+
+1
+Excessere omnes adytis arisque relictis
+	
+Di quibus imperium hoc steterat.
+
+
 Et de vetustissimo Romanorum more et de occultissimis sacris
 
 
@@ -352,49 +932,96 @@ p295EORUM RELINQUATIS ABSQUE HIS ABEATIS, 8 EIQUE POPULO CIVITATI METUM FORMIDI
 
 p296ABDUCATIS LUMINE SUPERO PRIVETIS EXERCITUMQUE HOSTIUM URBES AGROSQUE EORUM QUOS ME, SENTIO DICERE, UTI VOS EAS URBES AGROSQUE CAPITA AETATESQUE EORUM DEVOTAS CONSECRATASQUE HABEATIS OLLIS LEGIBUS QUIBUS QUANDOQUE SUNT MAXIME HOSTES DEVOTI. 11 EOSQUE EGO VICARIOS PRO ME FIDE MAGISTRATUQUE MEO PRO POPULO ROMANO EXERCITIBUS LEGIONIBUSQUE NOSTRIS DO DEVOVEO, UT ME MEAMQUE FIDEM IMPERIUMQUE LEGIONES EXERCITUMQUE NOSTRUM QUI IN HIS REBUS GERUNDIS SUNT BENE SALVOS SIRITIS ESSE. SI HAEC ITA FAXITIS UT EGO SCIAM SENTIAM INTELLEGAMQUE, TUNC QUISQUIS HOC VOTUM FAXIT UBI FAXIT RECTE FACTUM ESTO OVIBUS ATRIS TRIBUS. TELLUS MATER TEQUE IUPPITER OBTESTOR. 12 Cum Tellurem dicit, manibus terram tangit: cum Iovem dicit, manus ad caelum tollit: cum votum recipere dicit, manibus pectus tangit. 13 In antiquitatibus autem haec oppida inveni devota; * Stonios Fregellas Gavios Veios Fidenas, haec intra Italiam, praeterea Carthaginem et Corinthum; sed et multos exercitus oppidaque hostium Gallorum Hispanorum Afrorum Maurorum aliarumque gentium quas prisci locuntur annales. 14 Hinc ergo est quod propter huiusmodi evocationem numinum discessionemque ait Virgilius:
 p297
+Excessere omnes adytis arisque relictis
+	
+Di,
+
+et ut tutelares designaret, adiecit:
+
+
+	
+quibus imperium hoc steterat
+	
+
 15
 Utque praeter evocationem etiam vim devotionis ostenderet, in qua praecipue Iuppiter, ut diximus, invocatur, ait:
+
+— Ferus omnia Iuppiter Argos
+	
+Transtulit.
+
 
 16
 Videturne vobis probatum sine divini et humani iuris scientia non posse profunditatem Maronis intellegi?
 
 
 	
+
+X.
+	
+
 1
 Hic cum omnes concordi testimonio doctrinam et poetae et enarrantis aequarent, exclamavit Evangelus diu se succubuisse patientiae, nec ultra dissimulandum, quin in medium detegat inscientiae Virgilianae vulnera. 2 Et nos, inquit, manum ferulae aliquando subduximus, et nos cepimus pontificii iuris auditum: et ex his quae nobis nota sunt Maronem huius disciplinam iuris nescisse constabit. 3 Quando enim diceret,
 
 
-	p298si sciret taurum immolari huic deo vetitum, aut si didicisset quod Atteius Capito conprehendit? Cuius verba ex libro primo de iure sacrificiorum haec sunt: Itaque Iovi tauro verre ariete immolari non licet. 4 Labeo vero sexagesimo et octavo libro intulit nisi Neptuno Apollini et Marti taurum non immolari. Ecce pontifex tuus quid apud quas aras mactetur ignorat, cum vel aedituis haec nota sint et veterum non tacuerit industria. 5 Ad haec Praetextatus renidens: Quibus deorum tauro immoletur, si vis cum Virgilio communicare, ipse te docebit:
+	
+Caelicolum regi mactabam in litore taurum
+	
+p298si sciret taurum immolari huic deo vetitum, aut si didicisset quod Atteius Capito conprehendit? Cuius verba ex libro primo de iure sacrificiorum haec sunt: Itaque Iovi tauro verre ariete immolari non licet. 4 Labeo vero sexagesimo et octavo libro intulit nisi Neptuno Apollini et Marti taurum non immolari. Ecce pontifex tuus quid apud quas aras mactetur ignorat, cum vel aedituis haec nota sint et veterum non tacuerit industria. 5 Ad haec Praetextatus renidens: Quibus deorum tauro immoletur, si vis cum Virgilio communicare, ipse te docebit:
 
 
 	
+Taurum Neptuno, taurum tibi, pulcher Apollo
+	
+
 6
 Vides in opere poetae verba Labeonis? Igitur ut hoc docte ita illud argute. Nam ostendit deo non litatum ideo secutum
 
 
 	
+Horrendum dictu et visu mirabile monstrum
+	
+
 7
 Ergo respiciens ad futura hostium contrariam fecit. Sed et noverat hunc errorem non esse inexpiabilem. Atteius enim Capito, quem in acie contra Maronem locasti, adiecit haec verba: Si quis forte tauro Iovi fecerit, piaculum dato. Committitur ergo res non quidem inpianda, insolita tamen: et committitur non ignorantia, sed ut locum monstro faceret secuturo.
 
 	p299
+
+
+XI.
+	
 
 1
 Subiecit Evangelus: Si eventu excusantur inlicita, dic, quaeso, quod erat monstrum secuturum et cum Cereri libari vino iuberet, quod omnibus sacris vetatur?
 
 
 	
+Cui tu lacte favos et miti dilue Baccho
+	
+
 2
 Vinum autem Cereri non libari debuit illum vel Plautus docere, qui in Aulularia ait:
+
+Cererin', Strobile, hi sunt facturi nuptias?
+	
+[Qui?] Quia temeti nihil adlatum video.
+
 
 3
 At hic vester, flamen et pontifex et omnia, tam quid immoletur quam quid libetur ignorat, et, ne non ubique in libando pari errore sit devius, in octavo ait:
 
 
 	
+In mensam laeti libant, divosque precantur
+	
+
 cum non in mensam sed in aram secundum morem libare debuerint. 4 Ut prius tibi, Praetextatus inquit, de posteriore quaestione respondeam, fateor te non inmerito de usurpata in mensam libatione quaesisse; ampliusque speciem difficultatis auxeras, si magis Didonem in mensam similiter libantem notasses:
 
 
 	
+Dixit, et in mensam laticum libavit honorem
+	
+
 5
 Nam et Tertius, cum de ritu sacrorum multa dissereret, ait sibi hunc locum in quaestionem venire, nec tamen haesitationem suam requisita ratione dissolvit. Ego autem quod mihi magistra lectione compertum est publicabo. In Papiriano enim iure evidenter relatum est arae vicem praestare posse mensam dicatam.
 
@@ -408,22 +1035,42 @@ donaria. Neque
 
 p301enim dedicantur eo tempore quo delubra sacrantur, at vero mensa arulaeque eodem die quo aedes ipsae dedicari solent, unde mensa hoc ritu dedicata in templo arae usum et religionem optinet pulvinaris. 7 Ergo apud Evandrum quidem fit iusta libatio, quippe apud eam mensam quae cum ara Maxima more utique religionis fuerat dedicata et in luco sacrato et inter ipsa sacra in quibus epulabantur: in convivio vero Didonis, quod tantum regium constat, non etiam sacrum, fuisse, apud humanam mensam in triclinio, non in templo, quia non erat religiosa sed usurpata libatio, solam fecit libasse reginam, in cuius persona nulla observationis necessitas et multa ad usurpandum in potestate permissio. 8 At vero hic
 
+— omnes
+	
+In mensam laeti libant, divosque precantur,
+
+
 quia quod recte fieri noverat ab omnibus simul in templo epulantibus et uni sacratae adsidentibus mensae factum esse memoravit. 9 De illo autem versu:
 
 
 	
+Cui tu lacte favos et miti dilue Baccho
+	
+
 paucis, quod male accusatur, absolvam. Poeta enim aeque in
 
 
 
 p302rebus doctrinae et in verbis sectator elegantiae, sciens Cereri mulso libari, adiecit: miti Baccho favos dilue, scilicet mitescere vinum dicens, cum mulsum coeperit fieri. 10 Nam ita hic mite vinum dixit, ut alibi ait domitum:
 
+— Et durum Bacchi domitura saporem.
+
+
 Notum autem esse non diffitebere, quod a. d. duodecimum Kalendas Ianuarias Herculi et Cereri faciunt sue praegnate panibus mulso.
 
 
 	
+
+XII.
+	
+
 1
 Oportune mehercle, Praetextate, fecisti Herculis mentionem, in cuius sacra hic vester gemino errore commisit:
+
+Tum Salii ad cantus incensa altaria circum
+	
+Populeis adsunt evincti tempora ramis.
+
 
 Nam et Salios Herculi dedit, quos tantum Marti dicavit antiquitas, et populeas coronas nominat, cum ad aram Maximam sola
 
@@ -443,10 +1090,26 @@ p305Salios Herculi datos probat in eo volumine quo disputat quid sit festra, quo
 10
 Tunc Evangelus: Numquamne tibi, Praetextate, venit in mentem toto, ut aiunt, caelo errasse Virgilium, cum Dido sua rem divinam pro nuptiis faceret?
 
+— Mactat (enim inquit) lectas de more bidentes
+	
+Legiferae Cereri Phoeboque patrique Lyaeo,
+
+
 et quasi expergefactus adiecit:
 
 
 	
+Iunoni ante omnes cui vincla iugalia curae
+	
+***
+
+
+	p306
+
+
+XIII.
+	
+
 1
 Accipite et M. Varronis verba de agricultura libro tertio, qui cum de pavonibus in villa nutriendis loqueretur, sic ait: Primus hos Q. Hortensius augurali coena posuisse dicitur, quod potius factum tum luxuriose quam severe boni viri laudabant.
 
@@ -503,6 +1166,10 @@ p316quod porcum Troianum mensis inferant, quem illi ideo sic vocabant, quasi ali
 
 
 	
+
+XIV.
+	
+
 1
 Subiecit Furius Albinus, antiquitatis non minus quam Caecina peritus: Miror te, inquit, Albine, non retulisse quanta illa affluentia marinarum procurari solita fuerit copiarum, cuius relatu
 
@@ -540,6 +1207,10 @@ p324idem Cicero defendit, et Licinio Crasso, Crassi eius qui apud Parthos extinc
 
 
 	
+
+XV.
+	
+
 1
 Sed de saltatione veterum ad praedae marinae transire luxum Liciniorum me nomen ammonuit: quos Murenas cognominatos, quod hoc pisce effusissime delectati sint, satis constat. 2 Huic opinioni M. Varro consentit adserens eodem modo Licinios appellatos Murenas quo Sergius Orata cognominatus est, quod ei pisces qui auratae vocantur carissimi fuerint. 3 Hic est Sergius Orata qui primus balneas pensiles habuit, primus ostrearia in Baiano locavit, primus optimum saporem ostreis Lucrinis adiudicavit. Fuit autem aetate L. Crassi illius diserti, qui quam gravis
 
@@ -562,8 +1233,22 @@ p328non amplam aut latam, constat propter vivaria quae habuit quadragies HS. ven
 
 
 	
+
+XVI.
+	
+
 1
 Nec accipenser, quem maria prodigis nutriunt, illius seculi delicias evasit: et, ut liqueat secundo Punico bello celebre nomen huius piscis fuisse, accipite ut meminerit eius Plautus in fabula quae inscribitur Baccharia ex persona parasiti:
+
+2
+Quis est mortalis tanta fortuna adfectus umquam
+	
+Qua ego nunc sum, cuius haec ventri portatur pompa?
+	
+* Vel nunc, qui mihi in mari accipenser latuit antehac,
+	
+* Cuius ego latus in latebras reddam meis dentibus et manibus.
+
 
 3
 Et, ne vilior sit testis poeta, accipite adsertore Cicerone in quo
@@ -601,6 +1286,17 @@ eat percontatum, quid in foro gestum sit, qui suaserint, qui dissuaserint, quot 
 p334ipsus it minctum: ubi redit, ait se omnia audivisse: tabulas poscit, litteras inspicit: vix prae vino sustinet palpebras. Eunt in consilium: ibi haec oratio: Quid mihi negotii est cum istis nugatoribus potius quam potamus mulsum mixtum vino Graeco, edimus turdum pinguem bonumque piscem, lupum germanum qui inter duos pontes captus fuit? 17 Haec Titius. Sed et Lucilius, acer et violentus poeta, ostendit scire se hunc piscem egregii saporis qui inter duos pontes captus esset, eumque quasi ligurritorem catillonem appellat, scilicet qui proxime ripas stercus insectaretur. Proprie autem catillones dicebantur qui, ad polluctum Herculis ultimi cum venirent, catillos ligurribant. 18 Lucilii versus hi sunt:
 
 p335
+Fingere praeterea adferri quod quisque volebat.
+	
+Illum sumina ducebant atque altilium lanx:
+	
+Hunc pontes Tiberinos duo inter captus catillo.
+
+
+
+XVII.
+	
+
 1
 Longum fiat, si enumerare velim quot instrumenta gulae inter illos vel ingenio excogitata sint vel studio confecta. Et hae nimirum causae fuerunt propter quas tot numero leges de coenis et sumptibus ad populum ferebantur, et imperari coepit, ut patentibus ianuis pransitaretur et coenitaretur, sic oculis civium testibus factis luxuriae modus fieret. 2 Prima autem omnium de coenis lex ad populum Orchia pervenit, quam tulit C. Orchius tribunus plebi de senatus sententia tertio anno quam Cato censor fuerat. Cuius verba, quia sunt prolixa, praetereo: summa autem eius praescribebat numerum convivarum. 3 Et haec est lex Orchia de qua Cato mox orationibus suis vociferabatur, quod plures quam praescripto eius cavebatur ad coenam vocarentur. Cumque auctoritatem novae legis aucta necessitas imploraret, post
 
@@ -635,12 +1331,27 @@ dicitur.
 
 	p342
 
+
+XVIII.
+	
+
 1
 Adhuc dicente Furio secundae mensae inlata bellaria novo sermoni principium dederunt. Symmachus enim adtrectans manu nuces: Vellem, inquit, ex te audire, Servi, tanta nucibus nomina quae causa vel origo variaverit, aut unde, tot mala cum hac una appellatione vocitentur, fiunt tamen seorsum diversa tam vocabulo quam sapore. Ac prius de nucibus absolvas volo quae tibi memoria crebrae lectionis occurrunt. 2 Et Servius: Nux ista iuglans secundum nonnullorum opinionem a iuvando et a glande dicta existimatur. Gavius vero Bassus in libro de significatione verborum hoc refert: 3 Iuglans arbor proinde dicta est ac Iovis glans. Nam quia id arboris genus nuces habet quae sunt suaviore sapore quam glans est, hunc fructum antiqui illi, qui egregium glandique similem ipsamque arborem deo dignam existimabant, Iovis glandem appellaverunt, quae nunc litteris interlisis iuglans nominatur. 4 Cloatius autem Verus in libro a Graecis tractorum ita memorat: Iuglans, D praetermissum est, quasi Diuglans, id est Διὸς βάλανος, sicut Theophrastus ait: Ἴδια δὲ τῶν
 
 
 
 p343ὀρινῶν ἃ ἐν τοῖς πεδίοις οὐ φύεται, τερέβινθος πρῖνος φιλῦρη ἀφάρκη καρύα, ἣ καὶ Διὸς βάλανος. Hanc Graeci etiam basilicam vocant. 5 Nux haec Abellana seu Praenestina, quae est eadem, ex arbore est quae dicitur corylus, de qua Virgilius dicit: Corylum sere. Est autem natio hominum iuxta agrum Praenestinum qui Carsitani vocantur ἀπὸ τῶν καρύων, cuius rei meminit Varro in logistorico qui inscribitur Marius de fortuna: inde scilicet Praenestinae nuces. 6 Est et illud apud Naevium in fabula Ariolo:
+
+— Quis heri
+	
+Apud te? Praenestini et Lanuvini hospites.
+	
+Suopte utrosque decuit acceptos cibo,
+	
+Alteris inanem bulbam madidam dari,
+	p344
+Alteris nuces in proclivi profundere.
+
 
 Hanc autem nucem Graeci Ponticam vocant, dum unaquaeque natio indit huic nuci nomen ex loco in quo nascitur copiosior. 7 Nux castanea, de qua Virgilius: Castaneasque nuces, vocatur et Heracleotica. Nam vir doctus Oppius in libro quem fecit de silvestribus
 
@@ -650,8 +1361,21 @@ p345arboribus sic ait: Heracleotica haec nux, quam quidam cataneam nominant, ite
 
 
 	
+Nucem Graecam, ait, favumque adde quantum libet.
+	
+
 9
 Nucem molluscam licet hiemis nobis tempus invideat, tamen, quia de nucibus loquimur, indictam non relinquemus. Plautus in Calceolo sic eius meminit:
+
+
+
+
+
+— Molluscam nucem
+			
+Super eius dixit inpendere tegulas.
+		
+
 
 
 10
@@ -662,12 +1386,45 @@ Ecce Plautus nominat quidem, sed quae sit nux mollusca non exprimit. Est autem P
 p346idyllio quod inscribitur Moretum. Nam cum loquitur de hortulano faciente moretum, inter cetera quae eo mittit et hoc pomum mitti ait his verbis:
 
 
+12
+Admiscet* missa in cava silicis haec nunc partim,
+	
+Partim Persica: quod nomen sic denique fertur
+	
+Propterea quod qui quondam cum rege potenti,
+	
+Nomine Alexandro Magno, fera praelia bello
+	
+In Persas tetulere, suo post inde reventu
+	
+Hoc genus arboris in praelatis finibus Graiis
+	
+Disseruere novos fructus mortalibus dantes.
+	p347
+Mollusca haec nux est, ne quis forte inscius erret.
+
+
 13
 Nux terentina dicitur quae ita mollis est ut vix adtrectata frangatur. De qua in libro Favorini sic reperitur: Item quod quidam Tarentinas oves vel nuces dicunt, quae sunt terentinae a tereno, quod est Sabinorum lingua molle: unde Terentios quoque dictos putat Varro ad Libonem primo. Quam in culpam etiam Horatius potest videri incidere, qui ait et:
+
+— molle Tarentum.
+
 
 14
 Nux pinea hos nobis qui adpositi sunt nucleos dedit. Plautus in Cistellaria:
 
+
+
+
+
+Qui e nuce nucleos esse vult frangit nucem.
+		
+
+
+
+
+XIX.
+	
 
 1
 Et, quia mala videmus admixta bellariis, post nuces de malorum generibus disserendum est. Sunt de agricultura scriptores qui nuces et mala sic dividunt ut nuces dicant omne
@@ -694,13 +1451,22 @@ p351sit. Quod autem ait idem Cloatius citreum, et ipsum Persicum malum est secun
 
 
 	
+Felicis mali quo non praestantius ullum
+	
+
 et reliqua. 4 Et ut nemo dubitet haec de citreo dixisse Virgilium, accipite quae Oppius in libro de silvestribus arboribus dicat: Citrea item malus et Persica: altera generatur in Italia, et in Media altera. Et paulo post de citreo loquens ait: Est autem odoratissimum: ex quo interiectum vesti tineas necat. Fertur etiam venenis contrarium, quod tritum cum vino purgatione virium suarum bibentes servat. Generantur autem in Perside omni tempore mala citrea: alia enim praecarpuntur, alia interim maturescunt. 5 Vides
 
 
 
 p352hic et citreum nominari et omnia signa poni quae de eo Virgilius dixit, licet nomen citrei ille non dixerit. Nam et Homerus, qui citreum θύον appellat, ostendit esse odoratum pomum:
 
+Θύου δ᾽ ἀπὸ καλὸν ὀδώδει,
+
+
 et, quod ait Oppius inter vestem poni citreum, idem significat Homerus, cum dicit:
+
+Εἵματα δ᾽ ἀμφιέσασα θυώδεα σιγαλόεντα.
+
 
 Hinc et Naevius poeta in bello Punico ait citrosam vestem.
 
@@ -714,6 +1480,11 @@ p353Graeculum Lollianum Lanuvinum laureum Lateresianum myrapium Milesium murteum
 
 
 	
+p354
+
+XX.
+	
+
 1
 Ammonent nos et fici aridae ut enumeremus genera ficorum eodem Cloatio nos de his ut de aliis instruente. Sic enim diversas ficos diligentiae suae more dinumerat: Africa albula harundinea asinastra, atra palusca, Augusta bifera Carica, caldica
 
@@ -734,10 +1505,17 @@ p357atram, quaeque bacam nigram nigrosque fructus ferunt, itemque acrifolium, pi
 p358ficum tamquam non pomum secerni a pomis apud idoneos repperimus? Afranius in Sella: Pomum holus ficum uvam. Sed et Cicero Oeconomicon libro tertio: Neque serit vitem neque quae sata est diligenter colit: oleum ficos poma non habet. 5 Nec hoc ignorandum est, ficum solam ex omnibus arboribus non florere. Lacte proprie ficorum dicitur. Grossi appellantur fici quae non maturescunt. Hos Graeci dicunt ὀλύνθους. Mattius:
 p359
 
+
+In milibus tot (ficorum) non videbitis grossum
+
+
 et paulo post:
 
 
 	
+Sumas ab alio lacte diffluos grossos
+	
+
 Et Postumius Albinus Annali primo de Bruto: Ea causa sese stultum brutumque faciebat, grossulos ex melle edebat.
 
 	
@@ -758,3 +1536,119 @@ p362variola lagea. 8 Inter haec Praetextatus: Vellem Servium nostrum diutius au
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Saturnalia:
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+1 Feb 06

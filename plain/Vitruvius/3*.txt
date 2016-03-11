@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber II
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber IV
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber III
+	
+
+Praefatio
+	
+
+
 1. Delphicus Apollo Socratem omnium sapientissimum Pythiae responsis est professus. is autem memoratur prudenter doctissimeque dixisse, oportuisse hominum pectora fenestrata et aperta esse, uti non occultos haberent sensus sed patentes ad considerandum. utinam vero rerum natura sententiam eius secuta explicata et apparentia ea constituisset. si enim ita fuisset, non solum laudes aut vitia animorum ad manum aspicerentur, sed etiam disciplinarum scientiae sub oculorum consideratione subiectae non incertis iudiciis probarentur, sed et doctis et scientibus auctoritas egregia et stabilis adderetur. igitur quoniam haec non ita sed uti natura rerum voluit sunt constituta, non efficitur ut possint homines obscuratis sub pectoribus ingeniis scientias artificiorum penitus latentes quemadmodum sint iudicare. ipsique artifices si pollicentur suam prudentiam, si non pecunia sint copiosi seu vetustate officinarum habuerint notitiam, aut etiam gratia forensi et eloquentia non fuerint parati, pro industria studiorum auctoritates <non> possunt habere ut eis quod profitentur scire id credatur.
 
 	
@@ -18,6 +113,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Aedium compositio constat ex symmetria, cuius rationem diligentissime architecti tenere debent. ea autem paritur a proportione, quae graece ἀναλογία dicitur. proportio est ratae partis membrorum in omni opere totiusque commodulatio, ex qua ratio efficitur symmetriarum. namque non potest aedis ulla sine symmetria atque proportione rationem habere compositionis, nisi uti ad hominis bene figurati <speciem> membrorum habuerit exactam rationem.
 
@@ -57,6 +155,9 @@
 
 
 	
+Caput 2
+	
+
 
 1. Aedium autem principia sunt e quibus constat figurarum aspectus. et primum in antis, quod graece ναος ἐν παραστασιν dicitur, deinde prostylos, amphiprostylos, peripteros, pseudodipteros, <dipteros,> hypaethros. horum exprimuntur formationes his rationibus.
 
@@ -92,6 +193,9 @@
 
 
 	
+Caput 3
+	
+
 
 1. Species autem aedium sunt quinque, quarum ea sunt vocabula, pycnostylos id est crebris columnis, systylos paulo remissioribus intercolumniorum spatiis, diastylos amplius patentibus, rarius quam oportet inter se diductis araeostylos, eustylos intervallorum iusta distributione.
 
@@ -147,6 +251,9 @@
 
 
 	
+Caput 4
+	
+
 
 1. Fundationes eorum operum fodiantur si queat inveniri ab solido et in solidum quantum ex amplitudine operis pro ratione videbitur, extruaturque structura totum solum quam solidissima. supraque terram parietes extruantur sub columnas, dimidio crassiores quam columnae sunt futurae uti firmiora sint inferiora superioribus. qua et stereobatae appellantur, nam excipiunt onera. spirarumque proiecturae non procedant extra solidum. item supra parietis ad eundem modum crassitudo servanda est, intervalla autem concamaranda aut solidanda festucationibus•
 uti distineantur.
@@ -171,6 +278,9 @@ uti distineantur.
 
 
 	
+Caput 5
+	
+
 1. His perfectis in suis locis spirae conlocentur eaeque ad symmetriam sic perficiantur uti crassitudo cum plintho sit columnae ex dimidia crassitudine proiecturamque, quam Graeci ἐκφοραν vocitant, habeant aeque tantam. ita tum lata et longa erit columnae crassitudinis unius et dimidiae.
 
 	
@@ -231,3 +341,131 @@ uti distineantur.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+IV Kal. Oct. 05

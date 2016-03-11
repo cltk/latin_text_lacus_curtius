@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Didius Julianus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pescennius Niger
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+
+p370
+Septimius Severus
+	
+
 11 Interfecto Didio Iuliano Severus Africa oriundus imperium obtinuit. 2 cui civitas Lepti, pater Geta, maiores equites Romani ante civitatem omnibus datam; mater Fulvia Pia, patrui magni1 Aper et Severus consulares, avus paternus Macer, maternus2 Fulvius Pius fuere. 3 ipse natus est Erucio Claro bis et Severo consulibus, VI idus Apriles. 4 in prima pueritia, priusquam Latinis Graecisque litteris imbueretur, quibus eruditissimus fuit, nullum alium inter pueros ludum nisi ad iudices exercuit, cum3 ipse praelatis fascibus ac securibus ordine puerorum circumstante4 sederet ac iudicaret. 5 octavo decimo anno publice declamavit.5 postea studiorum causa Romam venit,
 
 
@@ -211,165 +319,201 @@ p428ut alternis diebus apud filios imperatores in cubiculis Fortuna poneretur. 7
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 magni Aper Madvig, Peter2; magnaper P; Marcus Aper Peter1.
 
 
+❦
 
 2
 So Casaubon; maternus Macer paternus P, Peter.
 
 
+❦
 
 3
 eum P1.
 
 
+❦
 
 4
 circumstantes P1.
 
 
+❦
 
 5
 adclamauit P.
 
 
+❦
 
 6
 habuit P.
 
 
+❦
 
 7
 omisso tribunatu Hirschfeld, Golisch, Peter2; omnis sortibus natu P.
 
 
+❦
 
 8
 bracketed by Peter2.
 
 
+❦
 
 9
 eiusmodi elogio Hirschfeld; elogio eiusdem P, Peter.
 
 
+❦
 
 10
 leuabatur P.
 
 
+❦
 
 11
 sed Peter; et P.
 
 
+❦
 
 12
 Germanico Baehrens, Peter2; Germano P, Peter1.
 
 
+❦
 
 13
 in Venetia Salmasius; et iam Editor; inuenit etiam P; in uicinia Peter.
 
 
+❦
 
 14
 nobilitatem P.
 
 
+❦
 
 15
 quot Rühl; quod P, Peter.
 
 
+❦
 
 16
 iter Peter; item P.
 
 
+❦
 
 17
 gallicanis P.
 
 
+❦
 
 18
 consulatum P1.
 
 
+❦
 
 19
 misissent P.
 
 
+❦
 
 20
 septingenos Hirschfeld; septuagenos P, Peter.
 
 
+❦
 
 21
 auctore Commodo iam nomen Oberdick; nomen om. by Editor; aut Commodianum P.
 
 
+❦
 
 22
 so Peter1; pertimescende P; pertimescendo P corr., Peter2.
 
 
+❦
 
 23
 iudicabat P, Peter1; inuidebat Peter2.
 
 
+❦
 
 24
 om. in P.
 
 
+❦
 
 25
 quae P.
 
 
+❦
 
 26
 alienos P.
 
 
+❦
 
 27
 praefectum Mommsen; praefecti P.
 
 
+❦
 
 28
 accepit P.
 
 
+❦
 
 29
 orientem P, Peter.
 
 
+❦
 
 30
 uictum Peter2 with P.
 
 
+❦
 
 31
 saeue Peter; se P.
 
 
+❦
 
 32
 filii Nigri om. in P.
 
 
+❦
 
 33
 sed . . . . periturum rejected by Peter2 as repetition from
@@ -377,129 +521,155 @@ sed . . . . periturum rejected by Peter2 as repetition from
 Pesc. Nig. ix.5.
 
 
+❦
 
 34
 cadit P.
 
 
+❦
 
 35
 diu uideri Salmasius; diuidere P.
 
 
+❦
 
 36
 imperatoriam von Domaszewski; imperator iam P, Peter.
 
 
+❦
 
 37
 Antonium Hirschfeld, acc. by Peter2, Praef., p. xlii; Antoninum P, Peter.
 
 
+❦
 
 38
 Aelium Hirschfeld, acc. by Peter2, Praef., p. xlii; L. P, Peter.
 
 
+❦
 
 39
 Marcium Hirschfeld, acc. by Peter2, Praef., p. xlii; Marcum P, Peter.
 
 
+❦
 
 40
 excitus Editor; exciti Petschenig; extiti P; extincti Peter1; rumor . . . extitit Peter2.
 
 
+❦
 
 41
 cum eo Capitolium Peter; cum eo om. in P.
 
 
+❦
 
 42
 figurata P; figurate Peter.
 
 
+❦
 
 43
 suspectans Casaubon, Peter2; suspectos P; suspectus Salmasius, Peter1.
 
 
+❦
 
 44
 quibus seui P.
 
 
+❦
 
 45
 herbarum Egnatius, Peter1; culparum P; † culparum Peter2; caeparum Kellerbauer.
 
 
+❦
 
 46
 ob hoc Ed. princeps, Peter1; ob P; ideo Peter2.
 
 
+❦
 
 47
 parthicus P.
 
 
+❦
 
 48
 om. in P1, added in P corr.
+❦
 
 49
 bello eorum P.
 
 
+❦
 
 50
 saluti P.
 
 
+❦
 
 51
 quam ex P; atque Peter.
 
 
+❦
 
 52
 obtulisset atque dixisset Peter2; obtulissetque dixisset P; obtulisset dixissetque Peter1.
 
 
+❦
 
 53
 illi quid facturus esses Mommsen; ille quod facturus esset P; ille . . . quod facturus esset Peter.
 
 
+❦
 
 54
 so Peter2; est emollitus P, Peter1.
 
 
+❦
 
 55
 inserted by Casaubon.
 
 
+❦
 
 56
 utrumque P.
 
 
+❦
 
 57
 diurnum Casaubon; diuturnam P.
 
 
+❦
 
 58
 ream Salmasius; eam P.
 
 
+❦
 
 59
 rogareturque Peter1; rogareturquem P; rogareturque <uenia>m Klein, Peter2, but see use of rogatus in
@@ -507,109 +677,230 @@ rogareturque Peter1; rogareturquem P; rogareturque <uenia>m Klein, Peter2, but 
 Pesc. Nig. x.5.
 
 
+❦
 
 60
 inlegatus P.
 
 
+❦
 
 61
 liberisque P.
 
 
+❦
 
 62
 Septimianae Zangemeister; eius denique etiam ianae P; eiusdemque etiam ianuae Peter; aliae Hirschfeld, acc. by Peter2, Praef., p. xlii.
 
 
+❦
 
 63
 uix et Salmasius; uixit P.
 
 
+❦
 
 64
 ualeret P.
 
 
+❦
 
 65
 Helius P, Peter.
 
 
+❦
 
 66
 neminem prope Edit. princeps, Peter1; neminem facere prope P, Peter2; neminem fere [prope] Salmasius.
 
 
+❦
 
 67
 ueris Salmasius; uiri P.
 
 
+❦
 
 68
 So Peter; et Terentio P.
 
 
+❦
 
 69
 regalis P.
 
 
+❦
 
 70
 om. in P.
 
 
+❦
 
 71
 diu immo P.
 
 
+❦
 
 72
 frusta P; lacuna est. by Casaubon.
 
 
+❦
 
 73
 So Peter2; maurum apud uallum missum P, Peter1.
 
 
+❦
 
 74
 uolens P1.
 
 
+❦
 
 75
 hominis P1.
 
 
+❦
 
 76
 fuisti P, Peter1; fudisti Hirschfeld, Peter2.
 
 
+❦
 
 77
 uita Salmasius; ciuitate P.
 
 
+❦
 
 78
 urbis add. by Egnatius, om. in P.
 
 
+❦
 
 79
 septizodium P, Peter2.
 
 
+❦
 
 80
 absente opere P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

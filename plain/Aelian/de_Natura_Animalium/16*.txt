@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XVII
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p227
+Liber Decimus Sextus
+	
+
 1
 Purpurarius piscator, si postquam purpuram non in hominum cibum, sed ad tingendas lanas comprehenderit, inexhaustum, constantem et genuinum1 velit fieri colorem, et perfecte tinctum, uno saxi ictu purpuram una cum testa interimit. Quod si levior plaga inferatur, et etiam nunc spirans reliquatur, atque iterum lapide percutiatur, ad tincturam fit inutilis; nam ex eo dolore tincturam amittit, sive illa per ejus corpus dispersa imbibatur, sive aliter effluat. Quod quidem ipsum praeclare Homerum intellexisse dicunt; idcircoque uno ictu celeriter morientes purpures morte affici ait, pervulgatum suis versibus illud canens:
 
@@ -244,5 +367,120 @@ Pammenes in eo opere, quod De feris venenatis scripsit, alatos tradit scorpios i
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+III Non. Feb. 05

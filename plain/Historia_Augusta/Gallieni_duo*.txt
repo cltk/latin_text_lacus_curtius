@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Valeriani duo
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Tyranni XXX
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p16
+Gallieni duo
+	
+
 11 Capto Valeriano (enimvero unde incipienda est Gallieni vita, nisi ab eo praecipue malo, quo eius vita depressa est?), nutante re publica, cum Odaenathus iam orientis cepisset imperium, Gallienus comperta patris captivitate gauderet, vagabantur ubique exercitus, murmurabant omnibus in provinciis duces, erat omnium ingens maeror, quod Valerianus imperator Romanus in Perside serviliter teneretur. sed erat etiam maior omnium maestitia quod Gallienus nanctus imperium ut pater fato sic ipse moribus rem publicam perdiderat.1
 p18
 2 Gallieno igitur et Volusiano consulibus Macrianus et Ballista in unum coeunt, exercitus reliquias convocant et, cum Romanum in oriente nutaret imperium, quem facerent imperatorem requirunt, Gallieno tam neglegenter se agente ut eius ne mentio quidem apud exercitum fieret. 3 placuit denique ut Macrianum cum filiis suis imperatores dicerent ac rem publicam defensendam . . capesserent . . . . . . . . . . . . sic igitur . . . imperium . . . delatum est . . . Macriano . . . . . . . . . . . . 4 causae Macriano . . . . . . imperandi2 cum filius haec fuerunt: primum quod nemo eo tempore sapientior ducum habebatur, nemo ad res regendas aptior; deinde ditissimus et qui privatis posset fortunis publica explere dispendia. 5 huc accedebat quod liberi eius, fortissimi iuvenes, tota mente in bellum ruebant, ut essent legionibus exemplo ad omnia munera3 militaria.
@@ -87,6 +195,17 @@ p34Gothi, Sarmatae, Franci, Persae, ita ut non minus quam duceni globis singulis
 p40manus sponsorum teneret, ut quidam dicunt, saepius36 ita dixisse fertur:
 
 
+
+
+8 Ite, agite,37 o pueri, pariter sudate medullis
+			
+omnibus inter vos, non murmura vestra columbae,
+			
+brachia non hederae, non vincant oscula conchae.
+		
+
+
+
 9 longum est eius versus orationesque conectere, quibus suo tempore tam inter38 poetas quam inter rhetores emicuit. sed aliud in imperatore quaeritur, aliud in oratione vel poeta flagitatur.
 
 	
@@ -158,6 +277,9 @@ p54terrarum undique perdidisset. 181 fuit tamen nimiae crudelitatis in milites;
 
 	p56
 
+Saloninus Gallienus
+	
+
 19
 1 Hic Gallieni filius fuit, nepos Valeriani, de quo quidem prope60 nihil est dignum quod61 in litteras mittatur, nisi quod nobiliter natus, educatus regie, occisus deinde non sua sed patris causa. 2 de huius nomine magna est ambiguitas. nam multi eum Gallienum, multi Saloninum historiae prodiderunt. 3 et qui Saloninum, idcirco quod apud Salonas natus esset, cognominatum ferunt; qui autem Gallienum, patris nomine cognominatum et avi Gallieni, summi quondam in re publica viri. 4 fuit denique hactenus statua in pede Montis Romulei, hoc est ante Sacram Viam, inter62 Templum Faustinae ac Vestam63 ad Arcum Fabianum, quae haberet inscriptum "Gallieno iuniori" "Salonino" additum. ex quo eius nomen intellegi poterit.
 
@@ -193,325 +315,393 @@ p62Gallienus usque ad quintum decimum pervenisset, Valerianus vero sexto sit cap
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Words in colorº are supplements of Obrecht and Peter to fill lacunae in P.
 
 
+❦
 
 2
 So P; lacunae closed up in Σ.
 
 
+❦
 
 3
 munera suppl. by Editor; lacuna in P.
 
 
+❦
 
 4
 Words in colorº are supplements of Jordan to fill lacunae in P.
 
 
+❦
 
 5
 ac Kellerbauer, Hohl; a P; et Peter.
 
 
+❦
 
 6
 et Peter; haec P.
 
 
+❦
 
 7
 et ins. by Peter; om. in P and by Hohl.
 
 
+❦
 
 8
 rem gerere Salm., Peter; ingerere P.
 
 
+❦
 
 9
 idem Σ, Peter; id est P.
 
 
+❦
 
 10
 que ins. by Klotz: cum . . . potuisset Peter, Hohl.
 
 
+❦
 
 11
 Words in colorº are supplements of Obrecht to fill lacunae in P (cf. Tyr. Trig. xxii.8).
 
 
+❦
 
 12
 quoque Peter; qui P.
 
 
+❦
 
 13
 So Salm. to fill lacunae in P.
 
 
+❦
 
 14
 malis Σ, Peter; magis P.
 
 
+❦
 
 15
 Astacum egnatius, Peter1; contum P.
 
 
+❦
 
 16
 uel Σ, Peter; om. in P.
 
 
+❦
 
 17
 Fausiano from CIL XIV.5357; Faustiano P.
 
 
+❦
 
 18
 dies om. in P.
 
 
+❦
 
 19
 Illyricum ins. by Salm.; lacuna in P.
 
 
+❦
 
 20
 So Hohl; gothoridodius P corr., Σ; Gothori Clodius Peter.
 
 
+❦
 
 21
 So Jordan; a quo dictum P.
 
 
+❦
 
 22
 saltem Ellis, Hohl; salutem P, Σ, Peter2.
 
 
+❦
 
 23
 So Salm., Peter1, Hohl; ostentare P, Σ.
 
 
+❦
 
 24
 So Petschenig, Hohl; ope fama satis nota populos P.
 
 
+❦
 
 25
 amitteret Σ; mitteret P.
 
 
+❦
 
 26
 So Gruter and Peter; incitet cum P.
 
 
+❦
 
 27
 uariatione Cas.; ratione P, Σ.
 
 
+❦
 
 28
 albato milite Baehrens, Peter2; albatos milites P.
 
 
+❦
 
 29
 decursis Eyssenhardt, Petschenig, Hohl; depulsis P, Peter.
 
 
+❦
 
 30
 rex P.
 
 
+❦
 
 31
 rimantes Ellis, Walter, Damsté; mirantes P, Peter.
 
 
+❦
 
 32
 agerent Jordan; ageret P, Peter.
 
 
+❦
 
 33
 at Cas., Peter; ac P, Hohl.
 
 
+❦
 
 34
 acto se Salm.; actos P.
 
 
+❦
 
 35
 docti P, Σ; ducti Baehrens, Peter, Hohl.
 
 
+❦
 
 36
 saepius Cas., Hohl; sceptus P; σκωπτικῶς Oberdick, Peter2.
 
 
+❦
 
 37
 ait P.
 
 
+❦
 
 38
 in P.
 
 
+❦
 
 39
 consulatu Czwalina, Peter2; consulta P, Σ.
 
 
+❦
 
 40
 ostendendi acuminis Madvig, Hohl; ostendentia cum in his P.
 
 
+❦
 
 41
 uector P.
 
 
+❦
 
 42
 ueras pro uitreis P, Σ.
 
 
+❦
 
 43
 ue ins. by Bitschofsky; om. in P; nauali . . . . sint del. by Peter.
 
 
+❦
 
 44
 cum P.
 
 
+❦
 
 45
 quo quaeque Peter2; quoque P; quo quae Hohl.
 
 
+❦
 
 46
 telo Peter2; om. in P.
 
 
+❦
 
 47
 uiginti P, Σ, Hohl; triginta Salm., Peter.
 
 
+❦
 
 48
 per om. in P.
 
 
+❦
 
 49
 corrigias Mommsen, Hohl; caligias P; caligas Σ, Peter.
 
 
+❦
 
 50
 consulatum P.
 
 
+❦
 
 51
 So Peter; mortalem, nec defuit an ille se dixit P; nec defuit . . . . . . . . . mortalem del. by Hohl.
 
 
+❦
 
 52
 falsu P.
 
 
+❦
 
 53
 peior . . . . . . . . . credidit om. in Σ and del. by Hohl.
 
 
+❦
 
 54
 natus P.
 
 
+❦
 
 55
 ita ut Σ, Hohl; om. in P; cum Salm., Peter.
 
 
+❦
 
 56
 natationibus Σ, Peter2, Hohl; nationibus P.
 
 
+❦
 
 57
 scapum Scaliger; caput P, Σ.
 
 
+❦
 
 58
 altissima Haupt, Peter2; actussima P1.
 
 
+❦
 
 59
 est Σ; om. in P.
 
 
+❦
 
 60
 quidem prope Kellerbauer, Peter2; quippe P.
 
 
+❦
 
 61
 quod dignum P, Σ.
 
 
+❦
 
 62
 inter Mommsen, Peter2; intra P, Σ.
 
 
+❦
 
 63
 ac Vestam Jordan, Peter2; aduentam P, Σ.
 
 
+❦
 
 64
 nono om. in P and Σ.
 
 
+❦
 
 65
 uiginti P, Σ, Hohl; triginta Peter; but see
@@ -519,21 +709,25 @@ uiginti P, Σ, Hohl; triginta Peter; but see
 c. xvi.1.
 
 
+❦
 
 66
 dicta sunt alia ins. by Peter; om. in P.
 
 
+❦
 
 67
 tales Cas., Peter; quales P, Hohl.
 
 
+❦
 
 68
 taciti ex militibus Salm., Peter1; tacitis militibus P, Σ; taicitis uultibus Haupt, Peter2, Hohl.
 
 
+❦
 
 69
 uiginti P, Hohl; triginta Peter; but see
@@ -541,39 +735,146 @@ uiginti P, Hohl; triginta Peter; but see
 c. xvi.1.
 
 
+❦
 
 70
 qui P corr., Σ, Hohl; om. in P1; Gallieni . . . exstiterunt del. by Peter.
 
 
+❦
 
 71
 occupetur Kellerbauer, Hohl; occuparetur P, Σ, Peter.
 
 
+❦
 
 72
 dicat Salm., Jordan; om. in P; lacuna assumed by Peter and Hohl.
 
 
+❦
 
 73
 quam is Salm., Peter1; quamuis P, Peter2, Hohl.
 
 
+❦
 
 74
 et dilexit ins. by Editor; lacuna in P assumed by Peter and Hohl.
 
 
+❦
 
 75
 quare ins. by Editor.
 
 
+❦
 
 76
 uix Peter; bis P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

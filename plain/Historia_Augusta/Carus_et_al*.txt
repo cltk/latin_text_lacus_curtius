@@ -1,4 +1,109 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Firmus et al.
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p416
+Carus et Carinus et Numerianus
+	
+
 11 Fato rem publicam regi eamque nunc ad summum evehi, nunc ad minima retrahi Probi mors satis prodidit. 2 nam cum ducta per tempora variis vel erecta motibus vel adflicta, nunc tempestate aliqua nunc felicitate variata omnia prope passa esset quae patitur in homine uno mortalitas, videbatur post diversitatem malorum iam secura continuata felicitate mansura post Aurelianum vehementem principem Probo ex sententia senatus ac populi1 leges et gubernacula temperante. 3 sed ruina ingens vel naufragii modo vel incendii accensis fataliter militibus sublato e medio tali principe in eam desperationem votum publicum redegit ut timerent omnes Domitianos, Vitellios et
 
 
@@ -148,207 +253,252 @@ p450Messallae nomen uxoris. iam quid lineas petitas Aegypto loquar? quid Tyro et
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 senatus ac populo after gubernacula in P.
 
 
+❦
 
 2
 ciuium Editor; ciuilium P, editors.
 
 
+❦
 
 3
 imperia ins. by Walter; om. in P; coluuionem ins. after tyrannorum by Richter, foll. by Peter.
 
 
+❦
 
 4
 Here follows in P a misplaced portion, consisting of c. xiii.1 Augustum to c. xv.5 fuisse; see
 Intro. to Vol. I, p. xxxiii f.
+❦
 
 5
 So Editor; tumebat boni P; habuerat boni Peter; timebant boni Hohl (from Σ).
 
 
+❦
 
 6
 So Lenze and Tidner; prope et semper P, Hohl; semper et prope Peter.
 
 
+❦
 
 7
 So Obrecht foll. by Peter; praesumptae grauitate P.
 
 
+❦
 
 8
 me ins. by Lessing and Hohl; om. in P and by Peter.
 
 
+❦
 
 9
 albo curiae Madvig, Hohl; auo iuria P; auo iuri Peter.
 
 
+❦
 
 10
 So Bitschofsky; feci alit si P, Σ; specialiter Peter.
 
 
+❦
 
 11
 et om. in P.
 
 
+❦
 
 12
 quod P.
 
 
+❦
 
 13
 So Σ and Cas., foll. by editors; uel eidem P.
 
 
+❦
 
 14
 etiam Cas.; iam P.
 
 
+❦
 
 15
 urgente Eyssenhardt, Peter; iurgante P.
 
 
+❦
 
 16
 filiis Hohl; filii P, Σ; filio Peter.
 
 
+❦
 
 17
 quod . . . terruerat Purser, Hohl; quo . . . terruerat P; quo . . . territi erant Peter.
 
 
+❦
 
 18
 unde unde fuit Purser; unde fuit P; unde subito Peter, Hohl.
 
 
+❦
 
 19
 ut Σ, foll. by Peter; om. in P.
 
 
+❦
 
 20
 So Madvig, foll. by Hohl; sic inter bella pariendi P.
 
 
+❦
 
 21
 quam hic Editor; quae P; quam Numerianus Peter2, Hohl.
 
 
+❦
 
 22
 quique P corr., Hohl; quinque P1; inque Peter.
 
 
+❦
 
 23
 uigilia added in P corr.
+❦
 
 24
 In P the portion of the vita which begins with Augustum and ends with fuisse in c. xv.5 is transposed and inserted in c. ii.2; in the Σ codices it is in its proper place.
 
 
+❦
 
 25
 effrontis editors; frontis P; efrontis Σ.
 
 
+❦
 
 26
 foeda uita Eyssenhardt, Hohl; foedauit P; foeditate Peter.
 
 
+❦
 
 27
 plane sciam Paucker, Peter2; plus quam P, Σ.
 
 
+❦
 
 28
 aliaque Peter2; alia quae P.
 
 
+❦
 
 29
 curationem P.
 
 
+❦
 
 30
 With fuisse ends the portion of the vita transposed in P to c. ii.2.
 
 
+❦
 
 31
 suis suggested by Peter; his P, Hohl.
 
 
+❦
 
 32
 So Petschenig, Hohl; balteum . . . gemmatum P, Peter.
 
 
+❦
 
 33
 numquam ins. by Gruter; om. in P.
 
 
+❦
 
 34
 praeparastis Petschenig, Hohl; praeparatis P, Σ, Peter.
 
 
+❦
 
 35
 ac Lenze; a P, Peter, Hohl.
 
 
+❦
 
 36
 mortibus Cas.; moribus P, Σ.
 
 
+❦
 
 37
 di ins. by Egnatius; om. in P and Σ.
 
 
+❦
 
 38
 perreuerentes Petschenig, Hohl; spe reuerent P; semper reuerentes Gruter, Peter.
 
 
+❦
 
 39
 persancti Gruter; pescate P.
 
 
+❦
 
 40
 cerataulas Salm.; capitaulas P.
 
 
+❦
 
 41
 adornatum P.
 
 
+❦
 
 42
 usus est liberalitate Σ; ausus libertate P; est usus liberalitate Peter.
@@ -356,8 +506,112 @@ usus est liberalitate Σ; ausus libertate P; est usus liberalitate Peter.
 
 
 	
+
+Adnotatio Thayeri:
+	
+
 a
 meretrice Thayer; meridie Loeb edition.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

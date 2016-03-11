@@ -1,4 +1,134 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars IV
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars VI
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+p264
+
+XIII. Bellvm Civile Caesaris et Pompei
+	
+
 IIII, 2
 Iam toto orbe paene pacato maius erat imperium Romanum, quam ut ullis externis viribus opprimi posset. Itaque invidens fortuna principi gentium populo ipsum illum in exitium sui armavit. 2 Ac
 
@@ -121,8 +251,15 @@ p298pro rostris ab Antonio consule regni insignia. 92 Quae omnia velut infulae 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 praeluserat Graevius: praecluserat B: precluxerat L.
+
+
+
 
 
 
@@ -133,8 +270,14 @@ totum denique qua patebat: totumque potibat B: totum denique patebat L.
 
 
 
+
+
+
 3
 Tarcondimotus, Cotys et Rhascypolis: tarcondi motus cotys et thascypolis B.
+
+
+
 
 
 
@@ -145,8 +288,14 @@ anni, sed: annis sed B: anni et L.
 
 
 
+
+
+
 5
 breves Halmius: breve B: breve tempus NL.
+
+
+
 
 
 
@@ -157,8 +306,14 @@ ubi post spatium del. Perizonius.
 
 
 
+
+
+
 7
 regyravit: regiravit L: regnavit B.
+
+
+
 
 
 
@@ -166,8 +321,14 @@ regyravit: regiravit L: regnavit B.
 8
 eadem quae Aldus: eademque codd.
 
+
+
+
 9
 Afranio: Africano B.
+
+
+
 
 
 
@@ -178,11 +339,20 @@ ut add. Mommsenus.
 
 
 
+
+
+
 11
 primum coniurationis fides Halmius: prima coniurationis fide codd.
 
+
+
+
 12
 fuga turpior Gruterus: fugatur prior BNL.
+
+
+
 
 
 
@@ -193,8 +363,14 @@ et add. Salmasius.
 
 
 
+
+
+
 14
 pugnae: pugna BL.
+
+
+
 
 
 
@@ -205,8 +381,14 @@ conpulit: contulit B.
 
 
 
+
+
+
 16
 Illyricum: illirium B: illiricum L.
+
+
+
 
 
 
@@ -217,8 +399,14 @@ moranti post Africam add. B.
 
 
 
+
+
+
 18
 radiaret: radiarent B: radiarentur NL.
+
+
+
 
 
 
@@ -229,8 +417,14 @@ iussi: iussit B.
 
 
 
+
+
+
 20
 Curictico: currictico L: syretico B.
+
+
+
 
 
 
@@ -241,8 +435,14 @@ ingentibus: genibus B.
 
 
 
+
+
+
 22
 a Basilo Asulanus: ablatio B: ablasio NL.
+
+
+
 
 
 
@@ -253,14 +453,26 @@ fecerat: fecerant B.
 
 
 
+
+
+
 24
 exemplum Freimshemius: exitum codd.
+
+
+
 
 25
 tandem Iahnius: tamen codd.
 
+
+
+
 26
 Varo: varro B.
+
+
+
 
 
 
@@ -271,8 +483,14 @@ morte: mortis B.
 
 
 
+
+
+
 28
 quid times om. B.
+
+
+
 
 
 
@@ -283,8 +501,14 @@ iis: is B.
 
 
 
+
+
+
 30
 vel: vis B.
+
+
+
 
 
 
@@ -295,8 +519,14 @@ in eruptione: inruptione B: ineruptionem L.
 
 
 
+
+
+
 32
 castella om. B.
+
+
+
 
 
 
@@ -307,8 +537,14 @@ urbis: orbis B.
 
 
 
+
+
+
 34
 plausu theatri sui in modum Mommsenus: plausum theatrisui audiens in modum B.
+
+
+
 
 
 
@@ -319,8 +555,14 @@ illius: ullius B.
 
 
 
+
+
+
 36
 sui post fusus add. B.
+
+
+
 
 
 
@@ -331,8 +573,14 @@ esse: essent B.
 
 
 
+
+
+
 38
 hi: ulli B.
+
+
+
 
 
 
@@ -343,8 +591,14 @@ ipsum quae: ipsumque BL.
 
 
 
+
+
+
 40
 applicaret, ut Rossbachius: applicarentur et B.
+
+
+
 
 
 
@@ -352,8 +606,14 @@ applicaret, ut Rossbachius: applicarentur et B.
 41
 Syedris Salmasius: hedris codd.
 
+
+
+
 42
 ultionem clarissimi viri manibus quaerente Fortuna: ultionem quaemanibus clarissimi viri omnibus quaerente fortunae B.
+
+
+
 
 
 
@@ -364,8 +624,14 @@ et post forma secl. et ante odium add. dubitanter Rossbachius.
 
 
 
+
+
+
 44
 Pompeii caedem: pompeium regem B: pompeio aedem N: pompeii cedem L.
+
+
+
 
 
 
@@ -376,8 +642,14 @@ idem om. B.
 
 
 
+
+
+
 46
 fuisset occasio: ruisset hoccasio B.
+
+
+
 
 
 
@@ -388,8 +660,14 @@ atque navalium om. B.
 
 
 
+
+
+
 48
 plane om. B.
+
+
+
 
 
 
@@ -400,8 +678,14 @@ vana: una B.
 
 
 
+
+
+
 50
 sonabant: sonabat B: sanabant L.
+
+
+
 
 
 
@@ -412,14 +696,26 @@ et primum ante strages add. B.
 
 
 
+
+
+
 52
 nuperi Heinsius: nuper codd.
+
+
+
 
 53
 fortiores scripsi: fortius codd.
 
+
+
+
 54
 fercula regio: pericula quaeregio B.
+
+
+
 
 
 
@@ -430,8 +726,14 @@ est post cucntatus add. B.
 
 
 
+
+
+
 56
 Varus: varius B.
+
+
+
 
 
 
@@ -442,8 +744,14 @@ civicum: civium B: avicum L.
 
 
 
+
+
+
 58
 fluctus: fluctibus B: fructus NL.
+
+
+
 
 
 
@@ -454,8 +762,14 @@ armamenta: arma et armenta B.
 
 
 
+
+
+
 60
 vergentia: urgentia B.
+
+
+
 
 
 
@@ -466,8 +780,14 @@ Romanae: romae B.
 
 
 
+
+
+
 62
 deliberare: liberare B.
+
+
+
 
 
 
@@ -478,8 +798,14 @@ Caesar sive: caesaris sue B: cesar sui L.
 
 
 
+
+
+
 64
 respectu: respectum B: respectus NL.
+
+
+
 
 
 
@@ -487,8 +813,14 @@ respectu: respectum B: respectus NL.
 65
 et Iahnius: sed codd.
 
+
+
+
 66
 hic NL: in hic B.
+
+
+
 
 
 
@@ -499,14 +831,26 @@ illud? novissime: illum novissime B: novissime illud NL.
 
 
 
+
+
+
 68
 fugerant Heinsius: fugerat codd.
+
+
+
 
 69
 quod post nisi add. codd. praeter Rehd.
 
+
+
+
 70
 aut et: autem et B.
+
+
+
 
 
 
@@ -517,8 +861,14 @@ iam victos Iahnius: invictos B.
 
 
 
+
+
+
 72
 caedendis B1: caedentis B.
+
+
+
 
 
 
@@ -529,8 +879,14 @@ posses scripsi: posset B.
 
 
 
+
+
+
 74
 victos: victor B.
+
+
+
 
 
 
@@ -541,8 +897,14 @@ pilis tragulisque Rossbachius: plaustri stragulisque B: pilis iaculisque NL.
 
 
 
+
+
+
 76
 crure saucium: cruore avium B: crure saucio NL.
+
+
+
 
 
 
@@ -553,8 +915,14 @@ Pharsalia: pharsaliam B.
 
 
 
+
+
+
 78
 cum parvulis Perizonius: et parvulus B: cum patruolis N: cum patruelis L.
+
+
+
 
 
 
@@ -565,8 +933,14 @@ ex Sulla N: exylla BL.
 
 
 
+
+
+
 80
 volente om. B.
+
+
+
 
 
 
@@ -576,3 +950,109 @@ lata: dilata B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

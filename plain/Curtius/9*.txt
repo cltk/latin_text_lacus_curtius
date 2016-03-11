@@ -1,3 +1,96 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VIII
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber X
+				
+
+
+
+
+
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber VIIII
+	
+p226
+Caput I
+	
 1 Alexander, tam memorabili victoria laetus, qua sibi Orientis finis apertos esse censebat, Soli victimis caesis milites quoque, quo promptioribus animis reliqua belli obirent, pro contione laudatos docuit, quidquid Indis virium fuisset, illa dimicatione prostratum: cetera opimam praedam fore celebratasque opes in ea regione eminere, quam peterent.
 2 Proinde iam vilia et obsoleta esse spolia de Persis: gemmis margaritisque et auro atque ebore Macedoniam Graeciamque, non suas tantum domos repletum ire.º
 3 Avidi milites et pecuniae et gloriae, simul quia numquam eos adfirmatio eius fefellerat, pollicentur operam. Dimissisque cum bona spe navigia exaedificari iubet, ut, cum totam Asiam percucurrisset, finem terrarum, mare inviseret.
@@ -65,7 +158,10 @@ illis animalibus ad venandum cupiditatem ingenerasse naturam memoriae proditum e
 36 Phegeus erat gentis proximae rex: qui popularibus suis colere agros, ut adsueverant, iussis Alexandro cum donis occurrit, nihil, quod imperaret, detrectans.
 
 
-	1 Biduum apud eum substitit rex: tertio die amnem superare decreverat, transitu difficilem non spatio solum aquarum, sed etiam saxis inpeditum.
+	
+Caput II
+	
+1 Biduum apud eum substitit rex: tertio die amnem superare decreverat, transitu difficilem non spatio solum aquarum, sed etiam saxis inpeditum.
 2 Percontatus igitur Phegea, quae noscenda erant, XII dierum ultra flumen per vastas solitudines iter esse cognoscit: excipere
 
 
@@ -124,7 +220,10 @@ p233capitibus tacere perseverarent, 'Nescio quid', inquit, 'in vos inprudens del
 34 Mori praestat, quam precario imperatorem esse. Ite reduces domos! ite deserto rege ovantes! Ego hic a vobis desperatae victoriae aut honestae morti locum inveniam.'
 
 
-	1 Ne sic quidem ulli militum vox exprimi potuit. Expectabant, ut duces principesque ad regem perferrent, vulneribus et continuo labore militiae fatigatos non detrectare munia, sed sustinere non posse.
+	
+Caput III
+	
+1 Ne sic quidem ulli militum vox exprimi potuit. Expectabant, ut duces principesque ad regem perferrent, vulneribus et continuo labore militiae fatigatos non detrectare munia, sed sustinere non posse.
 2 Ceterum illi metu attoniti in terram ora defixerant. Igitur primo fremitus sua sponte, deinde gemitus quoque oritur paulatimque liberius dolor erigi coepit manantibus lacrimis, adeo ut rex ira in misericordiam versa ne ipse quidem, quamquam cuperet,º
 temperare oculis potuerit.
 3 Tandem universa contione effusius flente Coenus ausus est cunctantibus ceteris propius tribunal accedere, significans se loqui velle.
@@ -167,7 +266,10 @@ auro et argento caelata pertulerat, quis distributis vetera cremari iussit.
 24 Elephantis deinde et inpedimentis terra sequi iussis secundo amne defluxit, quadraginta ferme stadia singulis diebus procedens, ut opportunis locis exponi subinde copiae possent.
 
 
-	1 Perventum erat in regionem, in qua Hydaspes amnis Acesini committitur.
+	
+Caput IV
+	
+1 Perventum erat in regionem, in qua Hydaspes amnis Acesini committitur.
 2 Hinc decurrit in fines Siborum. Hi de exercitu Herculis maiores suos esse
 
 
@@ -237,7 +339,10 @@ pudor vicit, quippe cernebant cunctatione sua dedi hostibus regem. Sed festinand
 33 Nam dum pro se quisque certat evadere, oneravere scalas, quis non sufficientibus devoluti unicam spem regis fefellerunt. Stabat enim in conspectu tanti exercitus velut in solitudine destitutus.
 
 
-	1 Iamque laevam, qua clipeum ad ictus circumferebat, lassaverat clamantibus amicis, ut ad ipsos desiliret, stabantque excepturi: cum ille rem ausus est incredibilem atque inauditam multoque magis ad famam temeritatis quam gloriam insignem.
+	
+Caput V
+	
+1 Iamque laevam, qua clipeum ad ictus circumferebat, lassaverat clamantibus amicis, ut ad ipsos desiliret, stabantque excepturi: cum ille rem ausus est incredibilem atque inauditam multoque magis ad famam temeritatis quam gloriam insignem.
 2 Namque in urbem hostium plenam praecipiti saltu semetipse immisit, cum vix sperare posset, dimicantem certe et non inultum esse moriturum: quippe antequam adsurgeret, opprimi poterat et capi vivus.
 3 Sed forte ita libraverat corpus, ut se pedibus exciperet. Itaque stans init pugnam et, ne circumiri posset, fortuna providerat.
 4 Vetusta arbor haud procul muro ramos multa fronde vestitos velut de industria regem protegentes obiecerat: huius spatioso stipiti corpus ne circumiri posset adplicuit, clipeo tela, quae ex adverso ingerebantur, excipiens.
@@ -288,7 +393,10 @@ p242recepit et circumstantes coepit adgnoscere.
 30 Toto eo die ac nocte, quae secuta est, armatus exercitus regiam obsedit confessus, omnes unius spiritu vivere. Nec prius recesserunt, quam conpertum est somno paulisper adquiescere. Hinc certiorem spem salutis eius in castra rettulerunt.
 
 
-	1 Rex VII diebus curato vulnere necdum obducta cicatrice, cum audisset convaluisse apud barbaros famam mortis suae, duobus navigiis iunctis statui in medium undique conspicuum tabernaculum iussit, ex quo se ostenderet perisse credentibus: conspectusque ab incolis spem hostium falso nuntio conceptam inhibuit.
+	
+Caput VI
+	
+1 Rex VII diebus curato vulnere necdum obducta cicatrice, cum audisset convaluisse apud barbaros famam mortis suae, duobus navigiis iunctis statui in medium undique conspicuum tabernaculum iussit, ex quo se ostenderet perisse credentibus: conspectusque ab incolis spem hostium falso nuntio conceptam inhibuit.
 2 Secundo deinde amne defluxit, aliquantum intervalli a cetera classe praecipiens, ne quies perinvalido adhuc necessaria pulsu remorum inpediretur.
 
 	
@@ -339,7 +447,10 @@ p245hoste interemptos numerabitis.
 26 Ceterum, quoniam olim rei agitatae in animo meo nunc promendae occasio oblata est, mihi maximus laborum atque operum meorum erit fructus, si Olympias mater immortalitati consecretur, quandoque excesserit vita. Si licuerit, ipse praestabo hoc: si me praeceperit fatum, vos mandasse me mementote.' Ac tum quidem amicos dimisit: ceterum per conplures dies ibi stativa habuit.
 
 
-	1 Haec dum in India geruntur, Graeci milites nuper in colonias a rege deducti circa Bactra orta inter ipsos seditione defecerant, non tam Alexandro infensi, quam metu supplicii.
+	
+Caput VII
+	
+1 Haec dum in India geruntur, Graeci milites nuper in colonias a rege deducti circa Bactra orta inter ipsos seditione defecerant, non tam Alexandro infensi, quam metu supplicii.
 2 Quippe occisis quibusdam popularium, qui validiores erant, arma spectare coeperunt et Bactriana arce, quae casuº
 neglegentius adservata erat, occupata barbaros quoque in societatem defectionisº
 inpulerant.
@@ -389,7 +500,10 @@ p247inter quos erant Graeci, Dioxippo studebant. Macedo iusta arma sumpserat, ae
 26 Graviter mortem eius tulit rex, existimans indignationis esse, non paenitentiae testem, utique postquam falso insimulatum eum nimium invidorum gaudium ostendit.
 
 
-	1 Indorum legati dimissi domos paucis post diebus cum donis revertuntur. CCC erant equites, MXXX currus, quos quadriiugi equi ducebant, lineae vestis aliquantum,
+	
+Caput VIII
+	
+1 Indorum legati dimissi domos paucis post diebus cum donis revertuntur. CCC erant equites, MXXX currus, quos quadriiugi equi ducebant, lineae vestis aliquantum,
 2 mille scuta Indica et ferri candidi talenta C
 p248leonesque rarae magnitudinis et tigres, utrumque animal ad mansuetudinem domitum, lacertarum quoque ingentium pelles et dorsa testudinum.
 3 Cratero deinde imperat rex, haud procul amne, per quem erat ipse navigaturus, copias duceret: eos autem, qui comitari eum solebant, inponit in naves et in fines Mallorum secundo amne devehitur.
@@ -449,7 +563,10 @@ Hinc in proximam gentem Pataliam perventum est. Rex erat Moeris, qui urbe desert
 30 Ducibus deinde sumptis amnis peritis defluxit ad insulam medio ferme alveo enatam.
 
 
-	1 Ibi diutius subsistere coactus, quia duces socordius adservati profugerant, misit, qui conquirerent alios: nec repertis pervicax cupido visendi Oceanum adeundique terminos mundi sine regionis peritis flumini ignoto caput suum totque fortissimorum virorum salutem
+	
+Caput IX
+	
+1 Ibi diutius subsistere coactus, quia duces socordius adservati profugerant, misit, qui conquirerent alios: nec repertis pervicax cupido visendi Oceanum adeundique terminos mundi sine regionis peritis flumini ignoto caput suum totque fortissimorum virorum salutem
 
 
 
@@ -498,7 +615,10 @@ insperatam salutem immodico celebrantium gaudio litoribus ripisque resonabat. Un
 nocte, ut aestum occuparet, cum paucis navigiis secundo amne defluxit. Evectusque os eius CCCC stadia processit in mare, tandem voti sui compos: praesidibusque et maris et locorum dis sacrificio facto ad classem rediit.
 
 
-	1 Hinc adversum flumen subit classis et altero die adpulsa est haud procul lacu salso, cuius incognita natura plerosque decepit temere ingressos aquam. Quippe scabies corpora invasit et contagium morbi etiam in alios vulgatum est. Oleum remedio fuit.
+	
+Caput X
+	
+1 Hinc adversum flumen subit classis et altero die adpulsa est haud procul lacu salso, cuius incognita natura plerosque decepit temere ingressos aquam. Quippe scabies corpora invasit et contagium morbi etiam in alios vulgatum est. Oleum remedio fuit.
 2 Leonnato deinde praemisso, ut puteos foderet, qua terrestri itinere ducturus exercitum videbatur — quippe sicca erat regio — ipse cum copiis substitit, vernum tempus expectans. Interim et urbes plerasque condidit.
 3 Nearcho atque Onesicrito nauticae rei peritis imperavit,
 
@@ -553,11 +673,137 @@ praeda, si quid victis saltem adversus comissantes animi fuisset: mille hercule 
 
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 metu:
 	
 Vogel must have had second thoughts here, that he failed to input back to the text. The latter has metu; but the apparatus reads:
+
+
+aestu Jeep] cetu
+
 
 (The Loeb edition keeps aestu.)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Non. Oct. 99

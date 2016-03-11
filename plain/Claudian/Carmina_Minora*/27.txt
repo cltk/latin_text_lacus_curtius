@@ -1,5 +1,491 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p222
+C. Claudiani
+	
+ex Carminibus Minoribus
+	
+
+
+
+XXVII (XLIV)
+	
+Phoenix.
+	
+
+
+
+
+
+
+Oceani summo circumfluus aequore lucus
+	
+trans Indos Eurumque viret, qui primus anhelis
+	
+sollicitatur equis vicinaque verbera sentit
+	
+umida roranti resonant cum limina curru,
+	5
+
+unde rubet ventura dies longeque coruscis
+	
+nox adflata rotis refugo pallescit amictu:
+	
+haec fortunatus nimium Titanius ales
+	
+regna colit solusque plaga defensus iniqua
+	
+possidet intactas aegris animalibus oras
+	10
+saeva nec humani patitur contagia mundi,
+	
+par volucer superis, stellas qui vividus aequat
+	
+durando membrisque terit redeuntibus aevum,
+	
+non epulis saturare famem, non fontibus ullis
+	
+adsuetus prohibere sitim; sed purior illum
+	15
+solis fervor alit ventosaque pabula potat
+	
+Tethyos, innocui carpens alimenta vaporis.
+	
+arcanum radiant oculi iubar. igneus ora
+	
+cingit honos. rutilo cognatum vertice sidus
+	
+attollit cristatus apex tenebrasque serena
+	20
+luce secat. Tyrio pinguntur crura veneno.
+	
+antevolant Zephyros pinnae, quas caerulus ambit
+	
+flore color sparsoque super ditescit in auro.
+
+	
+
+Hic neque concepto fetu nec semine surgit,
+	
+sed pater est prolesque sibi nulloque creante
+	25
+emeritos artus fecunda morte reformat
+	
+et petit alternam totidem per funera vitam.
+	
+namque ubi mille vias longinqua retorserit aestas,
+	
+tot ruerint hiemes, totidem ver cursibus actum,
+	
+quas tulit autumnus, dederit cultoribus umbras:
+	30
+tum multis gravior tandem subiungitur annis,
+	
+lustrorum numero victus: ceu lassa procellis
+	
+ardua Caucasio nutat de culmine pinus
+	
+seram ponderibus pronis tractura ruinam;
+	
+pars cadit adsiduo flatu, pars imbre peresa
+	35
+rumpitur, abripuit partem vitiosa vetustas.
+
+	
+
+
+Iam breve decrescit lumen languetque senili
+	
+segnis stella gelu, qualis cum forte tenetur
+	
+nubibus et dubio vanescit Cynthia cornu.
+	
+iam solitae medios alae transcurrere nimbos
+	40
+vix ima tolluntur humo. tum conscius aevi
+	
+defuncti reducisque parans exordia formae
+	
+arentes tepidis de collibus eligit herbas
+	
+et tumulum texens pretiosa fronde Sabaeum
+	
+componit, bustumque sibi partumque futurum.
+
+	45
+
+Hic sedet et Solem blando clangore salutat
+	
+debilior miscetque preces ac supplice cantu
+	
+praestatura novas vires incendia poscit.
+	
+quem procul adductis vidit cum Phoebus habenis,
+	
+stat subito dictisque pium solatur alumnum:
+	50
+"o senium positure rogo falsisque sepulcris
+	
+natales habiture vices, qui saepe renasci
+	
+exitio proprioque soles pubescere leto,
+	
+accipe principium rursus corpusque coactum
+	
+desere. mutata melior procede figura."
+
+	55
+
+Haec fatus propere flavis e crinibus unum
+	
+concussa cervice iacit missoque volentem
+	
+vitali fulgore ferit. iam sponte crematur
+	
+ut redeat gaudetque mori festinus in ortum.
+	
+fervet odoratus telis caelestibus agger
+	60
+consumitque senem. nitidos stupefacta iuvencos
+	
+Luna premit pigrosque polus non concitat axes
+	
+parturiente rogo: curis Natura laborat,
+	
+
+aeternam ne perdat avem, flammasque fideles
+	
+admonet, ut rerum decus inmortale remittant.
+
+	65
+
+Continuo dispersa vigor per membra volutus
+	
+aestuat et venas recidivus sanguis inundat.
+	
+victuri cineres nullo cogente moveri
+	
+incipiunt plumaque rudem vestire favillam.
+	
+qui fuerat genitor, natus nunc prosilit idem
+	70
+succeditque novus: geminae confinia vitae
+	
+exiguo medius discrimine separat ignis.
+
+	
+
+Protinus ad Nilum manes sacrare paternos
+	
+auctoremque globum Phariae telluris ad oras
+	
+ferre iuvat. velox alienum pergit in orbem
+	75
+portans gramineo clausum velamine funus.
+	
+innumerae comitantur aves stipatque volantem
+	
+alituum suspensa cohors. exercitus ingens
+	
+obnubit vario late convexa meatu.
+	
+nec quisquam tantis e milibus obvius audet
+	80
+ire duci, sed regis iter fragrantis adorant.
+	
+non ferus accipiter, non armiger ipse Tonantis
+	
+bella movet: commune facit reverentia foedus.
+	
+talis barbaricas flavo de Tigride turmas
+	
+ductor Parthus agit: gemmis et divite cultu
+	85
+luxurians sertis apicem regalibus ornat;
+	
+auro frenat equum, perfusam murice vestem
+	
+Assyria signatur acu tumidusque regendo
+	
+celsa per famulas acies dicione superbit.
+
+	
+
+Clara per Aegyptum placidis notissima sacris
+	90
+urbs Titana colit, centumque adcline columnis
+	
+invehitur templum Thebano monte revulsis.
+	
+
+illic, ut perhibent, patriam de more reponit
+	
+congeriem vultumque dei veneratus erilem
+	
+iam flammae commendat onus, iam destinat aris
+	95
+semina reliquiasque sui: mirata relucent
+	
+limina; divino spirant altaria fumo,
+	
+et Pelusiacas productus ad usque paludes
+	
+Indus odor penetrat nares completque salubri
+	
+tempestate viros et nectare dulcior aura
+	100
+ostia nigrantis Nili septena vaporat.
+
+	
+
+O felix heresque tui! quo solvimur omnes,
+	
+hoc tibi suppeditat vires; praebetur origo
+	
+per cinerem, moritur te non pereunte senectus.
+	
+vidisti quodcumque fuit; te saecula teste
+	105
+cuncta revolvuntur; nosti quo tempore pontus
+	
+fuderit elatas scopulis stagnantibus undas,
+	
+quis Phaëthonteis erroribus arserit annus,
+	
+et clades te nulla rapit solusque superstes
+	
+edomita tellure manes: non stamina Parcae
+	110
+in te dira legunt nec ius habuere nocendi.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 The Loeb edition of this poem has no critical notes. A slightly different text, however, is available on Michael Hendry's site (see navigation bar below). Some of its readings are attractive: e.g., murrata in line 95.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

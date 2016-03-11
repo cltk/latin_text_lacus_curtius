@@ -1,4 +1,113 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est fragmentorum
+				
+
+
+Historiae
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXI (recensiti MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p396
+C. Sallusti Crispi
+	
+Historiae (fragmenta)
+	
+
+Oratio Philippi in Senatu1
+
+
 1 
 Maxume vellem, patres conscripti, rem publicam quietam esse aut in periculis a promptissumo quoque defendi, denique prava incepta consultoribus noxae esse. Sed contra seditionibus omnia turbata sunt et ab eis quos prohibere magis decebat; postremo, quae pessumi et stultissimi decrevere, ea bonis et sapientibus faciunda sunt. 2 Nam bellum atque arma, quamquam vobis invisa, tamen quia Lepido placent, sumunda sunt, nisi forte cui pacem praestare et bellum pati consilium est.
 
@@ -69,33 +178,161 @@ Quare ita censeo: quoniam M.6 Lepidus exercitum privato consilio paratum cum p
 
 
 
+
+Adnotationes Editoris:
+	
+
 1
 Histories, I.77.
 
 
+❦
 
 2
 omissam cura nostra, Opitz; omissa cura nostra, Wirtz; omissa cura, V, Ah; amissa curia, Haupt; o. consulum c., Steup.
 
 
+❦
 
 3
 neu, Carrio; ne, V.
 
 
+❦
 
 4
 obrepsit, F1 Non. p229, 4M; obprepsit, F2; oppressit, V, Ah.
 
 
+❦
 
 5
 vostra, Dietsch.
 
 
+❦
 
 6
 M. added by Orelli.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Id. Dec.

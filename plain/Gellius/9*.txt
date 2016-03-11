@@ -1,8 +1,140 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VIII
+				
+
+
+Haec pagina telaris liber est
+				
+
+
+
+Noctium Atticarum
+				
+
+
+A. Gellii
+				
+
+
+
+a
+Loeb Classical Library
+editarum
+				
+MCMXXVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber X
+				
+
+
+
+
+
+(Vol. II)
+Gellius
+	
+Noctes Atticae
+	
+
+
+Liber IX
+	
+
+1
+
+Quamobrem Quintus Claudius Quadrigarius in undevicesimo annali scripserit rectiores certioresque ictus fieri, si sursum quid mittas, quam si deorsum.
+
+	
 1 Quintus Claudius in undevicesimo annali, cum oppidum a Metello proconsule oppugnari, contra ab oppidanis desuper e muris propugnari describeret, ita scripsit: "Sagittarius cum funditore utrimque summo studio spargunt fortissime. Sed sagittam atque lapidem deorsum an sursum mittas, hoc interest: nam neutrum potest deorsum versum recte mitti, sed sursum utrumque optime. Quare milites Metelli sauciabantur multo minus et, quod maxime opus erat, a pinnis hostis defendebant facillime." 2 Percontabar ego Antonium Iulianum rhetorem, cur hoc ita usu veniret, quod Quadrigarius dixisset, ut contigui magis directioresque ictus fiant, si vel lapidem vel sagittam sursum versus iacias quam deorsum, cum proclivior faciliorque iactus sit ex supernis in infima quam ex infimis in superna. 3 Tum Iulianus comprobato genere quaestionis: "quod de sagitta" inquit "et lapide dixit, hoc de omni fere missili telo dici potest. 4 Facilior autem iactus est, sicuti dixisti, si desuper iacias, si quid iacere tantum velis, non ferire. 5 Sed cum modus et impetus iactus temperandus derigendusque est, tum, si in prona iacias, moderatio atque ratio mittentis praecipitantia ipsa et pondere cadentis teli corrumpitur. 6 At si in editiora mittas et ad percutiendum superne aliquid manum et oculos conlinies, quo motus a te datus tulerit, eo telum ibit, quod ieceris." 7 Ad hanc ferme sententiam Iulianus super istis Q. Claudii verbis nobiscum sermocinatus est. 8 Quod ait idem Q. Claudius: "a pinnis hostis defendebant facillime" animadvertendum est usum esse eum verbo "defendebant" non ex vulgari consuetudine, sed admodum proprie et Latine. 9 Nam "defendere" et "offendere" inter sese adversa sunt, quorum alterum significat empodon echein, id est incurrere in aliquid et incidere, alterum ekpodon poiein, id est avertere atque depellere, quod hoc in loco a Q. Claudio dicitur.
 
 	
+2
+
+Qualibus verbis notarit Herodes Atticus falso quempiam cultu amictuque nomen habitumque philosophi ementientem.
+
+	
 1 Ad Herodem Atticum, consularem virum ingenioque amoeno et Graeca facundia celebrem, adiit nobis praesentibus palliatus quispiam et crinitus barbaque prope ad pubem usque porrecta ac petit aes sibi dari eis artous. 2 Tum Herodes interrogat, quisnam esset. 3 Atque ille vultu sonituque vocis obiurgatorio philosophum sese esse dicit et mirari quoque addit, cur quaerendum putasset, quod videret. 4 "Video" inquit Herodes "barbam et pallium, philosophum nondum video. 5 Quaeso autem te, cum bona venia dicas mihi, quibus nos uti posse argumentis existimas, ut esse te philosophum noscitemus?" 6 Interibi aliquot ex his, qui cum Herode erant, erraticum esse hominem dicere et nulli rei incolamque esse sordentium ganearum, ac nisi accipiat, quod petit, convicio turpi solitum incessere; atque ibi Herodes: "demus" inquit "huic aliquid aeris, cuicuimodi est, tamquam homines, non tamquam homini", 7 et iussit dari pretium panis triginta dierum. 8 Tum nos aspiciens, qui eum sectabamur: "Musonius" inquit "aeruscanti cuipiam id genus et philosophum sese ostentanti dari iussit mille nummum, et cum plerique dicerent nebulonem esse hominem malum et malitiosum et nulla re bona dignum, tum Musonium subridentem dixisse aiunt: axios oun estin argyriou. 9 Sed hoc potius" inquit "dolori mihi et aegritudini est, quod istiusmodi animalia spurca atque probra nomen usurpant sanctissimum et philosophi appellantur. 10 Maiores autem mei Athenienses nomina iuvenum fortissimorum Harmodii et Aristogitonis, qui libertatis recuperandae gratia Hippiam tyrannum interficere adorsi erant, ne umquam servis indere liceret, decreto publico sanxerunt, quoniam nefas ducerent nomina libertati patriae devota servili contagio pollui. 11 Cur ergo nos patimur nomen philosophiae inlustrissimum in hominibus deterrimis exsordescere? Simili autem" inquit "exemplo ex contraria specie antiquos Romanorum audio praenomina patriciorum quorundam male de republica meritorum et ob eam causam capite damnatorum censuisse, ne cui eiusdem gentis patricio inderentur, ut vocabula quoque eorum defamata atque demortua cum ipsis viderentur."
+
+	
+3
+
+Epistula Philippi regis ad Aristotelem philosophum super Alexandro recens nato.
 
 	
 1 Philippus, Amyntae filius, terrae Macedoniae rex, cuius virtute industriaque Macetae locupletissimo imperio aucti gentium nationumque multarum potiri coeperant et cuius vim atque arma toti Graeciae cavenda metuendaque inclitae illae Demosthenis orationes contionesque vocificant, 2 is Philippus, cum in omni fere tempore negotiis belli victoriisque adfectus exercitusque esset, a liberali tamen Musa et a studiis humanitatis numquam afuit, quin lepide comiterque pleraque et faceret et diceret. 3 Feruntur adeo libri epistularum eius munditiae et venustatis et prudentiae plenarum, velut sunt illae litterae, quibus Aristoteli philosopho natum esse sibi Alexandrum nuntiavit. 4 Ea epistula, quoniam curae diligentiaeque in liberorum disciplinas hortamentum est, exscribenda visa est ad commonendos parentum animos. 5 Exponenda est igitur ad hanc ferme sententiam:
@@ -10,10 +142,28 @@
 Filium mihi genitum scito. Quod equidem dis habeo gratiam, non proinde quia natus est, quam pro eo, quod eum nasci contigit temporibus vitae tuae. Spero enim fore, ut eductus eruditusque a te dignus exsistat et nobis et rerum istarum susceptione." 6 Ipsius autem Philippi verba haec sunt:
 
 
+
+
+
+Φίλιππος Ἀριστοτέλει χαίρειν.
+			
 Ἴσθι μοι γεγονότα υἱόν. πολλὴν οὖν τοῖς θεοῖς ἔχω χάριν, οὐχ οὕτως ἐπὶ τῇ γενέσει τοῦ παιδός, ὡς ἐπὶ τῷ κατὰ σὴν ἡλικίαν αὐτὸν γεγονέναι· ἐλπίζω γάρ αὐτὸν ὑπὸ σοῦ τραφέντα καὶ παιδευθέντα ἄξιον ἔσεσθαι καὶ ἡμῶν καὶ τῆς τῶν πραγμάτων διαδοχῆς.
 		
+
+
+
+4
+
+De barbararum gentium prodigiosis miraculis; deque diris et exitiosis effascinationibus; atque inibi de feminis repente versis in mares.
+
+	
 1 Cum e Graecia in Italiam rediremus et Brundisium iremus egressique e navi in terram in portu illo inclito spatiaremur, quem Q. Ennius remotiore paulum, sed admodum scito vocabulo "praepetem" appellavit, fasces librorum venalium expositos vidimus. 2 Atque ego avide statim pergo ad libros. 3 Erant autem isti omnes libri Graeci miraculorum fabularumque pleni, res inauditae, incredulae, scriptores veteres non parvae auctoritatis:
 Aristeas Proconnesius et Isigonus Nicaeensis et Ctesias et Onesicritus et Polystephanus et Hegesias; 4 ipsa autem volumina ex diutino situ squalebant et habitu aspectuque taetro erant. 5 Accessi tamen percontatusque pretium sum et adductus mira atque insperata vilitate libros plurimos aere pauco emo eosque omnis duabus proximis noctibus cursim transeo; atque in legendo carpsi exinde quaedam et notavi mirabilia et scriptoribus fere nostris intemptata eaque his commentariis aspersi, ut, qui eos lectitabit, is ne rudis omnino et anezoos inter istiusmodi rerum auditiones reperiatur. 6 Erant igitur in illis libris scripta huiuscemodi: Scythas illos penitissimos, qui sub ipsis septentrionibus aetatem agunt, corporibus hominum vesci eiusque victus alimento vitam ducere et anthropophagous nominari; item esse homines sub eadem regione caeli unum oculum in frontis medio habentes, qui appellantur Arimaspi, qua fuisse facie Cyclopas poetae ferunt; alios item esse homines apud eandem caeli plagam singulariae velocitatis vestigia pedum habentes retro porrecta, non, ut ceterorum hominum, prospectantia; praeterea traditum esse memoratumque in ultima quadam terra, quae "Albania" dicitur, gigni homines, qui in pueritia canescant et plus cernant oculis per noctem quam interdiu; item esse compertum et creditum Sauromatas, qui ultra Borysthenen fluvium longe colunt, cibum capere semper diebus tertiis, medio abstinere. 7 Id etiam in isdem libris scriptum offendimus, quod postea in libro quoque Plinii Secundi naturalis historiae septimo legi, esse quasdam in terra Africa hominum familias voce atque lingua effascinantium, qui si impensius forte laudaverint pulchras arbores, segetes laetiores, infantes amoeniores, egregios equos, pecudes pastu atque cultu opimas, emoriantur repente haec omnia nulli aliae causae obnoxia. 8 Oculis quoque exitialem fascinationem fieri in isdem libris scriptum est, traditurque esse homines in Illyriis, qui interimant videndo, quos diutius irati viderint, eosque ipsos mares feminasque, qui visu tam nocenti sunt, pupillas in singulis oculis binas habere. 9 Item esse in montibus terrae Indiae homines caninis capitibus et latrantibus, eosque vesci avium et ferarum venatibus; atque esse item alia aput ultimas orientis terras miracula, homines qui "monocoli" appellentur, singulis cruribus saltuatim currentes, vivacissimae pernicitatis; quosdam etiam esse nullis cervicibus oculos in humeris habentes. 10 Iam vero hoc egreditur omnem modum admirationis, quod idem illi scriptores gentem esse aiunt aput extrema Indiae corporibus hirtis et avium ritu plumantibus nullo cibatu vescentem, sed spiritu florum naribus hausto victitantem; Pygmaeos quoque haut longe ab his nasci, quorum qui longissimi sint, non longiores esse quam pedes duo et quadrantem. 11 Haec atque alia istiusmodi plura legimus; 12 sed cum ea scriberemus, tenuit nos non idoneae scripturae taedium nihil ad ornandum iuvandumque usum vitae pertinentis. 13 Libitum tamen est in loco hoc miraculorum notare id etiam, quod Plinius Secundus, vir in temporibus aetatis suae ingenii dignitatisque gratia auctoritate magna praeditus, non audisse neque legisse, sed scire sese atque vidisse in libro naturalis historiae septimo scripsit. 14 Verba igitur haec, quae infra posui, ipsius sunt ex eo libro sumpta, quae profecto faciunt, ut neque respuenda neque ridenda sit notissima illa veterum poetarum de Caenide et Caeneo cantilena. 15 "Ex feminis" inquit "mutari in mares non est fabulosum. Invenimus in annalibus Q. Licinio Crasso C. Cassio Longino consulibus Casini puerum factum ex virgine sub parentibus iussuque haruspicum deportatum in insulam desertam. Licinius Mucianus prodidit visum esse a se Argis Arescontem, cui nomen Arescusae fuisset, nubsisse etiam, mox barbam et virilitatem provenisse uxoremque duxisse; eiusdem sortis et Zmyrnae puerum a se visum. Ipse in Africa vidi mutatum in marem die nuptiarum L. Cossitium civem Thysdritanum, vivebatque, cum proderem haec." 16 Idem Plinius in eodem libro verba haec scripsit: "Gignuntur homines utriusque sexus, quos "hermaphroditos" vocamus, olim "androgynos" vocatos et in prodigiis habitos, nunc vero in deliciis."
+
+	
+5
+
+Diversae nobilium philosophorum sententiae de genere ac natura voluptatis; verbaque Hieroclis philosophi, quibus decreta Epicuri insectatus est.
 
 	
 1 De voluptate veteres philosophi diversas sententias dixerunt. 2 Epicurus voluptatem summum bonum esse ponit; eam tamen ita definit:
@@ -21,13 +171,33 @@ sarkos eustathes katastema; 3 Antisthenes Socraticus summum malum dicit; eius n
 manein mallon e hesthein. 4 Speusippus vetusque omnis Academia voluptatem et dolorem duo mala esse dicunt opposita inter sese, bonum autem esse, quod utriusque medium foret. 5 Zeno censuit voluptatem esse indifferens, id est neutrum, neque bonum neque malum, quod ipse Graeco vocabulo adiaphoron appellavit. 6 Critolaus Peripateticus et malum esse voluptatem ait et multa alia mala parere ex sese, incurias, desidias, obliviones, ignavias. 7 Plato ante hos omnis ita varie et multiformiter de voluptate disseruit, ut cunctae istae sententiae, quas supra posui, videantur ex sermonum eius fontibus profluxisse; nam proinde unaquaque utitur, ut et ipsius voluptatis natura fert, quae est multiplex, et causarum, quas tractat, rerumque, quas efficere vult, ratio desiderat. 8 Taurus autem noster, quotiens facta mentio Epicuri erat, in ore atque in lingua habebat verba haec Hieroclis Stoici, viri sancti et gravis: Hedore telos, pornes dogma; ouk estin pronoia, oude pornes dogma.
 
 	
+6
+
+Verbum, quod est ab "ago" frequentativum, in syllaba prima quonam sit modulo pronuntiandum.
+
+	
 1 Ab eo, quod est "ago" et "egi", verba sunt, quae appellant grammatici "frequentativa", "actito" et "actitavi". 2 Haec quosdam non sane indoctos viros audio ita pronuntiare, ut primam in his litteram corripiant, rationemque dicunt, quoniam in verbo principali, quod est "ago", prima littera breviter pronuntiatur. 3 Cur igitur ab eo, quod est "edo" et "ungo", in quibus verbis prima littera breviter dicitur, "esito" et "unctito", quae sunt eorum frequentativa, prima littera longa promimus et contra "dictito" ab eo verbo, quod est "dico", correpte dicimus? num ergo potius "actito" et "actitavi" producenda sunt? quoniam frequentativa ferme omnia eodum modo in prima syllaba dicuntur, quo participia praeteriti temporis ex his verbis, unde ea profecta sunt, in eadem syllaba pronuntiantur, sicuti "lego, lectus" facit "lectito"; "ungo, unctus" "unctito"; "scribo, scriptus" "scriptito"; "moveo, motus" "motito"; "pendeo, pensus" "pensito"; "edo, esus" "esito"; "dico" autem "dictus" "dictito" facit; "gero, gestus" "gestito"; "veho, vectus" "vectito"; "rapio, raptus" "raptito"; "capio, captus" "captito"; "facio, factus" "factito". Sic igitur "actito" producte in prima syllaba pronuntiandum, quoniam ex eo fit, quod est "ago" et "actus".
+
+	
+7
+
+De conversione foliorum in arbore olea brumali et solstitiali die: deque fidibus id temporis ictu alieno sonantibus.
 
 	
 1 Volgo et scriptum et creditum est folia olearum arborum brumali et solstitiali die converti et quae pars eorum fuerit inferior atque occultior, eam supra fieri atque exponi ad oculos et ad solem. 2 Quod nobis quoque semel atque iterum experiri volentibus ita esse propemodum visum est. 3 Sed de fidibus rarius dictu et mirabilius est; quam rem et alii docti viri et Suetonius etiam Tranquillus in libro ludicrae historiae primo satis compertam esse satisque super ea constare adfirmat: nervias in fidibus brumali die alias digitis pelli, alias sonare.
 
 	
+8
+
+Necessum esse, qui multa habeat, multis indigere; deque ea re Favorini philosophi cum brevitate eleganti sententia.
+
+	
 1 Verum est profecto, quod observato rerum usu sapientes viri dixere, multis egere, qui multa habeat, magnamque indigentiam nasci non ex inopia magna, sed ex magna copia: multa enim desiderari ad multa, quae habeas, tuenda. 2 Quisquis igitur multa habens cavere atque prospicere velit, ne quid egeat neve quid desit, iactura opus esse, non quaestu, et minus habendum esse, ut minus desit. 3 Hanc sententiam memini a Favorino inter ingentes omnium clamores detornatam inclusamque verbis his paucissimis: Ton gar myrion kai pentakischilion chlamydon deomenon ouk esti me pleionon deisthai; ois gar echo prosdeomenos, aphelon hon echo, arkoumai ois echo.
+
+	
+9
+
+Quis modus sit vertendi verba in Graecis sententiis; deque his Homeri versibus, quos Vergilius vertisse aut bene apteque aut inprospere existimatus est.
 
 	
 1 Quando ex poematis Graecis vertendae imitandaeque sunt insignes sententiae, non semper aiunt enitendum, ut omnia omnino verba in eum, in quem dicta sunt, modum vertamus. 2 Perdunt enim gratiam pleraque, si quasi invita et recusantia violentius transferantur. 3 Scite ergo et considerate Vergilius, cum aut Homeri aut Hesiodi aut Apollonii aut Parthenii aut Callimachi aut Theocriti aut quorundam aliorum locos effingeret, partem reliquit, alia expressit. 4 Sicuti nuperrime aput mensam cum legerentur utraque simul Bucolica Theocriti et Vergilii, animadvertimus reliquisse Vergilium, quod Graecum quidem mire quam suave est, verti autem neque debuit neque potuit. 5 Sed enim, quod substituit pro eo, quod omiserat, non abest, quin iucundius lepidiusque sit:
@@ -55,13 +225,28 @@ ipse autem imitari hoc volens gaudia fecerit pigra et levia et cunctantia et qua
 rheia d'arignoton peletai, kalai de te pasai, 17 quando nulla maior cumulatiorque pulcritudinis laus dici potuerit, quam quod una inter omnis pulcras excelleret, una facile ex omnibus nosceretur.
 
 	
+10
+
+Quod Annaeus Cornutus versus Vergilii, quibus Veneris et Vulcani concubitum pudice operteque dixit, reprehensione spurca et odiosa inquinavit.
+
+	
 1 Annianus poeta et plerique cum eo eiusdem Musae viri summis adsiduisque laudibus hos Vergilii versus ferebant, quibus Volcanum et Venerem iunctos mixtosque iure coniugii, rem lege naturae operiendam, verecunda quadam translatione verborum, cum ostenderet demonstraretque, protexit. 2 Sic enim scripsit:
 ea verba locutus
 optatos dedit amplexus placidumque petivit
 coniugis infusus gremio per membra soporem. 3 Minus autem difficile esse arbitrabantur in istiusmodi re digerenda verbis uti uno atque altero brevi tenuique eam signo demonstrantibus, sicut Homerus dixerit parthenien zonen et lektroio thesmon et erga philotesia, 4 tot vero et tam evidentibus ac tamen non praetextatis, sed puris honestisque verbis venerandum illud concubii pudici secretum neminem quemquam alium dixisse. 5 Sed Annaeus Cornutus, homo sane pleraque alia non indoctus neque inprudens, in secundo tamen librorum, quos de figuris sententiarum conposuit, egregiam totius istius verecundiae laudem insulsa nimis et odiosa scrutatione violavit. 6 Nam cum genus hoc figurae probasset et satis circumspecte factos esse versus dixisset: " "membra" tamen" inquit "paulo incautius nominavit."
 
 	
+11
+
+De Valerio Corvino; et unde Corvinus.
+
+	
 1 De Maximo Valerio, qui Corvinus appellatus est ob auxilium propugnationemque corvi alitis, haut quisquam est nobilium scriptorum, qui secus dixerit. 2 Ea res prorsus admiranda sic profecto est in libris annalibus memorata: 3 Adulescens tali genere editus L. Furio Claudio Appio consulibus fit tribunus militaris. 4 Atque in eo tempore copiae Gallorum ingentes agrum Pomptinum insederant, instruebanturque acies a consulibus de vi ac multitudine hostium satis agentibus. 5 Dux interea Gallorum vasta et ardua proceritate armisque auro praefulgentibus grandia ingrediens et manu telum reciprocans incedebat perque contemptum et superbiam circumspiciens despiciensque omnia venire iubet et congredi, si quis pugnare secum ex omni Romano exercitu auderet. 6 Tum Valerius tribunus ceteris inter metum pudoremque ambiguis impetrato prius a consulibus ut in Gallum tam inmaniter adrogantem pugnare sese permitterent, progreditur intrepide modesteque obviam; et congrediuntur et consistunt, et conserebantur iam manus, atque ibi vis quaedam divina fit: 7 corvus repente inprovisus advolat et super galeam tribuni insistit atque inde in adversari os atque oculos pugnare incipit; insilibat, obturbabat et unguibus manum laniabat et prospectum alis arcebat atque, ubi satis saevierat, revolabat in galeam tribuni. 8 Sic tribunus spectante utroque exercitu et sua virtute nixus et opera alitis propugnatus ducem hostium ferocissimum vicit interfecitque atque ob hanc causam cognomen habuit Corvinus. 9 Id factum est annis quadringentis quinque post Romam conditam. 10 Statuam Corvino isti divus Augustus in foro suo statuendam curavit. In eius statuae capite corvi simulacrum est rei pugnaeque, quam diximus, monimentum.
+
+	
+12
+
+De verbis, quae in utramque partem significatione adversa et reciproca dicuntur.
 
 	
 1 Ut "formidulosus" dici potest et qui formidat et qui formidatur, ut "invidiosus" et qui invidet et cui invidetur, ut "suspiciosus" et qui suspicatur et qui suspectus est, ut "ambitiosus" et qui ambit et qui ambitur, ut item "gratiosus" et qui adhibet gratias et qui admittit, ut "laboriosus" et qui laborat et qui labori est, ut pleraque alia huiuscemodi in utramque partem dicuntur, ita "infestus" quoque ancipiti significatione est. 2 Nam et is "infestus" appellatur, qui malum infert cuipiam, et contra, cui aliunde impendet malum, is quoque "infestus" dicitur. 3 Sed quod prius posui, profecto exemplis non indiget: sic adeo multi locuntur, ut "infestum" dicant inimicum atque adversum; alterum autem illud ignorabilius obscuriusque est. 4 Quis enim e medio facile dixerit infestum esse, cui alter infestus est? Sed et veteres plerique ita dixerunt, et M. Tullius in oratione, quam Pro Cn. Plancio scripsit, vocabulo hoc sic usus est: 5 "Dolebam" inquit "iudices, et acerbe ferebam, si huius salus ob eam ipsam causam esset infestior, quod is meam salutem atque vitam sua benivolentia praesidio custodiaque texisset." 6 Nos igitur de origine et ratione verbi quaerebamus atque ita in Nigidianis scriptum invenimus: " 'Infestum' a festinando dictum; nam qui instat" inquit "alicui eumque properans urget opprimereque eum studet festinatque, aut contra de cuius periculo et exitio festinatur, is uterque 'infestus' dicitur ab instantia atque imminentia fraudis, quam vel facturus cuipiam vel passurus est." 7 Ne quis autem de "suspicioso", quod supra posuimus, et de "formiduloso" in eam partem, quae minus usitata est, exemplum requirat, inveniet de "suspicioso" aput M. Catonem de re Floria ita scriptum: "Sed nisi qui palam corpore pecuniam quaereret aut se lenoni locavisset, etsi famosus et suspiciosus fuisset, vim in corpus liberum non aecum censuere adferri." 8 "Suspiciosum" enim Cato hoc in loco suspectum significat, non suspicantem. 9 "Formidulosum" autem, qui formidetur, Sallustius in Catilina ita dicit:
@@ -75,7 +260,17 @@ quae in locis nesciis nescia spe sumus. 22 Sallustius: "More humanae cupidinis 
 ignarum Laurens habet ora Mimanta.
 
 	
+13
+
+Verba ex historia Claudi Quadrigari, quibus Manli Torquati, nobilis adulescentis, et hostis Galli provocatoris pugnam depinxit.
+
+	
 1 Titus Manlius summo loco natus adprimeque nobilis fuit. 2 Ei Manlio cognomentum factum est Torquatus. 3 Causam cognomenti fuisse accepimus torquis ex auro induvias, quam ex hoste, quem occiderat, detractam induit. 4 Sed quis hostis et quid genus, quam formidandae vastitatis et quantum insolens provocator et cuimodi fuerit pugna decertatum, Q. Claudius primo annalium purissime atque inlustrissime simplicique et incompta orationis antiquae suavitate descripsit. 5 Quem locum ex eo libro philosophus Favorinus cum legeret, non minoribus quati adficique animum suum motibus pulsibusque dicebat, 6 quam si ipse coram depugnantes eos spectaret. 7 Verba Q. Claudi, quibus pugna ista depicta est, adscripsi: "Cum interim Gallus quidam nudus praeter scutum et gladios duos torque atque armillis decoratus processit, qui et viribus et magnitudine et adulescentia simulque virtute ceteris antistabat. 8 Is maxime proelio commoto atque utrisque summo studio pugnantibus manu significare coepit utrisque, quiescerent. 9 Pugnae facta pausa est. 10 Extemplo silentio facto cum voce maxima conclamat, si quis secum depugnare vellet, uti prodiret. 11 Nemo audebat propter magnitudinem atque inmanitatem facies. 12 Deinde Gallus inridere coepit atque linguam exsertare. 13 Id subito perdolitum est cuidam Tito Manlio, summo genere gnato, tantum flagitium civitati adcidere, e tanto exercitu neminem prodire. 14 Is, ut dico, processit neque passus est virtutem Romanam ab Gallo turpiter spoliari. Scuto pedestri et gladio Hispanico cinctus contra Gallum constitit. 15 Metu magno ea congressio in ipso ponti utroque exercitu inspectante facta est. 16 Ita, ut ante dixi, constiterunt: Gallus sua disciplina scuto proiecto cantabundus; Manlius animo magis quam arte confisus scuto scutum percussit atque statum Galli conturbavit. 17 Dum se Gallus iterum eodem pacto constituere studet, Manlius iterum scuto scutum percutit atque de loco hominem iterum deiecit; eo pacto ei sub Gallicum gladium successit atque Hispanico pectus hausit; deinde continuo humerum dextrum eodem concessu incidit neque recessit usquam, donec subvertit, ne Gallus impetum icti haberet. 18 Ubi eum evertit, caput praecidit, torquem detraxit eamque sanguinulentam sibi in collum inponit. 19 Quo ex facto ipse posterique eius Torquati sunt cognominati." 20 Ab hoc Tito Manlio, cuius hanc pugnam Quadrigarius descripsit, imperia et aspera et immitia "Manliana" dicta sunt, quoniam postea bello adversum Latinos cum esset consul, filium suum securi percussit, qui speculatum ab eo missus, interdicto hostem, a quo provocatus fuerat, occiderat.
+
+	
+14
+
+Quod idem Quadrigarius "huius facies" patrio casu probe et Latine dixit; et quaedam alia adposita de similium vocabulorum declinationibus.
 
 	
 1 Quod autem supra scriptum est in Q. Claudi verbis: "Propter magnitudinem atque inmanitatem facies", id nos aliquot veteribus libris inspectis exploravimus atque ita esse, ut scriptum est, comperimus. 2 Sic enim pleraque aetas veterum declinavit: "haec facies, huius facies", quod nunc propter rationem grammaticam "faciei" dicitur. Corruptos autem quosdam libros repperi, in quibus "faciei" scriptum est illo, quod ante scriptum erat, oblitterato. 3 Meminimus etiam in Tiburti bibliotheca invenire nos in eodem Claudi libro scriptum utrumque "facies" et "facii". Sed "facies" in ordinem scriptum fuit et contra per "i" geminum "facii," neque id abesse a quadam consuetudine prisca existimavimus; 4 nam et ab eo, quod est "hic dies", tam "huius dies", quam "huius dii", et ab eo, quod est "haec fames", tam "huius famis", quam "huius fami" dixerunt. 5 Q. Ennius in XVI annali "dies" scripsit pro "diei" in hoc versu: postremae longinqua dies confecerit aetas. 6 Ciceronem quoque adfirmat Caesellius in oratione, quam pro P. Sestio fecit, "dies" scripsisse pro "diei", quod ego inpensa opera conquisitis veteribus libris plusculis ita, ut Caesellius ait, scriptum inveni. 7 Verba sunt haec M. Tullii: "Equites vero daturos illius dies poenas"; quocirca factum hercle est, ut facile his credam, qui scripserunt idiographum librum Vergilii se inspexisse, in quo ita scriptum est:
@@ -94,7 +289,17 @@ fautorem ostendat, fore amicum polliceatur; 24 sunt tamen non pauci, qui utrobi
 "Vix decima parte die reliqua." Non enim puto argutiolam istam recipiendam, ut "die" dictum quasi "ex die" existimemus.
 
 	
+15
+
+De genere controversiae, quod Graece aporon appellatur.
+
+	
 1 Cum Antonio Iuliano rhetore per feriarum tempus aestivarum decedere ex urbis aestu volentes Neapolim concesseramus. 2 Atque ibi erat adulescens tunc quispiam ex ditioribus cum utriusque linguae magistris meditans et exercens ad causas Romae orandas eloquentiae Latinae facultatem; atque is rogat Iulianum, uti sese audiat declamantem. 3 It auditum Iulianus, imusque nos cum eo simul. 4 Introit adulescens et praefatur arrogantius et elatius, quam aetati eius decebat, ac deinde iubet exponi controversias. 5 Aderat ibi nobiscum Iuliani sectator, iuvenis promptus et proficiens et offendens iam in eo, quod ille aput Iuliani aures in praecipiti stare et subitaria dictione periculum sui facere audebat. 6 Exponit igitur temptamenti gratia controversiam parum consistentem, quod genus Graeci aporon vocant, Latine autem id non nimis incommode "inexplicabile" dici potest. 7 Ea controversia fuit huiusmodi: "De reo septem iudices cognoscant, eaque sententia sit rata, quam plures ex eo numero dixerint. Cum septem iudices cognovissent, duo censuerunt reum exsilio multandum, duo alii pecunia, tres reliqui capite puniendum. 8 Petitur ad supplicium ex sententia trium iudicum et contradicit." 9 Hac ille audita nec considerata neque aliis, ut proponerentur, exspectatis incipit statim mira celeritate in eandem hanc controversiam principia nescio quae dicere et involucra sensuum verborumque volumina vocumque turbas fundere ceteris omnibus ex cohorte eius, qui audire eum soliti erant, clamore magno exsultantibus, Iuliano autem male ac misere rubente et sudante. 10 Sed ubi deblateratis versuum multis milibus finem aliquando fecit egressique inde sumus, amici familiaresque eius Iulianum prosecuti, quidnam existimaret, percontati sunt. 11 Atque ibi Iulianus festivissime: "nolite quaerere," inquit "quid sentiam; adulescens hic sine controversia disertus est."
+
+	
+16
+
+Quod Plinium Secundum, non hominem indoctum, fugerit latueritque vitium argumenti, quod antistrephon Graeci dicunt.
 
 	
 1 Plinius Secundus existimatus est esse aetatis suae doctissimus. 2 Is libros reliquit, quos studiosorum inscripsit, non medius fidius usquequaque aspernandos. 3 In his libris multa varie ad oblectandas eruditorum hominum aures ponit. 4 Refert etiam plerasque sententias, quas in declamandis controversiis lepide arguteque dictas putat. 5 Sicuti hanc quoque sententiam ponit ex huiuscemodi controversia: " "Vir fortis praemio, quod optaverit, donetur. Qui fortiter fecerat, petit alterius uxorem in matrimonium et accepit. Is deinde, cuia uxor fuit, fortiter fecit. Repetit eandem; contradicitur." 6 Eleganter" inquit "et probabiliter ex parte posterioris viri fortis uxorem sibi reddi postulantis hoc dictum est: "Si placet lex, redde; si non placet, redde"." 7 Fugit autem Plinium sententiolam istam, quam putavit esse argutissimam, vitio non carere, quod Graece antistrephon dicitur. Et est vitium insidiosum et sub falsa laudis specie latens; nihil enim minus converti ex contrario id ipsum adversus eundem potest atque ita a priore illo viro forte dici: "Si placet lex, non reddo; si non placet, non reddo."
@@ -102,3 +307,100 @@ fautorem ostendat, fore amicum polliceatur; 24 sunt tamen non pauci, qui utrobi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+Gellius
+			
+
+
+
+
+Classical Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+XII Kal. Dec. 06

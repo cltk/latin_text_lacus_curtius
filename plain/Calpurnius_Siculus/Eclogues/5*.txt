@@ -1,146 +1,659 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p258
+Calpurnius Siculus
+	
+V
+	
+
+
+Meliboeus: Corydon: Amyntas
+	
+
+
+
+
+
+
+Forte Micon senior Canthusque, Miconis alumnus,
+	
+torrentem patula vitabant ilice solem,
+	
+cum iuveni senior praecepta daturus alumno
+	
+talia verba refert tremulis titubantia labris:
+
+	5
+
+"quas errare vides inter dumeta capellas
+	
+canaque1 lascivo concidere gramina2 morsu,
+	
+Canthe puer, quos ecce greges a monte remotos
+	
+p260
+cernis in aprico decerpere gramina campo,
+	
+hos tibi do senior iuveni pater: ipse tuendos
+	10
+accipe. iam certe potes insudare labori,
+	
+iam pro me gnavam potes exercere iuventam.
+
+	
+
+adspicis ut nobis aetas iam mille querellas
+	
+afferat et baculum premat inclinata senectus?
+	
+sed qua lege regas et amantes lustra capellas
+	15
+et melius pratis errantes mollibus agnas,
+	
+percipe.
+
+	vere novo, cum iam tinnire volucres
+	
+incipient nidosque reversa lutabit hirundo,
+	
+protinus hiberno pecus omne movebis ovili.
+	
+tunc etenim melior vernanti germine silva
+	20
+pullat et aestivas reparabilis incohat umbras,
+	
+tunc florent saltus3 viridisque renascitur annus,
+	
+tunc Venus et calidi scintillat fervor amoris
+	
+lascivumque pecus salientes accipit hircos.
+	
+sed non ante greges in pascua mitte reclusos,
+	25
+quam fuerit placata Pales. tum cespite vivo
+	
+pone focum geniumque loci Faunumque Laresque
+	
+salso farre voca; tepidos tunc hostia cultros
+	
+imbuat: hac etiam, dum vivit, ovilia lustra.
+	
+nec mora, tunc campos ovibus, dumeta capellis
+	30
+orto sole dabis, simul hunc transcendere montem
+	
+coeperit ac primae spatium tepefecerit horae.
+	
+at si forte vaces, dum matutina relaxat4
+
+p262
+frigora sol, tumidis spumantia5 mulctra papillis
+	
+implebit6 quod mane fluet; rursusque premetur
+	35
+mane quod occiduae mulsura redegerit horae.
+	
+parce tamen fetis: ne sint compendia tanti,
+	
+destruat ut niveos venalis caseus agnos;
+	
+nam tibi praecipuo fetura coletur7 amore.
+	
+te quoque non pudeat, cum serus ovilia vises,
+	40
+si qua iacebit ovis partu resoluta recenti,
+	
+hanc umeris portare tuis natosque tepenti8
+
+ferre sinu tremulos et nondum stare paratos.
+	
+nec tu longinquas procul a praesepibus herbas
+	
+nec nimis amotae sectabere pabula silvae,
+	45
+dum peragit vernum Iovis inconstantia tempus.
+	
+veris enim dubitanda fides: modo fronte serena
+	
+blandius arrisit, modo cum caligine nimbos
+	
+intulit et miseras torrentibus abstulit agnas.
+
+	
+
+at cum longa dies sitientes9 afferet aestus
+	50
+nec fuerit variante deo mutabile caelum,
+	
+iam silvis committe greges, iam longius herbas
+	
+quaere; sed ante diem pecus exeat: umida dulces
+	
+efficit aura cibos, quotiens fugientibus euris
+	
+frigida nocturno tanguntur10 pascua rore
+	55
+et matutinae lucent in gramine guttae.
+	
+at simul argutae nemus increpuere cicadae,
+	
+p264
+ad fontem compelle greges; nec protinus herbas
+	
+et campos permitte sequi, sed11 protegat illos
+	
+interea veteres quae porrigit aesculus umbras.
+	60
+verum ubi declini12 iam nona13 tepescere sole
+	
+incipiet seraeque † videbitur hora merendae,14
+
+rursus pasce greges et opacos desere lucos.
+	
+nec prius aestivo pecus includatur ovili,
+	
+quam levibus nidis somnos captare volucris
+	65
+cogitet et tremulo queribunda fritinniat ore.15
+
+
+cum iam tempus erit maturas16 demere lanas,
+	
+sucida iam tereti constringere vellera iunco,
+	
+hircorumque iubas et olentes caedere barbas,
+	
+ante tamen secerne pecus gregibusque notatis
+	70
+consimiles include comis, ne longa minutis,
+	
+mollia ne duris coeant, ne candida fuscis.
+	
+sed tibi cum vacuas posito velamine costas
+	
+denudavit ovis, circumspice, ne sit acuta
+	
+forpice17 laesa cutis, tacitum ne pustula18 virus
+	75
+texerit occulto sub vulnere: quae nisi ferro
+	
+rumpitur, a! miserum fragili rubigine corpus
+	
+arrodet sanies et putria contrahet ossa.
+	
+providus (hoc moneo) viventia sulphura tecum
+	
+et scillae caput et virosa bitumina portes,
+	80
+vulneribus laturus opem; nec Brutia desit
+	
+pix tibi:19 tu liquido picis unguine terga memento,
+	
+p266
+si sint rasa,20 linas. vivi21 quoque pondera melle22
+
+argenti23 coquito lentumque bitumen aheno,
+	
+impressurus ovi tua nomina; nam tibi lites
+	85
+auferet ingentes lectus possessor in armo.
+
+	
+
+nunc etiam, dum siccus ager, dum fervida tellus,
+	
+dum rimosa palus et multo torrida limo
+	
+aestuat et fragiles nimium sol pulverat herbas,
+	
+lurida conveniet succendere galbana septis
+	90
+et tua cervino lustrare mapalia fumo.
+	
+obfuit24 ille malis odor anguibus: ipse videbis
+	
+serpentum cecidisse minas: non stringere dentes
+	
+ulla potest uncos, sed inani debilis ore
+	
+marcet et obtuso iacet exarmata veneno.
+
+	95
+
+nunc age vicinae circumspice tempora brumae
+	
+qua ratione geras. aperit cum vinea sepes
+	
+et portat lectas securus circitor25 uvas,
+	
+incipe falce nemus vivasque recidere frondes.
+	
+nunc opus est teneras summatim stringere virgas,
+	100
+nunc hiemi servare comas, dum permanet umor,
+	
+dum viret et tremulas non excutit Africus umbras.
+	
+has tibi conveniet tepidis fenilibus olim
+	
+promere, cum pecudes extremus clauserit annus.
+	
+hac26 tibi nitendum est, labor hic in tempore noster,
+	105
+gnavaque sedulitas redit et pastoria virtus.
+	
+ne pigeat ramos siccis miscere recentes
+	
+p268
+et sucos adhibere novos, ne torrida27 nimbis
+	
+instet hiemps nimioque gelu nivibusque coactis
+	
+incursare vetet28 nemus et constringere frondes;
+	110
+tu tamen aut leves hederas aut molle salictum
+	
+valle premes media. sitis est pensanda tuorum,
+	
+Canthe,29 gregum viridante cibo: nihil aridus illis,
+	
+ingenti positus quamvis strue, prosit acervus,
+	
+virgea si desint liquido turgentia suco
+	115
+et quibus est aliquid plenae vitale medullae.
+	
+praecipue gelidum stipula cum fronde caduca
+	
+sterne solum, ne forte rigor penetrabile corpus
+	
+urat et interno vastet pecuaria morbo.
+
+	
+
+plura quidem meminisse velim, nam plura supersunt.
+	120
+sed iam sera dies cadit et iam sole fugato
+	
+frigidus aestivas impellit Noctifer horas."
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 canaque V: vanaque NG.
 
 
+❦
 
 2
 gramina GV, Giarratano: germina NH (corr. m2), Baehrens, H. Schenkl.
 
 
+❦
 
 3
 silvae codd.: tiliae Maehly: saltus Baehrens: segetes C. et H. Schenkl.
 
 
+❦
 
 4
 relaxet G.
 
 
+❦
 
 5
 spument tibi V plerique: spumantia Barth.
 
 
+❦
 
 6
 implebis codd.: implebit Haupt: in tenebris Housman.
 
 
+❦
 
 7
 coletur NG: colatur V, Baehrens.
 
 
+❦
 
 8
 patenti V plerique: parenti NG: tepenti Hw.
 
 
+❦
 
 9
 sitientes G V nonnulli: sitientibus V nonnulli.
 
 
+❦
 
 10
 tinguuntur V nonnulli.
 
 
+❦
 
 11
 sed G: sine V.
 
 
+❦
 
 12
 declivi V: declivis NG: declini Heinsius.
 
 
+❦
 
 13
 nona codd.: sera Baehrens: rura . . . incipient Maehly.
 
 
+❦
 
 14
 incipiet serique v. h. premendi NG: incipiet seraeque v. h. merendae V; incipit atque sĕri v. h. premendi Baehrens.
 
 
+❦
 
 15
 tremulo tremebundo fruniat ore NG: tinniat ore AH: tremulo queribunda (vel gemibunda) fritinniat ore Glaeser: tremuli tremebunda coagula lactis V (cf. III.69).
 
 
+❦
 
 16
 maturas NGA: maternas V.
 
 
+❦
 
 17
 forfice V.
 
 
+❦
 
 18
 pusula N: pustula GV.
 
 
+❦
 
 19
 pix tibi: tu Baehrens: pia tibi NG: dura tibi N2V.
 
 
+❦
 
 20
 rasa V: rara NG: scabra vel cruda H. Schenkl.
 
 
+❦
 
 21
 durae NG: vivi (sc. argenti) V nonnulli: vini H V nonnulli.
 
 
+❦
 
 22
 massae NG: melle vel molle V: durae . . . malthae ardenti Giarratano.
 
 
+❦
 
 23
 argenti NG V plerique (ardenti G in marg.): arrhenici H. Schenkl: chalcanthi Haupt, Baehrens.
 
 
+❦
 
 24
 obfuit codd.: obvius Burman: obficit Maehly.
 
 
+❦
 
 25
 circitor NG: vinitor V.
 
 
+❦
 
 26
 hoc . . . hic NG: hac . . . hinc Glaeser: hac . . . hic H. Schenkl: huc . . . huc Baehrens.
 
 
+❦
 
 27
 ne torrida NG V plerique: licet horrida Martellius: dum torr. Haupt: cum torr. Giarratano.
 
 
+❦
 
 28
 incurvare velit NG: incursare vetet Haupt.
 
 
+❦
 
 29
 cante G: chante N.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Id. Feb. 09

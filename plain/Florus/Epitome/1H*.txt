@@ -1,4 +1,201 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars VII
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars IX
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+XXIII.
+		
+
+Bellum Macedonicum Primum.
+		
+
+
+
+XXIIII.
+		
+
+Bellum Syriacum Regis Antiochi.
+		
+
+
+
+XXV.
+		
+
+Bellum Aetolum.
+		
+
+
+
+XXVI.
+		
+
+Bellum Histricum.
+		
+
+
+
+XXVII.
+		
+
+Bellum Gallograecum.
+		
+
+
+
+XXVIII.
+		
+
+Bellum Macedonicum Secundum.
+		
+
+
+
+XXVIIII.
+		
+
+Bellum Illyricum Secundum.
+		
+
+
+
+XXX.
+		
+
+Bellum Macedonicum Tertium.
+		
+
+
+
+p114
+
+XXIII. Bellvm Macedonicvm Primvm
+	
+
 II, 7
 Post Carthaginem vinci neminem puduit. Statim Africam secutae sunt gentes, Macedonia, Graecia, Syria ceteraque omnia quodam quasi aestu et torrente fortunae, 2 sed primi omnium Macedones, adfectator quondam imperii populus. Itaque quamvis tum Philippus regno praesideret, Romani tamen dimicare sibi cum rege Alexandro videbantur. 3 Macedonicum bellum nomine amplius quam spectatione gentis fuit. 4 Causa coepit a foedere Philippi, quo rex iam pridem dominantem in Italia Annibalem sibi socium iunxerat; postea crevit inplorantibus Athenis auxilium contra regis iniurias, cum ille ultra vis victoriae in templa et aras et sepulcra ipsa saeviret. 5 Placuit senatui opem tantis ferre supplicibus. Quippe iam gentium reges, duces, populi, nationes, praesidia sibi ab hac urbe repetebant. 6 Primum igitur Laevino consule populus Romanus Ionium mare ingressus, tota Graeciae litora veluti triumphanti classe peragravit. 7 Spolia quippe Siciliae, Sardiniae, Hispaniae, Africae praeferebat,
 
@@ -12,6 +209,10 @@ p118praeconem repetere vocem illam iubebant, qua libertas Achaiae pronuntiabatur
 
 
 	
+
+XXIIII. Bellvm Syriacvm Regis Antiochi
+	
+
 II, 8
 Macedoniam Asia7 statim et regem Philippum Antiochus excepit quodam casu, quasi de industria sic adgubernante fortuna, ut quem ad modum ab Africa in Europam,8 sic ab Europa9 in Asiam ultro se suggerentibus causis imperium procederet, et cum terrarum orbis situ ipse ordo victoriarum navigaret. 2 Non aliud formidolosius fama bellum fuit; quippe cum Persas et orientem, Xerxen atque Darium cogitarent, quando perfossi invii montes, quando velis opertum mare nuntiaretur. 3 Ad hoc caelestes minae territabant, cum umore continuo Cumanus Apollo sudaret; sed hic faventis Asiae suae numinis timor erat. 4 Nec sane viris opibus armisque quicquam copiosius Syria; sed in manus tam ignavi regis inciderat, ut nihil fuerit in Antiocho speciosius quam quod a Romanis victus est. 5 Inpulere regem in id bellum illic Thoas, Aetoliae princeps, inhonoratam apud Romanos querens adversus Macedonas militiae suae societatem,
 
@@ -29,11 +230,19 @@ p124regni dari placuit eo libentius, quod tam facile cessisset.
 
 
 	
+
+XXV. Bellvm Aetolvm
+	
+
 II, 9
 Syriaco bello successit, et debebat, Aetolicum. Victo quippe Romanus Antiocho faces Asiatici belli persequebatur. Ergo Fulvio Nobiliori mandata ultio est. 2 Hic protinus caput gentis Ambraciam, regiam Pyrrhi, machinis quatit. Secuta deditio est. 3 Aderant Aetolorum precibus Attici, Rhodii, et memineramus auxilii: sic placuit ignoscere. 4 Serpsit tamen latius in proximos bellum, omnisque late Cephallenia, Zacynthos13 et quidquid insularum in eo mari inter Ceraunios montes iugumque Maleum Aetoli belli accessio fuerunt.
 
 
 	
+
+XXVI. Bellvm Histricvm
+	
+
 II, 10
 Histri secuntur Aetolos; quippe bellantes eos nuper adiuverant. 2 Et initia pugnae hosti prospera fuerunt,14 eademque exitii causa. Nam cum Gnaei Manlii15 castra cepissent opimaeque praedae incubarent, epulantes ac ludibundos plerosque, qui aut ubi essent prae poculis nescientes, Appius Pulcher
 
@@ -43,6 +252,10 @@ p126invadit. 3 Sic cum sanguine et spiritu male partam revomuere victoriam. Ips
 
 
 	
+
+XXVII. Bellvm Gallograecvm
+	
+
 II, 11
 Gallograeciam quoque Syriaci belli ruina convolvit. 2 Fuerint inter auxilia regis Antiochi, an fuisse cupidus triumphis Manlius Vulso17 simulaverit, dubium; 3 at certe18 negatus est victori triumphus, quia causam belli non adprobavit. Ceterum gens Gallograecorum, sicut ipsum nomen indicio est, mixta et adulterata est: reliquiae Gallorum, qui Brenno duce vastaverant Graeciam, orientem secuti, in media Asiae parte sederunt; 4 itaque, uti frugum semina19 mutato solo degenerant, sic illa genuina feritas eorum Asiatica amoenitate mollita est. 5 Duobus itaque proeliis fusi fugatisque sunt, quamvis sub adventu hostis relictis sedibus in altissimos se montes recepissent. Tolostobogi20 Olympum, Tectosagi Magabam21 insederant. Utrimque fundis sagittisque detracti in perpetuam se pacem dediderunt. 6 Sed alligati miraculo quidam22 fuere, cum catenas
 
@@ -52,6 +265,10 @@ p128morsibus et ore temptassent, cum offocandas invicem fauces praebuissent. Nam
 
 
 	
+
+XXVIII. Bellvm Macedonicvm Secvndvm
+	
+
 II, 12
 Dum aliae aliaeque gentes Syriaci belli secuntur ruinam, Macedonia rursus se erexit. 2 Fortissimum populum memoria et recordatio suae nobilitatis agitabat, et successerat Philippo filius Perses, qui semel in perpetuum victam esse Macedoniam non putabat ex gentis dignitate. 3 Multo vehementius sub hoc Macedones quam sub patre exurgunt. Quippe Thracas in res25 suas traxerant, atque ita industriam Macedonum viribus Thracum, ferociam Thracum disciplina Macedonica temperavere. 4 Accessit his consilium ducis, qui situm regionum suarum a summo speculatus Haemo, positis per abrupta26 castris ita Macedoniam suam armis ferroque vallaverat, ut non reliquisse aditum nisi a caelo venturis hostibus videretur. 5 Tamen Marcio Philippo consule eam27 provinciam ingressus populus Romanus, exploratis diligenter accessibus per Ascurida28 paludem Perrhaebosque tumulos illa volucribus
 
@@ -65,11 +282,19 @@ p132tabulasque, sequens arma pecuniam transvexit, tertius captivos ipsumque rege
 
 
 	
+
+XXVIIII. Bellvm Illyricvm Secvndvm
+	
+
 II, 13
 Macedonici belli contagio traxit Illyrios; si quidem,29 ut Romanum a tergo distringerent, a Perse rege conducti pecunia militaverunt. 2 Sine mora ab Anicio praetore subiguntur. Scodram,30 caput gentis, delesse suffecit; statim secuta deditio est. Denique hoc bellum ante finitum est quam geri Romae nuntiaretur.
 
 
 	
+
+XXX. Bellvm Macedonicvm Tertivm
+	
+
 II, 14
 Quodam fato, quasi ita convenisset inter Poenos et Macedonas ut tertio quoque vinceretur, eodem
 
@@ -80,11 +305,21 @@ p134tempore utrique arma moverunt. 2 Sed prior iugum excutit Macedo, aliquanto 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 qui navibus a mari Freinshemius: quibus a mari codd.
 
+
+
+
 2
 Flaminino: flamminio BI: flaminio NL.
+
+
+
 
 
 
@@ -95,8 +330,14 @@ Aoumque Vinetus: savum que B: dumque NL: saumque I.
 
 
 
+
+
+
 4
 abrupta L: abruta B.
+
+
+
 
 
 
@@ -107,8 +348,14 @@ et ipsa NL: ad ipsa B: et ad ipsa I.
 
 
 
+
+
+
 6
 sub Nabide: sub nam | bide B: sum mauide N: summa uide L.
+
+
+
 
 
 
@@ -119,8 +366,14 @@ Asia add. Halmius.
 
 
 
+
+
+
 8
 Europam L: Achaiam B.
+
+
+
 
 
 
@@ -131,8 +384,14 @@ Europa: Achaia B.
 
 
 
+
+
+
 10
 agere videretur om. B.
+
+
+
 
 
 
@@ -143,8 +402,14 @@ vallaverat: vallaverant NL: variaverat B.
 
 
 
+
+
+
 12
 corruperat: perruperat B.
+
+
+
 
 
 
@@ -152,14 +417,23 @@ corruperat: perruperat B.
 13
 omnisque late Cephallenia, Zacynthos Freinshemius: omnemque late Cephalleniam, Zacynthon codd.
 
+
+
+
 14
 fuerunt: fuerant B.
 
 
 
 
+
+
+
 15
 Manlii: manilii B: mali NL.
+
+
+
 
 
 
@@ -172,8 +446,14 @@ Livius, XLI.11: apulo BNL.
 
 
 
+
+
+
 17
 Manlius Vulso Mommsenus: visos B: aneos visos BNL: visus I.
+
+
+
 
 
 
@@ -184,8 +464,14 @@ at certe Iahnius: hac | perte B: certe NL.
 
 
 
+
+
+
 19
 semina: seminam B.
+
+
+
 
 
 
@@ -196,8 +482,14 @@ Toolstobogi: colos cobegi B: colosobegit I.
 
 
 
+
+
+
 21
 Magabam H. Muellerus: magabant B: magaba I.
+
+
+
 
 
 
@@ -205,8 +497,14 @@ Magabam H. Muellerus: magabant B: magaba I.
 22
 quidam: quodam codd.
 
+
+
+
 23
 regis om. B.
+
+
+
 
 
 
@@ -217,18 +515,33 @@ passa om. BI.
 
 
 
+
+
+
 25
 res Iahnius: vires codd.
+
+
+
 
 26
 abrupta: abaruta codd.
 
+
+
+
 27
 eam Heinsius: nam codd.
+
+
+
 
 28
 Ascurida Heinsius; cf. 
 Livius XLIV.2.3: astudam B: astundam NL.
+
+
+
 
 
 
@@ -239,8 +552,14 @@ si quidem Iahnius: ipsi quidem BN: sed ipsi quidem L.
 
 
 
+
+
+
 30
 Scodram: scoriadam B: scordam NL.
+
+
+
 
 
 
@@ -251,8 +570,117 @@ Philippus ex similitudine Philippi Persae filii vocabatur Sauppius: philippus pe
 
 
 
+
+
+
 32
 invictusque a veris regibus Freinshemius: invictusque non a veris regibus sed NL: invalidus que non veris regibus sed B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

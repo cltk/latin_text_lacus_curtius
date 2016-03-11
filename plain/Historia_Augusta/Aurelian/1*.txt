@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Claudius
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars II
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p192
+Aurelianus
+		
+(Pars I)
+	
+
 11 Hilaribus, quibus omnia festa et fieri debere scimus et dici, impletis sollemnibus vehiculo suo me et iudiciali carpento praefectus urbis, vir inlustris ac praefata reverentia nominandus, Iunius Tiberianus accepit. 2 ibi cum animus a causis atque a negotiis publicis solutus ac liber vacaret, sermonem multum a Palatio usque ad Hortos Varianos instituit et in eo praecipue de vita principum. 3 cumque ad Templum Solis venissemus ab Aureliano principe consecratum, quod ipse non nihilum ex eius origine sanguinem duceret, quaesivit a me quis vitam eius in litteras rettulisset. 4 cui cum ego respondissem neminem a me Latinorum, Graecorum aliquos lectitatos, dolorem
 
 
@@ -36,8 +146,30 @@ p202fuerat sacerdos. 6 donatus eidem etiam elephantus praecipuus, quem ille imp
 	
 3 Privati huius multa exstant egregia facinora. nam erumpentes Sarmatas in Illyrico cum trecentis praesidiariis solus adtrivit. 4 refert Theoclius, Caesareanorum temporum scriptor, Aurelianum manu sua bello Sarmatico una die quadraginta et octo interfecisse, plurimis autem et diversis diebus ultra nongentos quinquaginta, adeo ut etiam ballistia pueri et saltatiunculas in7 Aurelianum tales componerent,8 quibus diebus festi militariter saltitarent:
 
+
+
+
+5 "Mille mille mille decollavimus.
+			
+unus homo mille decollavimus.
+			
+mille bibat9 quisquis10 mille occidit.
+			
+tantum vini nemo habet quantum fudit sanguinis."
+		
+
+
 p204
 6 haec video esse perfrivola, sed quia supra scriptus auctor ita eadem ut sunt Latina suis scriptis inseruit, tacenda esse non credidi. 71 idem apud Mogontiacum tribunus legionis sextae Gallicanae Francos inruentes, cum vagarentur per totam Galliam, sic adflixit ut trecentos ex his captos septingentis interemptis sub corona vendiderit. 2 unde iterum de eo facta est cantilena:
+
+
+
+
+"Mille Sarmatas, mille Francos semel et semel occidimus,
+			
+mille Persas quaerimus."
+		
+
 
 
 3 Hic autem, ut supra diximus,11 militibus ita timori fuit ut sub eo, posteaquam semel cum ingenti severitate castrensia peccata correxit, nemo peccaverit. 4 solus denique omnium militem, qui adulterium cum hospitis uxore commiserat, ita punivit ut duarum arborum capita inflecteret, ad pedes militis deligaret easdemque subito dimitteret, ut scissus ille utrimque penderet. quae res ingentem timorem omnibus fecit.
@@ -117,138 +249,268 @@ p222esse Crinito a Valeriano ut Aurelianus adoptaretur, idcirco praecipue quod 
 	
 3 Et quoniam superius epistulam posui, qua sumptus Aureliano ad consulatum delatus est, quare posuerim rem quasi frivolam eloquendum putavi: 4 vidimus proxime consulatum Furii Placidi tanto ambitu in Circo editum ut non praemia dari aurigis sed patrimonia viderentur, cum darentur tunicae subsericae, lineae paragaudae, darentur etiam equi, ingemescentibus frugi hominibus. 5 factum est enim ut iam divitiarum sit, non hominum consulatus, quia utique si virtutibus defertur, editorem spoliare non debet. 6 perierunt casta illa tempora et magis ambitione populari peritura sunt. sed nos, ut solemus, hanc quoque rem in medio relinquemus.27
 
+
+Apparatus Criticus:
+	
+
 1
 So Mommsen; parrumpiane P; parui Tiberiani Peter.
 
 
+❦
 
 2
 praeterea P, Lessing, Hohl propterea Cas., Peter.
 
 
+❦
 
 3
 in rebus Peter; uiribus P, Σ.
 
 
+❦
 
 4
 sui Mommsen; qui P, Σ; lacuna after parentes assumed by Peter.
 
 
+❦
 
 5
 "aue" et in alio Hohl; auetrinalio P1; "aue imperator" Peter2.
 
 
+❦
 
 6
 me ins. by Lessing, v. Winterfeld, Hohl; om. in P and by Peter.
 
 
+❦
 
 7
 in om. in P.
 
 
+❦
 
 8
 componerent Σ, editors; om. in P.
 
 
+❦
 
 9
 bibat Bücheler, Hohl; uiuat P, Σ, Peter.
 
 
+❦
 
 10
 quisquis Basore; qui P, Σ, Peter.
 
 
+❦
 
 11
 diximus om. in P.
 
 
+❦
 
 12
 uictum ins. by Novåk; om. in P and by Hohl; habeant replaced by uiuant by Peter.
 
 
+❦
 
 13
 miles Obrecht, Peter1; in P.
 
 
+❦
 
 14
 ne tu P, Σ, def. by Baehrens and Hohl; nec tamen Peter.
 
 
+❦
 
 15
 non ins. by Peter; om. in P.
 
 
+❦
 
 16
 adiciet Gruter, Madvig, Peter2; adficiet P, Peter1.
 
 
+❦
 
 17
 herbas P.
 
 
+❦
 
 18
 uacarios P.
 
 
+❦
 
 19
 cum P.
 
 
+❦
 
 20
 So Editor; tecum P; lacuna assumed by Peter2 after tu, cum; te cum <non meliorem> Hohl.
 
 
+❦
 
 21
 uanum Madvig, Peter2; uinum P, Σ.
 
 
+❦
 
 22
 uicemque Cas., Cornelissen, Hohl; fidemque P, Σ, Peter.
 
 
+❦
 
 23
 So P, Σ, foll. by Hohl; a puero Peter2.
 
 
+❦
 
 24
 et om. in P.
 
 
+❦
 
 25
 Nummio Fasti Cons., Hohl; Nemmio P; Memmio Peter.
 
 
+❦
 
 26
 ego P.
 
 
+❦
 
 27
 relinquemus von Winterfeld; relinquimus P, editors.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Non. Feb. 08

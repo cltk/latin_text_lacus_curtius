@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber II
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber IV
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p36
+Liber Tertius
+	
+
 1
 Leo homini Mauro itineris socius est, et aquam de eodem fonte bibit. Audio etiam leones Maurorum domos adire, quando venatione frustrati magna fame premuntur; et si vir adsit, leonem arcet, et vi eum abigens repellit; si vero ille abfuerit, et sola uxor domi fuerit relicta, ea sermone pudorem commovet idoneo, illum, ne ulterius procedat, inhibet, atque in ordinem redigit increpans, ut se contineat, ne fame effervescat. Intelligit utique linguam Maurusiam leo. Sensum autem verborum, quibus mulier leonem increpat, hujusmodi esse ipsi narrant: Nunquid te pudet, leo, cum sis rex animalium, meum tugurium ingredi, et mulieris opera indigere ad vitam sustentandam, atque instar hominis corpore male adfecti ad muliebres manus respicere, ut misericordia et commiseratione ea, quibus indigeas, adsequaris? quem oporteret ad montana loca contendere adversus cervos, bubalos, et reliqua animalia, quae leonibus lautum prandium praebent; verum, infelicis caniculae instar, ab aliis victum quaeritare satis habes. Et mulier quidem talia fatur. Leo autem animo adflictus, et pudore repletus, placide et1 humi oculos demittens discedit, aequo jure victus. Quum vero equi et canes propter convictum comminantium hominum sermonem intelligant, et timeant; nequaquam mirum mihi videtur, Mauros qui simul cum leonibus degunt, atque educantur ab iisdem intelligi. Adfirmant enim Mauri, se infantes suos aequali atque pari victus ratione, atque leonum catulos alere, et uno eodemque cubili ac tecto adeoque feras linguam, quam commemoravi, intelligere, nec incredibile, nec absurdum est.
 
@@ -223,5 +345,120 @@ p47amaret, et vicissim redamaretur ipse, ac simul suam elephantus educationem cu
 47
 Date mihi facultatem, per Jovem patrium, interrogandi tragoedos, et, ante illos, fabularum scriptores, quid sibi velint, tantam ignorantiam filio Laii attribuendo, atque etiam Telepho, qui infeliciter cum matre congressus, nec tamen complexu venereo junctus fuit, sed eodem lectulo cum ea concumbens, idem perpetrasset, nisi draco divino instinctu eos multotiens diremisset: siquidem animalibus rationis expertibus ejusmodi concubitus ex corporis contactu natura cognoscendos dedit, neque ea indiciis ullis egent, neque illius adventu, a quo in Cithaerone expositus fuit, ut Oedipus Sophocleus. Camelus igitur cum matre nunquam coit. Cum enim pastor quispiam feminam, quoad ejus fieri poterat, exceptis genitalibus, obtexisset, deindeque filium matri admisisset; hic prae coitus appetitu cum matre imprudens rem habuit, quod ubi intellexisset, auctorem nefandi coitus mordicus premens, et ad terram abjectum genibus affligens, cum summis doloribus interfecit; atque seipsum praecipitem deorsum egit. Oedipus sane in hoc etiam imperite fecit, qui, cum inferenda sibi manu calamitatem omnem effugere posset, oculos tantum excaecare suos voluerit, et suae familiae fratrique dira imprecari omnia, tanquam extremis hisce malis jam praeteritae calamitati ullum adferret remedium.
 
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+VI Kal. Oct. 04

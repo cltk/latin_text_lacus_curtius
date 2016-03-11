@@ -1,4 +1,111 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars II
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+p2
+
+Hadrianus
+		
+(Pars I)
+	
+
 11 Origo imperatoris Hadriani vetustior a Picentibus, posterior ab Hispaniensibus manat; si quidem Hadria ortos maiores suos apud Italicam Scipionum temporibus resedisse in libris vitae suae Hadrianus ipse commemorat.1 2 Hadriano pater Aelius Hadrianus cognomento Afer fuit, consobrinus Traiani imperatoris; mater Domitia Paulina Gadibus orta, soror Paulina nupta Serviano, uxor Sabina, atavus Marullinus, qui primus in sua familia senator populi Romani fuit.
 
 	
@@ -11,6 +118,21 @@ p4et Tito quinquies consulibus. 4 ac decimo aetatis anno patre orbatus Ulpium T
 
 
 p6translatus est. 6 ex qua festinans ad Traianum, ut primus nuntiaret excessum Nervae, a Serviano, sororis viro, (qui sumptibus et aere alieno eius prodito Traiani odium in eum movit) diu detentus fractoque consulte vehiculo tardatus, pedibus iter faciens eiusdem Serviani beneficiarium antevenit. 7 fuitque in amore Traiani, nec tamen ei per paedagogos puerorum quos Traianus impensius diligebat, . . . Gallo favente6 defuit. 8 quo quidem tempore cum sollicitus de imperatoris erga se iudicio, Vergilianas sortes consuleret,
+
+
+
+
+Quis procul ille autem ramis insignis olivae
+			
+sacra ferens? nosco crines incanaque menta
+			
+regis Romani, primam qui legibus urbem
+			
+fundabit, Curibus parvis et paupere terra
+			
+missus in imperium magnum, cui deinde subibit . . .
+		
+
 
 
 sors excidit, quam alii ex Sibyllinis versibus ei provenisse dixerunt. 9 habuit autem praesumptionem imperii mox futuri ex fano quoque Nicephorii Iovis manante responso, quod Apollonius Syrus Platonicus libris suis indidit. 10 denique statim suffragante Sura ad amicitiam Traiani pleniorem rediit, nepte per
@@ -156,157 +278,294 @@ p442 moverunt ea tempestate et Iudaei bellum, quod vetabantur mutilare genitali
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 commemorat P corr.; commemoret P1, Petschenig.
 
 
+❦
 
 2
 tunc P1; uirum P corr.
+❦
 
 3
 uenandi Novak; uenando P, Peter.
 
 
+❦
 
 4
 domitianis P1, Petschenig.
 
 
+❦
 
 5
 in omitted by P1, added by P corr.
+❦
 
 6
 Lacuna suggested by Gemoll; diligebat Gallo fauente defuit P.
 
 
+❦
 
 7
 Suburano Mommsen; sub surano P, Peter.
 
 
+❦
 
 8
 iterum deleted by Mommsen.
 
 
+❦
 
 9
 ut P corr.; et P1.
 
 
+❦
 
 10
 defuncto P corr.; definito P1.
 
 
+❦
 
 11
 creuit P corr.; creauit P1; crebuit Peter.
 
 
+❦
 
 12
 Platori Borghesi; pletori P.
 
 
+❦
 
 13
 et omitted by P, added by Hirschfeld.
 
 
+❦
 
 14
 adfectatae Petschenig; adiectae P; adiectae Peter with Salm.
 
 
+❦
 
 15
 saepe inisse Ellis, von Winterfeld; sepelisse P; ad se pellexisse Peter2.
 
 
+❦
 
 16
 familiarior P; familiariorum B, Peter.
 
 
+❦
 
 17
 loqueretur P corr.
+❦
 
 18
 impendit P corr., Petschenig, Novak, and Lessing; intendit P1, Peter.
 
 
+❦
 
 19
 Libya Cas.; licia P.
 
 
+❦
 
 20
 Parthamasirin, see Prosop. III, p13; sarmatosirin P; Partomasirin Peter2.
 
 
+❦
 
 21
 iniusso P, accepted by Petschenig; iniussu Peter1.
 
 
+❦
 
 22
 Mauretaniam Peter; maurataneae P1; mauritaniae P corr.
+❦
 
 23
 statum Peter; statim P (defended by Herzog R. Stvf. II, 359, 1).
 
 
+❦
 
 24
 hadriani P1; al' Traiani P corr.
+❦
 
 25
 praestiterit Cas.; restiterit P1; restituerit P corr.
+❦
 
 26
 scirent Ellis; sciret P, Peter.
 
 
+❦
 
 27
 displicere uidisset P corr.; displicerentur uidisse P1.
 
 
+❦
 
 28
 secreto Mommsen; decreto P1; decreta P corr.
+❦
 
 29
 ciuitates uariis (libertatibus) Rob. Bonon., supported by Rösinger and Damsté; casuariis P; causario Peter.
 
 
+❦
 
 30
 si omitted by P1, added by P corr.
+❦
 
 31
 egregio Novak; rigido Frankfurter; recto Baehrens.
 
 
+❦
 
 32
 iniussu eius P corr. (uniussu P1), defended by Bitschofsky (meaning "without his consent"); in usu eius Peter2, following Petschenig.
 
 
+❦
 
 33
 et omitted by P, added by B3.
 
 
+❦
 
 34
 tam Peter; tantum P, Petschenig.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

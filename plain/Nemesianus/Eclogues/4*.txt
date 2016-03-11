@@ -1,51 +1,461 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p478
+Nemesiani
+	
+Ecloga IV
+	
+
+
+Lycidas: Mopsus
+	
+
+
+
+
+
+
+Populea Lycidas nec non et Mopsus in umbra,
+	
+pastores, calamis ac versu doctus uterque
+	
+nec triviale sonans, proprios cantabat amores.
+	
+nam Mopso Meroe, Lycidae crinitus Iollas
+	5
+ignis erat; parilisque furor de dispare sexu
+	
+cogebat trepidos totis discurrere silvis.
+	
+hos puer ac Meroe multum lusere furentes,
+	
+dum modo condictas vitant in vallibus ulmos,
+	
+nunc fagos placitas fugiunt promissaque fallunt
+	10
+antra nec est animus solitos alludere1 fontes.
+	
+cum tandem fessi, quos dirus2 adederat3 ignis,
+	
+sic sua desertis nudarunt vulnera silvis
+	
+inque vicem dulces cantu luxere4 querellas.
+
+	
+M.
+
+immitis Meroe rapidisque fugacior Euris,
+	15
+cur nostros calamos, cur pastoralia vitas
+	
+carmina? quemve effugis? quae me tibi gloria victo?
+	
+quid vultu mentem premis ac spem fronte serenas?
+	
+tandem, dura, nega: possum non5 velle negantem.
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	20
+p480
+L.
+
+respice me tandem, puer o crudelis Iolla.
+	
+non hoc semper eris: perdunt et gramina flores,
+	
+perdit spina rosas nec semper lilia candent
+	
+nec longum tenet uva comas nec populus umbras:
+	
+donum forma breve est nec se quod commodet annis.
+	25
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+M.
+
+cerva marem sequitur, taurum formosa iuvenca,
+	
+et Venerem sensere lupae, sensere leaenae
+	
+et genus aerium volucres et squamea turba
+	
+et montes silvaeque, suos habet arbor amores:
+	30
+tu tamen una fugis, miserum tu prodis6 amantem.
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+L.
+
+omnia tempus alit, tempus rapit: usus in arto est.
+	
+ver erat, et vitulos vidi sub matribus istos,
+	
+qui nunc pro nivea coiere in cornua vacca.
+	35
+et tibi iam tumidae nares et fortia colla,
+	
+et tibi bis denis numerantur messibus anni.
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+M.
+
+hue, Meroe formosa, veni: vocat aestus in umbram.
+	
+iam pecudes subiere nemus, iam nulla canoro
+	40
+gutture cantat avis, torto non squamea tractu
+	
+signat humum serpens: solus cano. me sonat omnis
+	
+silva, nec aestivis cantu concedo cicadis.
+	
+p482
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+L.
+
+tu quoque, saeve puer, niveum ne perde colorem
+	45
+sole sub hoc: solet hic lucentes urere malas.
+	
+hic7 age pampinea mecum requiesce sub umbra:
+	
+hic tibi lene fluens8 fons murmurat, hic et ab ulmis
+	
+purpureae fetis dependent vitibus uvae.
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	50
+M.
+
+qui tulerit Meroes fastidia lenta superbae,
+	
+Sithonias feret ille nives Libyaeque calorem,
+	
+Nerinas potabit aquas taxique nocentis
+	
+non metuet sucos, Sardorum gramina vincet
+	
+et iuga Marmaricos coget sua ferre leones.
+	55
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+L.
+
+quisquis amat pueros, ferro praecordia duret,
+	
+nil properet discatque diu patienter amare
+	
+prudentesque animos teneris non spernat in annis,
+	
+perferat et fastus. sic olim gaudia sumet,
+	60
+si modo sollicitos aliquis deus audit amantes.
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+M.
+
+quid prodest, quod me pagani mater Amyntae
+	
+p484
+ter vittis, ter fronde sacra, ter ture vaporo,
+	659 incendens vivo crepitantes sulphure lauros,
+	64
+lustravit cineresque aversa effudit in amnem,
+	
+cum sic in Meroen totis miser ignibus urar?
+	
+cantet, amat quod quisque: levant et carmina curas.
+
+	
+L.
+
+haec eadem nobis quoque10 versicoloria fila
+	
+et mille ignotas Mycale circumtulit herbas;
+	70
+cantavit, quo luna tumet, quo rumpitur anguis,
+	
+quo currunt scopuli, migrant sata, vellitur arbos.
+	
+plus tamen ecce meus, plus est formosus Iollas.
+	
+cantet, amat quod quisque: levant et carmina curas.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 ad ludere Maehly, Baehrens.
 
 
+❦
 
 2
 durus NGA: lusus vel luxus V: dirus H. Schenkl: torridus Baehrens.
 
 
+❦
 
 3
 ederat NG V plerique, Baehrens: adederat V nonnulli.
 
 
+❦
 
 4
 dixere vulgo: duxere V plerique: luxere Glaeser: mulsere Maehly.
 
 
+❦
 
 5
 non codd.: iam Baehrens: nam C. Schenkl.
 
 
+❦
 
 6
 prodis NG: perdis V.
 
 
+❦
 
 7
 hic V plerique, Leo, Giarratano: hac G, Baehrens.
 
 
+❦
 
 8
 virens NG, H. Schenkl: fluens V plerique.
 
 
+❦
 
 9
 versus qui sunt in codicibus 64 et 65 transposuit Hauptius.
 
 
+❦
 
 10
 quoque NGA: quae V.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Oct. 07

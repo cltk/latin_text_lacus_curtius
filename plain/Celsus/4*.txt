@@ -1,4 +1,124 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+III
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber
+				
+V
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p354
+Liber IV
+	
+
 1
 
 Hactenus reperiuntur ea genera morborum, quae in totis corporibus ita sunt, ut is certae sedes adsignari non possint: nunc de iis dicam, quae sunt in partibus. Facilius autem omnium interiorum morbi curationesque in notitiam venient, si prius eorum sedes breviter ostendero.
@@ -405,6 +525,9 @@ Ex vulva quoque feminis vehemens malum nascitur proximeque ab stomacho vel adfic
 
 p448solanum in lac demissum, deinde contritum, et cera alba atque medulla cervina cum irino, aut sebum taurinum vel caprinum cum rosa mixtum. Dandum etiam potui vel castoreum est vel git vel anetum. Si parum pura est, purgatur iunco quadrato. Si vero vulva exulcerata est, ceratum ex rosa fiet, ei recens suilla adeps et ex ovis album misceatur, idque adponatur; vel album ex ovo cum rosa mixtum, adiecto, quo facilius consistat, contritae rosae pulvere. Dolens vero ea sulpure suffumigari debet. At si purgatio nimia mulieri nocet, remedio sunt cucurbitulae cute incisa inguinibus vel etiam sub mammis admotae. Si maligna purgatio est, subicienda sunt medicamentaJJJ quae evocent sanguinem: costum, puleium, violae albae, apium, nepita et satureia et hysopum, In cibum quoque accipiat quae apta sunt: porrum, rutam, cyminum, caepas, sinapi, vel omne acrum olus. Si vero sanguis, qui ex inferiore parte erumpere solet, is ex naribus eruperit, incisis inguinibus adponenda est cucurbita idque per tres vel quattuor menses tricesimo quoque die repetieris: tunc scias hoc vitium sanasse. Si vero non se sanguis ostenderit, scias ei dolores capitis surgere. Tunc ex brachio ei sanguis emittendus est et statim curasti eam.JJJ
 
+• • •
+
+	
 coeuntia. Idem faciunt etiam albae olivae, et nigrum papaver cum melle adsumptum, et cummis
 
 
@@ -462,45 +585,57 @@ Ex quocumque autem morbo quis invalescit, si tarde confirmatur, vigilare prima l
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 zzzz
 
 
+❦
 
 2
 zzzz
 
 
+❦
 
 3
 zzzz
 
 
+❦
 
 4
 zzzz
 
 
+❦
 
 5
 zzzz
 
 
+❦
 
 6
 zzzz
 
 
+❦
 
 7
 zzzz
 
 
+❦
 
 8
 zzzz
 
 
+❦
 
 9
 zzzz
@@ -508,3 +643,116 @@ zzzz
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+VII Kal. Mar. 05

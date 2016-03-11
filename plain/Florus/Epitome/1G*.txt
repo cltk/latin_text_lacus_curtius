@@ -1,4 +1,134 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars VI
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars VIII
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+p92
+
+XXII. Bellvm Pvnicvm Secvndvm
+	
+
 II, 6
 Post primum Punicum bellum vix quadriennii requies: ecce alterum bellum, minus quidem spatio — nec enim amplius decem et octo annos habet —, sed adeo cladium atrocitate terribilius, ut si quis conferat damna utriusque populi, similior victo sit
 
@@ -93,8 +223,15 @@ p114cessit, praemiumque victoriae Africa fuit et secutus Africam statim terrarum
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Fabius del. Graevius.
+
+
+
 
 
 
@@ -105,11 +242,20 @@ Flaminio N: flamminino BL: flamminio I.
 
 
 
+
+
+
 3
 et scripsi: est codd.
 
+
+
+
 4
 ceciderunt Aldus: ceciderant BIL.
+
+
+
 
 
 
@@ -120,8 +266,14 @@ et ipsius et exercitus Dukerus: et ipse et ipsius exercitus B.
 
 
 
+
+
+
 6
 perculit Salmasius: perpulit BI: pepulit N.
+
+
+
 
 
 
@@ -132,8 +284,14 @@ o pudor I: pudor B: o pudor manu NL.
 
 
 
+
+
+
 8
 exercitu I: exercitum B.
+
+
+
 
 
 
@@ -141,8 +299,14 @@ exercitu I: exercitum B.
 9
 de servis se virtute Salmasius: de servitute codd.
 
+
+
+
 10
 dubitare I: decedere B.
+
+
+
 
 
 
@@ -153,11 +317,20 @@ hostis in iugulo I: hosti singulo B.
 
 
 
+
+
+
 12
 mediaque Heinsius: mediamque codd.
 
+
+
+
 13
 vix Rossbachius: vim B.
+
+
+
 
 
 
@@ -168,8 +341,14 @@ pusilli illam iam: pusilli iam B: illam NL: illiam iam I.
 
 
 
+
+
+
 15
 omenque: nomenque B: omnemque LI.
+
+
+
 
 
 
@@ -180,14 +359,26 @@ restitisse post deos inser. B.
 
 
 
+
+
+
 17
 iam tum quom Rossbachius: tantum quod codd.
+
+
+
 
 18
 in ultimum Italiae angulum Halmius: in ultimo Italiae angulo codd.
 
+
+
+
 19
 est I: fuit B.
+
+
+
 
 
 
@@ -198,8 +389,117 @@ post utriuque add. clasis B, classis I.
 
 
 
+
+
+
 21
 maximi I: maxime BN.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Septimius Severus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Clodius Albinus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p430
+
+Pescennius Niger
+	
+
 11 Rarum atque difficile est ut, quos1 tyrannos aliorum victoria fecerit, bene mittantur in litteras, atque ideo vix omnia de his plene in monumentis atque annalibus habentur. 2 primum enim, quae magna sunt in eorum honorem ab scriptoribus depravantur, deinde alia supprimuntur, postremo non magna diligentia in eorum genere ac vita requiritur, cum satis sit audaciam eorum et bellum, in quo victi fuerint, ac poenam proferre.
 
 	
@@ -71,14 +179,47 @@ p446statim praefecti facti sunt. 5 huius etiam illud fuit, ut nemo adsideret in
 8
 1 Denique Delphici Apollinis vates in motu23 rei publicae maximo, cum nuntiaretur tres esse imperatores, Severum Septimium, Pescennium Nigrum, Clodium Albinum, consultus quem expediret rei publicae imperare, versum Graecum huiusmodi fudisse dicitur:
 
+
+
+
+"Optimus est Fuscus, bonus Afer, pessimus Albus."
+		
+
+
 p448
 2 ex quo intellectum Fuscum Nigrum appellatum vaticinatione, Severum Afrum, Album vero Albinum dictum. 3 nec defuit alia curiositas, qua requisitum est qui esset obtenturus rem publicam. ad quod ille respondit alium versum talem:
+
+
+
+
+"Fundetur sanguis Albi Nigrique animantis,
+			
+imperium mundi Poena reget urbe profectus."
+		
+
 
 
 4 item, cum quaesitum esset quis illi24 successurus esset, respondisse itidem Graeco versu dicitur:
 
 
+
+
+"Cui dederint superi nomen habere Pii."
+		
+
+
+
 5 quod omnino intellectum non est nisi cum Bassianus Antonini, quod verum signum Pii fuit, nomen accepit. 6 item cum quaereretur quamdiu imperaturus esset, respondisse Graece dicitur:
+
+
+
+
+
+"Bis denis Italum conscendit navibus aequor,
+		
+si tamen una ratis transiliet pelagus."
+		
+
 
 
 ex quo intellectum Severum viginti annos expleturum.
@@ -121,6 +262,12 @@ p456laudare inrisio est, maxime imperatores, a quibus speratur, qui timentur, qu
 4 Domus eius hodie Romae visitur in Campo Iovis, quae appellatur Pescenniana.37 in qua simulacrum eius in trichoro consistit, positum38 ex Thebaico marmore, quod ille ad similitudinem sui factum a grege39 Thebaeorum acceperat. 5 exstat etiam epigramma Graecum, quod Latine hanc habet sententiam:
 
 	
+
+
+
+
+6 "Terror Aegyptiaci Niger astat militis ingens,
+			
 Thebaidos socius, aurea saecla volens.
 			
 hunc reges, hunc gentes amant, hunc aurea Roma,
@@ -131,213 +278,360 @@ Nigrum nomen habet, nigrum41 formavimus ipsi,
 			
 ut consentiret forma, metalle, tibi."
 		
+
+
+
 7 quos quidem versus Severus eradi noluit, cum hoc ei et praefecti suggererent et officiorum magistri, addens: 8 "Si talis fuit, sciant omnes qualem vicerimus; si talis non fuit, putent omnes nos talem vicisse; immo sic sit, quia fuit talis."
 
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 quod P.
 
 
+❦
 
 2
 quo Closs; qua P, Peter.
 
 
+❦
 
 3
 Litteris Peter from Σ; om. in P.
 
 
+❦
 
 4
 et ius Salmasius, Lenze; eius P; eius del. by Peter.
 
 
+❦
 
 5
 om. in P.
 
 
+❦
 
 6
 seueri P.
 
 
+❦
 
 7
 se subsellia P.
 
 
+❦
 
 8
 populi Kellerbauer; populus P, Peter.
 
 
+❦
 
 9
 imperator iam P corr., Peter; imperatorium P1.
 
 
+❦
 
 10
 possumus P.
 
 
+❦
 
 11
 uiuent P.
 
 
+❦
 
 12
 hoc uocant cum s. m. potarunt Editor; uocant cum hoc s. m. potare P; uocant illi hoc s. m. potare Peter.
 
 
+❦
 
 13
 uana P.
 
 
+❦
 
 14
 timuerit . . . tenebis Petschenig, cf. Hohl, Klio, xiii p143; timueris . . . timebis P; <non> timueris t. timeberis Peter.
 
 
+❦
 
 15
 de hoc om. in P.
 
 
+❦
 
 16
 se seuerus P.
 
 
+❦
 
 17
 tantum sane illud P; Tantum sane ille Damsté; statum tantum. sane illud Peter1; statum nutantem. sane illud Petschenig, Peter2.
 
 
+❦
 
 18
 uidebatur Peter; et uidebatur P.
 
 
+❦
 
 19
 quae semper Editor; qua se P; † qua se Peter.
 
 
+❦
 
 20
 musio P, Peter.
 
 
+❦
 
 21
 pausas Gruter; paucas P.
 
 
+❦
 
 22
 scaeuis Salmasius; sceui P.
 
 
+❦
 
 23
 immo P.
 
 
+❦
 
 24
 illis P.
 
 
+❦
 
 25
 quidem P.
 
 
+❦
 
 26
 adfuit P.
 
 
+❦
 
 27
 item P.
 
 
+❦
 
 28
 cui Salmasius; qui P.
 
 
+❦
 
 29
 ad perniciem Edit. Princeps; perniciem P, Peter.
 
 
+❦
 
 30
 magis uiuo quam mortuo Editor; magis ista quam mortuo P; lacuna before mortuo Peter.
 
 
+❦
 
 31
 putauit Hirschfeld, Peter2; portauit P, Peter1.
 
 
+❦
 
 32
 esse quae P.
 
 
+❦
 
 33
 egisse Salmasius; esse P.
 
 
+❦
 
 34
 om. in P.
 
 
+❦
 
 35
 <uel> cuiusuis Baehrens, Peter2; cuius P; <uel> alius Peter1.
 
 
+❦
 
 36
 Quinctium et Marcium Jordan; quintum marcium P.
 
 
+❦
 
 37
 pescenniani P.
 
 
+❦
 
 38
 consistit, positum Peter; constituit statim posta annum P.
 
 
+❦
 
 39
 grege Lumbroso; rege P, Peter.
 
 
+❦
 
 40
 om. in P.
 
 
+❦
 
 41
 nigram P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VIII Id. Dec. 04

@@ -1,4 +1,96 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars
+				
+Posterior
+				
+
+
+
+
+
+Anonymi Valesiani
+	
+p508
+Pars Prior
+	
+
+Origo Constantini Imperatoris
+	
+
 1
 1 Diocletianus cum Herculio Maximiano imperavit annos XX.
 
@@ -88,197 +180,241 @@ p530ripam Gothicam Dalmatius tuebatur. Item Constantinus cum bellum pararet in P
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 inde tribunus]*; in tribus, B; exin tribunus, Henr. Val.; tum tribunus, Zangemeister.
 	
+
 * References like this are to Mommsen's text, usually without naming the source of the reading. When the source is given, or can be found, it is added. References like
 	
 note 2, p512, are to Mommsen's conjectures ("scripsi"). Sometimes he expresses a preference for a reading ("scribendum"), as in
 	
 note 1, p512, but does not put it in his text.
 	
+❦
+
 2
 sub iisdem] Henr. Val.; sed his enim, B.
 
 
+❦
 
 3
 pedes] Rühl; pedes sub, B; pedes supplicem, Henr. Val.
 
 
+❦
 
 4
 Seuerus]; reuersus, B.
 
 
+❦
 
 5
 ciuitatis]; ciuitati, pref. by Momm.
 
 
+❦
 
 6
 motos multos suorum, Momm.; lac. of about 5 letters, uirorum, B.
 
 
+❦
 
 7
 deseruisse] deseruisset, B.
 
 
+❦
 
 8
 ingenti]; inguinis, pref. by Momm.; cf. Ps. Vict., Epit. 40.4, consumptis genitalibus; Euseb., Hist. Eccl. viii.3,16.
 
 
+❦
 
 9
 casu, Momm.; caesar, B.
 
 
+❦
 
 10
 peiurium] B; periurium, edd.
 
 
+❦
 
 11
 uilla] Henr. Val.; uia, B.
 
 
+❦
 
 12
 arcentis]; arcentes, B; urgentis, sugg. by Momm.; ruentis, Zangemeister.
 
 
+❦
 
 13
 incisum] recisum, pref. by Momm.
 
 
+❦
 
 14
 annos VI] Henr. Val.; an . . ., B.
 
 
+❦
 
 15
 Maximiani . . . Bassianus, Momm.; diocliciani et maximiani inter constantinum licinium et basianum, B.
 
 
+❦
 
 16
 Licinio] Hadr. Val.; uicino, B.
 
 
+❦
 
 17
 Senicio]; sinicius, B.
 
 
+❦
 
 18
 et]; B omits.
 
 
+❦
 
 19
 parte, Momm.; item, B; tribus milibus, Zangemeister.
 
 
+❦
 
 20
 limitis] Hadr. Val.; militis, B.
 
 
+❦
 
 21
 fecit] Henr. Val.; B omits.
 
 
+❦
 
 22
 ad Byzantium, Momm.; a bizantium, B2
+❦
 
 23
 facti]; facti sunt, Gardt.; factis, B3.
 
 
+❦
 
 24
 consulibus] Oros., Henr. Val.; B omits.
 
 
+❦
 
 25
 repentina . . . efferbuit (with changes in order) = Orosius, VII.28.18.
 
 
+❦
 
 26
 Thessalonica]; tessalonica, B; Thessalonicae, Gardt.
 
 
+❦
 
 27
 impetu represso, Momm.; et impetu et represso, B3.
 
 
+❦
 
 28
 ab]; B omits.
 
 
+❦
 
 29
 corruptis. rupta iam] Henr. Val.; corrupta enim, B.
 
 
+❦
 
 30
 consensu, Momm.; exercitus, Henr. Val.; sensus, B.
 
 
+❦
 
 31
 petit . . . Byzantio] Henr. Val.; quod m. d. contendere . . . bizantium (bizantio, B3), B.
 
 
+❦
 
 32
 refugeret, Momm.; re effugeret, B.
 
 
+❦
 
 33
 pugnauit] Hadr. Val.; B omits.
 
 
+❦
 
 34
 Alica] B.
 
 
+❦
 
 35
 regalis]; regulis, B.
 
 
+❦
 
 36
 tum, Momm.; cum, B.
 
 
+❦
 
 37
 liburnas, Momm.; liburnam, B; liburniam, earlier edd.
 
 
+❦
 
 38
 tumultu militaribus, Momm.; tumultum militari, B.
 
 
+❦
 
 39
 omnibus]
@@ -286,39 +422,47 @@ omnibus]
 Orosius, VII.28.21; omnium, B.
 
 
+❦
 
 40
 exercere] B, with inferior MSS. of Orosius; exerere, the better MSS.
+❦
 
 41
 potuit] Orosius; B omits.
 
 
+❦
 
 42
 ex se, Momm.; ex, B.
 
 
+❦
 
 43
 insignis uictoriae memoriam, Momm.; insignis uictoriae, B; insigne uictoriae, previous editors.
 
 
+❦
 
 44
 regias, Momm.; thesauros regias (regies, B2), B.
 
 
+❦
 
 45
 probabantur] Rühl; probantur, B.
 
 
+❦
 
 46
 aduersum omnes]; omnes aduersum, preferred by Momm.
 
 
+❦
 
 47
 uicem]
@@ -326,29 +470,148 @@ uicem]
 Orosius, VII.28.29; uicae, B.
 
 
+❦
 
 48
 edicto] Oros.; aedito, B.
 
 
+❦
 
 49
 soli sinu] Oros. solis simu, B.
 
 
+❦
 
 50
 itaque, Momm.; ita ut, B.
 
 
+❦
 
 51
 uilla] B; in uilla, Orosius.
 
 
+❦
 
 52
 diem obiit] Orosius; B omits.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Excerptorum
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VIII Kal. Nov. 06

@@ -1,5 +1,133 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XVII
+				
+
+
+Haec pagina telaris liber est
+				
+
+
+
+Noctium Atticarum
+				
+
+
+A. Gellii
+				
+
+
+
+a
+Loeb Classical Library
+editarum
+				
+MCMXXVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber XIX
+				
+
+
+
+
+
+(Vol. III)
+Gellius
+	
+Noctes Atticae
+	
+
+
+Liber XVIII
+	
+
+1
+
+Disputationes a philosopho Stoico et contra a Peripatetico arbitro Favorino factae; quaesitumque inter eos, quantum in perficienda vita beata virtus valeret quantumque esset in his, quae dicuntur "extranea".
+
+	
 1 Familiares Favorini erant duo quidam non incelebres in urbe Roma philosophi. Eorum fuit unus Peripateticae disciplinae sectator, alter Stoicae. 2 His quondam ego acriter atque contente pro suis utrimque decretis propugnantibus, cum essemus una omnes Ostiae cum Favorino, interfui. 3 Ambulabamus autem in litore, cum iam advesperasceret, aestate anni nova. 4 Atque ibi Stoicus censebat et vitam beatam hominum virtute animi sola et miseriam summam malitia sola posse effici, etiamsi cetera bona omnia, quae corporalia et externa appellarentur, virtuti deessent, malitiae adessent. 5 Ille contra Peripateticus miseram quidem vitam vitiis animi et malitia sola fieri concedebat, sed ad conplendos omnes vitae beatae numeros virtutem solam nequaquam satis esse existimabat, quoniam et corporis integritas sanitasque et honestus modus formae et pecunia familiaris et bona existimatio ceteraque omnia corporis et fortunae bona necessaria viderentur perficiendae vitae beatae. 6 Reclamabat hoc in loco Stoicus et, tamquam duas ille res diversas poneret, mirabatur, quod, cum essent malitia et virtus duo contraria, vita misera et beata quoque aeque contraria, 7 non servaret in utrisque vim et naturam contrarii et ad miseriam quidem vitae conficiendam satis valere malitiam solam putaret, ad praestandam vero vitam beatam non satis solam esse virtutem diceret. 8 Atque id maxime dissidere neque convenire dicebat, quod, qui profiteretur vitam nullo pacto beatam effici posse, si virtus sola abesset, idem contra negaret beatam fieri vitam, cum sola virtus adesset, et quem daret haberetque virtuti absenti honorem, eundem petenti atque praesenti adimeret. 9 Tum Peripateticus perquam hercle festive "rogo te" inquit "cum bona venia respondeas, an existimes esse vini amphoram, cum abest ab ea unus congius?" 10 "Minime" inquit "vini amphora dici potest, ex qua abest congius." 11 Hoc ubi accepit Peripateticus "unus igitur" inquit "congius amphoram facere dici debebit, quoniam, cum deest ille unus, non fit vini amphora et, cum accessit, fit ampliora. Quod si id dicere absurdum est uno congio solo fieri amphoram, itidem absurdum est una sola virtute vitam fieri beatam dicere, quoniam, cum virtus abest, beata esse vita numquam potest." 12 Tum Favorinus aspiciens Peripateticum "est quidem" inquit "argutiola haec, qua de congio vini usus es, exposita in libris; sed, ut scis, captio magis lepida quam probum aut simile argumentum videri debet. 13 Congius enim, cum deest, efficit quidem, ne sit iustae mensurae amphora; sed cum accedit et additur, non ille unus facit amphoram, sed supplet. 14 Virtus autem, ut isti dicunt, non accessio neque supplementum, sed sola ipsa vitae beatae instar est et propterea beatam vitam sola una, cum adest, facit." 15 Haec atque alia quaedam minuta magis et nodosa tamquam apud arbitrum Favorinum in suam uterque sententiam conferebant. 16 Sed cum iam prima fax noctis et densiores esse tenebrae coepissent, prosecuti Favorinum in domum, ad quam devertebat, discessimus.
+
+	
+2
+
+Cuiusmodi quaestionum certationibus Saturnalicia ludicra Athenis agitare soliti simus; atque inibi inspersa quaedam sophismatia et aenigmata oblectatoria.
 
 	
 1 Saturnalia Athenis agitabamus hilare prorsum ac modeste, non, ut dicitur, remittentes animum — nam "remittere" inquit Musonius "animum quasi amittere est" — sed demulcentes eum paulum atque laxantes iucundis honestisque sermonum inlectationibus. 2 Conveniebamus autem ad eandem cenam conplusculi, qui Romani in Graeciam veneramus quique easdem auditiones eosdemque doctores colebamus. 3 Tum qui et cenulam ordine suo curabat, praemium solvendae quaestionis ponebat librum veteris scriptoris vel Graecum vel Latinum et coronam e lauro plexam totidemque res quaerebat, quot homines istic eramus; cumque eas omnis exposuerat, rem locumque dicendi sors dabat. 4 Quaestio igitur soluta corona et praemio donabatur; non soluta autem tramittebatur ad eum, qui sortito successerat, idque in orbem vice pari servabatur. 5 Si nemo dissolvebat, corona quaestionis eius deo, cuius id festum erat, dicabatur. 6 Quaerebantur autem res huiuscemodi: aut sententia poetae veteris lepide obscura, non anxie, aut historiae antiquioris requisitio aut decreti cuiuspiam ex philosophia perperam invulgati purgatio aut captionis sophisticae solutio aut inopinati rariorisque verbi indagatio aut tempus item in verbo perspicuo obscurissimum. 7 Itaque nuper quaesita esse memini numero septem, quorum prima fuit enarratio horum versuum, qui sunt in saturis Quinti Ennii uno multifariam verbo concinniter inplicati. Quorum exemplum hoc est:
@@ -14,10 +142,25 @@ satin vates verant aetate in agunda?
 Corona igitur huius quaestionis deo feriarum istarum Saturno datast.
 
 	
+3
+
+Quid Aeschines rhetor in oratione, qua Timarchum de inpudicitia accusavit, Lacedaemonios statuisse dixerit super sententia probatissima, quam inprobatissimus homo dixisset.
+
+	
 1 Aeschines, vel acerrimus prudentissimusque oratorum, qui apud contiones Atheniensium floruerunt, in oratione illa saeva criminosaque et virulenta, qua Timarchum de inpudicitia graviter insigniterque accusavit, nobile et inlustre consilium Lacedaemoniis dedisse dicit virum indidem civitatis eiusdem principem virtute atque aetate magna praeditum. 2 "Populus" inquit "Lacedaemonius de summa republica sua, quidnam esset utile et honestum, deliberabat. 3 Tum exsurgit sententiae dicendae gratia homo quispiam turpitudine pristinae vitae defamatissimus, sed lingua tunc atque facundia nimium quanto praestabilis. 4 Consilium, quod dabat quodque oportere fieri suadebat, acceptum ab universis et conplacitum est, futurumque erat ex eius sententia populi decretum. 5 Ibi unus ex illo principum ordine, quos Lacedaemonii aetatis dignitatisque maiestate tamquam arbitros et magistros disciplinae publicae verebantur, commoto irritatoque animo exsilit et "quaenam," inquit "Lacedaemonii, ratio aut quae tandem spes erit urbem hanc et hanc rempublicam salvam inexpugnabilemque esse diutius posse, si huiuscemodi anteactae vitae hominibus consiliariis utemur? quod si proba istaec et honesta sententia est, quaeso vos, non sinamus eandem dehonestari turpissimi auctoris contagio." 6 Atque ubi hoc dixit, elegit virum fortitudine atque iustitia praeter alios praestantem, sed inopi lingua et infacundum, iussitque eum consensu petituque omnium eandem illam sententiam diserti viri, cuimodi posset verbis, dicere, ut nulla prioris mentione habita scitum atque decretum populi ex eius unius nomine fieret, qui id ipsum denuo dixerat. 7 Atque ita, ut suaserat prudentissimus senex, factum est. 8 Sic bona sententia mansit, turpis auctor mutatus est."
 
 	
+4
+
+Quod Sulpicius Apollinaris praedicantem quendam a sese uno Sallustii historias intellegi inlusit quaestione proposita, quid verba ista apud Sallustium significarent: "incertum, stolidior an vanior".
+
+	
 1 Cum iam adulescentuli Romae praetextam et puerilem togam mutassemus magistrosque tunc nobis nosmet ipsi exploratiores quaereremus, in Sandaliario forte apud librarios fuimus, cum ibi in multorum hominum coetu Apollinaris Sulpicius, vir in memoria nostra praeter alios doctus, iactatorem quempiam et venditatorem Sallustianae lectionis inrisit inlusitque genere illo facetissimae dissimulationis, qua Socrates ad sophistas utebatur. 2 Nam cum ille se unum et unicum lectorem esse enarratoremque Sallustii diceret neque primam tantum cutem ac speciem sententiarum, sed sanguinem quoque ipsum ac medullam verborum eius eruere atque introspicere penitus praedicaret, tum Apollinaris amplecti venerarique se doctrinas illius dicens "per," inquit "magister optume, exoptatus mihi nunc venis cum sanguine et medulla Sallustii verborum. 3 Hesterno enim die quaerebatur ex me, quidnam verba haec eius in quarto historiarum libro de Cn. Lentulo scripta significent, de quo incertum fuisse ait, stolidiorne esset an vanior", eaque ipsa verba, uti sunt a Sallustio scripta, dixit: 4 "At Cn. Lentulus patriciae gentis, collega eius, cui cognomentum Clodiano fuit, perincertum stolidior an vanior, legem de pecunia, quam Sulla emptoribus bonorum remiserat, exigenda promulgavit." 5 Quaesitum ergo ex se Apollinaris neque id se dissolvere potuisse adseverabat, quid esset "vanior" et quid "stolidior", quoniam Sallustius sic ea separasse atque opposuisse inter se videretur, tamquam diversa ac dissimilia nec eiusdem utraque vitii forent, ac propterea petebat, uti se doceret significationes utriusque vocis et origines. 6 Tum ille rictu oris labearumque ductu contemni a se ostendens et rem, de qua quaereretur, et hominem ipsum, qui quaereret: "priscorum" inquit "et remotorum ego verborum medullas et sanguinem, sicuti dixi, perspicere et elicere soleo, non istorum, quae proculcata vulgo et protrita sunt. Ipso illo quippe Cn. Lentulo stolidior est et vanior, qui ignorat eiusdem stultitiae esse vanitatem et stoliditatem." 7 Sed ubi hoc dixit, media ipsa sermonum reliquit et abire coepit. 8 Nos deinde eum tenebamus urgebamusque, et cumprimis Apollinaris, ut de vocabulorum istorum vel differentia vel, si ei ita videretur, similitudine plenius apertiusque dissereret et, ut ne sibi invideret discere volenti, orabat. 9 Atque ille se iam plane inludi ratus negotium sibi esse causatur et digreditur. 10 Nos autem postea ex Apollinari didicimus "vanos" proprie dici, non ut vulgus diceret, desipientis aut hebetes aut ineptos, sed, ut veterum doctissimi dixissent, mendaces et infidos et levia inaniaque pro gravibus et veris astutissime componentes; "stolidos" autem vocari non tam stultos et excordes quam taetros et molestos et inlepidos, quos Graeci mochtherous et phortikous dicerent. 11 Etyma quoque harum vocum et origines scriptas esse dicebat in libris Nigidianis. Quas requisitas ego et repertas cum primarum significationum exemplis, ut commentariis harum noctium inferrem, notavi et intulisse iam me aliquo in loco commentationibus istis existimo.
+
+	
+5
+
+Quod Q. Ennius in septimo annali "quadrupes eques" ac non "quadrupes ecus", ut legunt multi, scriptum reliquit.
 
 	
 1 Cum Antonio Iuliano rhetore, viro hercle bono et facundiae florentis, complures adulescentuli familiares eius Puteolis aestivarum feriarum ludum et iocum in litteris amoenioribus et in voluptatibus pudicis honestisque agitabamus. 2 Atque ibi tunc Iuliano nuntiatur anagnosten quendam, non indoctum hominem, voce admodum scita et canora Ennii annales legere ad populum in theatro. 3 "Eamus" inquit "auditum nescio quem istum Ennianistam": hoc enim se ille nomine appellari volebat. 4 Quem cum iam inter ingentes clamores legentem invenissemus - legebat autem librum ex annalibus Ennii septimum -, hos eum primum versus perperam pronuntiantem audivimus:
@@ -35,11 +178,26 @@ his equitat curritque: oculis equitare videmus;
 ergo oculis equitat. 11 Sed enim contentus" inquit "ego his non fui et, ut non turbidae fidei nec ambiguae, sed ut purae liquentisque esset, "ecus"ne an "eques" scriptum Ennius reliquisset, librum summae atque reverendae vetustatis, quem fere constabat Lampadionis manu emendatum, studio pretioque multo unius versus inspiciendi gratia conduxi et "eques", non "ecus", scriptum in eo versu inveni." 12 Hoc tum nobis Iulianus et multa alia erudite simul et adfabiliter dixit. Sed eadem ipsa post etiam in pervulgatis commentariis scripta offendimus.
 
 	
+6
+
+Quod Aelius Melissus in libro, cui titulum fecit de loquendi proprietate, quem, cum ederet, cornum esse Copiae dicebat, rem scripsit neque dictu neque auditu dignam, cum differre "matronam" et "matrem familias" existimavit differentia longe vanissima.
+
+	
 1 Aelius Melissus in nostra memoria fuit Romae summi quidem loci inter grammaticos id temporibus; sed maiore in litteris erat iactantia et sophisteiai quam opera. 2 Is praeter alia, quae scripsit compluria, librum composuit, ut tum videbatur, cum est editus, doctrinae inclutae. 3 Ei libro titulus est ingentis cuiusdam inlecebrae ad legendum; scriptus quippe est de loquendi proprietate. Quis adeo existimet loqui se recte atque proprie posse, nisi illas Melissi proprietates perdidicerit? 4 Ex eo libro verba haec sunt: " 'Matrona' est, quae semel peperit, quae saepius, 'mater familias'; sicuti sus, quae semel peperit, 'porcetra', quae saepius, 'scrofa'." 5 Utrum autem hoc de matrona ac de matrefamilias Melissus excogitaverit ipse et coniectaverit, an scriptum ab alio quo legerit, hariolis profecto est opus. 6 Nam de "porcetra" habet sane auctorem Pomponium in atellania, quae hoc eodem vocabulo inscripta est; 7 sed matronam non esse appellatam, nisi quae semel peperit, neque matrem familias, nisi quae saepius, nullis veterum scriptorum auctoritatibus confirmari potest. 8 Enimvero illud impendio probabilius est, quod idonei vocum antiquarum enarratores tradiderunt, matronam dictam esse proprie, quae in matrimonium cum viro convenisset, quoad in eo matrimonio maneret, etiamsi liberi nondum nati forent, dictamque ita esse a matris nomine, non adepto iam, sed cum spe et omine mox adipiscendi, 9 unde ipsum quoque "matrimonium" dicitur, matrem autem familias appellatam esse eam solam, quae in mariti manu mancipioque aut in eius, in cuius maritus, manu mancipioque esset, quoniam non in matrimonium tantum, sed in familiam quoque mariti et in sui heredis locum venisset.
+
+	
+7
+
+Quem in modum Favorinus tractaverit intempestivum quendam de verborum ambiguitatibus quaerentem; atque ibi, quot significationes capiat "contio".
 
 	
 1 Domitio, homini docto celebrique in urbe Roma grammatico, cui cognomentum "Insano" factum est, quoniam erat natura intractabilior et morosior, ei Domitio Favorinus noster cum forte apud fanum Carmentis obviam venisset atque ego cum Favorino essem, "quaeso" inquit "te, magister, dicas mihi, num erravi, quod, cum vellem demegorias Latine dicere, "contiones" dixi? 2 dubito quippe et requiro, an veterum eorum, qui electius locuti sunt, pro verbis et oratione dixerit quis "contionem". 3 Tum Domitius voce atque vultu atrociore "nulla" inquit "prorsus bonae salutis spes reliqua est, cum vos quoque, philosophorum inlustrissimi, nihil iam aliud quam verba auctoritatesque verborum cordi habetis. Mittam autem librum tibi, in quo id reperias, quod quaeris. Ego enim grammaticus vitae iam atque morum disciplinas quaero, vos philosophi mera estis, ut M. Cato ait, "mortualia"; glossaria namque colligitis et lexidia, res taetras et inanes et frivolas tamquam mulierum voces praeficarum. Atque utinam" inquit "muti omnes homines essemus! minus improbitas instrumenti haberet." 4 Cumque digressi essemus, "non tempestive" inquit Favorinus "hunc hominem accessimus. Videtur enim mihi episemainesthai. Scitote" inquit "tamen intemperiem istam, quae melancholia dicitur, non parvis nec abiectis ingeniis accidere, alla einai schedon ti to pathos touto heroikon et veritates plerumque fortiter dicere, sed respectum non habere mete kairou mete metrou. Vel ipsum hoc quale existimatis, quod nunc de philosophis dixit? nonne, si id Antisthenes aut Diogenes dixisset, dignum memoria visum esset?" 5 Misit autem paulo post Favorino librum, quem promiserat - Verri, opinor, Flacci erat -, in quo scripta ad hoc genus quaestionis pertinentia haec fuerunt: "senatum" dici et pro loco et pro hominibus, "civitatem" et pro loco et oppido et pro iure quoque omnium et pro hominum multitudine, "tribus" quoque et "decurias" dici et pro loco et pro iure et pro hominibus, "contionem" autem tria significare: 6 locum suggestumque, unde verba fierent, sicut M. Tullius in oratione, quae inscripta est contra contionem Q. Metelli: 7 "escendi" inquit "in contionem, concursus est populi factus"; 8 item significare coetum populi adsistentis, sicuti idem M. Tullius in oratore ait: "Contiones saepe exclamare vidi, cum apte verba cecidissent. Etenim exspectant aures, ut verbis conligetur sententia"; item orationem ipsam, quae ad populum diceretur.
 Exempla in eo libro scripta non erant. Sed nos postea Favorino desideranti harum omnium significationum monumenta et apud Ciceronem, sicut supra scripsi, et apud elegantissimos veterum reperta exhibuimus; 9 id autem quod potissimum expetebat, "contionem" esse dictam pro verbis et oratione, docui titulo Tulliani libri, qui a M. Cicerone inscriptus est contra contionem Q. Metelli, quo nihil profecto significatur aliud, quam ipsa, quae a Metello dicta est, oratio.
+
+	
+8
+
+Homoioteleuta et homoioptota atque alia id genus, quae ornamenta orationis putantur, inepta esse et puerilia Lucilii quoque versibus declarari.
 
 	
 1 Homoioteleuta et isokataleketa et parisa et homoioptota ceteraque huiusmodi scitamenta, quae isti apirocali, qui se Isocratios videri volunt, in conlocandis verbis immodice faciunt et rancide, quam sint insubida et inertia et puerilia, facetissime hercle significat in quinto saturarum Lucilius. 2 Nam ubi est cum amico conquestus, quod ad se aegrotum non viseret, Haec ibidem addit festiviter:
@@ -51,6 +209,11 @@ debueris. Hoc "nolueris" et "debueris" te
 si minus delectat, quod atechnon et Eisocratium est
 lerodesque simul totum ac symmeirakides,
 non operam perdo, si tu hic.
+
+	
+9
+
+Quid significet apud M. Catonem verbum "insecenda"; quodque "insecenda" legendum sit quam, quod plerique existimant, "insequenda".
 
 	
 1 In libro vetere, in quo erat oratio M. Catonis de Ptolomaeo contra Thermum, sic scriptum fuit: "Sed si omnia dolo fecit omnia avaritiae atque pecuniae causa fecit, eiusmodi scelera nefaria, quae neque fando neque legendo audivimus, supplicium pro factis dare oportet." . . . 2 "Insecenda" quid esset, quaeri coeptum. Tum ex his, qui aderant, alter litterator fuit, alter litteras sciens, id est alter docens, doctus alter. 3 Hi duo inter sese dissentiebant. Et grammaticus quidem contendebat "insequenda" scribendum esse: " 'insequenda' enim scribi" inquit "oportuit, non 'insecenda', quoniam 'insequens' significat" . . ., traditumque esse "inseque" quasi "perge dicere" et "insequere", itaque ab Ennio scriptum in his versibus:
@@ -67,7 +230,17 @@ espete nyn moi, Mousai,
 dictum putant, quod Latine "inseque" dicitur; namque in altero n geminum, in altero s esse tralatum dicunt. 10 Sed etiam ipsum illud epe, quod significat verba aut versus, non aliunde esse dictum tradunt quam apo tou hepesthai kai tou eipein. 11 Eadem ergo ratione antiqui nostri narrationes sermonesque "insectiones" appellitaverunt.
 
 	
+10
+
+Errare istos, qui in exploranda febri venarum pulsus pertemptari putant, non arteriarum.
+
+	
 1 In Herodis C. V. villam, quae est in agro Attico loco, qui appellatur Cephisiae, aquis et lucis, nemoribus frequentem, aestu anni medio concesseram. 2 Ibi alvo mihi cita et accedente febri rapida decubueram. 3 Eo Calvenus Taurus philosophus et alii quidam sectatores eius cum Athenis visendi mei gratia venissent, medicus, qui tum in his locis repertus adsidebat mihi, narrare Tauro coeperat, quid incommodi paterer et quibus modulis quibusque intervallis accederet febris decederetque. 4 Tum in eo sermone, cum iam me sinceriore corpusculo factum diceret: "potes" inquit Tauro "tu quoque id ipsum comprehendere, ean hapsei autou tes phlebos", quod nostris verbis profecto ita dicitur: "si attigeris venam illius". 5 Hanc loquendi imperitiam, quod venam pro arteria dixisset, cum in eo docti homines, qui cum Tauro erant, tamquam in minime utili medico offendissent atque id murmure et vultu ostenderent, tum ibi Taurus, ut mos eius fuit, satis leniter: "certi" inquit "sumus, vir bone, non ignorare te, quid "vena" appelletur et quid "arteria", quod venae quidem suapte vi inmobiles sint et sanguinis tantum demittendi gratia explorentur, arteriae autem motu atque pulsu suo habitum et modum febrium demonstrent; 6 sed, ut video, pervulgate magis quam inscite locutus es: non enim te solum, sed alios quoque itidem errantis audivi venam pro arteria dicere. 7 Fac igitur, ut experiamur elegantiorem esse te in medendo quam in dicendo, et cum dis bene volentibus opera tua sistas hunc nobis sanum atque validum quam citissime." 8 Hoc ego postea cum in medico reprehensum esse meminissem, existimavi non medico soli, sed omnibus quoque hominibus liberis liberaliterque institutis turpe esse ne ea quidem cognovisse ad notitiam corporis nostri pertinentia, quae non altius occultiusque remota sunt et quae natura nobis tuendae valitudinis causa et in promptu esse et in propatulo volverit; ac propterea, quantum habui temporis subsicivi, medicinae quoque disciplinae libros attigi, quos arbitrabar esse idoneos ad docendum, et ex his cum alia pleraque ab isto humanitatis usu non aliena, tum de venis quoque et arteriis didicisse videor ad hunc ferme modum: 9 Vena est conceptaculum sanguinis, quod angeion medici vocant, mixti confusique cum spiritu naturali, in quo plus sanguinis est, minus spiritus; arteria est conceptaculum spiritus naturalis mixti confusique cum sanguine, in quo plus spiritus est, minus sanguinis; 10 sphygmos autem est intentio motus et remissio in corde et in arteria naturalis, non arbitraria. 11 Medicis autem veteribus oratione Graeca ita definitus est: Sphygmos estin diastole te kai systole aproairetos arterias kai kardias.
+
+	
+11
+
+Verba ex carminibus Furi Antiatis inscite a Caesellio Vindice reprehensa; versusque ipsi, in quibus ea verba sunt, subscripti.
 
 	
 1 Non hercle idem sentio cum Caesellio Vindice, grammatico, ut mea opinio est, haudquaquam inerudito. 2 Verum hoc tamen petulanter insciteque, quod Furium, veterem poetam, dedecorasse linguam Latinam scripsit huiuscemodi vocum fictionibus, quae mihi quidem neque abhorrere a poetica facultate visae sunt neque dictu profatuque ipso taetrae aut insuaves esse, sicuti sunt quaedam alia ab inlustribus poetis ficta dure et rancide. 3 Quae reprehendit autem Caesellius Furiana, haec sunt: quod terram in lutum versam "lutescere" dixerit et tenebras in noctis modum factas "noctescere" et pristinas reciperare vires "virescere", et, quod ventus mare caerulum cum crispicans nitefacit, "purpurat" dixerit, et opulentum fieri "opulescere". 4 Versus autem ipsos ex poematis Furianis, in quibus haec verba sunt, subdidi:
@@ -79,6 +252,11 @@ spiritus Eurorum viridis cum purpurat undas.
 Quo magis in patriis possint opulescere campis.
 
 	
+12
+
+Morem istum veteribus nostris fuisse verba patiendi mutare ac vertere in agendi modum.
+
+	
 1 Id quoque habitum est in oratione facienda elegantiae genus, ut pro verbis habentibus patiendi figuram, agentia ponerent ac deinde haec vice inter sese mutua verterent. 2 Iuventius in comoedia:
 pallium inquit flocci ut splendeat.
 Nonne hoc inpendio venustius gratiusque est quam si diceret "maculetur"? 3 Plautus etiam non dissimiliter:
@@ -87,10 +265,25 @@ exi tu, Dave, age, sparge; mundum esse hoc vestibulum volo.
 Venus ventura est nostra, non hoc pulveret. 5 In Asinaria quoque "contemples" dicit pro "contempleris": meum caput contemples, si quidem e re consultas tua. 6 Cn. Gellius in annalibus: "Postquam tempestas sedavit, Adherbal taurum immolavit." 7 M. Cato in originibus: "Eodem convenae conplures ex agro accessitavere. Eo res eorum auxit." 8 Varro libris, quos ad Marcellum de lingua Latina fecit: "in priore verbo graves prosodiae, quae fuerunt, manent, reliquae mutant"; "mutant" inquit elegantissime pro "mutantur". 9 Potest etiam id quoque ab eodem Varrone in septimo divinarum similiter dictum videri: "Inter duas filias regum quid mutet, inter Antigonam et Tulliam, est animadvertere." 10 Verba autem patiendi pro agentibus in omnibus ferme veterum scriptis reperiuntur. Ex quibus sunt pauca ista, quae nunc meminimus: "muneror te" pro "munero" et "significor" pro "significo" et "sacrificor" pro "sacrifico" et "adsentior" pro "adsentio" et "faeneror" pro "faenero" et "pigneror" pro "pignero" et alia istiusmodi pleraque, quae, proinde ut in legendo fuerint obvia, notabuntur.
 
 	
+13
+
+Quali talione Diogenes philosophus usus sit pertemptatus a dialectico quodam sophismatio inpudenti.
+
+	
 1 Saturnalibus Athenis alea quadam festiva et honesta lusitabamus huiuscemodi: 2 Ubi conveneramus complusculi eiusdem studii homines ad lavandi tempus, captiones, quae sophismata appellantur, mente agitabamus easque quasi talos aut tesserulas in medium vice sua quisque iaciebamus. 3 Captionis solutae aut parum intellectae praemium poenave erat nummus unus sestertius. 4 Hoc aere conlecto quasi manuario cenula curabatur omnibus, qui eum lusum luseramus. 5 Erant autem captiones ad hoc fere exemplum, tametsi Latina oratione non satis scite ac paene etiam inlepide exponuntur: "quod nix est, hoc grando non est; nix autem alba est: grando igitur alba non est". Item aliud non dissimile: "quod homo est, non est hoc equus; homo autem animal est: equus igitur animal non est". 6 Dicere ergo debebat, qui ad sophisma diluendum ac refellendum ritu aleatorio vocatus erat, in qua parte quoque in verbo captio foret, quid dari concedique non oporteret; nisi dixerat, nummo singulo multabatur. Ea multa cenam iuvabat. 7 Libet autem dicere, quam facete Diogenes sophisma id genus, quod supra dixi, a quodam dialectico ex Platonis diatriba per contumeliam propositum remuneratus sit. 8 Nam cum ita rogasset dialecticus: "quod ego sum, id tu non es?" et Diogenes adnuisset atque ille addidisset: "homo autem ego sum", cum id quoque adsensus esset et contra dialecticus ita conclusisset: "homo igitur tu non es", "hoc quidem", inquit Diogenes, "falsum est, et si verum id fieri vis, a me incipe".
 
 	
+14
+
+Quid sit numerus "hemiolos", quid "epitritos"; et quod vocabula ista non facile nostri ausi sunt vertere in linguam Latinam.
+
+	
 1 Figurae quaedam numerorum, quas Graeci certis nominibus appellant, vocabula in lingua Latina non habent. 2 Sed qui de numeris Latine scripserunt, Graeca ipsa dixerunt, fingere autem nostra, quoniam id absurde futurum erat, noluerunt. 3 Quale enim fieri nomen posset "hemiolio" numero aut "epitrito"? 4 Est autem hemiolios, qui numerum aliquem totum in sese habet dimidiumque eius, ut tres ad duo, quindecim ad decem, triginta ad viginti; 5 epitritos est, qui habet totum aliquem numerum et eiusdem partem tertiam, ut quattuor ad tres, duodecim ad novem, quadraginta ad triginta. 6 Haec autem notare meminisseque non esse ab re visum est, quoniam, vocabula ista numerorum nisi intelleguntur, rationes quaedam subtilissimae in libris philosophorum scriptae percipi non queunt.
+
+	
+15
+
+Quod M. Varro in herois versibus observaverit rem nimis anxiae et curiosae observationis.
 
 	
 1 In longis versibus, qui hexametri vocantur, item in senariis, animadverterunt metrici primos duos pedes, item extremos duo, habere singulos posse integras partes orationis, medios haut umquam posse, sed constare eos semper ex verbis aut divisis aut mixtis atque confusis. 2 M. etiam Varro in libris disciplinarum scripsit observasse sese in versu hexametro, quod omnimodo quintus semipes verbum finiret et quod priores quinque semipedes aeque magnam vim haberent in efficiendo versu atque alii posteriores septem, idque ipsum ratione quadam geometrica fieri disserit.
@@ -98,3 +291,102 @@ Venus ventura est nostra, non hoc pulveret. 5 In Asinaria quoque "contemples" d
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+Gellius
+			
+
+
+
+
+Classical Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Dec. 06

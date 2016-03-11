@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber V
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VII
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p81
+Liber Sextus
+	
+
 1
 Homines, ut boni ac fortes viri sint, hortatione egent, et suasionis oratione plena, quae et metum tollat, et addat animos; athletae quidem ad stadia hortandi sunt, milites ad arma. Robore non item extrinsecus adsumpto bestiae egent; at ex sese potius vires incitant et semet confirmant. Aper quidem pugnaturus ad lapides laeves ac politos1 dentes exacuit: quod Homerus etiam non ignoravit. Leo, ne quid ignave faciat et torpescat flagellans semetipsum cauda excitat, Homero itidem teste. Elephanti autem ad certamen ut incendantur, promuscide sese verberant; neque ad hoc ipsum cujusquam eent praeceptis, non eo qui accinat; Non jam sedere, non licet trahere moram: neque Tyrtaei versibus, ut animentur, opus habent. Taurus gregis dux, cum ab altero fuerit duce superatus, se in quendam locum ab aliis segregat, et semetipsum non alieno impulsu, sed sua sponte exercet, atque omni contentione, cornibus, calcibus, unguibus certat; cornua quidem in arbores infligit, pedibus pulverem spargit, ceterisque exercitationibus sese accommodat, et a vaccis se continet: sicque a venere abstinet, et libidini suae moderatur; quemadmodum Iccus palaestrita Tarentinus, quem Plato toto certaminum tempore omnis coitus expertem permansisse affirmat. Sic Iccum ratione praeditum, atque Olympiorum et Pythiorum cupidum, simul et gloriae sensu affectum, nihil admodum mirum videri debet, emendate et summa corporis castimonia vixisse; nam ei praemia proposita videbantur illustria, pinus Isthmica, laurus Pythica, oleaster Olympicus; tum vero sperabat se, quoad viveret, circumspiciendum esse, et cum e vita excessisset, magnam laudem ex ea re adepturum. Amoebeum quoque citharoedum accepi uxorem duxisse formosissimam, omni tamen tempore, quo in certaminibus versaretur, ab ea se abstinuisse. Diogenes, tragoediarum actor, universum omnino veneris usum abjecit. Clitomachus, pancratiastes, canes si quando complexu venereo junctos perspiceret, oculos ab eorum conspectu avertebat; et si quod in convivio verbum lascivum et libidinosum audisset, a consessu exsurgens discedebat. Atqui homines ratione valentes haec vel ad quaestum, vel ad gloriam fecisse, non magnam admirationem habet; at tauro suum adversarium vincenti quae praeconia, o Plato, laborum deferuntur? aut quae decernuntur praemia?
 
@@ -23,6 +145,22 @@ p83cervi abdunt; hoc diligentius ab hostibus sibi caventes, quod a cornibus jam 
 	
 6
 Equi, cum ad praelia itur, ad fossas tergiversantur, et foveas habent suspectas, nec facile ingredi aut transilire sustinent, et a palis terrae infixis abhorrent. Quod Homerus etiam hisce carminibus adseruit:
+
+
+
+
+
+Sic Hector passim socios hortatur, et orat,
+			
+Ut superent fossant; sed non est ullus equorum
+			
+Ausus se magnae primus committere fossae;
+			
+Hinnitos edunt stantes in margine tantum;
+			
+At qui transiliat, non est, aut ingrediatur.
+		
+
 
 
 7
@@ -248,6 +386,18 @@ Cleanthem Assium haec de formica coegit et invitum et fortissime contradicentem 
 p95filium, recepisse. Quid ad haec dicet Hesiodus? qui scripsit Jovem naturas distinxisse, ut
 
 
+
+
+
+Pisces atque ferae, tum pennataeque cohortes,
+			
+Mutua sint sibi praeda, agitant quia jure sine ullo;
+			
+Ast homini dedit esse aequi justique tenacem.
+		
+
+
+
 Atqui non haec dicet Priamus, siquidem is ipse homo ab homine, et heroe, et ex Jovis stirpe oriundo, ipse quoque Jovis progenies, multa Hectorem pecunia redemit.
 
 	
@@ -328,5 +478,120 @@ Secundum Maeotidis paludis locum, Conopium nuncupatum lupi, quos non a domestici
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita 
+IV Kal. Apr. 05

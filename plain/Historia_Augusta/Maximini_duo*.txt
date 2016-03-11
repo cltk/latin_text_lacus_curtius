@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Alexander Severus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Gordiani tres
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p314
+
+Maximini Duo
+	
+
 11 Ne fastidiosum esset Clementiae tuae, Constantine maxime, singulos quosque principes vel principum liberos per libros singulos legere, adhibui moderationem, qua in unum volumen duos Maximinos, patrem filiumque, congererem. 2 servavi deinceps hunc ordinem, quem Pietas tua etiam ab Tatio Cyrillo, Clarissimo Viro, qui Graeca in Latinum vertit, servari voluit. 3 quod quidem non in uno tantum libro sed etiam in plurimis deinceps reservabo, exceptis magnis imperatoribus, quorum res gestae plures atque clariores longiorem desiderant textum.
 
 	
@@ -69,6 +177,25 @@ p330vota in templis publice privatimque mulieres etiam cum suis liberis facerent
 p332mimus quidam in theatro praesente illo dicitur versus Graecos dixisse, quorum haec erat Latina sententia
 
 
+
+
+
+4 "Et qui ab uno non potest occidi, a multis occiditur.
+				
+elephans grandis est et occiditur,
+				
+leo fortis est et occiditur,
+				
+tigris fortis est et occiditur;
+				
+cave multos, si singulos non times."
+			
+
+
+
+5 et haec imperatore ipso praesente iam dicta sunt. sed cum interrogaret amicos, quid mimicus scurra dixisset, dictum est ei quod antiquos versus cantaret contra homines asperos scriptos; et ille, ut erat Thrax et barbarus, credidit. 6 nobilem circa se neminem passus est, prorsus ut Spartaci aut Athenionis exemplo imperaret.16 7 praeterea omnes Alexandri ministros variis modis interemit et17 dispositionibus eius invidit. 8 et dum suspectos habet amicos ac ministros eius, crudelior factus est.
+
+	
 10
 1 Cum esset ita moratus, ut ferarum more viveret, tristior et immanior factus est factione Magni cuiusdam consularis viri contra se parata, qui cum multis militibus et centurionibus ad eum confodiendum consilium inierat, cum in se imperium transferre cuperet. 2 et
 
@@ -203,12 +330,28 @@ p364merebatur, occisus est. qui senatui vincula minatus est, ut debebat, interem
 
 
 	
+MAXIMINUS IUNIOR
+	
+
 27
 1 De50 huius genere superius dictum est, ipse autem pulchritudinis fuit tantae, ut passim amatus sit a procacioribus feminis. nonnullae etiam optaverunt de eo concipere. 2 proceritatis videbatur posse illius esse, ut ad paternam staturam perveniret, si quidem anno vicensimo et primo periit, in ipso flore iuventutis, ut aliqui autem dicunt octavo decimo, litteris et Graecis et Latinis imbutus ad primam disciplinam.
 
 
 
 p3663 nam usus est magistro Graeco litteratore Fabillo, cuius epigrammata Graeca multa et exstant, maxime in imaginibus ipsius pueri. 4 qui versus Graecos fecit ex illis Latinis Vergilii, cum ipsum puerum describeret:
+
+
+
+
+
+
+Qualis ubi Oceani perfusus lucifer unda
+				
+extulit os sacrum caelo tenebrasque resolvit,
+				
+talis erat iuvenis patrio sub nomine clarus.
+		
+
 
 
 5 grammatico Latino usus est Philemone, iuris perito Modestino, oratore Tatiano, filio Titiani senioris, qui provinciarum libros pulcherrimos scripsit et qui dictus est simia temporis sui, quod cuncta esset imitatus. Habuit et Graecum rhetorem Eugamium sui temporis clarum.
@@ -275,56 +418,70 @@ p378Romae dicitur factum, unde in honorem matronarum templum Veneri Calvae senat
 	
 3 Sane quod nullo in loco tacendum est, cum et Dexippus et Arrianus et multi alii Graeci scripserunt Maximum et Balbinum imperatores contra Maximinum factos, Maximum autem cum exercitu missum et apud Ravennam bellum parasse, Aquileiam autem nisi victorem non vidisse: Latini scriptores non Maximum sed Pupienum contra Maximinum apud Aquileiam pugnasse dixerunt eundemque vicisse. 4 qui error unde natus sit, scire non possum, nisi forte idem est Pupienus qui Maximus. quod ideo testatum posui, ne quis me hoc nescisse crederet, quod re vera magnum stuporem ac miraculum crearet.60
 
+
+Apparatus Criticus:
+	
+
 1
 iuuenum etiam procer, et Hohl (Rh. Mus. lxx p477); nonnum etiam procerte P; nonnumquam etiam †procerte Peter.
 
 
+❦
 
 2
 quibus nec P.
 
 
+❦
 
 3
 ac Romana disciplina Baehrens, Lessing; ac Romanam disciplinam P, Peter1.
 
 
+❦
 
 4
 sed om. in P.
 
 
+❦
 
 5
 dicens: <diceris> Editor dicens P, Peter1; diceris Mommsen, Peter2.
 
 
+❦
 
 6
 Here follows in P the misplaced portion of the Vita Alexandri, c. xliii.7, fecisset et, to c. lviii.1, de Isauria; see
 Intro. to Vol. I, p. xxxiii. The portion of the Vita Maxim. beginning comperit Alexandrum and ending omnes qui mecum, c. xviii.2, has been similarly transferred to Max.‑Balb. viii.2, after homines vulgares.
 
 
+❦
 
 7
 ita om. in P.
 
 
+❦
 
 8
 et om. in P.
 
 
+❦
 
 9
 inter Madvig; in P, Peter.
 
 
+❦
 
 10
 digito uideretur P.
 
 
+❦
 
 11
 primus Ursinus (cf. Eutrop. ix.1;
@@ -332,126 +489,151 @@ primus Ursinus (cf. Eutrop. ix.1;
 Victor, Caes. xxv); primum P, Peter.
 
 
+❦
 
 12
 modo ins. by Damsté; om. in P and Peter.
 
 
+❦
 
 13
 ut om. in P.
 
 
+❦
 
 14
 Gygam Peter; gigantam P.
 
 
+❦
 
 15
 se om. in P.
 
 
+❦
 
 16
 imperaret Baehrens, Lessing; imperabat P, Peter.
 
 
+❦
 
 17
 et ins. by Petschenig; om. in P and Peter.
 
 
+❦
 
 18
 manu Cas., Peter; magnus P.
 
 
+❦
 
 19
 milibus Jordan, Peter; militibus P.
 
 
+❦
 
 20
 Titum Salm., Peter; ticum P.
 
 
+❦
 
 21
 triginta Salm., Peter; trecenta P.
 
 
+❦
 
 22
 quadringenta P.
 
 
+❦
 
 23
 incendit om. in P.
 
 
+❦
 
 24
 omnes Eyssenhardt; amnes P; a campis Peter.
 
 
+❦
 
 25
 eum sui om. in P; cum suo equo inhaerentem P, Peter1; eum sui equo inhaerente Peter2.
 
 
+❦
 
 26
 uel ins. by Peter; om. in P.
 
 
+❦
 
 27
 ac ins. by Peter; om. in P.
 
 
+❦
 
 28
 non ins. by Eyssenhardt and Peter; om. in P.
 
 
+❦
 
 29
 superantes Editor (cf. Herodian VII.4.6); per P; †per Peter.
 
 
+❦
 
 30
 propere Peter; per P.
 
 
+❦
 
 31
 aulicos Kellerbauer; alios P, Peter.
 
 
+❦
 
 32
 et nihil P, Peter.
 
 
+❦
 
 33
 senatus om. in P.
 
 
+❦
 
 34
 atque Obrecht; et qui P, Peter.
 
 
+❦
 
 35
 sed P.
 
 
+❦
 
 36
 Here ends the portion of this Vita that has been transferred in P to Max.‑Balb.viii.2; see
@@ -459,16 +641,19 @@ Here ends the portion of this Vita that has been transferred in P to Max.‑Bal
 note to c. v.3.
 
 
+❦
 
 37
 mortui Lenze; metu P, Peter; metu del. by Cas.
 
 
+❦
 
 38
 subdidit Peter; subtit Peter1; subuertit P corr.
 
 
+❦
 
 39
 et Balbinum om. in P1; et Clodium Balbinum (cf. Gord. x.1;
@@ -476,109 +661,230 @@ et Balbinum om. in P1; et Clodium Balbinum (cf. Gord. x.1;
 xxii.1) P corr., Peter.
 
 
+❦
 
 40
 Peter suggests as a reading to fill the lacuna: praecipue <duobus praetorianis a Gallicano et Maecenate et instigantibus contra praetorianos> [per] populum; cf. Gord. xxii.8.
 
 
+❦
 
 41
 sed Peter; et P.
 
 
+❦
 
 42
 propugnatio Salm., Peter; oppugnatio P.
 
 
+❦
 
 43
 pondisse P; spopondisse Edit. princ.
 
 
+❦
 
 44
 propere Peter1, Jordan; p̃ P; pretio Peter2.
 
 
+❦
 
 45
 refectisque Peter; fecistisque P.
 
 
+❦
 
 46
 qui ubi P, Novák; atque ibi Peter.
 
 
+❦
 
 47
 quare statim P, Peter; quare del. by Eyssenhardt and Novák.
 
 
+❦
 
 48
 urbe Damsté; urbem P, Peter.
 
 
+❦
 
 49
 So P, Peter1; <senatus> hostes, populi R. <hostes> Kellerbauer, Peter2.
 
 
+❦
 
 50
 de om. in P.
 
 
+❦
 
 51
 <qui> h. r. persecutor est Lenze; h. r. persecutores P; <ut> h. r. persecutor est Petschenig, Peter2.
 
 
+❦
 
 52
 cum ins. by Peter; om. in P.
 
 
+❦
 
 53
 omnes regias P, Damsté, Lenze; gemmis ornatas Peter.
 
 
+❦
 
 54
 inter om. in P.
 
 
+❦
 
 55
 rem P, Peter1; patrem Kellerbauer, Peter2.
 
 
+❦
 
 56
 So Peter; quod dicere P, def. by Petschenig.
 
 
+❦
 
 57
 lupi urbem P; urbem del. by Peter.
 
 
+❦
 
 58
 quam Damsté; qua P, Peter.
 
 
+❦
 
 59
 umbra pulchri oris Haupt, Peter2; umbrae pulchrioris P, Peter1.
 
 
+❦
 
 60
 crearet Peter2; creat P; quod . . . creat del. by Eyssenhardt and Peter1.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Dec. 04

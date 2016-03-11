@@ -1,3 +1,130 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Liber I
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+M. Terenti Varronis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+
+M. Terenti Varronis
+	
+
+Rerum Rusticarum
+	
+
+Liber Secundus
+	
 p306
 
 
@@ -356,108 +483,244 @@ Illi hoc, neque ab hoc quod mutaret Cossinius. Et simul Vituli libertus in urbem
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 retinniat Gesner; retineant.
 
 
+❦
 
 2
 Goetz, following the MSS., reads incipiam hinc [hic intermisimus]. The bracketed words, in capitals in the MSS., were perhaps inserted by some copyist, as Storr-Best suggests, in attempted facetiousness or in despair of a corrupt text.
 
 
+❦
 
 3
 Locus desperatus, despite the efforts of many editors to restore the reading of the archetype. Goetz gives, with Keil, an emended reading omitted above, but marks with a dagger: cum poetam sesum visere venissemus, ni medici adventus nos inpedisset.
 
 
+❦
 
 4
 baelare Friedrich: balare.
 
 
+❦
 
 5
 No such mountains are known, and the word is certainly corrupt.
 
 
+❦
 
 6
 Keil thinks words are lost; but the sentence seems quite Varronian.
 
 
+❦
 
 7
 adhibent Schneider: adhibeant.
 
 
+❦
 
 8
 Jordan and Keil would omit aulia, which is meaningless.
 
 
+❦
 
 9
 Venetia Victorius: vineta.
 
 
+❦
 
 10
 The MSS. have Palibus. Keil suggests Laribus, quoting a fragment (Nonius 538) of Varro which states that "asses" were paid to the Lares.
 
 
+❦
 
 11
 Bomagiros Wilamowitz: Homogyros.
 
 
+❦
 
 12
 So the accepted text; but it is evidently corrupt.
 
 
+❦
 
 13
 nisi ex eis Keil: niestei.
 
 
+❦
 
 14
 a Thessalia . . . Roseani restored by Keil, following Pontedera: a terra apulia brosea roseani.
 
 
+❦
 
 15
 hinni added by Iucundus.
 
 
+❦
 
 16
 habet added by Keil.
 
 
+❦
 
 17
 quod pertinet added by Keil.
 
 
+❦
 
 18
 ovium si magni sunt Goetz after Keil; ovium sed magnum.
 
 
+❦
 
 19
 lacte Pontedera after Ursinus: lanae.
 
 
+❦
 
 20
 mulgendo suggested by Goetz: motu.
 
 
+❦
 
 21
 ad alendum utile quod added by Keil.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Re Rustica
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+Id. Nov. 07

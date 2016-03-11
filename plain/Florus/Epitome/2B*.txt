@@ -1,4 +1,161 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars I
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars III
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+
+
+
+VI.
+		
+
+Bellum adversus socios.
+		
+
+
+
+VII.
+		
+
+Bellum servile.
+
+
+
+
+VIII.
+		
+
+Bellum Spartacium.
+		
+
+
+
+p232
+
+VI. Bellvm adversvs socios
+	
+
 III, 18
 Sociale bellum vocetur licet, ut extenuemus invidiam, si verum tamen volumus, illud civile bellum fuit. Quippe cum populus Romanus Etruscos, Latinos Sabinosque sibi miscuerit et unum ex omnibus sanguinem ducat, corpus fecit ex membris et ex omnibus unus est; 2 nec minore flagitio socii intra Italiam quam intra urbem cives rebellabant. 3 Itaque cum ius civitatis, quam viribus auxerant, socii iustissime postularent, quam in spem eos cupidine dominationis Drusus erexerat, 4 postquam ille domestico scelere oppressus est, eadem fax, quae illum cremavit, socios in arma et expugnationem urbis accendit. 5 Quid hac clade tristius? Quid calamitosius? Cum omne Latium atque Picenum, Etruria omnis atque Campania, postremo Italia contra matrem suam ac parentem urbem consurgeret; 6 cum omne robur fortissimorum fidelissimorumque sociorum sub suis quisque signis haberent municipalia illa prodigia, Poppaedius1 Marsos et <Paelignos>,2 Latinos Afranius,3 Umbros Plotius,4 Egnatius Etruscos,5 Samnium Lucaniamque Telesinus; 7 cum regum6
 p234et gentium arbiter populus ipsum se regere non posset, ut victrix Asiae et Europae a Corfinio Roma adpeteretur.
@@ -10,6 +167,10 @@ p234et gentium arbiter populus ipsum se regere non posset, ut victrix Asiae et E
 
 
 p236populatus non prius finem caedium fecit, quam Asculi eversione manibus tot exercituum, consulum direptarumque urbium dis litaretur utcumque.16
+
+
+VII. Bellvm Servile
+
 
 III, 19
 Etsi cum sociis — nefas — cum liberis tamen et ingenuis dimicatum est: quis aequo animo ferat in principe populo bella servorum? 2 Primum servile bellum inter initia17 urbis Herdonio duce Sabino in ipsa urbe temptatum est, cum occupata tribuniciis seditionibus civitate Capitolium obsessum est et a consule receptum; sed hic tumultus magis fuit quam bellum. Mox imperio per diversa terrarum occupato, quis crederet Siciliam multo cruentius servili quam Punico bello esse vastatam? 3 Terra frugum ferax et quodam modo suburbana provincia latifundiis civium Romanorum tenebatur. Hic ad cultum agri frequentia ergastula catenatique cultores materiam bello praebuere. 4 Syrus18 quidam nomine Eunus19 — magnitudo cladium20 facit, ut meminerimus — fanatico furore simulato, dum Syriae deae comas iactat, ad libertatem et arma servos quasi
@@ -28,6 +189,10 @@ p240argenteoque baculo et regium in morem fronte redimita non minorem quam ille 
 
 
 	
+
+VIII. Bellvm Spartacivm
+	
+
 III, 20
 Enimvero et servilium armorum dedecus feras; nam etsi per fortunam in omnia obnoxii, tamen quasi secundum hominum genus sunt et in bona libertatis nostrae adoptantur: bellum Spartaco duce concitatum quo nomine appellem nescio; 2 quippe cum servi28 militaverint, gladiatores imperaverint, illi infimae sortis homines, hi pessumae auxere ludibriis calamitatem Romanam.
 
@@ -46,10 +211,17 @@ p244in honorem38 virium gladiator. 9 Quin39 defunctorum quoque proelio ducum fu
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Poppaedius (cf. Liv. per. 76, CIL X.220, 417,
 	
 Appian, Bell. Civ. I.40, etc.): poppedius BL: poppedios N.
+
+
+
 
 
 
@@ -60,8 +232,14 @@ Paelignos add. Kellerbauerus.
 
 
 
+
+
+
 3
 Afranius: affranius N: afrienus B.
+
+
+
 
 
 
@@ -72,8 +250,14 @@ Plotius Tollius: totos B: totus NL.
 
 
 
+
+
+
 5
 Egnatius Etruscos Lipsius: senatos et consules B.
+
+
+
 
 
 
@@ -84,8 +268,14 @@ regum: rerum B: regnum L.
 
 
 
+
+
+
 7
 consilium, ut in Albano monte Rossbachius: in Albano monte consilium ut B.
+
+
+
 
 
 
@@ -96,8 +286,14 @@ erupit: eripuit B.
 
 
 
+
+
+
 9
 inpii belli: imbellis B.
+
+
+
 
 
 
@@ -108,8 +304,14 @@ Poppaedio: poppedio NL: pompeio B.
 
 
 
+
+
+
 11
 Grumentum, ecce Faesulae, ecce: crumentum ecce pessulae et B.
+
+
+
 
 
 
@@ -120,8 +322,14 @@ Aesernia, Nuceria Iahnius: reserat anuceria B: res erat nuceria N.
 
 
 
+
+
+
 13
 Picentia penitus Hauptius: picenti moenibus B.
+
+
+
 
 
 
@@ -129,8 +337,14 @@ Picentia penitus Hauptius: picenti moenibus B.
 14
 mediam per urbem viam fecit scripsi: mediam urbem per viam fecit codd.
 
+
+
+
 15
 Strabo om. B.
+
+
+
 
 
 
@@ -141,8 +355,14 @@ utcumque ab initio proximi capitis huc transposuit Lipsius: id qualitercumque B
 
 
 
+
+
+
 17
 inter initia: in italia B.
+
+
+
 
 
 
@@ -153,8 +373,14 @@ Syrus: sirus B.
 
 
 
+
+
+
 19
 Eunus: conus B.
+
+
+
 
 
 
@@ -165,8 +391,14 @@ cladium: gladium BN: claudium L.
 
 
 
+
+
+
 21
 ex obviis Rehd.: exobulis NL, om. B.
+
+
+
 
 
 
@@ -177,8 +409,14 @@ quin: quid B.
 
 
 
+
+
+
 23
 dedecus: decus B.
+
+
+
 
 
 
@@ -189,8 +427,14 @@ Hypsaei: hypsei NL: ipse B.
 
 
 
+
+
+
 25
 Hennam: bennam B.
+
+
+
 
 
 
@@ -201,11 +445,20 @@ Servilio praetore a Syro Mommsenus: servile et asyro B: servi. et a syro NL.
 
 
 
+
+
+
 27
 in servos infestius quam in dominos Rossbachius: in dominos quam in servos infestius (quam om. NL) codd.
 
+
+
+
 28
 servi: serviliberi B.
+
+
+
 
 
 
@@ -216,8 +469,14 @@ Capua: capuam B.
 
 
 
+
+
+
 30
 ad vexillum: ad auxilium B: ad vexillum ad (et L) auxilium NL.
+
+
+
 
 
 
@@ -228,8 +487,14 @@ velut rapidis beluis mons Rossbachius: velut bellus mons B: velut arauiris mons
 
 
 
+
+
+
 32
 delapsi vinculis: dilapsi ungulis B.
+
+
+
 
 
 
@@ -240,8 +505,14 @@ inviso: indiviso B: inuno NL.
 
 
 
+
+
+
 34
 castra post Vareniana add. B.
+
+
+
 
 
 
@@ -252,8 +523,14 @@ Thurios: thauros B: turios NL.
 
 
 
+
+
+
 36
 decus: dedecus B.
+
+
+
 
 
 
@@ -264,8 +541,14 @@ inde latro NL: de latro B.
 
 
 
+
+
+
 38
 honorem Rehd.: honore cet.
+
+
+
 
 
 
@@ -276,8 +559,14 @@ quin Freinshemius: quia B: qui NL.
 
 
 
+
+
+
 40
 imperatoriis: imperatorum B.
+
+
+
 
 
 
@@ -288,8 +577,14 @@ consulares NL: consularem cet.
 
 
 
+
+
+
 42
 consurgitur NL: consurgunt cet.
+
+
+
 
 
 
@@ -299,3 +594,109 @@ clusi: fusi B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Non. Dec.

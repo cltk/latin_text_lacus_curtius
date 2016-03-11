@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+ 
+Otho
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Divus
+				
+Vespasianus
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p246
+Vitellius
+	
+
 1
 
 1 Vitelliorum originem alii aliam et quidem diversissimam tradunt, partim veterem et nobilem, partim vero novam et obscuram atque etiam sordidam; quod ego per adulatores obtrectatoresque
@@ -151,79 +272,206 @@ p276praeberet faciem neve summitteret; 2 quibusdam stercore et caeno incessenti
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 exstatq(ue) elogi, Ω (elogii, XΥ; elogium, G).
 
 
+❦
 
 2
 praelautus, Basle ed. of 1533; praelatus, Ω.
 
 
+❦
 
 3
 excalciandos] exculciandos, MGΠ1R; exosculandos, Q.
 
 
+❦
 
 4
 Sestilia, the mss. except POST, which have Sextilia.
 
 
+❦
 
 5
 spintriae] spintheriae, mss.
+❦
 
 6
 stagnum, the mss. except G (stamnum) Π1ς (stannum).
 
 
+❦
 
 7
 Vini, Torrentius; Iuni, Ω.
 
 
+❦
 
 8
 lustratisque, ς (second Roman edition); lustravitque, Ω.
 
 
+❦
 
 9
 solvit, Basle edition of 1533; coluit, Ω.
 
 
+❦
 
 10
 circumforano] circumforaneo, ς
+❦
 
 11
 πολιούχου, Stephanus; τονδυχου, Ω.
 
 
+❦
 
 12
 phasianarum] fasianarum, Ω.
 
 
+❦
 
 13
 farris frusta and farra, ς; farris, Ω.
 
 
+❦
 
 14
 opinatus] obstinatus, MΥ; obstinatosque, G.
 
 
+❦
 
 15
 Chatta] Chattha, MG; catha, Υ; cata, X.
 
 
+❦
 
 16
 reclamantibus, Sς; declamantibus, Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Dec. 03

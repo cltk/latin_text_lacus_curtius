@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XVI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Epilogus
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p240
+Liber Decimus Septimus
+	
+
 1
 In navigatione maris rubri Alexander dicit se serpentes vidisse longitudine quadraginta cubitorum, et crassitudine pro rata longitudinis portione: item genus cancrorum, quorum testae circumferentia undique pedis mensuram immplebat; et chelae maximae prominebant; neminem vero iis insidiari, quia sacri habentur Neptuno, et deo consecrantur, ut quasi donaria sint ejus ab omni noxa et omnibus insidiis tuta.1
 
@@ -222,6 +345,10 @@ p252Herculis templum accedit; at suo tempore mares stimulati libidine rivum tran
 
 
 	
+p253
+Epilogus Auctoris
+	
+
 Dixi hactenus, quantumcunque studio, cura, labore, ingenio, et aemulatione quadam honestorum et eruditorum hominum, qui ante me hoc argumentum veluti certatim excoluerunt, diligentiam superandi, indagare ac invenire potui; et ne quid eorum, quae adsecutus eram, omitterem, operam dedi: nam sapientiae amor, quo nihi ingenio hominis liberalis cognatum aut familiare magis est, omni pigritia excussa, animantium etiam brutarum mutarumque contemplationem ne aut contemnerem, aut negligerem, me excitavit. Non equidem ignoro homines tum avaros et pecuniae mancipatos, tum ombitiosos et gloriae potentiaeque cupidos omnes, hoc mihi vitio daturos, quod in hujusmodi rebus tempus et otium meum occupare voluerim; cum ad multo majora adspirare, gravitatem auctoritatemque apud hominum vulgus mihi comparare ac inter potentes in aulis principium viros censeri, denique magnas divitias mihi conquirere licuisset. Ego vero ingenium vulpis, naturam ac vim lacerti, scarabaei, serpenteis, et leonis, quid agat panthera, quae pietas commendet ciconiam, quam suaviter arguteque suos meditetur et edat cantus luscinia, quam ingeniosus sit elephas, item piscium genera, et gruum migrationes, et draconum naturas, et reliqua, quae hoc volumine comprehensa observavi, indagare malui; copiasis et locupletibus hominum adnumerari, et ex illorum ordine censeri, non libet. Quod si de numero hominum naturae studiosorum, inter quos et poetae sunt eruditi, et philosophi ingeniosi, et alii scriptores rerum naturalium experientia clari, etiam ipse unus esse cupio, et enitor; multo sane honestiore loco, et dignitate majori, quam pro illorum judicio, futurum me confido. Ita enim sentio, ut vel unam alicujus egregiae disciplinae portiunculam potius, quam celeberrimas ditissimorum quamvis opes atque possessiones, mihi accedere optarim. Haec de studiis meis et animi instituto hactenus. Jam porro reprehensum hoc iri a nonnullis non dubito, quod non de singulis animalium, quae dici poterant, omnia unum in locum collecta conjunxerim, neque separatim singulorum proprietates in unum locum congesserim; sed mixta narratione varias variorum animalium proprietates enarraverim, de multis etiam per singulas partes disserens; ita ut alicubi ab hoc vel illo animante digressus, rursus alibi ad idem redierim, et alia quaedam super ejus natura attulerim. His respondeo, primum me homine esse meae spontis, nec ab
 
 
@@ -233,5 +360,120 @@ FINIS
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+V Kal. Oct. 04

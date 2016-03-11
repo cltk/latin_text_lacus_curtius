@@ -1,10 +1,87 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+
+ad litteras mihi mittendas
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+This text has been carefully proofread and I believe it to be errorfree.
+			
+If you find a mistake though,
+			
+let me know!
+			
+
 Each paragraph number is, or will be, linked to photos of the Monte Cassino manuscript.
 			
 Lacunae are, or will be, linked also: at first, to a photograph; at some later point, I'll add the apparatus. The approximate size of the gap is indicated; to find them, search for asterisks.
 			
 The Latin text in the Loeb edition is often emended, sometimes silently. I hope to catch and link these places to the manuscript later.
-		p330
+		
+
+
+
+Sextus Julius Frontinus:
+	
+De Aquis
+	
+
+Liber Primus
+	
+p330
 
 
 1.
@@ -42,7 +119,8 @@ Ac ne quid ad totius rei pertinens notitiam praetermisisse videar, nomina primum
 p334quantum extra urbem, quantum intra urbem unicuique regioni pro suo modo unaquaeque aquarum serviat; quot castella publica sint, et ex eis quantum publicis operibus, quantum muneribus — ita enim cultiores appellant — quantum lacibus, quantum nomine Caesaris, quantum privatorum usibus beneficio principis detur; quod ius ducendarum tuendarumque sit earum, quae id sanciant poenae lege, senatus consultis, mandatis principum inrogatae.
 
 
-	p338
+	
+p338
 
 
 4.
@@ -823,7 +901,11 @@ Fistula centenum vicenum: diametri digitos duodecim
 	𐆑, qui modus duarum centenariarum est.
 
 
-	p388
+	
+p388
+
+Liber Alter
+	
 
 
 
@@ -1026,6 +1108,15 @@ p414quinariae quinquaginta una, operibus publicis sedecim quinariae
 Alsietinae quinariae trecentae nonaginta duae. Haec tota extra urbem consumitur, nomine Caesaris quinariae ducentae quinquaginta quattuor, privatis quinariae centum triginta octo.
 
 
+
+
+
+
+
+
+trecentae nonaginta duae . . . ducentae quinquaginta quattuor . . . centum triginta octo:
+			
+
 Textus Loeb et anglice et latine manuscriptum sequuntur,
 			
 
@@ -1045,6 +1136,11 @@ scimus CCCLXXXXII quinarias erogatas esse; tunc correctio simplicissima, et igit
 			
 Hanc rationem secutus sum et ad CCLIIII omnes textus meos in Rete emendavi.
 		
+
+
+
+
+
 
 
 86.
@@ -1458,3 +1554,111 @@ p466ignorarentur qui erraverant. Eis vero qui admoniti ad indulgentiam imperator
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Frontini
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Aquae
+			
+Romanae
+			
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Id. Mai. 03

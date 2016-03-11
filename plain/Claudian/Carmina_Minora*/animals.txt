@@ -1,8 +1,508 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+C. Claudiani
+	
+
+ex Carminibus Minoribus
+	
+
+p180
+
+IX (XLV)
+	
+De hystrice.
+	
+
+
+
+
+
+
+Audieram memorande tuas Stymphale volucres
+			
+spicula vulnifico quondam sparsisse volatu,
+			
+nec mihi credibilis ferratae fabula pinnae
+			
+visa diu. datur ecce fides et cognitus hystrix
+			5
+Herculeas adfirmat aves.
+			
+
+Os longius illi
+			
+adsimulat porcum. mentitae cornua saetae
+			
+summa fronte rigent. oculis rubet igneus ardor.
+			
+parva sub hirsuto catuli vestigia dorso.
+			
+hanc tamen exiguam miro natura tueri
+			10
+praesidio dignata feram: stat corpore toto
+			
+silva minax, iaculisque rigens in proelia crescit
+			
+picturata seges; corium cute fixa tenaci
+			
+p182
+alba subit radix, alternantesque colorum
+			
+tincta vices, spatiis internigrantibus, exit
+			15
+in solidae speciem pinnae, tenuataque furtim
+			
+levis in extremum sese producit acumen.
+
+			
+
+Sed non haec acies ritu silvestris echini
+			
+fixa manet. crebris propugnat iactibus ultro
+			
+et longe sua membra tegit, tortumque per auras
+			20
+evolat excusso nativum missile tergo.
+			
+interdum fugiens Parthorum more sequentem
+			
+vulnerat; interdum positis velut ordine castris
+			
+terrificum densa mucronem verberat unda
+			
+et consanguineis hastilibus asperat armos:
+			25
+militat omne ferae corpus vibrataque rauco
+			
+terga fragore sonant. stimulis accensa tubarum
+			
+agmina conlatis credas confligere signis:
+			
+tantus in angusto strepitus furit. additur armis
+			
+calliditas parcusque sui tumor iraque numquam
+			30
+prodiga telorum, caute contenta minari
+			
+nec nisi servandae iactus inpendere vitae.
+			
+error abest: certum sollertia destinat ictum
+			
+nil spatio fallente modum, servatque tenorem
+			
+mota cutis doctique regit conamina nisus.
+
+			
+
+Quid labor humanus tantum ratione sagaci
+			
+proficit? eripiunt trucibus Gortynia capris
+			
+cornua; subiectis eadem lentescere cogunt
+			
+ignibus; intendunt taurino viscere nervos;
+			
+instruitur pinnis ferroque armatur harundo.
+			40
+ecce brevis propriis munitur bestia telis
+			
+p184
+externam nec quaerit opem; fert omnia secum:
+			
+se pharetra, sese iaculo, sese utitur arcu.
+			
+unum animal cunctas bellorum possidet artes.
+
+			
+
+Quodsi omnis nostrae paulatim industria vitae
+			45
+fluxit ab exemplis, quidquid procul appetit hostem,
+			
+hinc reor inventum, morem hinc traxisse Cydonas
+			
+bellandi Parthosque retro didicisse ferire
+			
+prima sagittiferae pecudis documenta secutos.
+		
+
+
+
+p192
+
+XVIII (LI)
+	
+De mulabus Gallicis.
+	
+
+
+
+
+
+Adspice morigeras Rhodani torrentis alumnas
+			
+imperio nexas imperioque vagas,
+			
+dissona quam varios flectant ad murmura cursus
+			
+et certas adeant voce regente vias.
+			5
+quamvis quaeque sibi nullis discurrat habenis
+			
+et pateant duro libera colla iugo,
+			
+ceu constricta tamen servit patiensque laborum
+			
+barbaricos docili concipit aure sonos.
+			
+absentis longinqua valent praecepta magistri,
+			10
+frenorumque vicem lingua virilis agit.
+			
+haec procul angustat sparsas spargitque coactas:
+			
+haec sistit rapidas, haec properare facit.
+			
+laeva iubet: laevo deducunt limite gressum.
+			
+mutavit strepitum: dexteriora petunt.
+			15
+nec vinclis famulae nec libertate feroces,
+			
+exutae laqueis, sub dicione tamen
+			
+consensuque pares et fulvis pellibus hirtae
+			
+esseda concordes multisonora trahunt.
+			
+miraris, si voce feras pacaverit Orpheus,
+			20
+cum pronas pecudes Gallica verba regant?
+		
+
+
+
+p202
+
+XXIV (LXXXIII)
+	
+De lucusta.
+	
+
+
+
+
+
+Horret apex capitis; medio fera lumina surgunt
+			
+vertice; cognatus dorso durescit amictus.
+			
+armavit natura cutem dumique rubentes
+			
+cuspidibus parvis multos acuere rubores.
+		
+
+
+
+p276
+
+XLIX (XLVI)
+	
+De torpedine.
+	
+
+
+
+
+
+
+Quis non indomitam dirae torpedinis artem
+			
+audiit et merito signatas nomine vires?
+
+			
+
+Illa quidem mollis segnique obnoxia natatu
+			
+reptat et attritis vix languida serpit harenis.
+			5
+sed latus armavit gelido natura veneno,
+			
+et frigus, quo cuncta rigent animata,1 medullis
+			
+miscuit et proprias hiemes per viscera duxit.
+			
+naturam iuvat ipsa dolis et conscia sortis
+			
+utitur ingenio longeque extenta per algas
+			10
+attactu confisa subit. inmobilis haeret:
+			
+qui tetigere iacent. successu laeta resurgit
+			
+et vivos inpune ferox depascitur artus.
+
+			
+
+Si quando vestita cibis incautior aera
+			
+hauserit et curvis frenari senserit hamis,
+			15
+non fugit aut vano conatur vellere morsu,
+			
+sed propius nigrae iungit se callida saetae
+			
+et meminit captiva sui longeque per undas
+			
+pigra venenatis effundit flamina venis.
+			
+per saetam vis alta meat fluctusque relinquit
+			20
+absentem victura virum: metuendus ab imis
+			
+
+emicat horror aquis et pendula fila secutus
+			
+transit harundineos arcano frigore nodos
+			
+victricemque ligat concreto sanguine dextram.
+			
+damnosum piscator onus praedamque rebellem
+			25
+iactat et amissa redit exarmatus avena.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 MSS. armata which Birt prints, suggesting afflata in a note; animata is Scaliger's emendation.
+
 
 The Loeb edition has no other critical notes to these four poems. Slightly different texts of them, however, are available on Michael Hendry's site (see navigation bar below); they include variant readings by several scholars.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

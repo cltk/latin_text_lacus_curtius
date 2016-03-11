@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Liber II
+				
+Capp. 1‑28
+				
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+
+Historiae Romanae
+				
+
+
+C. Vellei Paterculi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXIIII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+Capp. 59‑93
+				
+
+
+
+
+Vellei Paterculi
+	
+Historia Romana
+	
+p110
+Liber II: Capitula 29‑58
+	
+
 29
 
 Sub adventum in Italiam L. Sullae Cn. Pompeius, eius Cn. Pompei filius, quem magnificentissimas res in consulatu gessisse bello Marsico praediximus, tris et viginti annos natus, abhinc annos centum et tredecim79 privatis ut opibus, ita consiliis magna ausus magnificeque conata executus, ad vindicandam restituendamque dignitatem patriae firmuma ex agro Piceno, qui totus paternis eius clientelis refertus erat, contraxit exercitum: 2 cuius viri magnitudo multorum voluminum instar exigit, sed operis modus paucis eum narrari iubet.
@@ -340,487 +463,601 @@ p176petendum esse sanguinem) 3 convocato senatu, cum iam Dolabella, quem substi
 
 
 	
+
+Apparatus Criticus:
+	
+
 79
 CX Kritz.
+❦
 
 80
 sed ea Burman; sed ex AP.
 
 
+❦
 
 81
 quae added by Aldus.
+❦
 
 82
 ui Mommsen; ut AP.
 
 
+❦
 
 83
 Krause believes that there is a hiatus of some length between this chapter and XXX.
+❦
 
 84
 absentis add. Krause.
+❦
 
 85
 sine re Gelenius; in iure AP.
 
 
+❦
 
 86
 XC milia Voss; XL a CCC AP.
 
 
+❦
 
 87
 omnium P; omni A; consensu add. Ellis.
+❦
 
 88
 maior civi Heinsius; maiore vi AP.
 
 
+❦
 
 89
 quo scito Schegk; quos zzz A; quo senatus Cos. P.
 
 
+❦
 
 90
 septennium Krause; biennium AP.
 
 
+❦
 
 91
 leva A.
 
 
+❦
 
 92
 liberae A (an erasure after ae); liber aeret (aere P) BP.
 
 
+❦
 
 93
 transtulerat A.
 
 
+❦
 
 94
 praedonesque per multa a multis locis AP; alias ac multis Burer.
+❦
 
 95
 quia Bothe; qui AP.
 
 
+❦
 
 96
 ab altero quod arguebat Burman; ab eo quod arguebatur AP.
 
 
+❦
 
 97
 omnino Acidalius; animo AP.
 
 
+❦
 
 98
 ne add. Gelenius.
+❦
 
 99
 usura gloriae Rhenanus; usurae gloria AP.
 
 
+❦
 
 100
 quin Gelenius; qui AP.
 
 
+❦
 
 101
 quippe Oudendorp; qui AP.
 
 
+❦
 
 102
 aperuit Gelenius; eripuit AP.
 
 
+❦
 
 103
 culmine locavit Madvig; luminavit AP.
 
 
+❦
 
 104
 iustitiam Gelenius; iustititae AP.
 
 
+❦
 
 105
 Ciceronem Hottinger; Catonem AP.
 
 
+❦
 
 106
 LXXXII AP; LXXX Kritz; LXXXXII Aldus.
+❦
 
 107
 anteque ed. Bipont.; saneque AP.
 
 
+❦
 
 108
 Cottam Aldus; Catonem AP.
 
 
+❦
 
 109
 in suspecti operis sui carmine AP; for the many emendations suggested for this vexed passage see Kritz and Ellis.
+❦
 
 110
 socer generum Heinsius; socerum AP.
 
 
+❦
 
 111
 petit AP; petiit Gelenius.
+❦
 
 112
 regii Heinsius; regi AP.
 
 
+❦
 
 113
 stipendiaria facta Amerbach in marg. et Lipsius; stipendia facta AP.
 
 
+❦
 
 114
 notavimus facilius ut quae partibus AP; order changed by Acidalius and Haase.
+❦
 
 115
 set Sauppe; et AP.
 
 
+❦
 
 116
 belli aggressus est supplied by Halm.
+❦
 
 117
 CVIIII Bipont.; CCIIII AP.
 
 
+❦
 
 118
 CLXXIII Kritz; CLXXXII AP.
 
 
+❦
 
 119
 ab Attalis Gelenius; habita lis AP.
 
 
+❦
 
 120
 regibus P;om. A.
 
 
+❦
 
 121
 Cyprus devicta nullius adsignanda gloriae est Laurent.; Cypro devicta nullis adsignanda gloria est AP.
 
 
+❦
 
 122
 a add. Aldus.
+❦
 
 123
 Fabioque Ursinus; Fabio AP.
 
 
+❦
 
 124
 omisimus Heinsius; amisimus AP.
 
 
+❦
 
 125
 pene AP; plane vel plene Burman.
+❦
 
 126
 in aerarium Aldus; ignauum AP.
 
 
+❦
 
 127
 The lacuna is thus supplied by Haase: facta Numidia provincia, e qua iam olim cognomen virtute partum detulerat Metellus Numidicus.
+❦
 
 128
 Albani Hiberi (Hideri A) ac deinde AP; em. Burman.
+❦
 
 129
 illi astare Doederlein; illi trahere Ruhnken; illi fatare AP.
 
 
+❦
 
 130
 tulerant Acidalius; tulerunt AP.
 
 
+❦
 
 131
 The order is that of Ellis; in AP et Metellus Creticus follows memor . . . iniuriae.
 
 
+❦
 
 132
 antiquitatis studiosos Halm; antiquissimos AP.
 
 
+❦
 
 133
 se per B; semper AP.
 
 
+❦
 
 134
 metu Gelenius; motu AP.
 
 
+❦
 
 135
 et privatus et contracta classe Scriner; contracta classe et privatus et AP; Halm adds manu after tumultuaria, retaining the MSS. order of the preceding words.
+❦
 
 136
 revectus Haase; reversus AP.
 
 
+❦
 
 137
 Iuncum Nipperdey; Iunium cum AP.
 
 
+❦
 
 138
 idem enim Asiam eam quam obtinebat AP; eamque Lipsius for eam quam.
 
 
+❦
 
 139
 epistulae Burer; epistula ABP.
 
 
+❦
 
 140
 cum added by Lipsius.
+❦
 
 141
 id Gelenius; ad AP.
 
 
+❦
 
 142
 iam] tam AP.
 
 
+❦
 
 143
 nobilissima Cn. Dolabellae Haase; nobilissimaque Dolabellae AP.
 
 
+❦
 
 144
 in added by Halm.
+❦
 
 145
 Iuliam added by Orelli.
+❦
 
 146
 urbis Heinsius; ab his AP.
 
 
+❦
 
 147
 quique neque Halm; qui neque Vascosanus; neque om. AP.
 
 
+❦
 
 148
 indemnatum Puteanus; damnatum AP.
 
 
+❦
 
 149
 ut coepit Gelenius; et cupit AP.
 
 
+❦
 
 150
 intenta Wopkens;interita AP.
 
 
+❦
 
 151
 tribunatu Heinsius; senatu AP.
 
 
+❦
 
 152
 gereret Stanger; ageret AP.
 
 
+❦
 
 153
 vetus par Ursinus; victus pars AP.
 
 
+❦
 
 154
 iam Heinsius; in AP.
 
 
+❦
 
 155
 utile AP; vile Lipsius.
+❦
 
 156
 quarto Laurent.; septimo AP.
 
 
+❦
 
 157
 potentiae et viva illa male Shipley; Ponti et Camiliae AP; potentiae male Lipsius.
+❦
 
 158
 coercitionem B; coertionem AP; coercitione Cludius.
+❦
 
 159
 inutili facto Gelenius; inutiliter facto AP; inutili sed facto Gelenius.º
+❦
 
 160
 primi Vascosanus; primo AP.
 
 
+❦
 
 161
 voluptatibus vel libidinibus deleted as a gloss by Gruter.
+❦
 
 162
 et after saluberrimas deleted by Gelenius.
+❦
 
 163
 iustis Gelenius; iustius AP.
 
 
+❦
 
 164
 annis DCCIII Gelenius; annis (AP) a CC.III AB; zzz P.
 
 
+❦
 
 165
 non AP; nomine Gronovius.
+❦
 
 166
 gloriosiora Cuperus; gloriosa AP.
 
 
+❦
 
 167
 privatus Gelenius; privatusque AP.
 
 
+❦
 
 168
 legionibusque Corfini quae P; legionibusque Corfini AP.º
+❦
 
 169
 voluerant Gelenius; venerant AP.
 
 
+❦
 
 170
 Afranio Burer; Africanio AB; Africano AP.
 
 
+❦
 
 171
 obtineretur Heinsius; retinetur BAP.
 
 
+❦
 
 172
 et added by Gelenius.
+❦
 
 173
 eo quo vellet Halm; et cum vellet AP.
 
 
+❦
 
 174
 in Hispania ex cive Morgenstern; Hispaniae Asiae AP.
 
 
+❦
 
 175
 et added by Halm.
+❦
 
 176
 ut added by Gelenius; in omnes partes AP; incolumes partes Ellis. This is a vexed passage, and many conjectures have been made as to which was the military expression. Ruhnken supposes a lacuna.
+❦
 
 177
 ex Lipsius; et AP.
 
 
+❦
 
 178
 in illa . . . quam quod Haase; illa . . . quando AP.
 
 
+❦
 
 179
 facilis Gelenius; felix (foelix A) AP.
 
 
+❦
 
 180
 summorum imperatorum Mommsen; summo imperatorum AP.
 
 
+❦
 
 181
 alteri mortuo Lipsius.
+❦
 
 182
 vivebat Heinsius; Iubae AP.
 
 
+❦
 
 183
 parere Burer; parare P; parari A.
 
 
+❦
 
 184
 C. added by Stanger.
+❦
 
 185
 fortuna mox pugnavit sua Acidalius and Lipsius; fortunam expugnavit uia AP.
 
 
+❦
 
 186
 restituta et a Orelli; restitutae C. A. B; restitutae sunt a AP.
 
 
+❦
 
 187
 magnificentissimisque AB; que om. P; et magnificentissimis Halm and Ruhnken.
+❦
 
 188
 ita . . . offensus Rhenanus; id . . . offensum AP.
 
 
+❦
 
 189
 timere corrected to timeri A; timere is more in keeping with
@@ -830,14 +1067,17 @@ Plut. Caes. 57
 and
 	
 Suet. Div. Iul. 86.
+❦
 
 190
 plurima ei Orelli; plurimi BA; plurima P.
 
 
+❦
 
 191
 orabat AP; orarat Halm.
+❦
 
 192
 tum Haase; cum AP.
@@ -846,6 +1086,10 @@ tum Haase; cum AP.
 
 	
 
+Adnotatio Thayeri:
+	
+
+
 firmum:
 	
 ad Firmum?
@@ -853,3 +1097,104 @@ ad Firmum?
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Velleius Paterculus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Non. Feb. 04

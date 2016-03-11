@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VIII
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p100
+Liber Septimus
+	
+
 1
 Boves Susianos numerandi scientiae haud imperitos esse intellexi. Atque id minime fabulosum esse testatur narratio, quae ait, singulas earum Susis regi quotidie centum cado in hortos sicciores et minus riguos haurire. Quem quidem laborem, sive quod sit eis certus et constitutus, sive etiam quia diu multumque in eo se exercuerint, promptissime obeunt; nullam enim earum ad opus remollescere videres. A alterum vero supra quin diximus cadum exhauriendum nec verberibus cogere, nec blanditiis inducere posses, ut ait Ctesias.
 
@@ -156,6 +279,17 @@ Oves prae omnibus animalibus obedientes et ad parendum a natura edoctae sunt. Ob
 28
 Cum Icarium occidissent populares eorum, qui primi vino epoto temulentia et somno capti sunt, nescientes, vinum mortem non inferre, sed temulentum soporem, morbo laborarum Atticae incolae Baccho, ut mihi videtur primum suae vitis cultorem, eumque senio gravem ulciscente. itaque, consulto Pythii oraculo, responsum tulerunt, si salvi esse cupiant, oportere ipsos sacra facere Icario, et Erigonae ejus filiae, et cani ejusdem, quem fama celebrat ex eo, quod prae nimia in heram benevolentia a morte ejus superesse noluerit. Euripides certe jocari mihi videtur his versibus:
 
+
+
+
+p111
+Si res herilis cedat infeliciter,
+			
+Aegre ferunt hoc et dolent servi boni.
+		
+
+
+
 Quis enim servum mihi propter dominum mortuum nominabit, cum id canis servus facere sustinuerit?
 
 29
@@ -295,5 +429,120 @@ Memoriae vim, quae beneficium agnoscat, animalibus inesse sine ulla arte et doct
 
 p117ad dominum miserunt. Hunc dominus tum de his, quae admisisset, facinoribus reum facit; factumque est, ut is sic capite damnaretur, ut distreahendus bestiis daretur. Tum vero ille Libycus leo forte captus fuit, et in theatrum immissus; simul et eo utpote periturus conjectus est juvenis, leonis aliquando hospes et convictor. Is primum quidem belluam non recognovit; leo contra statim hominem agnovit, suaviterque blanditus est, et totius corporis inclinatione ad pedes hominis se abjecit. Androcles tandem suum hiospitem recognovit, et leonem tanquam peregre venientem amicum amplexatur. Quamobrem, cum artis magicae peritus videretur Androcles, immissa est in ipsum etiam pardalis; quae cum invadere eum aggrederetur, leo, communis mensae memor, illum, qui videlicet ei aliquando salutem attulisset, ab hujus laniatu servavit, illamque laceravit. Spectatores, ut par erat, incredibili tenebantur admiratione; qui autem spectacula praebebat, Androclem accersivit, ab eoque totam rem cognovit. Inde primo rumor in multitudinem effluxit, deinde, re cognita, populus clamavit, homini ipsi et leoni esse largiendam libertatem. Constat igitur brutis quoque non deesse memoriam. His modo commemoratis similis est historia de leone in Samo in templo Bacchi cum hiatu cognominato, quam si quis scitu dignam existimet, ex Eratosthene, Euphorione, aliisque, qui eandem referunt, nosse poterit.
 
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+V Kal. Oct. 04

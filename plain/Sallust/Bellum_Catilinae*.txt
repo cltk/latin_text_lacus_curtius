@@ -1,4 +1,111 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Bellum Catilinae
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXI (recensitum MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p2
+C. Sallusti Crispi
+	
+Bellum Catilinae
+	
+
+
 1 
 Omnis homines qui sese student praestare ceteris animalibus summa ope niti decet ne vitam silentio transeant veluti pecora, quae natura prona atque ventri oboedientia finxit. 2 Sed nostra omnis vis in animo et corpore sita est; animi imperio, corporis servitio magis utimur; alterum nobis cum dis, alterum cum beluis commune est. 3 Quo mihi rectius videtur ingeni quam virium opibus gloriam quaerere et, quoniam vita ipsa qua fruimur brevis est, memoriam nostri quam maxume longam efficere; 4 nam divitiarum et formae gloria fluxa atque fragilis est, virtus clara aeternaque habetur.
 
@@ -597,13 +704,23 @@ p128volneratus discesserat. 8 Multi autem, qui e castris visundi aut spoliandi
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 transiere, K, M (g written above) m; Prisc. III.433.31 K; Nonius, p419 M (677 Linds.); transierunt, Donat. Ter. Ph. 605 (cod. O); transire, A1; transigere, N (g deleted), F, Serv. Ge. I.3, Donat.; transegere, A2 and the other mss.
+
+
+
 
 2
 auctorem, PB (u erased) H, Gell. IV.15.2
 	
 (codd. PV), Charis. I.215.27 K; actorem, the other mss. and Gell. RV3.
+
+
+
 
 3
 usum militiae, T, 
@@ -614,8 +731,14 @@ Veget. I.4
 
 
 
+
+
+
 4
 ea, mss. ("added later in P," Ahlb.); omitted by Hieron. vit. Hilarion. 1; Aug. Civ. D. xviii.2, Ah, Or.
+
+
+
 
 
 
@@ -623,8 +746,14 @@ ea, mss. ("added later in P," Ahlb.); omitted by Hieron. vit. Hilarion. 1; Aug
 5
 eam, Fn, Hieron, l.c., Aug. l.c. (cf. Vopisc. Prob. 1.1), Ah, Or; ea, the other mss.
 
+
+
+
 6
 magis omitted in Pls.
+
+
+
 
 
 
@@ -632,13 +761,22 @@ magis omitted in Pls.
 7
 divitiaeque, A2CB, Ah.
 
+
+
+
 8
 infinita et,
 	
 Gell. III.1.2, Ah.
 
+
+
+
 9
 omnes, omnes, Ah.
+
+
+
 
 10
 nedum, A2C2B2HT2s2n, Prisc. III.503.9 K.
@@ -646,8 +784,14 @@ nedum, A2C2B2HT2s2n, Prisc. III.503.9 K.
 
 
 
+
+
+
 11
 ganeo, aleator, Wölfflin; adulter, ganeo, mss.
+
+
+
 
 12
 etiam et, PA1l; et aetate, Ysnm; aetate et, A2CB.
@@ -655,8 +799,14 @@ etiam et, PA1l; et aetate, Ysnm; aetate et, A2CB.
 
 
 
+
+
+
 13
 modestiae, mss.; molestiae, Madvig, Advers. Crit. 2.291.
+
+
+
 
 14
 color, mss.; colos, Probus, Catholica 4.15.14 K and 4.23.34.
@@ -664,17 +814,32 @@ color, mss.; colos, Probus, Catholica 4.15.14 K and 4.23.34.
 
 
 
+
+
+
 15
 quis, Diomedes 1.445.23 K; quibus, mss.
+
+
+
 
 16
 M.,mss.
 
+
+
+
 17
 nequiverat, ____2;º nequiverit, the other mss.
 
+
+
+
 18
 provincia, Ysm; provinciam, XNFln.
+
+
+
 
 
 
@@ -685,8 +850,14 @@ foret, VP2n, Serv. Ge. I.260; forent, XYlsm. See Ahlb. Proleg. p169.
 
 
 
+
+
+
 20
 boni mali, Gudeman, omitting strenui.
+
+
+
 
 
 
@@ -697,13 +868,22 @@ nobis in manu, Prisc. III.364.3 K; vobis, VP2A2C2Bn.
 
 
 
+
+
+
 22
 adigeret, Eugraph. Ter. Ph. 35; adiceret, mss.
+
+
+
 
 23
 Some good mss. omit or expunge this phrase. Ritschl proposed omitting the whole phrase and Selling to omit dictitare.
 	
 Idque eo dicitur fecisse, Bergk; atque eo dixisse eam rem fecisse "aut simililter," Madvig; atque eo se fecisse, Summers; atque eo ita fecisse, fortasse divinam rem, Ah; Or.
+
+
+
 
 
 
@@ -714,14 +894,23 @@ insolentiae, N corr.; the other mss. have insolentia.
 
 
 
+
+
+
 25
 aestimabat, X (corr. B) n.
 
 
 
 
+
+
+
 26
 Omitted by A1m, Fronto, p110 N., Arus. VII.473.38 K, Eugr. Ter. Andr. 97; Ah; Or. Ah would omit preceding atque.
+
+
+
 
 
 
@@ -734,8 +923,14 @@ Macrob. III.14.5; Ah; Or.
 
 
 
+
+
+
 28
 lubido, P1Ylsm; libidine, X and m. 2 PKHTDFl.
+
+
+
 
 
 
@@ -743,14 +938,26 @@ lubido, P1Ylsm; libidine, X and m. 2 PKHTDFl.
 29
 consuli, A2CBn; Dietsch omitted.
 
+
+
+
 30
 Omitted by Dietsch and some later editors.
+
+
+
 
 31
 fecerat PAB (n written above), Or; fecerant, the other mss., Ah.
 
+
+
+
 32
 maiores, P.
+
+
+
 
 
 
@@ -761,11 +968,20 @@ rogitare omnia, omni rumore p., adripere omnia, Fronto, p110 N; Ah; Or.
 
 
 
+
+
+
 34
 mss. omit.
 
+
+
+
 35
 resting(u)am, PNL2s; restringam, ACKl1; exsting(u)am, BYnm.
+
+
+
 
 
 
@@ -776,13 +992,22 @@ patria, VYmn; Ah; patriae, XNls, Or; p. sedis, Eussner.
 
 
 
+
+
+
 37
 See
 	
 Gellius 20.6.14; vestri, VP2Al1; nostri, P1l2 and the other mss.
 
+
+
+
 38
 PN1; the other mss. have oriretur.
+
+
+
 
 
 
@@ -793,8 +1018,14 @@ non quia, B2K2HF2ls; non qui (n erased), N; non quin, the other mss. Ah, Or.
 
 
 
+
+
+
 40
 non possem, VXNKls, Ah; non written above or omitted, AΓm, Or.
+
+
+
 
 
 
@@ -802,8 +1033,14 @@ non possem, VXNKls, Ah; non written above or omitted, AΓm, Or.
 41
 Arretino, A1, Ah, Or; Reatinio, P; Reatino, the other mss.
 
+
+
+
 42
 aeque uti, Mähly; atque uti, mss., Ah, Or; ac veluti, Haupt.
+
+
+
 
 43
 alii per, A1m. Sacerdos VI.446.3 K, Ah, Or; the other mss. have alii qui per.
@@ -811,14 +1048,26 @@ alii per, A1m. Sacerdos VI.446.3 K, Ah, Or; the other mss. have alii qui per.
 
 
 
+
+
+
 44
 novandi, Gruter; novandis, mss.
+
+
+
 
 45
 Romae, P; ab Roma, the other mss. (ab superscribed in BD), Probus IV.150.20, Sergius IV.511.13, Prisc. III.66, 15 K.
 
+
+
+
 46
 praecipit, Linker.
+
+
+
 
 47
 Aefulanum, Ah following Kunze, Berl. Phil. Woch. 1912 pp670 ff.; Faesulanum, mss., Or.
@@ -826,11 +1075,20 @@ Aefulanum, Ah following Kunze, Berl. Phil. Woch. 1912 pp670 ff.; Faesulanum, ms
 
 
 
+
+
+
 48
 quoque, A; que║que, N; quaeque, the other mss.
 
+
+
+
 49
 consultando, PA1N1H1D1m.
+
+
+
 
 
 
@@ -841,17 +1099,32 @@ in senatum, omitted by Cortius and others.
 
 
 
+
+
+
 51
 neque precibus neque gratia neque pretio, XNKMT (proemio for pretio) lsn, Or; n. pretio n. gratia, Prisc. II.539.20 K, Ah.
+
+
+
 
 52
 impelli quivit, Prisc. II.539.20 (omitting Ciceronem); inlici quivit (Cicero), Septimius, Belli Troiani 1.18.
 
+
+
+
 53
 Dietsch and others omit in audaciam with one inferior codex; also Ahlberg without comment.
 
+
+
+
 54
 conlibuisset, August. De Civ. Dei i.5.
+
+
+
 
 55
 accendit, VP2AMl.
@@ -859,8 +1132,14 @@ accendit, VP2AMl.
 
 
 
+
+
+
 56
 severior, VACNT; sevior, the other mss.
+
+
+
 
 57
 certo, VXNnm; certe, BYls.
@@ -868,14 +1147,26 @@ certo, VXNnm; certe, BYls.
 
 
 
+
+
+
 58
 supervacuaneum, VPK, Ah.
+
+
+
 
 59
 neglegeris, P, Or; neglexeris, the other mss., Ah.
 
+
+
+
 60
 ignaros eius, VPA1NKlsm, Ah; ignaros (ignavos) cives, the other mss.; ignaros, Or.
+
+
+
 
 
 
@@ -886,8 +1177,14 @@ haec ego, V.
 
 
 
+
+
+
 62
 Graeciae morem imitati put after coepere tum (§ 40, l. 4) by Döderlein.
+
+
+
 
 
 
@@ -898,8 +1195,14 @@ circumveniri, V; the other codices have circumvenire.
 
 
 
+
+
+
 64
 hanc ego, PACNTm, Or; ego hanc, VBHDFls, Ah; hanc ergo, KMn.
+
+
+
 
 
 
@@ -910,8 +1213,14 @@ vero, VPA1l.
 
 
 
+
+
+
 66
 in faucibus Etruriae agit, Linker.
+
+
+
 
 
 
@@ -922,8 +1231,14 @@ effeta parentum, mss.; effeta vi parentum, Ritschl; effeta parentum vi, Ah, Or.
 
 
 
+
+
+
 68
 possum, PDLs; possem, the other mss., Ah, Or.
+
+
+
 
 
 
@@ -931,8 +1246,14 @@ possum, PDLs; possem, the other mss., Ah, Or.
 69
 postulabantur, Ah (Or); postulabat (‑bant, A), mss.
 
+
+
+
 70
 descenderis, n.
+
+
+
 
 
 
@@ -942,8 +1263,14 @@ exitum,
 	
 Treb. Poll. Claud. 5.3; Aug. Epist. 43.2, perhaps rightly (Ah).
 
+
+
+
 72
 in G. vorsus, Or, Prisc. II.514.22 K; in G., NKmn; ad G., F; G. vorsus, the other mss., Ah.
+
+
+
 
 
 
@@ -951,8 +1278,14 @@ in G. vorsus, Or, Prisc. II.514.22 K; in G., NKmn; ad G., F; G. vorsus, t
 73
 expedito, Wirz; expeditos in fuga (fugam), mss., Prisc. III.343.20 K; expeditus in fuga, Ah, Or. "Fortasse cum Dietschio scribendum expeditus impeditos," Ah.
 
+
+
+
 74
 sin, Kritz.
+
+
+
 
 75
 aggredimini, VCl, Ah, Or.
@@ -960,14 +1293,26 @@ aggredimini, VCl, Ah, Or.
 
 
 
+
+
+
 76
 vobis, VP2C2Dn; nobis, the other mss.
+
+
+
 
 77
 (WPT: The Loeb edition has no note.)
 
+
+
+
 78
 colonibus, PA1Nl; colonis, C2HΓsm, Ah, Or; coloniis, A2C1BKn.
+
+
+
 
 
 
@@ -978,8 +1323,14 @@ inhermos, P.
 
 
 
+
+
+
 80
 a omitted in X, superscribed in Al.
+
+
+
 
 
 
@@ -989,3 +1340,122 @@ possit, P1AC1.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Dec. 06

@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Probus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Carus et al.
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p386
+Firmus Saturninus Proculus et Bonosus
+	
+
 11 Minusculos tyrannos scio plerosque tacuisse aut breviter praeterisse. nam et Suetonius Tranquillus, emendatissimus et candidissimus scriptor, Antonium Vindicemque1 tacuit, contentus eo quod eos cursim perstrinxerat, et Marius Maximus2 Avidium Marci temporibus, Albinum et Nigrum Severi non suis propriis libris sed alienis innexuit. 2 et de Suetonio non miramur, cui familiare fuit amare brevitatem. quid Marius Maximus, homo omnium verbosissimus, qui et mythistoricis se voluminibus implicavit, num ad istam descriptionem curamque descendit? 3 atque contra Trebellius Pollio ea fuit diligentia, ea cura in edendis bonis malisque principibus ut etiam triginta tyrannos uno breviter libro concluderet, qui Valeriani et Gallieni nec multo superiorum aut inferiorum principum
 
 
@@ -134,153 +242,286 @@ p412mingeret, neque umquam eius aut pectus aut venter aut vesica gravaretur.
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 que ins. by Peter; om. in P and by Hohl.
 
 
+❦
 
 2
 So Peter; Maximus qui P, def. by Hohl.
 
 
+❦
 
 3
 nobis Edit. Princ.; etiam P; left as corrupt by Peter.
 
 
+❦
 
 4
 non tanta ins. by Lenze and Thornell; om. in P.
 
 
+❦
 
 5
 proinde P, Σ, Hohl; perinde Peter.
 
 
+❦
 
 6
 instruxisse Ursinus, Peter; introduxisse P, Σ.
 
 
+❦
 
 7
 aditis Ellis, Walter, Hohl; additis P, Σ; adductus Peter.
 
 
+❦
 
 8
 quam ins. by Haupt and Peter; om. in P.
 
 
+❦
 
 9
 et om. in P.
 
 
+❦
 
 10
 eum Σ; eius P.
 
 
+❦
 
 11
 om. in P.
 
 
+❦
 
 12
 uitas Cod. Chigianus, Hohl; uita P; uitam Salm., Peter.
 
 
+❦
 
 13
 in ins. by Klein and Hohl; om. in P and by Peter.
 
 
+❦
 
 14
 uerisset P; uir esset Peter, Hohl.
 
 
+❦
 
 15
 uiri Σ, editors; uenti P; inuenti Walter, Hohl.
 
 
+❦
 
 16
 in eis Petschenig, Hohl; eis P; sunt Peter.
 
 
+❦
 
 17
 illic Cas.; illa P; illi Σ.
 
 
+❦
 
 18
 aut ins. by Hohl; om. in P. <alii> linifiones, omnes certe Salm., Peter.
 
 
+❦
 
 19
 esse Editor; et P; et uidentur et habentur, Peter.
 
 
+❦
 
 20
 praecisi Hohl; cesi P; cesi . . . habent del. by Salm. and Peter.
 
 
+❦
 
 21
 nummus Vossius, Peter; nullus P.
 
 
+❦
 
 22
 adulescens ins. by Peter; om. in P and Σ.
 
 
+❦
 
 23
 So Ellis; additur his et furore P; est furiosus Peter.
 
 
+❦
 
 24
 cum ins. by Salm.
 
 
+❦
 
 25
 magistrales Σ, Peter; ministrales P.
 
 
+❦
 
 26
 poenam Editor; poene P; paene editors.
 
 
+❦
 
 27
 concallescat Damsté, Hohl; coalescat P, Peter.
 
 
+❦
 
 28
 cum se P.
 
 
+❦
 
 29
 gereret Baehrens, Peter2; regeret P.
 
 
+❦
 
 30
 militis P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

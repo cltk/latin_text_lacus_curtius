@@ -1,4 +1,150 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars VIII
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (finis)
+	
+
+
+
+
+XXXIII.
+		
+
+Bellum Cantabricum et Asturicum.
+		
+
+
+
+XXXIIII.
+		
+
+Pax Parthorum et consecratio Augusti.
+		
+
+
+
+p342
+
+XXXIII. Bellvm Cantabricvm et Astvricvm
+	
+
 (IIII, 12)
 46 Sub occasu pacata erat fere omnis Hispania, nisi quam Pyrenaei desinentis scopulis inhaerentem citerior adluebat1 Oceanus. Hic duae validissime
 
@@ -16,6 +162,10 @@ p346Antistium10 Furniumque11 legatos et Agrippam hibernans in Tarraconis12 marit
 
 
 	
+
+XXXIIII. Pax Parthorvm et Consecratio Avgvsti
+	
+
 61 Omnibus ad occasum et meridiem pacatis gentibus, ad septentrionem quoque, dum taxat intra Rhenum atque Danuvium, item ad orientem intra Cyrum25 et Euphraten, illi quoque reliqui, qui inmunes imperii erant, sentiebant tamen magnitudinem et victorem26 gentium populum Romanum27 reverebantur. 62 Nam et Scythae misere legatos et Sarmatae amicitiam petentes. Seres etiam habitantesque sub ipso sole Indi, cum gemmis et margaritis elephantos quoque inter munera trahentes, nihil magis quam
 
 
@@ -25,8 +175,15 @@ p350longinquitatem viae inputabant — quadriennium inpleverant; et iam28 ipse h
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 adluebat: abluebat B1: alluebat L.
+
+
+
 
 
 
@@ -37,8 +194,14 @@ Autrigonas Salmasius: aurigantes B1: aurigonas NL.
 
 
 
+
+
+
 3
 quia: qua B1.
+
+
+
 
 
 
@@ -49,8 +212,14 @@ Vindium: vinnium B1.
 
 
 
+
+
+
 5
 repugnat: oppugnat B1.
+
+
+
 
 
 
@@ -61,8 +230,14 @@ inter epulas om. B1.
 
 
 
+
+
+
 7
 taxo scripsi: taxeo B1.
+
+
+
 
 
 
@@ -73,8 +248,14 @@ praecipere N: praecoepere B1.
 
 
 
+
+
+
 9
 maior a: magis (om. a) B1.
+
+
+
 
 
 
@@ -85,8 +266,14 @@ Antistium: antatium B1: antestium L.
 
 
 
+
+
+
 11
 Furniumque: firmumque B1.
+
+
+
 
 
 
@@ -97,8 +284,14 @@ in Tarraconis: in terra tonis B1: intarrachonis N: interraconis L.
 
 
 
+
+
+
 13
 digna curru: dignas currus B1.
+
+
+
 
 
 
@@ -109,8 +302,14 @@ Asturam: astaram B1: scuram NL.
 
 
 
+
+
+
 15
 tam L Voss. Rehd.: quam B1.
+
+
+
 
 
 
@@ -121,8 +320,14 @@ Brigaecini: dri caecini B1: drigaecini N: drigenici L.
 
 
 
+
+
+
 17
 prodidissent: providissent B1.
+
+
+
 
 
 
@@ -133,8 +338,14 @@ tamen post sic add. B1N: om. Iahnius.
 
 
 
+
+
+
 19
 bellicorum certaminum: belli civilium certamin B1.
+
+
+
 
 
 
@@ -145,8 +356,14 @@ artes: arte B1: partes NL.
 
 
 
+
+
+
 21
 observari: observare B1.
+
+
+
 
 
 
@@ -157,8 +374,14 @@ aurifera: auriferae B1.
 
 
 
+
+
+
 23
 chrysocollae: chriso calle B1.
+
+
+
 
 
 
@@ -169,8 +392,14 @@ Astures N2: astare B1.
 
 
 
+
+
+
 25
 Cyrum: ecyrum N: circum L.
+
+
+
 
 
 
@@ -178,20 +407,141 @@ Cyrum: ecyrum N: circum L.
 26
 victorem Aldus: victoriam codd.
 
+
+
+
 27
 populum Romanum Aldus: populi Romani codd.
+
+
+
 
 28
 iam Mommsenus: tamen codd.
 
+
+
+
 29
 paeniteret Rehd.: pertineret N: permaneret L Monac.
 
+
+
+
 30
 certa Freinshemius: cuncta codd.
+
+
+
 
 31
 pactio L Palat.: paccio Voss. Monac. Rehd.: factio N.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

@@ -1,4 +1,177 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars V
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars VII
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+
+
+
+XIIII.
+		
+
+Bellum Caesaris Augusti.
+		
+
+
+
+XV.
+		
+
+Bellum Mutinense.
+		
+
+
+
+XVI.
+		
+
+Bellum Perusinum. Triumviratus.
+		
+
+
+
+XVII.
+		
+
+Bellum Cassi et Bruti.
+		
+
+
+
+XVIII.
+		
+
+Bellum cum Sexto Pompeio.
+		
+
+
+
+p298
+
+XIIII. Res svb Caesare Avgvsto
+	
+
 IIII, 3
 Populus Romanus Caesare et Pompeio trucidatis redisse in statum pristinum libertatis videbatur. 2 Et redierat, nisi aut Pompeius1 liberos aut Caesar heredem reliquisset, vel, quod utroque perniciosius fuit, si non collega quondam, mox aemulus Caesareanae potentiae,2 fax et turbo sequentis saeculi superfuisset Antonius. 3 Quippe dum Sextus paterna repetit, trepidatum toto mari; dum Octavius mortem patris ulciscitur, iterum fuit movenda Thessalia; 4 dum
 
@@ -8,6 +181,10 @@ p300Antonius vario ingenio aut successorem Caesaris indignatur Octavium aut amor
 
 
 	
+
+XV. Bellvm Mvtinense
+	
+
 IIII, 4
 Prima civilium motuum causa testamentum Caesaris fuit, cuius secundus heres Antonius, praelatum sibi Octavium furens, inexpiabile contra adoptionem
 
@@ -17,6 +194,10 @@ p302acerrimi iuvenis susceperat bellum. 2 Quippe cum intra octavum decimum annu
 
 
 	
+
+XVI. Bellvm Pervsinvm
+	
+
 IIII, 5
 Alterum bellum concitavit agrorum divisio, 2 quod Caesar veteranis patris pretium militiae persolvebat. Semper alias Antonii pessimum ingenium Fulvia tum10 gladio cincta virilis militiae uxor agitabat. Ergo depulsos agris colonos incitando iterum arma
 
@@ -25,6 +206,10 @@ Alterum bellum concitavit agrorum divisio, 2 quod Caesar veteranis patris preti
 p304cierat.11 3 Hic vero iam non12 privatis, sed totius senatus suffragiis iudicatum hostem Caesar adgressus intra Perusiae muros redegit13 conpulitque ad extrema deditionis turpi et nihil non experta fame.
 
 	
+
+Trivmviratvs
+	
+
 IIII, 6
 Cum solus etiam gravis paci,14 gravis rei publicae esset Antonius, quasi ignis incendio Lepidus accessit. Quid15 contra duos consules, duos exercitus? Necesse fuit venire in cruentissimi foederis societatem. Diversa omnium vota, ut ingenia. 2 Lepidum divitiarum cupido, quarum spes ex perturbatione rei publicae, Antonium ultionis16 de his qui se hostem iudicassent, Caesarem inultus pater et manibus eius graves Cassius et Brutus agitabant. 3 In hoc velut foedus pax inter tres duces conponitur. Apud Confluentes inter Perusiam et Bononiam iungunt manus, et exercitus consalutant. Nullo bono more triumviratus invaditur, oppressaque armis re publica redit Sullana proscriptio, cuius atrocitas nihil insignius17 habet quam numerum centum et quadraginta senatorum. 4 Exitus foedi, truces, miserabiles toto terrarum orbe fugientium. Quis pro indignitate rei ingemescat, cum Antonius Lucium
 
@@ -34,6 +219,10 @@ p306Caesarem avunculum suum, Lepidus Lucium Paulum fratrem suum proscripserint? 
 
 
 	
+
+XVII. Bellvm Cassi et Brvti
+	
+
 IIII, 7
 Brutus et Cassius sic Caesarem quasi Tarquinium regem depulisse19 regno videbantur,20 sed libertatem, quam maxime restitutam voluerunt, illo ipso parricidio perdiderunt. 2 Igitur caede perfecta cum veteranos Caesaris, nec inmerito, timerent, statim e curia in Capitolium confugerant. Nec illis ad ultionem deerat animus, sed ducem nondum habebant. 3 Igitur cum appareret, quae strages rei publicae inmineret, displicuit ultio, cum caedes inprobaretur. 4 Igitur Ciceronis consiliis abolitione decreta, ne tamen publici doloris oculos ferirent, in provincias ab illo ipso quem occiderant Caesare datas, Syriam
 
@@ -51,6 +240,11 @@ p310invicta fortuna et ultoris et qui vindicabatur, ut29 exitus proelii docuit. 
 
 
 	
+p312
+
+XVIII. Bellvm cvm Sexto Pompeio
+	
+
 IIII, 8
 Sublatis percussoribus Caesaris supererat Pompei domus. Alter iuvenum in Hispaniam occiderat, alter fuga evaserat contractisque infelicis belli reliquiis, cum insuper ergastula armasset, Siciliam Sardiniamque habebat; iam et classe medium mare insederat. 2 O quam diversus a patre! Ille Cilicas extinxerat, hic se piratica tuebatur. Puteolos,37 Formias, Volturnum, totam denique Campaniam, Pontias et Aenariam,38 ipsa Tiberini fluminis ora populatus est. Subinde congressus39 Caesaris naves et incendit et demersit;40 nec ipse tantum, sed Menas41 et Menecrates, foeda servitia, quos classi praefecerat, praedabundi42 per litora cuncta volitabant. 3 Ob haec tot prospera centum bubus auratis Peloro litavit spirantemque equum cum auro in fretum misit, dona Neptuno,43 ut se maris rector in suo mari regnare pateretur. Eo denique discriminum ventum est, ut foedus et44 pax cum hoste — si modo hostis Pompei filius — tamen feriretur. 4 Quantum id, sed breve gaudium fuit, cum in Baiani litoris mole de reditu eius et bonorum restitutione convenit, cumque invitante ipso in navem discubitum est, et ille sortem suam increpitans "hae sunt" inquit "carinae
 
@@ -65,8 +259,15 @@ p316alia post Xerxen miserabilior fuga. Quippe modo trecentarum quinquaginta nav
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 aut Pompeius: ad pompeii B.
+
+
+
 
 
 
@@ -77,8 +278,14 @@ potentiae: potentiam B.
 
 
 
+
+
+
 3
 post regem spatium vacuum octo circiter litterarum B.
+
+
+
 
 
 
@@ -89,8 +296,14 @@ conversione: conversatione B.
 
 
 
+
+
+
 5
 se plenae scripsi: is plenae B: ·se· plene L.
+
+
+
 
 
 
@@ -101,8 +314,14 @@ furtis: viri fortis B: fortis (o in u mut.) L.
 
 
 
+
+
+
 7
 et heredem ante hereditatem add. B.
+
+
+
 
 
 
@@ -113,8 +332,14 @@ obsidere. At Iahnius: obsiderat B: obsidebat NL.
 
 
 
+
+
+
 9
 crederet: credere B.
+
+
+
 
 
 
@@ -125,8 +350,14 @@ tum Mommsenus: ut B.
 
 
 
+
+
+
 11
 arma cierat Hauptius: in arma revocaverat B: in arma ierat NL.
+
+
+
 
 
 
@@ -137,8 +368,14 @@ non om. B.
 
 
 
+
+
+
 13
 redegit L: redigit B.
+
+
+
 
 
 
@@ -149,8 +386,14 @@ gravis paci om. B.
 
 
 
+
+
+
 15
 quid Graevius: cui B.
+
+
+
 
 
 
@@ -161,11 +404,20 @@ ultionis: ultionem B.
 
 
 
+
+
+
 17
 insignius Mommsenus: in se minus codd.
 
+
+
+
 18
 Romae: romanae B.
+
+
+
 
 
 
@@ -176,8 +428,14 @@ depulisse: depulisset B.
 
 
 
+
+
+
 20
 videbantur: videbatur B.
+
+
+
 
 
 
@@ -188,8 +446,14 @@ tum: tot B.
 
 
 
+
+
+
 22
 inminentia cladis destinatae signa latuerunt N: imminentia destinate cladis latuerunt B.
+
+
+
 
 
 
@@ -200,8 +464,14 @@ castra om. B.
 
 
 
+
+
+
 24
 Aethiops: aethiope B.
+
+
+
 
 
 
@@ -212,8 +482,14 @@ ac: hoc B.
 
 
 
+
+
+
 26
 est om. BN.
+
+
+
 
 
 
@@ -224,8 +500,14 @@ et om. BN.
 
 
 
+
+
+
 28
 stabat Salmasius: staret B: starent NL.
+
+
+
 
 
 
@@ -236,8 +518,14 @@ ut om. B.
 
 
 
+
+
+
 30
 utrimque Palat. Rehd.: utrumque BN.
+
+
+
 
 
 
@@ -245,8 +533,14 @@ utrimque Palat. Rehd.: utrumque BN.
 31
 sint Spengelius: sunt codd.
 
+
+
+
 32
 Cassi: classi B: cassii N: cassias L.
+
+
+
 
 
 
@@ -257,8 +551,14 @@ Brutus add. Tollius: cf. Dio Cass. XLVII.49.
 
 
 
+
+
+
 34
 error: errore B.
+
+
+
 
 
 
@@ -269,8 +569,14 @@ superesse: superesset B.
 
 
 
+
+
+
 36
 persuasione N: suasione B.
+
+
+
 
 
 
@@ -281,8 +587,14 @@ tuebatur. Puteolos Bezzenbergius: turbatur per (= pn = proprium nomen) puteolo
 
 
 
+
+
+
 38
 Aenariam: tenariam B.
+
+
+
 
 
 
@@ -293,8 +605,14 @@ congressus: congressas B.
 
 
 
+
+
+
 40
 demersit: emersit B.
+
+
+
 
 
 
@@ -305,8 +623,14 @@ Menas; mensas B.
 
 
 
+
+
+
 42
 praedabundi Halmius: praedendi B.
+
+
+
 
 
 
@@ -317,8 +641,14 @@ hoc putabant post Neptuno add. B, del. Hauptius.
 
 
 
+
+
+
 44
 et: ut B.
+
+
+
 
 
 
@@ -329,8 +659,14 @@ inportunitate Iahnius: inportu B.
 
 
 
+
+
+
 46
 itum Halmius: inille B.
+
+
+
 
 
 
@@ -341,8 +677,14 @@ et iam totis Halmius: et intotis B.
 
 
 
+
+
+
 48
 illa aquarum: illae quarum B.
+
+
+
 
 
 
@@ -353,8 +695,117 @@ venturus: ventus B.
 
 
 
+
+
+
 50
 praetoriae: portitoriae B: praetorio NL.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

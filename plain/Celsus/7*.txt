@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+VI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber
+				
+VIII
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p294
+Liber VII
+	
+
+PROOEMIUM
+	
+
 Tertiam esse medicinae partem, quae manu curet, et vulgo notum et a me (prooem. 9) propositum est. Ea non quidem medicamenta atque victus rationem omittit, sed manu tamen plurimum praestat, estque eius effectus inter omnes medicinae partes evidentissimus. Siquidem in morbis, cum multum fortuna conferat, eademque saepe salutaria, saepe vana sint, potest dubitari, secunda valetudo medicinae an corporis an . . .1 beneficio contigerit. 2 In iis quoque, in quibus medicamentis maxime nitimur, quamvis profectus evidentior est, tamen sanitatem et per haec frustra quaeri et sine his reddi saepe manifestum est: sicut in oculis quoque deprehendi potest, qui a medicis diu vexati sine his interdum sanescunt. At in ea parte, quae manu curat, evidens omnem profectum, ut aliquid ab aliis adiuvetur, hinc tamen plurimum trahere. Haec autem pars cum sit vetustissima, magis tamen ab illo parente omnis medicinae Hippocrate quam a prioribus exculta est. 3 Deinde posteaquam diducta ab aliis habere professores suos coepit, in Aegypto quoque Philoxeno maxime increvit auctore, qui pluribus voluminibus hanc
 
 
@@ -635,200 +758,243 @@ p470sit, quod unicum est. Igitur inter sanam vitiatamque partem incidenda scalpe
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Marx adds fortunae before beneficio.
 
 
+❦
 
 2
 et quia Daremberg following one MS.; Marx keeps the qui of the majority and suggests (since ille follows) that some words have fallen out.
 
 
+❦
 
 3
 loco Daremberg following some of the MSS.; loci retained by Marx.
 
 
+❦
 
 4
 So one MS. followed by Daremberg. The majority of MSS. have medius which Marx retains.
 
 
+❦
 
 5
 The figure of the letter has dropped out. It has been variously restored as Ψ, Λ, Υ, ν.
 
 
+❦
 
 6
 The figure of the letter is omitted; probably vel has taken its place. Targa reads V, and this is rendered; other suggestions are Ψ or ν.
 
 
+❦
 
 7
 Marx inserts laborantes after ancyloblepharus.
 
 
+❦
 
 8
 arquatae (jaundiced, cf. Celsus, II.8.34, III.24.1) is Marx's emendation for the aequatae of the best MSS.; one MS. followed by Daremberg has recurvatae.
 
 
+❦
 
 9
 This text is kept by Daremberg, but Marx thinks there is a considerable lacuna after subsidit and suggests reliquis partibus oculi cavum aeque comprehendit.
 
 
+❦
 
 10
 Marx supplies illa after membranula.
 
 
+❦
 
 11
 Marx adds oculi after interiori.
 
 
+❦
 
 12
 Marx inserts fiunt corporis partibus after tribus, and this is translated.
 
 
+❦
 
 13
 Marx supplies paene after eripere.
 
 
+❦
 
 14
 Marx inserts aut maximam partem after cutis and this is translated.
 
 
+❦
 
 15
 Marx supplies et tota eximenda after liberanda and this is translated.
 
 
+❦
 
 16
 Marx notes that ulcus has fallen out before eluitur.
 
 
+❦
 
 17
 Marx supplies astringat fascia after fauces.
 
 
+❦
 
 18
 Marx supplies genus causam after quod.
 
 
+❦
 
 19
 Marx supplies vel acu perforato.
 
 
+❦
 
 20
 Marx supplies puer after sed.
 
 
+❦
 
 21
 The text is corrupt. Marx suggests substituting the word cum for tum and inserting postea sim before explanaturus, and this is translated.
 
 
+❦
 
 22
 Marx inserts recedentes before revertens and this is translated.
 
 
+❦
 
 23
 The text is uncertain, Marx suggests ilibus for ipsius; V. d. Linden remissius et before albidius.
 
 
+❦
 
 24
 Marx suggests fit ut ramice for varice.
 
 
+❦
 
 25
 Marx supplies intus before coniectis.
 
 
+❦
 
 26
 Reading venae (Krause) Marx keeps the MS. eae.
 
 
+❦
 
 27
 Marx would add after impleat: satis magnam partem colis nudatum esse intelligitur si cutis aut nihil aut paulum intenta est, and this is translated.
 
 
+❦
 
 28
 Marx inserts specillo, and suggests that the name of the plaster has fallen out.
 
 
+❦
 
 29
 Marx inserts feminis after in.
 
 
+❦
 
 30
 Marx suggests that eodem is a corruption of madente aceto.
 
 
+❦
 
 31
 Marx would insert si noctu et interdiu after rodit, comparing II.8.32, and this is translated.
 
 
+❦
 
 32
 Marx would add eaque ipsa sit after sit.
 
 
+❦
 
 33
 Marx notes an omission after umor, perhaps decoctus.
 
 
+❦
 
 34
 Marx conjectures consuevit for the corrupt ut (which is omitted by one MS.). Constantine dehiscit.
 
 
+❦
 
 35
 Marx adds: oportet after extrahere.
 
 
+❦
 
 36
 The text is uncertain. One MS., followed by several editors, has ubi sanguini qui effluit sanies adicitur "when sanies as well as blood is discharged."
 
 
+❦
 
 37
 acrioribus Constantine for acrius.
 
 
+❦
 
 38
 Some words have fallen out. Marx suggests deinde expressa ex.
 
 
+❦
 
 39
 Marx suggests that molli lana et has fallen out after est.
 
 
+❦
 
 40
 Marx retains the MS. cervices, which does not seem to fit the context, V. d. Linden suggested coxendices, Targa coxae, hips.
@@ -836,3 +1002,118 @@ Marx retains the MS. cervices, which does not seem to fit the context, V. d. L
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Kal. Apr. 05

@@ -1,52 +1,267 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p506
+Suetonius,
+	
+Vita Passieni Crispi1
+
+
+
+
 Passienus2 Crispus, municeps Viselliensis,3 tirocinio suo in senatu ita coepit: "Patres conscripti et tu Caesar!" propter quod simulata oratione4 plenissime a Tiberio conlaudatus est.5 Plurimas sponte causas apud centumviros egit, pro qua re in basilica Iulia eius statua posita est. Consulatus duos gessit. Uxores habuit duas, primam Domitiam, deinde Agrippinam, illam amitam, hanc matrem Neronis Caesaris. Possedit bis milies sestertium. Omnium principum gratiam adpetivit, sed praecipue C.6 Caesaris, quem iter facientem secutus est pedibus. Hic nullo audiente ab Nerone7 interrogatus, haberetne sicut ipse cum sorore germana consuetudinem, "Nondum" inquit, quantumvis decenter et caute, ne aut negando8 eum argueret aut adsentiendo9 semet mendacio dehonestaret. Periit per fraudem Agrippinae, quam heredem reliquerat, et funere publico elatus est.
 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Sigla: P = cod. Montepessulanus, 125, formerly Pithoeanus, ninth century; S = cod. Sangallensis, 870, ninth century.
 
 
+❦
 
 2
 Passienus, added by Reiff.
 
 
+❦
 
 3
 municeps Viselliensis, omitted by Reiff.
 
 
+❦
 
 4
 simulata oratione, Jahn; simuloratione, PS; simulatione, Pithoeus.
 
 
+❦
 
 5
 est, added by Jahn.
 
 
+❦
 
 6
 C., added by Lipsius.
 
 
+❦
 
 7
 Caesare, Reiff.; the reference is to Gaius Caligula.
 
 
+❦
 
 8
 negando, Lipsius; negantem, PS; negans, Pithoeus.
 
 
+❦
 
 9
 adsentiendo, Lipsius; adsentientem, PS; adsentiens, Pithoeus.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08

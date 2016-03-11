@@ -1,4 +1,128 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+I
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber
+				
+III
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p84
+Liber II
+	
+
+
+PROOEMIUM
+	
+
 Instantis autem adversae valetudinis signa conplura sunt. In quibus explicandis non dubitabo auctoritate antiquorum virorum uti, maximeque Hippocratis, cum recentiores medici, quamvis quaedam in curationibus mutarint, tamen haec illos optime praesagisse fateantur. 2 Sed antequam dico
 	
 (capp. 2 seqq.), quibus praecedentibus morborum timor subsit, non alienum videtur exponere, quae tempora anni
@@ -657,109 +781,245 @@ His autem omnibus, et simplicibus et permixtis, varie medici utuntur, ut magis q
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Some words have fallen out here. Marx suggests frequenter alia genera alio tempore in aliis, in aliis, "but as some kinds occur less frequently at some times in some people, but in others more frequently." One MS. gives quod for quo, omitting minus.
 
 
+❦
 
 2
 The MSS. here vary between prior and priores. Marx conjectures praeterea.
 
 
+❦
 
 3
 Est nec ei supplied by Marx.
 
 
+❦
 
 4
 aut si added by Marx.
 
 
+❦
 
 5
 fere so Constantine for MSS. febra adiecta, which is deleted by Stangl followed by Marx.
 
 
+❦
 
 6
 convalescant: so one MS.º followed by Daremberg. Most of the MSS. read convalescunt, and Marx thinks some words have fallen out here such as cum desperantibus medicis permultos convaluisse sit traditum: 'since it is on record that very many have recovered when the doctors have given them up.'
 
 
+❦
 
 7
 Constantine for the MSS. aliter.
 
 
+❦
 
 8
 Marx proposes to fill the lacuna: Haec sunt signa in quoque morbis genere propria quibus spes salutis ostenditur: "These are the special signs in each kind of disease which hold out hope of recovery."
 
 
+❦
 
 9
 So Pantenus, followed by v. d. Linden for the sive caput of MSS.
+❦
 
 10
 venter added by Targa.
 
 
+❦
 
 11
 So Marx for the vetera of the MSS.; the word is deleted by Targa.
 
 
+❦
 
 12
 Daremberg inserted et ambulationis "and exercise." Marx suggests that more has fallen out — comparing the corresponding passage of Hippocrates. Prorrhet. II. 23.
 
 
+❦
 
 13
 Marx, following Constantine and v. d. Linden would insert in urinae difficultate febre; cf. Hipp. IV. 188 (Aph. VI. 44) of which this passage seems to be a translation.
 
 
+❦
 
 14
 alvi added by Marx.
 
 
+❦
 
 15
 So the best MS., but Daremberg with some MSS. authority reads eiiciendum, 'not that we should reject anything' — which makes the argument easier to follow.
 
 
+❦
 
 16
 Daremberg ipso with one MS.
+❦
 
 17
 Targa deleted these words as a gloss.
 
 
+❦
 
 18
 ut added by v. d. Linden.
 
 
+❦
 
 19
 There is a lacuna here. Marx adds: Modum sibi constituunt nec magis cibi: 'determine the amount of food for themselves, and do not even leave the times to the doctors to settle,' v. d. Linden with some MSS. reads: dant sibi cibi tempora, modum curantibus dant: 'dictate the times for their meals, and leave the quantity to their doctors.'
 
 
+❦
 
 20
 Constantine's suggestion for the MSS. similitudine, which Marx brackets as a gloss.
 
 
+❦
 
 21
 Marx suggests: itemque in igne pelvis sale repleta conlocatur 'again a basin full of salt is laid on the fire.'
 
 
+❦
 
 22
 Omitted by Targa, cf. 21.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+Kal. Jan. 11

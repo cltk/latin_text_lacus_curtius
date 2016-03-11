@@ -1,4 +1,113 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+Belli Jugurthini
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXI (recensiti MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p212
+C. Sallusti Crispi
+	
+Bellum Jugurthinum
+	
+
+Capitula XXXVI‑LXXVI
+	
+
 36
 
 Interim Albinus renovato bello commeatum, stipendium aliaque, quae militibus usui forent, maturat in Africam portare; ac statim ipse profectus, uti ante comitia, quod tempus haud longe aberat, armis aut deditione aut quovis modo bellum conficeret. 2 At contra Iugurtha trahere omnia et alias deinde alias morae causas facere, polliceri deditionem ac deinde metum simulare, cedere instanti et paulo
@@ -460,8 +569,15 @@ p296prorsus ab utrisque nihil relicum fieri. 5 Denique Romani multo ante labore
 
 
 	
+
+Apparatus Criticus:
+	
+
 39
 fuere (fuit), MSS., Ah, Or. Dietsch and others regarded ita fuere as a gloss.
+
+
+
 
 
 
@@ -472,8 +588,14 @@ diu, PNA (corr.); the other MSS. have die.
 
 
 
+
+
+
 41
 partim, TD2Fsnm; partium, the other MSS. (s. duces written above in A).
+
+
+
 
 
 
@@ -481,8 +603,14 @@ partim, TD2Fsnm; partium, the other MSS. (s. duces written above in A).
 42
 tenet, MSS.
 
+
+
+
 43
 fuerint, PAN1K1T2Dln.
+
+
+
 
 
 
@@ -493,17 +621,32 @@ neglegisset, B, Or; neglexisset, the other MSS., Ah.
 
 
 
+
+
+
 45
 partium, m1; partium popularium, the other MSS.
+
+
+
 
 46
 factionum, N1m1; senatus f., CBn, m. 2 of ANKT; senatores f., the other MSS.
 
+
+
+
 47
 ipsa, AN1m, Arus. VII.505.2 K; ipsam, the other MSS.
 
+
+
+
 48
 All the MSS. except n have only one alterum.
+
+
+
 
 
 
@@ -514,8 +657,14 @@ scribere, NMm, Ah, Or; eligere, D; eligere scr., XKHlsn; scr. elig., F; e. pr
 
 
 
+
+
+
 50
 Fronto, ad Anton. 2.6 has odos.
+
+
+
 
 
 
@@ -526,8 +675,14 @@ muniebantur, Fronto, l.c., Ah who adds: "fortasse scribendum mun. ea, ut in int
 
 
 
+
+
+
 52
 probra ea, Fronto, Ah, Or.
+
+
+
 
 
 
@@ -538,14 +693,26 @@ Romae, MSS.; Roma, Fronto, p110 N; Non. p325.31.
 
 
 
+
+
+
 54
 nuntiari, ACBNKsn; nuntiare, the other MSS.
+
+
+
 
 55
 an, Xln; et, K; aut or vel, the other MSS.
 
+
+
+
 56
 in incerto, KT2F2sm; incerto, XNlnm2; incertum, HΓ.
+
+
+
 
 
 
@@ -556,11 +723,20 @@ si paterentur et ob opportunitates, Schmalz, Ah; et si paterentur opportunitates
 
 
 
+
+
+
 58
 commeatu iuvaturam, Ursinus; commeatum iuvaturum, MSS.
 
+
+
+
 59
 nascuntur, Arus. VII.477.32 K.
+
+
+
 
 
 
@@ -571,14 +747,26 @@ belli, PAl. Arus. VII.492.3 K. The other MSS. have bello.
 
 
 
+
+
+
 61
 pro, omitted by the MSS.
+
+
+
 
 62
 conspicatur, Donat. in Ter. Eun. 383, Prisc. II.436.4 K; conspicitur, MSS.
 
+
+
+
 63
 dextero, P, Or.
+
+
+
 
 
 
@@ -589,14 +777,23 @@ praetergressos, MSS.; praetergressum, editors.
 
 
 
+
+
+
 65
 diei, CBK2H2Flsm2.
 
 
 
 
+
+
+
 66
 plerosque, A1Ys2m; the other MSS. have pluresque.
+
+
+
 
 
 
@@ -609,8 +806,14 @@ Livy XXII.60.9, but suggests confecti or lacerati; Jordan deleted laetique.
 
 
 
+
+
+
 68
 adventarent, D; Korrte deleted adventare.
+
+
+
 
 
 
@@ -621,8 +824,14 @@ exortum, MSS.; mutatur, Prisc. III.296.6 K, Ah, Or.
 
 
 
+
+
+
 70
 quatriduom, Ah.
+
+
+
 
 
 
@@ -630,10 +839,16 @@ quatriduom, Ah.
 71
 iniquum (iniquom, inicum), editors; inimicum, MSS.
 
+
+
+
 72
 interfici, AT2,
 	
 Serv. Aen. V.546, Or; interfecit, Probus IV.16.23 K; the other MSS. and Ah have interficit.
+
+
+
 
 
 
@@ -644,8 +859,14 @@ proximis, PA2CBKl.
 
 
 
+
+
+
 74
 picem . . . ardentia, scripsi, p. s. et t. m. ardentia (ardenti, A2KΓs, ardentem, m), MSS., Ah, Or.
+
+
+
 
 
 
@@ -656,14 +877,26 @@ frustrari, XTm; frustrati, A2C2Ylsn; frustrabantur, Schol. Stat. Theb. II.594.
 
 
 
+
+
+
 76
 clamorem, M1DF, Ah, Or; c. vel tumultum, the other MSS.
+
+
+
 
 77
 adversis equi(s), P2K2T2l2; adversi sequi, MSS.
 
+
+
+
 78
 sese, XK2Tsn; se, the other MSS.
+
+
+
 
 79
 nisi, M and m. 2 of AKHl; ni, F; niti, PA1NK1H1Dl1m; niti nisi, CBsn.
@@ -671,11 +904,20 @@ nisi, M and m. 2 of AKHl; ni, F; niti, PA1NK1H1Dl1m; niti nisi, CBsn.
 
 
 
+
+
+
 80
 ad se, P2N2HT1, Arus. VII.466.20 K; ab se, the other MSS.
 
+
+
+
 81
 nisi, PAK1T2D2l; si (ne om.) A2HT1D1F; ne (si om.) Mn.
+
+
+
 
 
 
@@ -686,8 +928,14 @@ cum, Aym, Or (quom, Ah); quom . . . vocaretur, Serv. Ecl. VIII.71; the other 
 
 
 
+
+
+
 83
 ageret, B2K2T2D2; agere, the other MSS.
+
+
+
 
 84
 factis, Palmer; facile, MSS., Or.
@@ -695,11 +943,20 @@ factis, Palmer; facile, MSS., Or.
 
 
 
+
+
+
 85
 Omitted by almost all MSS.
 
+
+
+
 86
 quin is (quin, P1F1; qui nisi, l) indignus honore et quasi pollutus, MSS., Or; order changed by Eussner, followed by Ah.
+
+
+
 
 
 
@@ -710,8 +967,14 @@ cum haruspicis, PA1NK1H1.
 
 
 
+
+
+
 88
 ad arcem, Γ (except D); arce, the other MSS.; arcem . . . pr. h. obsidebat, Dietsch, Ah; ad arcem . . . pr. h.; fuga, Or.
+
+
+
 
 
 
@@ -719,11 +982,20 @@ ad arcem, Γ (except D); arce, the other MSS.; arcem . . . pr. h. obsidebat,
 89
 fuga prohibebant, Jordan; fuga prohibebat, PA1; fugam prohibebant, the other MSS.
 
+
+
+
 90
 aut casu, XNlsn; an casu, the other MSS.
 
+
+
+
 91
 late, Mm; the other MSS. have latere.
+
+
+
 
 
 
@@ -734,11 +1006,20 @@ irae, PANHl.
 
 
 
+
+
+
 93
 Latio, A1K2HD2s; collatio, the other MSS.
 
+
+
+
 94
 clarum, MSS.; carum, Colerus.
+
+
+
 
 
 
@@ -749,8 +1030,14 @@ ex servis before cognovit, A; expertus, N; ex perfugis, the other MSS. The ph
 
 
 
+
+
+
 96
 PA1N1; the other MSS. have oriretur.
+
+
+
 
 
 
@@ -761,8 +1048,14 @@ exercitus, PN; excitatus, M; experrectus, Diom. I.376.15 K.
 
 
 
+
+
+
 98
 sed paulo (paulum, n) decreverat, XNDlnm, Ah, Or; sed senatus p. decio decreverat (decr. decio, H), the other MSS. Ah suggests ante senatus aliam provinciam Mario.
+
+
+
 
 
 
@@ -773,8 +1066,14 @@ tutata, CBHT2F2l2m; tutati, n; tutarant, MT1.
 
 
 
+
+
+
 100
 fuerit, MSS. (fuerat, N; fuit M); forent, Kritz; fuerint, Ah; futuri sint, Or.
+
+
+
 
 
 
@@ -784,3 +1083,122 @@ vineas agere superque eas aggerem iacere, MSS.; superque eas deleted by Korrte.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIII Kal. Mai. 07

@@ -1,5 +1,106 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p494
+Suetonius
+	
+Vita Auli Persi Flacci
+	
+
+
+
 Aulus Persius Flaccus natus est pridie Nonas Decembris Fabio Persico L. Vitellio coss., decessit VIII Kalendas Decembris P.1 Mario Afinio2 Gallo coss.
 
 	
@@ -57,55 +158,174 @@ Sed mox ut a schola magistrisque devertit, lecto Lucili libro decimo vehementer 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Publio, Lipsius; rubio or rubrio, MSS.
+❦
 
 2
 Asinio, MSS.; cf. Tac. Ann. 14.48.
 
 
+❦
 
 3
 mater eius, omitted by some MSS.
+❦
 
 4
 Fuscio or Ruscio, MSS.
+❦
 
 5
 ut, omitted by the MSS.
+❦
 
 6
 After Cornuti the MSS. have Nam Cornutus illo tempore tragicus (grammaticus, Martinius) sectae poeticae (stoicae, Pithoeus), qui libros philosophiae reliquit. Sed . . .
+❦
 
 7
 suo ludo faceret, MSS.
+❦
 
 8
 minores ipse, MSS.; minor esset ipse, Owen.
 
 
+❦
 
 9
 pecuniam . . . reliquit et, MSS.
+❦
 
 10
 Owen suggests additi.
 
 
+❦
 
 11
 correxit, Laurentianus; contraxit or recitavit, MSS.
+❦
 
 12
 in socrum, Casaubon; sororum, MSS.
+❦
 
 13
 After Thraseae the MSS. have in Arriam matrem.
 
 
+❦
 
 14
 XXIIX, Reizius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+4 Feb 09

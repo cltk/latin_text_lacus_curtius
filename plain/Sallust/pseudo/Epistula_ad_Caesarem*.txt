@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Epistula ad Caesarem
+				
+
+
+
+[C. Sallusti Crispi]
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXI (recensitum MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p462
+[C. Sallusti Crispi]
+	
+Ad Caesarem Senem
+	
+de Re Publica Epistula
+	
+
 1 
 Scio ego quam difficile atque asperum factu sit consilium dare regi aut imperatori, postremo quoiquam mortali, quoius opes in excelso sunt; quippe cum et illis consultorum copiae adsint neque de futuro quisquam satis callidus satisque prudens sit. 2 Quin etiam saepe prava magis quam bona consilia prospere eveniunt, quia plerasque res fortuna ex libidine sua agitat.
 
@@ -130,118 +238,243 @@ p490mortalis gloria agitabis23 tuaque unius mors vita clarior erit. 7 Nam vivos
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Rom. ed. omits in.
 
 
+❦
 
 2
 repeti, Ciacconius.
 
 
+❦
 
 3
 disturbabit, V.
 
 
+❦
 
 4
 luget, V.
 
 
+❦
 
 5
 namque, V.
 
 
+❦
 
 6
 at hercule a M. Catone, Mommsen; at hercule M. Catoni, Orelli; atherculem catonem, V.
 
 
+❦
 
 7
 nequier, V.
 
 
+❦
 
 8
 arvis, Dousa; armis, V.
 
 
+❦
 
 9
 iuxta se, Jordan; iuxta ac se, V; iuxta ac de se, Gerlach.
 
 
+❦
 
 10
 maiore, Gerlach; maior, V.
 
 
+❦
 
 11
 feret, Aldus; referet, V.
 
 
+❦
 
 12
 id adeo, Asulanus; ideo, V.
 
 
+❦
 
 13
 una ardua via (superscribed) est, V; una et ardua via est, Aldus; via ardua est, Jordan.
 
 
+❦
 
 14
 coaequantur, V.
 
 
+❦
 
 15
 qui, V.
 
 
+❦
 
 16
 in titulo, Jordan; instituto, V; in statua nihil praeter nomen, Lipsius.
 
 
+❦
 
 17
 patris, V.
 
 
+❦
 
 18
 quin quae, ed. Mant., 1476‑1478; quique, V.
 
 
+❦
 
 19
 fert, Aldus; fertur, V.
 
 
+❦
 
 20
 gratia, V.
 
 
+❦
 
 21
 probari, V.
 
 
+❦
 
 22
 diversa, Aldus; divisa, V.
 
 
+❦
 
 23
 gloria agitabis, Jordan; gloria agnita, earlier editors.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Dec. 07

@@ -1,4 +1,151 @@
 
+
+
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 1‑33
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Alexandrian War
+				
+
+probably by Hirtius, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 42‑47
+				
+
+
+
+
+
+Caesar
+	
+de Bello Alexandrino
+	
+
+p64
+[Capitula 34‑41]
+	
+
+Thayer's Note: The map is from the end of the volume, to which I've added the Google map of the area today.
+	
+
+
+
+
+
+
+
+
+
+Forma II.: Asia parsque orientalis Maris Romani
+		
+
+
+
+
+
+
+
+JavaScript must be enabled in order for you to use Google Maps. It seems, though, that JavaScript is either disabled or not supported by your browser. To view Google Maps, enable JavaScript by changing your browser options, and then try again.
+			
+
+
+
+
 34
 
 Dum haec in Aegypto geruntur, rex Deiotarus ad Domitium Calvinum, cui Caesar Asiam finitimasque provincias administrandas tradiderat, venit oratum ne Armeniam minorem, regnum suum, neve Cappadociam, regnum Ariobarzanis, possideri vastarique pateretur a Pharnace; quo malo nisi liberarentur, imperata se facere pecuniamque promissam Caesari non posse persolvere. Domitius, non tantum ad explicandos sumptus rei militaris cum pecuniam necessariam esse iudicaret, sed etiam turpe populo Romano et C. Caesari victori sibique infame esse statueret regna sociorum atque amicorum ab externo rege occupari, nuntios confestim ad Pharnacem misit,
@@ -65,8 +212,16 @@ Pharnaces rebus secundis elatus, cum de Caesare ea quae optabat speraret, Pontum
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 vidit added by Forchhammer.
+
+
+
 
 
 
@@ -75,6 +230,159 @@ sine causa MSS. Hoffmann conjectured si negatis.
 
 
 
+
+
+
 3
 acies secundo MSS.: ac transcendere Nipperdey.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Alexandrino
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Id. Feb. 13

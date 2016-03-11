@@ -1,4 +1,109 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur
+				
+
+
+
+Dicuili Hiberniae monachi
+				
+
+
+
+a
+Firmino Didot
+editum
+				
+Lutetiae, MCDDDVII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p3
+Liber de Mensura Orbis Terrae
+	
+
+
+u3 Praefatio. Incipit Prologus libri de mensura provinciarum orbis terrae.
+	
+
 Praef.1. Post congregatam epistolam de quaestionibus decem artis grammaticae, cogitavi, ut liber de mensura provinciarum orbis terrae sequeretur, secundum illorum auctoritatem quos Sanctus Theodosius imperator ad provincias praedictas mensurandas miserat; et, iuxta Plinii Secundi praeclaram auctoritatem, ipsarumJJJ dimensionemJJJ volo supplens ostendere.
 
 	
@@ -427,6 +532,16 @@ Scribens de Aethiopia quae ad Africam pertinet, de multis eius insulis iuxta Pli
 3 Priscianus in libro qui in graeco Periegesis nominatur, id est: Descriptio Orbis Terrae, quam per metrum valde bonum fecerat, Erythraeam insulam iuxta Atlanticam Aethiopiam fore monet:
 
 
+
+
+
+"Aethiopes habitant Erythiam pectore iusti,
+			
+Atlantem iuxta longaevi. Finibus olim, . . ." [Priscian., Perieg. 570‑571].
+		
+
+
+
 4 Gaulea insula in Australi Oceano Occidentalis Aethiopiae, cuius vocabulum Isidorus in XIIII [14,6,8ss] libro Aethimologiarum ostendit.
 
 	
@@ -447,6 +562,20 @@ Circum nostram insulam Hiberniam sunt insulae; sed aliae parvae, atque aliae min
 
 	
 4 Priscianus de eadem in Periegesi manifestius quam Isidorus inquit:
+
+
+
+
+
+"Oceani tranans hinc navibus aequor apertum,
+			
+Ad Thulen veniens, quae nocte dieque relucet
+			
+Titanis radiis, cum curru scandit ad axes
+			
+Signiferi, boreas succedens lampade partes" [Priscian., Perieg. 588‑591].
+		
+
 
 
 5 De eadem manifestius et plenius quam Priscianus Iulius Solinus de Britannia loquens, in collectaneis ita scripsit: "Thyle ultima in qua, aestivo [solstitio] sole de cancri sidere faciente transitum, nox nulla; brumali solstitio, perinde, nullus dies [Solino, De Mirab. M. 22 secunda ed.].
@@ -514,6 +643,40 @@ In praedicta Cosmographia legitur esse insula Solis quae appellatur Perusta, ubi
 7 Priscianus in Periegesi de eadem insula Taprobane, ceterisque duabus, haec sententia dicit:
 
 
+
+
+
+"Hinc tepidos proram convertens navis ad austros,
+			
+Taprobanen venies; generat quae magna elephantes
+			
+Per fines Asiae. Iacet haec sub sidere Cancri.
+			
+Litoribus cuius saliunt densissima cete,
+			
+Quae pascit vastum mare Rubrum, montibus aequa;
+			
+Tenditur horribilis quorum per terga, per armos
+			
+Spina ferens cladem, fatumque sub ore feroci;
+			
+Quippe solent pariter navem sorbere, virosque.
+			
+Nam mala tam pelagus quam terra merentibus offert.
+			
+Ulterius pergas si post Carmanida summam,
+			
+Ogyris occurrat qua dicitur esse sepulchrum
+			
+Regis Erythraei, dederat qui nomina ponto.
+			
+Persicus inde sinus penetratur, et Icaron offert,
+			
+Insula quae fertur nimium placare Dianam" [Priscian., Perieg. 595‑608].
+		
+
+
+
 8 Sicut longitudinem et latitudinem insulae Taprobanae per stadiorum millia Solinus praedixit, ita enumerans: "Patet in longitudinem stadiorum VII, in latitudinem stadiorum V" [De Mirab. M. 54]. Sic eamdem longitudinem et latitudinem per millia passuum. Postea Isidorus in XIIII Aethimologiarum libro ostendit dicens: "Patet in longitudinem DCCCLXXV m. p., in latidudinem DCXXV" [Aethim. 14,6,12].
 
 	
@@ -569,6 +732,36 @@ Opazion [Topazion] Arabiae insula nebulis cooperta, in decimo sexto Aethimologia
 7.14. Paucas insulas parvas Tyrrheni maris quas multi narrare praeterierunt, hic equidem nuntiare congrue disposuit Isidorus in nono Aethimologiarum libro [vide in Isid., Aethim. 9,2,24.124]. Insulam Sardum angusto freto, a Phoenicis litore, separatam fore scripsit [sed Aradus in Ibid. 9,2,24]. Priscianus in Periegesi succedentes versus cecinit:
 
 
+
+
+
+"Panditur hinc pelagus, tumidaque Propontide fervet
+			
+Ad boream: saxisque viget Proconesus in illa.
+			
+Est etiam levis Euxini partibus una,
+			
+Quam Leucen perhibent adversa Borysthenis amni,
+			
+Pascit aves quoniam multas candore nivali.
+			
+Hic animas perhibent heroum laude potentes
+			
+Degere securas, virtutis munere pulchro.
+			
+Cimmerium recta sed, si quis Bosporon ibit,
+			
+Cernitur huic, immensae dextra vastae Maeotidis unda
+			
+Insula mole gravis stans Alopecea lata;
+			
+Postquam Phaenagoren Hermonassamque nepotes
+			
+Egregiae quondam coluerunt gentis Ionum" [Priscian., Perieg. 555‑566].
+		
+
+
+
 15
 Iulius de Scythicis insulis: "Insula Apollonitarum LXXX millibus passuum abest a Bosporo Thraciae circa Histrum sita, ex qua [M.] Lucullus Apollinem Capitolinum nobis extulit. Ante Borysthenem Achillis insula est cum aede sacra; quam aedem nullus ingreditur ales: et, qui forte advolaverit, raptim fugam properat" [De Mirab. M. 19].
 
@@ -616,7 +809,34 @@ Plinius Secundus de Sicilia, latitudineque maris Tyrrheni, haec dicit in quarto 
 8 Servius in commentario librorum Virgilii ubi narrat in tertio Aeneidos:
 
 
+
+
+
+"Portus ab accessu ventorum immotus et ingens
+			
+Ipse, sed horrificis iuxta tonat Ethna [Aetna] ruinis," [Verg., Aen. 3,570‑571]
+		
+
+
+
+haec ita docet: "Ethna [Aetnam] constat, ab ea parte qua eurus vel africus flant, habere speluncas et plenas sulphuris et usque ad mare deductas. Hae speluncae recipientes in se fluctus ventum creant, qui agitatus ignem gignit ex sulphure; unde esse quod videtur incendium. Hoc autem certum est. Illa comprobat ratio quia, et aliis flantibus ventis, nihil ex se mittit, et pro modo flatuum euri vel africi, interdum fumum, interdum favillas, nonnunquam vomit incendia" [Servio, in Verg. Aen. 3,571,6‑13].
+
+	
 9 Priscianus in Periegesi, postquam de Sicilia narravit, de duabus insulis iuxta Africam, hoc est, iuxta minorem Syrtim retulit haec:
+
+
+
+
+
+"Ad Noton est pontus Lybiae, Syrtisque vadosa
+			
+Maior: at ulterius si pergas, cerne minorem
+			
+Occiduam: iuxta quam Meninx insula fulget,
+			
+Et Cerninna simul Lybica statione patentes" [Priscian., Perieg. 506‑509].
+		
+
 
 
 8.3. Iulius Solinus de promontoriis Africae, de Lybia Cirenaica dicens, haec docet: "Omnis Africa Zeugitano pede incipit promontorio Apollinis, Sardiniae controverso, promontorium Mercurii procedens in frontem Sicanam. Proinde extenta in duas prominentias, quarum altera promontorium Candidum sicitur, altera quae est in Cirenaica regione, quam Ficontem [Phucuntem] vocant" [De Mirab. M. 28].
@@ -697,6 +917,28 @@ Iulius Solinus in collectaneis haec de monte Atlante docuit: "Atlas mons e medi
 3 Duo hic quasi contraria Iulius Solinus de Atlante monuit: quod: "ultra nubila caput condit, qua ad Oceanum extenditur"; et quod: "vertex eius semper nivalis" [vide supra in De Mirab. M. 25]. Si vertex eius semper nivalis est, transcendere semper nubes non potest. Et si nubes semper altitudo illius excedit, non solum nunquam tegi, sed nec tangi nivibus valet. Nives etenim et grandines, ac pluviae, atque tonitrua, fulmina non ascendunt a nubibus, sed semper de nubibus descendunt. In eo quod imbuit, quod eductus in viciniam lunaris circuli ultra nubila caput condit, qua ad Oceanum extenditur, manifesto instrui in aliquibus pinnis Atlantem transcendere nubes, quarum circum latera nives tanquam coronam facere puto. Et cum Isidorus tacuit illum transire altius nubes, quod vix excedat ipsas existimo. Ac, dum Iulius verticem eius niveam semper esse scripserat, in aliquibus plagis altitudinis sui inferioribus praedictis nivibus semper tegi monstratur. Quae duo climata in quarto Aeneidos Virgilius ostendit aiens:
 
 
+
+
+
+"Illa fretus agit ventos et turbida tranat
+			
+Nubila. iamque volans apicem et latera ardua cernit
+			
+Atlantis duri coelum qui vertice fulcit;
+			
+Atlantis, cinctum assidue cui nubibus atris
+			
+Piniferum caput et vento pulsatur et imbri,
+			
+Nix umeros infusa tegit: tum flumina mento
+			
+Praecipitant senis, et glacie riget horrida barba" [Verg., Aen. 4,245‑251].
+		
+
+
+In tertio versu huius exempli praescripto altissima cacumina dixisse autumo; in aliis succedentibus ipsis inferiora monstrasse opinor.
+
+	
 4
 Plinius Secundus in libro secundo Naturalis Historiae de altissimo Thessaliae monte refert: "Dicaearchus vir in primis eruditus regum cura permensus montes, ex quibus altissimum prodidit Pelion [Pelium] millibus CCL passuum ratione perpendiculi"
 	
@@ -707,3 +949,173 @@ Plinius Secundus in libro secundo Naturalis Historiae de altissimo Thessaliae mo
 Tamen Isidorus Hispaniensis Episcopus in XIIII libro praedicto Solurium?? montem esse, Pyrenaeo excelsiorem his sermonibus ostendit: "Solurius a singularitate dicitur, quod omnibus Hispaniae montibus solus altior videatur" [Isid., Aethim. 14,8,16].
 
 9.5.
+
+
+
+
+Dicuil accipiens ego tracta auctoribus ista
+			
+Pauca loquar senis metro de montibus altis.
+			
+Summus Athos, Atlas, nubes trascendit Olympua;
+			
+Pulvere ob hoc squallent terna alta cacumina quorum.
+			
+Montibus ambosus sed celsior instat Olympus:
+			
+Atlas inferior praedictis montibus altis;
+			
+Inde corona caput cingit sublime nivalis:
+			
+Mons medius tendens excelsa cacumina coelo,
+			
+Undecies umbris obscurat millia septem.
+			
+Exta anno integro Divo custodit Olympus,
+			
+Immaculata tenes oblata in vertice summo.
+			
+Non alios legimus montes excedere ventos.
+			
+Sublimen Atlantem torret sol fervidus austri:
+			
+Iam binos alios aquilonis frigus adurit.
+			
+Afri Atlanta tenent; Adon [Athon] Argi; Graecus Olyumpum.
+			
+Arduus occiduas Atlas custodit arenas.
+			
+Grandis Alexandri tellus hos servat avita.
+			
+Frigus in excelsis est, fervor solis in imis:
+			
+Et medium spatium fovet Aeronne serenus,
+			
+Atlantis triplicis fundentis flumina curva
+			
+In partes euri, sephyri, boreaeque vel austri.
+			
+Quinquaginta semel centum bis millia supra
+			
+Pelion extollens caput inter nubila consit.
+			
+Quinque Alpes decies transfigunt millia sursum.
+			
+Solurius summo scandens sit vertice coelo,
+			
+Mensuram haud legi cuius quot millia complent.
+			
+Thessalus, atque Italus, Hispanus possidet ipsos.
+			
+
+Post octingentos viginti quinque peractos
+			
+Summi annos Domini terrae, ethrae carceris atri,
+			
+Semine triticeo, sub ruris pulvere tecto,
+			
+Nocte bobus requies largitur fine laboris.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Dicuili
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Jan. 09

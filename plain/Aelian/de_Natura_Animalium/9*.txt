@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VIII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber X
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p129
+Liber Nonus
+	
+
 1
 Leo cum aetate provectus et jam gravis factus fuerit, tum ad venandum infirmus, aut in specubus aut memorosis tactibus libenter requiescit; neque qtum vel cum infirmissimis animalibus, aetatis suae infirmitati diffidens, versari fidenter audet, considerans senectam et corporis sui imbecillitatem. Ex hoc vero procreati et robustae et vigentis aetatis fiducia nitentes longe procedunt ad venandum, ac patrem jam senem secum adducunt, eum impellentes; deinde in media via, quam ingressi fuerint, illum relinquentes toto animo ipsi in praedae curam incumbunt, ac tantundem praedae consecuti, quantum vel sibi vel genitori satis ad prandium sit, generoso quodam et contentissimo rugito edito, parentem suum, secum ut convivium ineat, tanquam convictores ad prandium convivam, invitant. Senex tum sensim et pedetentim velut reptans, eo accedens, primo filios amplexatur, deinde linguae eis suaviter, velut horum laudans felicem venationem, balnditur; post et prandio dat operam, et cum his epulatur. Tametsi Solon, qui lege sancivit filiis parentes alendos esse, haec eos facere non jussit; sed natura humanis legibus nihil egens, ipsa immobilis lex, hoc officii munus docuit.
 
@@ -304,5 +427,120 @@ Quomodo vipera mas et muraena coeant, haec mari egrediens, illa ex aliquo prorep
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita 
+V Kal. Oct. 04

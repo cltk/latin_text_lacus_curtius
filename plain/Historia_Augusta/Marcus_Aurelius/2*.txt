@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars I
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Lucius Verus
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+p170
+
+Marcus Aurelius
+		
+(Pars II)
+	
+
 15
 Fuit autem consuetudo Marco ut in circensium spectaculo legeret audiretque ac subscriberet, ex quo quidem saepe iocis popularibus dicitur lacessitus.
 
@@ -161,122 +271,151 @@ Crimini ei datum est quod adulteros uxoris promoverit, Tertullum et Tutilium88 e
 
 
 	
+
+Apparatus Criticus:
+	
+
 45
 displiceret P, but cf. c. xvi.4.
 
 
+❦
 
 46
 cum P1; uel eum P corr.
+❦
 
 47
 Cassius . . . desciuit probably from margin of c. xxiv.5.
+❦
 
 48
 et Commodum quidem P, Bitschofsky; Commodum removed by Jordan.
 
 
+❦
 
 49
 So Peter; sine imperator filio P.
 
 
+❦
 
 50
 So Peter; simulatis callidae seueritatis P.
 
 
+❦
 
 51
 quanto P.
 
 
+❦
 
 52
 unam missionem P; una in missione Peter.
 
 
+❦
 
 53
 So P; Peter, foll. Mommsen, interfecit eos.
 
 
+❦
 
 54
 So P; regii funeris removed by Peter, eo by Jordan.
 
 
+❦
 
 55
 So Peter with Madvig; desacrata P; de sacratis P corr.
+❦
 
 56
 decorum P.
 
 
+❦
 
 57
 adultero P, but cf. c. xix.1 (see Lessing Lex.).
 
 
+❦
 
 58
 So Petschenig with P; dos autem quid habebatur nisi imperium edd. with P corr.
+❦
 
 59
 reueratori uita P.
 
 
+❦
 
 60
 in, following diuini, deleted by P corr.; inde Peter.
 
 
+❦
 
 61
 Thus Peter with Lipsius; consolatusque etiam medicos P.
 
 
+❦
 
 62
 Some name is lost in these words: Petschenig suggests Hariique.
 
 
+❦
 
 63
 loquentum P (P corr. adds dictis); loquentibus (or loquentum uel sermoni) Peter.
 
 
+❦
 
 64
 et omitted in P.
 
 
+❦
 
 65
 Hirschfeld (Wien. Stud., III, p116) would insert ex procuratoriis before praetorias.
 
 
+❦
 
 66
 in omitted in P.
 
 
+❦
 
 67
 nonis Salm.; non uotis P.
 
 
+❦
 
 68
 pelosiae P; Pelusiaca Novak.
 
 
+❦
 
 69
 So P, which Lessing restores; rebellasset sub eodem in oriente atque . . . appellasset Peter.
 
 
+❦
 
 70
 nec eius affectus seui P; restored by Peter from
@@ -284,11 +423,13 @@ nec eius affectus seui P; restored by Peter from
 Av. Cass. vii.5.
 
 
+❦
 
 71
 relecto P.
 
 
+❦
 
 72
 socium suggested by Peter for filium of P, which is certainly wrong; see
@@ -298,85 +439,202 @@ c. xxvi.11;
 Av. Cass. vii.4.
 
 
+❦
 
 73
 ne nece eius Peter, following Madvig.
 
 
+❦
 
 74
 omne Peter1; omnium P, Peter2.
+❦
 
 75
 This sentence, which precedes postea . . . vidit in P, was transposed by Cas.
 
 
+❦
 
 76
 stadiis Peter with Salm.; studiis P, which Mommsen defends.
 
 
+❦
 
 77
 locis P (by error ocis Peter2, from which Mommsen conj. oecis, and Novak, odeis).
 
 
+❦
 
 78
 So Novak; initalia P; edd. initialia, with Salm.
 
 
+❦
 
 79
 ceteris P.
 
 
+❦
 
 80
 solus Lessing with Cas.; solum P, Peter.
 
 
+❦
 
 81
 et inde P; inde Lessing; exinde edd.
 
 
+❦
 
 82
 triennio bellum . . . egit Klein would transpose to precede Dein . . . ab instituto suo.
 
 
+❦
 
 83
 nimium Peter with Salm.; minime P.
 
 
+❦
 
 84
 So Cas.; relinquens P, whence Novak: se aegre ferre quod discederet f. s. relinquens.
 
 
+❦
 
 85
 aut P.
 
 
+❦
 
 86
 uictu Jordan; ui P.
 
 
+❦
 
 87
 So Peter, following Jordan; quideme P1; quid me P corr.
+❦
 
 88
 Tutilium Scaliger; utilium P.
 
 
+❦
 
 89
 fictus Novak; ei uictus P; effictus Peter with Erasmus.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Kal. Dec. 07

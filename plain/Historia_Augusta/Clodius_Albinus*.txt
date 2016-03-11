@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pescennius Niger
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Caracalla
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p460
+Clodius Albinus
+	
+
 11 Uno eodemque prope tempore post Pertinacem, qui auctore1 Albino interemptus est, Iulianus a senatu Romae, Septimius Severus ab exercitu in Illyrico,2 Pescennius Niger in Oriente, Clodius Albinus in Gallia imperatores appellati. 2 et Clodium3 quidem Herodianus dicit Severi4 Caesarem fuisse. sed cum alter alterum indignaretur imperare, nec Galli ferre possent aut Germaniciani5 exercitus quod et ipsi suum specialem principem haberent, undique cuncta turbata sunt.
 
 	
@@ -46,10 +154,33 @@ p468statim toto corpore, ut linteamen, quo27 exceptus est, vinceret. 7 quare su
 1 Hic ergo omnem pueritiam in Africa transegit, eruditus litteris Graecis ac Latinis28 mediocriter, quod esset animi iam tum29 militaris et superbi. 2 nam30 fertur in scholis saepissime cantasse inter puerulos
 
 
+
+
+"Arma amens capio, nec sat rationis in armis,"
+		
+
+
+
 repetens
 
 
+
+
+"Arma amens capio."
+		
+
+
+
 3 Huic multa imperii signa, cum esset natus, facta dicuntur. nam et bos albus purpureis ad plenum colorem cornibus natus est.31 4 quae tamen in templo Apollinis Cumani ab eodem posita iam tribuno diu fuisse dicuntur, quod, cum illi32 sortem de fato33 suo tolleret, his versibus eidem dicitur esse responsum:
+
+
+
+
+"Hic rem Romanam magno turbante tumultu
+			
+sistet eques,34 sternet Poenos Gallumque rebellem."
+		
+
 
 
 5 et in Gallia quidem eum multas gentes domuisse constat. ipse autem suspicabatur de Severo sibi praedictum "sternet Poenos," quod Septimius Afer esset.
@@ -154,382 +285,562 @@ p492negat esse debere quique adserit a senatu oportere totam rem publicam regi,
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 auctor P.
 
 
+❦
 
 2
 Illyrico Erasmus; syria P.
 
 
+❦
 
 3
 clodius P.
 
 
+❦
 
 4
 seuerum P.
 
 
+❦
 
 5
 Germaniciani Salmasius; germaniani P.
 
 
+❦
 
 6
 quae P.
 
 
+❦
 
 7
 Albus Jordan; albinus P.
 
 
+❦
 
 8
 tum cum Peter; cum eum P.
 
 
+❦
 
 9
 aliquid P1.
 
 
+❦
 
 10
 adiciam Peter; accedam P.
 
 
+❦
 
 11
 in praesenti Damsté; me praesentem P; impraesentiarum P2.
 
 
+❦
 
 12
 a nonio P.
 
 
+❦
 
 13
 uidens Salmasius. umen P.
 
 
+❦
 
 14
 odiosum Peter from Σ; om. in P.
 
 
+❦
 
 15
 timens Salmasius; eum timens P.
 
 
+❦
 
 16
 quam P.
 
 
+❦
 
 17
 uoluntatis P1.
 
 
+❦
 
 18
 potes P1.
 
 
+❦
 
 19
 quos P1.
 
 
+❦
 
 20
 illos utrosque P corr.
+❦
 
 21
 abductus P corr.
+❦
 
 22
 qui, cum nascuntur, solent Lessing; qui nascuntur et solent P, Peter.
 
 
+❦
 
 23
 rubore P.
 
 
+❦
 
 24
 esse P.
 
 
+❦
 
 25
 ueri P1.
 
 
+❦
 
 26
 om. in P1.
 
 
+❦
 
 27
 quod P.
 
 
+❦
 
 28
 ac latinis graecis P1.
 
 
+❦
 
 29
 tum Peter; inte P; inde Salmasius.
 
 
+❦
 
 30
 superbi. nam Peter; superbiam P.
 
 
+❦
 
 31
 quod mirandum fuit cum cornibus added in P; rej. by Peter.
 
 
+❦
 
 32
 illi Peter2; illis P.
 
 
+❦
 
 33
 facto P.
 
 
+❦
 
 34
 tumultus steteque P1.
 
 
+❦
 
 35
 testudine albeis P.
 
 
+❦
 
 36
 diei P.
 
 
+❦
 
 37
 eis P.
 
 
+❦
 
 38
 ne P,º Peter.
 
 
+❦
 
 39
 et ins. by Frankfurter.
 
 
+❦
 
 40
 inlitus P1.
 
 
+❦
 
 41
 legione P.
 
 
+❦
 
 42
 quod P.
 
 
+❦
 
 43
 gentibus Peter; fugentibus P.
 
 
+❦
 
 44
 cum Pescennio Jordan; Pescennio P; <et> Pescennium Peter1; [Pescennio] Peter2.
 
 
+❦
 
 45
 natura P.
 
 
+❦
 
 46
 fidefuit P1.
 
 
+❦
 
 47
 qui eius Casaubon; cuius P, Peter.
 
 
+❦
 
 48
 necem P1.
 
 
+❦
 
 49
 ut ins. by Peter; om. in P.
 
 
+❦
 
 50
 senserunt P corr.
+❦
 
 51
 praefectus P1.
 
 
+❦
 
 52
 multa Jordan; multo P.
 
 
+❦
 
 53
 esse non P.
 
 
+❦
 
 54
 ostentet et P1.
 
 
+❦
 
 55
 constantem Peter; constat eum P.
 
 
+❦
 
 56
 fuissent P.
 
 
+❦
 
 57
 auxerit P.
 
 
+❦
 
 58
 oratio P1.
 
 
+❦
 
 59
 ei Mommsen; et P.
 
 
+❦
 
 60
 postulabit P1.
 
 
+❦
 
 61
 speratis P, Peter1; sperastis Peter2.
 
 
+❦
 
 62
 illi Damsté; ille P, Peter.
 
 
+❦
 
 63
 et P, Peter1; om. by Peter2.
 
 
+❦
 
 64
 ita Petschenig, Peter2; et P; om. by Peter1.
 
 
+❦
 
 65
 uarius nam Peter1; uarium nam P; uarii amans Petschenig, Peter2.
 
 
+❦
 
 66
 didicerunt P, Peter1; tradiderunt followed by lacuna Peter2.
 
 
+❦
 
 67
 et om. in P, added by Peter1; senatus subegit ins. before Hispanias by Peter2.
 
 
+❦
 
 68
 stauarum P.
 
 
+❦
 
 69
 dixisse P.
 
 
+❦
 
 70
 tenebant P.
 
 
+❦
 
 71
 quod P.
 
 
+❦
 
 72
 et ins. by Petschenig; om. in P, Peter.
 
 
+❦
 
 73
 occidendi P.
 
 
+❦
 
 74
 iuliano P.
 
 
+❦
 
 75
 suis Casaubon, Peter1; seuerus P; [Seuerus] Peter2.
 
 
+❦
 
 76
 qua Jordan; quod P.
 
 
+❦
 
 77
 publicasse tu id P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XI Kal. Jan. 05

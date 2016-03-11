@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Diadumenianus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars II
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p104
+
+Antoninus Heliogabalus
+		
+(Pars I)
+	
+
 11 Vitam Heliogabali Antonini, qui Varius etiam dictus est, numquam in litteras misissem, ne quis fuisse Romanorum principem sciret, nisi ante Caligulas et Nerones et Vitellios hoc idem habuisset imperium. 2 sed cum eadem terra et venena ferat et frumentumº atque alia salutaria, eadem serpentes et cicures, compensationem sibi lector diligens faciet, cum legerit Augustum, Traianum, Vespasianum, Hadrianum, Pium, Titum, Marcum contra hos prodigiosos tyrannos. 3 ºsimul intelleget Romanorum iudicia, quod illi et diu imperarunt et exitu naturali functi sunt, hi vero interfecti, tracti, tyranni etiam appellati, quorum nec nomina libet dicere.
 
 	p106
@@ -170,183 +280,322 @@ Occisa est cum eo et mater Symiamira probrosissima mulier et digna filio. 3 cau
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 altissimus P.
 
 
+❦
 
 2
 damnari P.
 
 
+❦
 
 3
 infausta P.
 
 
+❦
 
 4
 quae equo, quae sagmario Mommsen, Peter; quae quoque sagmario P.
 
 
+❦
 
 5
 qui per P.
 
 
+❦
 
 6
 quam ei uirgo Jordan, Novák; quamquisgo P1; quamque uirgo Petschenig, Peter2.
 
 
+❦
 
 7
 tinctum Hirschfeld, Peter2; uinctum P, Peter1.
 
 
+❦
 
 8
 simulacrum ins. by Obrecht and Peter; om. in P.
 
 
+❦
 
 9
 uel om. in P.
 
 
+❦
 
 10
 optimos P.
 
 
+❦
 
 11
 Pseudoantoninum et Pseudophilippum P1; et Ps. del. by Salm. and Peter.
 
 
+❦
 
 12
 impatibilia Editor; mipace P; impia Egnatius, Peter1; inepta Peter2.
 
 
+❦
 
 13
 luxuria dictu Editor; dictum luxuria P; Diadumeni luxuria Peter.
 
 
+❦
 
 14
 disputare ut in uita P; disputarent in uita Salm., Peter1; disputare, ut in uita eius . . . Peter2.
 
 
+❦
 
 15
 onobeli Lipsius, Peter2; monobiles P.
 
 
+❦
 
 16
 factum Peter1; factus P; sacris Petschenig, Peter2.
 
 
+❦
 
 17
 carminibus et consecratione. cumque Jordan, Peter2; carminibus. et consecrationem cum P, Peter1, Lenze.
 
 
+❦
 
 18
 so Petschenig; eo tempore quo Macrinus huius Ant. P; eo tempore consobrinus huius Salm., Peter.
 
 
+❦
 
 19
 so Gemoll, Peter2; enorme sperans P.
 
 
+❦
 
 20
 ita ut Kellerbauer, Peter2; aut P.
 
 
+❦
 
 21
 et om. in P.
 
 
+❦
 
 22
 dicens Peter; dicere P.
 
 
+❦
 
 23
 tonsorem Salm., Peter; censorem P.
 
 
+❦
 
 24
 Alexander, ut postea Salm., Peter; Alexandrum postea P.
 
 
+❦
 
 25
 sit om. in P.
 
 
+❦
 
 26
 augurandi P.
 
 
+❦
 
 27
 so Lenze; misit praefectis alio . . . alio P; misit praefectos alios . . . alios Peter.
 
 
+❦
 
 28
 et sacramenti Peter; et not in P acc. to S. H. Ballou (Cl. Philol. iii, p273).
 
 
+❦
 
 29
 neue Baehrens, Peter2; ne uel P, Peter1.
 
 
+❦
 
 30
 omnia P.
 
 
+❦
 
 31
 praetorem Mommsen; p̃r P; praefectum Peter.
 
 
+❦
 
 32
 alium quem Peter2; aliquam P.
 
 
+❦
 
 33
 quae . . . pararentur Editor; qui . . . pararant P, Peter.
 
 
+❦
 
 34
 facta Jordan; factaque P; † factaque Peter2.
 
 
+❦
 
 35
 conscii genere mortis P; consciuere mortem his Salm., Peter1; † conscii genere mortis Peter2.
 
 
+❦
 
 36
 subditicio Salm., Peter1; subdecio P; subditiuo Opitz, Peter2.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Feb. 05

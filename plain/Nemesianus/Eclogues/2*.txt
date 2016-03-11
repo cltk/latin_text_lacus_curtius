@@ -1,81 +1,510 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p464
+Nemesiani
+	
+Ecloga II
+	
+
+
+Idas: Alcon
+	
+
+
+
+
+
+
+Formosam Donacen puer Idas et puer Alcon
+	
+ardebant rudibusque annis incensus uterque
+	
+in Donaces venerem furiosa mente ruebant.
+	
+hanc, cum vicini flores in vallibus1 horti
+	5
+carperet et molli gremium compleret acantho,
+	
+invasere simul venerisque2 imbutus3 uterque
+	
+tum primum dulci carpebant gaudia furto.
+	
+hinc amor et pueris iam non puerilia vota:
+	
+quis anni4 ter quinque † hiemes et cura iuventae.5
+10
+sed postquam Donacen duri clausere parentes,
+	
+quod non tam tenui filo de voce sonaret
+	
+sollicitumque foret pinguis sonus, improba cervix
+	
+suffususque rubor crebro venaeque tumentes,
+	
+tum vero ardentes flammati pectoris aestus
+	15
+carminibus dulcique parant relevare querella;
+	
+ambo aevo cantuque pares nec dispare forma,
+	
+ambo genas leves, intonsi crinibus ambo.
+	
+atque haec sub6 platano maesti solatia casus
+	
+alternant, Idas calamis et versibus Alcon.
+
+	20
+p466
+I.
+
+"quae colitis silvas, Dryades, quaeque antra, Napaeae,
+	
+et quae marmoreo pede, Naiades, uda secatis
+	
+litora purpureosque alitis per gramina flores:
+	
+dicite, quo Donacen prato, qua forte sub umbra
+	
+inveniam, roseis stringentem lilia palmis?
+	25
+nam mihi iam trini perierunt ordine soles,
+	
+ex quo consueto Donacen exspecto sub antro.
+	
+interea, tamquam nostri solamen amoris
+	
+hoc foret aut nostros posset medicare furores,
+	
+nulla meae trinis tetigerunt gramina vaccae
+	30
+luciferis, nullo libarunt amne liquores;
+	
+siccaque fetarum lambentes ubera matrum
+	
+stant vituli et teneris mugitibus aera7 complent.
+	
+ipse ego nec iunco molli ne vimine lento
+	
+perfeci calathos cogendi lactis in usus.
+	35
+quid tibi, quae nosti, referam? scis mille iuvencas
+	
+esse mihi, nosti numquam mea mulctra vacare.
+	
+ille ego sum, Donace, cui dulcia saepe dedisti
+	
+oscula nec medios dubitasti rumpere cantus
+	
+atque inter calamos erranti labra petisti.
+	40
+heu, heu! nulla meae tangit te cura salutis?
+	
+pallidior buxo violaeque simillimus erro.
+	
+omnes ecce cibos et nostri pocula Bacchi
+	
+horreo nec placido memini concedere somno.
+	
+te sine, vae misero, mihi lilia fusca8 videntur
+	45
+p468
+pallentesque rosae nec dulce rubens hyacinthus,
+	
+nullos nec myrtus nec laurus spirat odores.
+	
+at si tu venias, et candida lilia fient
+	
+purpureaeque rosae, et dulce rubens9 hyacinthus;
+	
+tunc mihi cum myrto laurus spirabit odores.
+	50
+nam dum Pallas amat turgentes unguine10 bacas,
+	
+dum Bacchus vites,11 Deo12 sata, poma Priapus,
+	
+pascua laeta Pales, Idas te diligit unam."
+
+	
+
+haec Idas calamis. tu, quae responderit Alcon
+	
+versu, Phoebe, refer: sunt curae13 carmina Phoebo.
+	55
+A.
+"o montana Pales, o pastoralis Apollo,
+	
+et nemorum Silvane potens, et nostra Dione,
+	
+quae iuga celsa tenes Erycis, cui cura iugales
+	
+concubitus hominum totis conectere saeclis:
+	
+quid merui? cur me Donace formosa relinquit?
+	60
+munera namque dedi, noster quae non dedit Idas,
+	
+vocalem longos quae ducit aedona cantus;
+	
+quae licet interdum, contexto vimine clausae14
+
+cum parvae patuere fores, ceu libera ferri
+	
+norit15 et agrestes inter volitare volucres,
+	65
+scit rursus remeare domum tectumque subire,
+	
+viminis et caveam totis praeponere silvis.
+	
+praeterea tenerum leporem geminasque palumbes
+	
+nuper, quae potui, silvarum praemia misi.
+	
+p470
+et post haec, Donace, nostros contemnis amores?
+	70
+forsitan indignum ducis, quod rusticus Alcon
+	
+te peream, qui mane boves in pascua duco.
+	
+di pecorum pavere greges, formosus Apollo,
+	
+Pan doctus, Fauni vates et pulcher Adonis.
+	
+quin etiam fontis speculo me mane notavi,
+	75
+nondum purpureos Phoebus cum tolleret ortus
+	
+nec tremulum liquidis lumen splenderet in undis:
+	
+quod vidi, nulla tegimur lanugine malas;
+	
+pascimus et crinem; nostro formosior Ida
+	
+dicor, et hoc ipsum mihi tu iurare solebas,
+	80
+purpureas laudando genas et lactea colla
+	
+atque hilares oculos et formam puberis aevi.
+	
+nec sumus indocti calamis: cantamus avena,
+	
+qua divi cecinere prius, qua dulce locutus
+	
+Tityrus e silvis dominam pervenit in urbem.
+	85
+nos quoque te propter, Donace, cantabimur urbi,
+	
+si modo coniferas inter viburna cupressos
+	
+atque inter pinus corylum frondescere fas est."
+
+	
+
+sic pueri Donacen toto sub sole canebant,
+	
+frigidus e silvis donec descendere16 suasit
+	
+Hesperus et stabulis pastos inducere tauros.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 callibus G. Hermann.
 
 
+❦
 
 2
 venerisque H V nonnulli: venerique V nonnulli: veneris NG.
 
 
+❦
 
 3
 imbutus codd.: immitis ed. Ald. 1534.
 
 
+❦
 
 4
 anni codd.: actae Heinsius: aevi Hartel.
 
 
+❦
 
 5
 hiemes et cura iuventae codd. plerique: hiemes et cruda iuventa Haupt: et mens et cura iuventae Summers: increscit cura iuvencae Baehrens: alii alia.
 
 
+❦
 
 6
 haec sub Glaeser: hic sub NG: hi sub AH, Baehrens: sub hac V: hinc sub H. Schenkl.
 
 
+❦
 
 7
 aera NH V plerique: ethera G: aethera Ulitius, Baehrens.
 
 
+❦
 
 8
 fusca NGA: nigra V, Baehrens.
 
 
+❦
 
 9
 et dulce rubens V nonnulli: sed sine hiatu tunc dulce rubens V alii: dulce atque rubens Baehrens.
 
 
+❦
 
 10
 unguine N1GA: sanguine N2V.
 
 
+❦
 
 11
 vites V: uvas NG.
 
 
+❦
 
 12
 Deo Glaeser: deus codd.
 
 
+❦
 
 13
 curae Haupt: aurea codd.
 
 
+❦
 
 14
 clausae Haupt: clausa codd.: caveae Maehly.
 
 
+❦
 
 15
 norit Wernsdorf: novit codd.
 
 
+❦
 
 16
 descendere N: discedere G: descendere vel discedere V: decedere Baehrens.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Oct. 07

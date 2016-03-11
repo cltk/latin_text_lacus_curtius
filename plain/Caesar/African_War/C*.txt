@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 7‑36
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 67‑78
+				
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p202
+[Capitula 37‑66]
+	
+
 37
 
 Caesar postquam legionibus veteranis duabus, equitatu levique armatura copias suas ex secundo commeatu auxerat, navis exoneratas statim iubet Lilybaeum ad reliquum exercitum transportandum proficisci; ipse VI. Kal. Febr. circiter vigilia prima imperat speculatores apparitoresque omnes ut sibi praesto essent. Itaque omnibus insciis neque suspicantibus vigilia tertia iubet omnis legiones extra castra educi atque se consequi ad oppidum Ruspinam versus, in quo ipse praesidium habuit et
@@ -226,8 +344,16 @@ Caesar interim de insidiis Labieni ex perfugis certior factus paucos dies ibi c
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 turrem castellaque MSS.: turremque castella Nipperdey.
+
+
+
 
 
 
@@ -238,8 +364,14 @@ partienda MSS.: pariter tuenda Hoffmann.
 
 
 
+
+
+
 3
 I have followed Dinter's punctuation of this difficult sentence. Though either Caesar or Scipio could be the subject of texit, the clause ubi elephanti erant strongly suggests that Scipio is the subject of constituit.
+
+
+
 
 
 
@@ -250,8 +382,14 @@ Acyllam et VIII cohortis stipendiarias Numidis Gaetulisque obsidebat ubi C. Me
 
 
 
+
+
+
 5
 suis added by Warmington.
+
+
+
 
 
 
@@ -262,8 +400,14 @@ imperatorum MSS.: temporum Glandorp.
 
 
 
+
+
+
 7
 I have followed Nipperdey's emendation, inserting ne and altering the MSS. readings occupaverunt and eripuerunt.
+
+
+
 
 
 
@@ -274,8 +418,14 @@ After collesque the MSS. read Caesari subito se ostenderet: Aldus deleted these
 
 
 
+
+
+
 9
 adversariorum vestrorum imperatoris MSS.: adversum vestrum imperatorem Ciacconius.
+
+
+
 
 
 
@@ -286,8 +436,14 @@ se MSS.: Scipionem Davies.
 
 
 
+
+
+
 11
 si MSS.: sibi Oudendorp.
+
+
+
 
 
 
@@ -298,8 +454,14 @@ constituit MSS.: consistit Davies.
 
 
 
+
+
+
 13
 non added by Aldus.
+
+
+
 
 
 
@@ -310,14 +472,23 @@ After videretur the MSS. add in cornibus autem duplex esse existimabatur. Nippe
 
 
 
+
+
+
 15
 I have followed most editors in adopting Nipperdey's restoration of X and XXV in place of the MSS. readings VIII and XXX.
 
 
 
 
+
+
+
 16
 ipsum dextrum cornu secundam autem aciem fere in earum legionum parte most MSS.: I have followed Bouvet, who among other changes deletes secundam autem aciem and adopts Oudendorp's veteranarum in place of fere in earum.
+
+
+
 
 
 
@@ -332,8 +503,14 @@ apparently required them to move to their left. The choice seems to lie between 
 
 
 
+
+
+
 18
 deserti ac pulsi MSS.: deserta pulsi Nipperdey.
+
+
+
 
 
 
@@ -354,8 +531,14 @@ ch. 53: others XIII and XIV.
 
 
 
+
+
+
 20
 I have adopted Klotz's transposition of the words vacuas a defensoribus, which in the MSS. follow duas; for in the next chapter the words reciperata quinqueremi cum suis omnibus epibatis suggest that the penteremes had crews aboard.
+
+
+
 
 
 
@@ -366,7 +549,160 @@ VIII MSS.: III Nipperdey.
 
 
 
+
+
+
 22
 ex supplied by Nipperdey.
 
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+X Kal. Mar. 13

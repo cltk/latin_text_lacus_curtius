@@ -1,4 +1,115 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Hadrianus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Antoninus Pius
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p82
+Helius
+	
+
+Diocletiano Augusto Aelius Spartianus suus sal.
+	
+
 1
 
 In animo mihi est, Diocletiane Auguste, tot principum maxime, non solum eos qui principum locum in hac statione quam temperas retentarunt, ut usque ad divum Hadrianum feci, sed illos etiam qui vel Caesarum nomine appellati sunt nec principes aut Augusti fuerunt vel quolibet alio genere aut in famam aut in spem principatus venerunt, cognitioni numinis tui sternere. 2 quorum praecipue de Helio Vero dicendum est, qui primus tantum Caesaris nomen accepit, adoptione Hadriani familiae principum adscitus. 3 et quoniam nimis pauca dicenda sunt, nec debet prologus inormior1 esse quam fabula, de ipso iam loquar.
@@ -36,12 +147,44 @@ p88potius feliciter etiamsi non summi, medii tamen obtinuit ducis famam.
 satis praeterea constat eum de7 Vero saepe dixisse:
 
 
+
+
+
+"Ostendent terris hunc tantum fata neque ultra esse sinent."
+		
+
+
+
 2 quos versus cum aliquando in hortulo spatians cantitaret atque adesset unus ex litteratis, quorum Hadrianus speciosa societate gaudebat, velletque addere
+
+
+
+
+
+"nimium vobis Romana propago
+			
+visa potens, superi, propria haec si dona fuissent,"
+		
+
 
 
 3 Hadrianus dixisse fertur "hos versus vita non capit Veri," illud addens:
 
 	p90
+
+
+
+
+"Manibus date lilia plenis;
+			
+purpureos spargam flores animamque nepotis
+			
+his saltem accumulem donis et fungar inani
+			
+munere,"
+		
+
+
 
 4 cum quidem etiam illud dicitur cum8 risione dixisse: "Ego mihi divum adoptavi non filium". 5 hunc9 tamen cum consolaretur unus de litteratis qui aderat ac diceret: "Quid?10 si non recte constellatio eius collecta est quem credimus esse victurum?" Hadrianus dixisse fertur: "Facile ista dicis tu, qui patrimonii tui non rei publicae quaeris heredem". 6 unde apparet eum habuisse in animo alium deligere atque hunc ultimo vitae suae tempore a re publica summovere. 7 sed eius consiliis iuvit eventus. nam cum de provincia Helius redisset atque orationem pulcherrimam, quae hodieque legitur, sive per se seu per scriniorum aut dicendi magistros parasset, qua kalendis Ianuariis Hadriano patri gratias ageret, accepta potione, qua se aestimaret iuvari, kalendis ipsis Ianuariis periit. 8 iussusque ab Hadriano, quia vota interveniebant, non lugeri.
 
@@ -85,71 +228,190 @@ p98res publica quodcumque de Vero". 3 quod quidem contrarium iis quae de adopti
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 enormior P3; al' morosior P4.
 
 
+❦
 
 2
 ueri et Obrecht and others; uiri et P; uirtute Peter, following Bernhardy.
 
 
+❦
 
 3
 al' adeptus P corr.
+❦
 
 4
 deputans P1; al' iam deputatus P corr.
+❦
 
 5
 So P1; al' petiuerit P corr.; uolueritque Oberdick and others.
 
 
+❦
 
 6
 uolueritque eum amouere . . . et amouisset si forte uixisset Novák
+❦
 
 7
 So P; eundem de Peter, following B, eũdem.
 
 
+❦
 
 8
 al' eum P corr.
+❦
 
 9
 nunc tamen cum eum P and Peter; tunc Petschenig.
 
 
+❦
 
 10
 So P; quod Peter1 with B.
 
 
+❦
 
 11
 et quidem Lessing; equidem P, Peter.
 
 
+❦
 
 12
 udum Oberdick; tabum Novak.
 
 
+❦
 
 13
 So Peter; atque idem ouidii ab aliis relata idem apicii libros amorum P, which Salm. arranged: idem Apicii relata idem Ouidii libros am.
+❦
 
 14
 non tantum P corr.
+❦
 
 15
 set P corr.; et P1.
 
 
+❦
 
 16
 So P corr. and Peter2; incuibimus P1.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Feb. 05

@@ -1,3 +1,95 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IX
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber X
+	
+p257
+
+
+Caput I
+	
 1 Isdem fere diebus Cleander et Sitalces et cum Agathone Heracon superveniunt, qui Parmenionem iussu regis occiderant.
 2 V milia peditum cum equitibus mille, sed et accusatores eos e provincia, cui praefuerant, sequebantur: nec tot facinora, quot admiserant, conpensare poterant caedis perquam gratae regi ministerio.
 3 Quippe cum omnia profana spoliassent, ne sacris quidem abstinuerant virginesque et principes feminarum stupra perpessae corporum ludibria deflebant.
@@ -72,6 +164,9 @@ ab semetipso degeneravit, ut invictus
 p261quondam adversus libidinem animi arbitrio scorti aliis regna daret, aliis adimeret vitam.
 
 	
+* * *
+
+	
 43 Isdem fere diebus litteras [a Coeno]º
 accepit de rebus in Europa et Asia gestis, dum ipse Indiam subigit.º
 44 Zopyrio, Thraciae praepositus, cum expeditionem in Getas faceret, tempestatibus procellisque subito coortis cum toto exercitu oppressus erat.
@@ -81,6 +176,10 @@ accepit de rebus in Europa et Asia gestis, dum ipse Indiam subigit.º
 
 
 p262et pecuniis, quas adduceret, coram inspectis protinus arma consiliaque sociaturos esse. Nam apud populum imperitum et mobilem per homines improbos et avaritia venales omnia se muneribus consecuturum existimabat.
+
+
+Caput II
+	
 1 Igitur XXX navibus Sunium transmittunt — promunturium est Atticae terrae — unde portum urbis petere decreverant.
 2 His cognitis rex Harpalo Atheniensibusque iuxta infestus classem parari iubet Athenas protinus petiturus.
 3 Quod consilium clam agitantiº
@@ -141,6 +240,10 @@ p265parentes liberique sine vestro rege redeuntes, obviam ibunt desertoribus tra
 
 
 	
+
+Caput III
+	
+
 1 Quis crederet saevam paulo ante contionem obtorpuisse subito metu?º
 2 Et cum ad supplicium videret trahi nihilo ausos graviora quam ceteros, sive nominis,
 3 quod gentes, quae sunt subº
@@ -166,6 +269,10 @@ matrimonio iunxi, non dedignatus ex captiva liberos tollere.
 14 Omnia eundem ducunt colorem: nec Persis Macedonum morem adumbrare nec Macedonibus Persas imitari indecorum. Eiusdem iuris esse debent, qui sub eodem rege victuri sunt.'º
 
 Hac oratione habita Persis corporis sui custodiam credidit, Persas satellites, Persas apparitores fecit. Per quos cum Macedones, qui huic seditioni occasionem dedissent, vincti ad supplicia traherentur, unum ex iis, auctoritate et aetate gravem ad regem ita locutum ferunt:
+
+
+Caput IV
+	
 
 1 'Quousque,' inquit, 'animo tuo etiam per supplicia et quidem externi moris obsequeris?º
 Milites tui, cives tui, incognita causa captivis suis ducentibus trahuntur ad poenam. Si mortem meruisse iudicas, saltem ministros supplicii muta.'
@@ -205,7 +312,11 @@ Ceterum ut paulisper a luctu avocaret animum, in Cossaeorum gentem expeditionem
 p271urbem vellet ingredi. Conpertum et sibi ex Chaldaeis, qui multis iam praedictionum eventibus artis suae certitudinem abunde probavissent. Rex fama eorum hominum constantique adseveratione motus dimissis in urbem amicorum plerisque alia via praeter Babylonem ducit ac ducentis inde stadiis stativa locat. Sed ab Anaxarcho philosopho edoctus contemptis Chaldaeorum monitis, quorum disciplinam inanem aut supervacuam arbitrabatur, urbem intrat. Legationes eo ex universo ferme orbe confluxerant. Quibus per complures dies studiose auditis deinceps ad Hephaestionis exequias adiecit animum. Quae summo omnium studio ita celebratae sunt, ut nullius ad id tempus regis feralia magnitudine sumptuum apparatusque celebritate non vicerint. Post haec cupido incessit regi per Pallacopam amnem ad Arabum confinia navigandi: quo delatus, urbi condendae commoda sede reperta Graecorum aetate aut vulneribus invalidos et, si qui sponte remanserant, ibi conlocat. Quibus ex sententia perfectis iam futuri securus Chaldaeos inridebat, quod Babylonem non ingressus tantum esset incolumis, verum etiam excessisset. At vero revertenti per paludes, quas Euphrates in Pallacopam effusus efficit, foedum omen oblatum est. Quippe rami desuper inpendentes detractum capiti regio diadema proiecerunt in fluctus. Cum deinde alia super alia prodigiosa et minacia nuntiarentur, procurandis eis Graeco simul barbaroque ritu continua sacra facta sunt. Neque tamen expiari praeterquam morte regis potuere. Qui cum Nearchum excepisset convivio iamque cubitum iturus esset, Medii Larissaei obnixis precibus dedit, ut ad eum comissatum veniret. Ubi postquam tota nocte perpotavit, male habere coepit. Ingravescens deinde morbus adeo omnes vires intra sextum diem exhausit, ut ne vocis quidem potestas esset. Interea milites sollicitudine desiderioque eius anxii, quamquam obtestantibus ducibus, ne valitudinem regis onerarent, expresserunt, ut in conspectum eius admitterentur.
 
 
-	1 Intuentibus lacrimae obortae praebuere speciem iam non regem, sed funus eius visentis exercitus.
+	
+
+Caput V
+	
+1 Intuentibus lacrimae obortae praebuere speciem iam non regem, sed funus eius visentis exercitus.
 2 Maeror tamen circumstantium lectum eminebat: quos ut rex adspexit, 'Invenietis,' inquit, 'cum excessero, dignum talibus viris regem?'
 3 Incredibile dictu audituque, in eodem habitu corporis, in quem se conposuerat, cum admissurus milites esset, durasse, donec a toto exercitu illud ultimum persalutatus est: dimissoque vulgo velut omni vitae debito liberatus fatigata membra reiecit.
 4 Propiusque adire iussis amicis — nam et vox deficere iam coeperat — detractum anulum digito Perdiccae tradidit adiectis mandatis, ut corpus suum ad Hammonem ferri iuberent.
@@ -274,7 +385,11 @@ iracundiam et cupidinem vini sicuti iuventa irritaverat, ita senectus mitigare p
 37 Huic regi ducique successor quaerebatur. Sed maior moles erat, quam ut unus subire eam posset: itaque nomen quoque eius et fama rerum in totum propemodum orbem reges ac regna diffudit clarissimique sunt habiti, qui etiam minimae parti tantae fortunae adhaeserunt.
 
 
-	1 Ceterum Babylone — inde enim devertit oratio — corporis eius custodes in regiam principes amicorum ducesque copiarum advocavere. Secuta est militum turba cupientium scire, in quem Alexandri fortuna esset transitura.
+	
+
+Caput VI
+	
+1 Ceterum Babylone — inde enim devertit oratio — corporis eius custodes in regiam principes amicorum ducesque copiarum advocavere. Secuta est militum turba cupientium scire, in quem Alexandri fortuna esset transitura.
 2 Multi duces frequentia militum exclusi regiam intrare non poterant, cum praeco exceptis, qui nominatim citarentur, adire prohiberet.
 3 Sed precarium spernebatur imperium. Ac primum eiulatus ingens ploratusque renovatus est, deinde futuri expectatio inhibitis lacrimis silentium fecit.
 4 Tunc Perdicca regia sella in conspectum volgi data, in qua diadema vestisque Alexandri cum armis erant, anulum sibi pridie traditum a rege in eadem sede posuit: quorum adspectu rursus obortae omnibus lacrimae integravere
@@ -314,7 +429,11 @@ quin vera censeret. Itaque universi procedere in medium Perdiccam et regis anulu
 praedam sequebantur.
 
 
-	1 Iamque armatorum circa Meleagrum frequens globus erat in seditionem ac discordiam versa contione,º
+	
+
+Caput VII
+	
+1 Iamque armatorum circa Meleagrum frequens globus erat in seditionem ac discordiam versa contione,º
 cum quidam plerisque Macedonum ignotus ex infima plebe,
 2 'Quid opus est,' inquit, 'armis civilique bello habentibus regem, quem quaeritis? Arrhidaeus, Philippo genitus, Alexandri paulo ante regis frater, sacrorum caerimoniarumque consors modo, nunc solus heres, praeteritur a vobis. Quo suo merito? quidve fecit, cur etiam gentium communi iure fraudetur? Si Alexandro similem quaeritis, numquam reperietis, si proximum, hic solus est.'º
 3 His auditis contio primo silentium velut iussa habuit: conclamat deinde pariter Arrhidaeum vocandum esse mortemque meritos, qui contionem sine eo habuissent.
@@ -354,7 +473,11 @@ p280regiae parte ad Euphraten fugam intendunt.
 21 Sed Perdicca ne pedites quidem secuturos ipsum desperabat: itaque, ne abducendo equites abrupisse a cetero exercitu videretur, in urbe subsistit.
 
 
-	1 At Meleager regem monere non destitit, ius imperii Perdiccae morte sanciendum esse: ni occupetur inpotens animus, res novaturum.º
+	
+
+Caput VIII
+	
+1 At Meleager regem monere non destitit, ius imperii Perdiccae morte sanciendum esse: ni occupetur inpotens animus, res novaturum.º
 2 Meminisse eum, quid de rege meruisset, neminem autem ei satis fidum esse, quem metuat. Rex patiebatur magis quam adsentiebatur. Itaque Meleager silentium pro imperio habuit.
 3 Misitº
 regis nomine, qui Perdiccam accerserent: iisdem mandatum, ut occiderent, si venire dubitaret. Perdicca nuntiato satellitum adventu sedecim omnino pueris regiae cohortis comitatus in limine domus suae constitit castigatosque et Meleagri mancipia identidem appellans sic animi vultusque constantia terruit, ut vix mentis compotes fugerent.
@@ -396,7 +519,11 @@ ut Meleagrum tertium ducem acciperent. Haud aegre id inpetratum est, nam et abdu
 23 Igitur Meleagro cum phalange obviam egresso Perdicca equitum turmas antecedens occurrit. Utrumque agmen mutua salutatione facta coit in perpetuum, ut arbitrabantur, concordia et pace firmata.
 
 
-	1 Sed iam fatis admovebantur Macedonum genti bella civilia, nam et insociabile est regnum et a pluribus expetebatur.
+	
+
+Caput IX
+	
+1 Sed iam fatis admovebantur Macedonum genti bella civilia, nam et insociabile est regnum et a pluribus expetebatur.
 2 Primum ergo conlisereº
 vires, deinde disperserunt: et cum pluribus corpus, quam capiebat, capitibusº
 onerassent, cetera membra deficere coeperunt
@@ -435,6 +562,10 @@ mox damnata spe salutis, cum eius nomine, quem ipse fecerat regem, in perniciem 
 
 
 	
+
+Caput X
+	
+
 1Perdicca perducto in urbem exercitu consilium principum virorum habuit, in quo imperium ita dividi placuit, ut rex quidem summam eius obtineret, satrapes Ptolemaeus Aegypti esset etº
 Africae gentium, quae in dicione erant.
 2 Laomedonti Syria cum Phoenice data est, Philotae Cilicia destinata, Lyciam cum Pamphylia et maiore Phrygia obtinere iussus Antigonus, in Cariam Cassander, Menander in Lydiam missi. Phrygiam minorem Hellesponto adiunctam Leonnati provinciam esse iusserunt.
@@ -477,6 +608,12 @@ p286Hoc per Cassandrum adlatum traditumque fratri Iollae et ab eo supremae regis
 20 Ceterum corpus eius a Ptolemaeo, cui Aegyptus cesserat, Memphim et inde paucis post annis Alexandriam translatum est omnisque memoriae ac nomini honos habitus.º
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 Euphratis os:
 	
 euphratis. Cf. amnis os 
@@ -486,11 +623,13 @@ euphratis. Cf. amnis os
 9.9.23. Codd. interpolati: ostia
 
 
+❦
 
 
 ad ultimum ita:
 	
 ad ultimum traiectum. Videtur illud traiectum per errorem conflatum esse ex ita et victus, quod desideratur in proximo versu, ubi codd. in exhibent pro invictus; credo vocem in aliam lineam aberrasse
+❦
 
 
 tenori rerum:
@@ -498,8 +637,17 @@ tenori rerum:
 Vogel changed his mind between the apparatus and the text. In the latter he follows Jeep's emendation tenori rerum; but the apparatus reads:
 
 
+
+tempori. Verum] tempori rerum. Jeep: tenori rerum
+
+
 The Loeb edition's apparatus reads:
 
+
+
+<tempori> eorum Hedicke] rerum A.
+
+❦
 
 
 in iuvenem - intendens:
@@ -507,5 +655,129 @@ in iuvenem - intendens:
 Here too Vogel appears to have changed his mind between the apparatus and the text. In the latter he has in iuvenem - intendens; but the apparatus reads:
 
 
+
+in iuvenem - ingerens] iuvenem - inpense. Jeep: iuvenem - inpetiit sed. Locus nondum sanatus
+
+
 The text of the Loeb edition, and the apparatus are altogether different:
 	
+. . . eos. Haud ambigue tum in eumº
+cui regnum destinabatur, ingessit probra; atº
+quae obiecerat . . .
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIV Kal. Dec. 99

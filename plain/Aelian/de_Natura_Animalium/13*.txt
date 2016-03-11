@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XIV
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p189
+Liber Decimus Tertius
+	
+
 1
 Gordio filium suum Midam regem fore aquilam praesignificasse audio, cum ea supra hujus caput arantis primo volasset, deinde totum diem in jugo sessitare non prius destitisset, quam is, vespera accedente, arationem dimisisset. Lupus idem maxima magnitudine cum in ludum invasisset, et de manibus Gelonis Syracusani pueri tabellam rapuisset, Gelon de sede surgens, non quidem feram timore perterrebat, sed acerrimo tabellae suae desiderio eam insequebatur. Postea autem quam hic extra tabernam ludi literarii fuisset, haec quidem repentina ruina corruens pueros una cum praeceptore confecit et oppressit, ac Gelon solus divinae providentiae munere sodalibus suis superfuit; quod ipsum, non eum a lupo occisum, sed potius servatum fuisse, magnam profecto admirationem habet. Non igitur rationis expertia deus negligit, imo vero cara habeat, cum per illa Gordio regnum praesignificarit, Gelonem vero ex impendente periculo servaverit. Ergo bestiae etiam in amore sunt divino numini.
 
@@ -19,7 +142,27 @@ De rei piscatoriae bene peritis audire potes, ex piscibus quendam esse nomine ca
 p190laevum latus collocatum esse. Cui quidem rei testimonio est Menander in Messenia inquiens:
 
 
+
+
+
+Facio te habere fel callionymo copiosius.
+		
+
+
+
 Anaxippus item in Epidicazomeno:
+
+
+
+
+
+Me si moveas, et sicut callionymi
+			
+Fervere efficias omne fel,
+			
+Nihil a xiphia cane me differre videbis.
+
+
 
 
 Sunt qui eum dicant edulem, alii plerique negant. Poetae quidem ubi convivia et epulas describunt, non facile ejus meminerunt, cum alioqui plerosque, quorum usus est, suis versibus nominarunt: ut Epicharmus in Nuptiis Junonis, et Terra Marique, et insuper Musis; et Mnesimachus in Isthmionice.
@@ -163,5 +306,120 @@ Aurata omnium piscium timidissima est. Nam sub Arcturi tempus, cum maris accessu
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+VI Kal. Oct. 04

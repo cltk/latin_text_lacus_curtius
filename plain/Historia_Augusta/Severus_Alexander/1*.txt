@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Elagabalus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars II
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p178
+
+Severus Alexander
+		
+(Pars I)
+	
+
 1
 
 Interfecto Vario Heliogabalo — sic enim malumus dicere quam Antoninum, quia et nihil Antoninorum pestis illa ostendit 2 et hoc nomen ex annalibus senatus auctoritate erasum est — ad remedium generis humani Aurelius Alexander, urbe Arcena genitus, Varii filius, Variae nepos et consobrinus ipsius Heliogabali, accepit imperium, cum ante Caesar a senatu esset appellatus, mortuo scilicet Macrino; 3 Augustumque nomen idem recepit, addito eo ut et patris patriae nomen et ius proconsulare et tribuniciam potestatem et ius quintae relationis deferente senatu uno die adsumeret.
@@ -35,6 +145,16 @@ Dominum se appellari vetuit. epistulas ad se quasi ad privatum scribi iussit ser
 
 
 p186templo Praenestinae talis exstitit, cum illi Heliogabalus insidiaretur:
+
+
+
+
+
+Si qua fata aspera rumpas,
+			
+tu Marcellus eris.
+		
+
 
 
 5
@@ -104,13 +224,46 @@ p202die apud arcam Caesaream stella primae magnitudinis visa et sol circa domum 
 mater eius pridie quam pareret somniavit se purpureum dracunculum parere. 2 pater eadem nocte in somniis vidit alis se Romanae Victoriae, quae in senatu, ad caelum vehi. 3 ipse cum vatem consuleret de futuris, hos accepisse dicitur versus adhuc parvulus; 4 et primum quidem sortibus
 
 
+
+
+Te manet imperium caeli terraeque
+		
+
+
+
 intellectum est quod inter divos etiam referretur,34
+
+
+
+Te manet imperium quod tenet imperium.
+		
+
+
 
 ex quo intellectum est Romani illum imperii principem futurum. nam ubi est imperium nisi apud Romanos quod tenet imperium? et haec quidem de Graecis versibus sunt prodita. 5 ipse autem, cum parentis hortatu animum a philosophia musicaque ad35 alias artes
 
 
 
 p204traduceret, Vergilii sortibus huiusmodi inlustratus est:
+
+
+
+
+Excudent alii spirantia mollius aera,
+			
+credo equidem vivos ducent de marmore vultus,
+			
+orabunt causas melius caelique meatus
+			
+describent radio et surgentia sidera dicent;
+			
+tu regere imperio populos, Romane, memento.
+			
+hae tibi erunt artes pacisque imponere morem,
+			
+parcere subiectis et debellare superbos.
+		
+
 
 
 6 fuerunt multa alia signa, quibus principem humani generis esse constaret.
@@ -267,188 +420,229 @@ p234divis imperatoribus in foro Divi Nervae, quod Transitorium dicitur, locavit 
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Antoninum P.
 
 
+❦
 
 2
 orationes declamatae P corr.
+❦
 
 3
 in om. in P.
 
 
+❦
 
 4
 ex om. in P.
 
 
+❦
 
 5
 eos digno adesce P.
 
 
+❦
 
 6
 cum antea ins. by Egnatius; om. in P; lacuna assumed by Peter.
 
 
+❦
 
 7
 ac uirilem Eyssenhardt, Peter2; aculem P.
 
 
+❦
 
 8
 decorem ei inesset Peter2; decureum esse P.
 
 
+❦
 
 9
 pater isset Petschenig, Peter2; patris P.
 
 
+❦
 
 10
 cum om. in P.
 
 
+❦
 
 11
 Caracallo Lessing, Petschenig; Caracalli P, Peter.
 
 
+❦
 
 12
 est oblatum P; est del. by Gruter and Peter.
 
 
+❦
 
 13
 innectam Kellerbauer, Peter2; etiam P.
 
 
+❦
 
 14
 ut eo ueniret Peter; ut concineret P.
 
 
+❦
 
 15
 delectet et P.
 
 
+❦
 
 16
 di Jordan, Peter; ut P.
 
 
+❦
 
 17
 degentem Gruter, Peter; digerentem P.
 
 
+❦
 
 18
 nomen om. in P.
 
 
+❦
 
 19
 quantum Baehrens, Peter2; quam P.
 
 
+❦
 
 20
 si hoc ipse P.
 
 
+❦
 
 21
 inpie Petschenig; inte P; inepte Peter.
 
 
+❦
 
 22
 tantum P corr.; tactum P1; sanctum Salm., Peter.
 
 
+❦
 
 23
 ornabis. id certe scimus Baehrens, Petschenig; ornauisti. certe sumus P; ornabis. certe praesumimus Peter.
 
 
+❦
 
 24
 ut Peter; aut P.
 
 
+❦
 
 25
 moueat om. in P.
 
 
+❦
 
 26
 nomen om. in P.
 
 
+❦
 
 27
 primus Peter; saepius P.
 
 
+❦
 
 28
 di . . . faueant Flor. Cusanum (see Mommsen, Ges. Schr., vii p301); om. by P and Peter.
 
 
+❦
 
 29
 plurimas gratias sed P corr.; plurimas sed P1; plurimas et Peter.
 
 
+❦
 
 30
 accipiam Peter; accepi P.
 
 
+❦
 
 31
 uiro ins. by Peter; om. in P.
 
 
+❦
 
 32
 currerent P.
 
 
+❦
 
 33
 quod om. in P.
 
 
+❦
 
 34
 referretur Jordan, Peter1; referetur P, Peter2.
 
 
+❦
 
 35
 musicaque <ad> Jordan, Peter2; et musica quae P.
 
 
+❦
 
 36
 nisi om. in P1.
 
 
+❦
 
 37
 publicum Cas., Jordan; pupillum P; populi uillicum Salm., Peter.
 
 
+❦
 
 38
 iudices Editor (see
@@ -456,137 +650,264 @@ iudices Editor (see
 c. xvii.1‑2); iudicare P, Peter; iudicata re von Winterfeld, Walter.
 
 
+❦
 
 39
 per om. in P.
 
 
+❦
 
 40
 uultui non ardescente P1.
 
 
+❦
 
 41
 principem Edit. princ., Peter2; principes P, Peter1.
 
 
+❦
 
 42
 ne ins. by Edit. princ. and Peter2; om. in P.
 
 
+❦
 
 43
 crearetur Edit. princ. and later editors; curaretur P; circumiretur Peter.
 
 
+❦
 
 44
 quod sentiebant Peter, Jordan; consentiebant P1; consentiebat P corr., acc. to Mommsen, Ges. Schr. vii, p355.
 
 
+❦
 
 45
 idque in factum P.
 
 
+❦
 
 46
 obicerent et ins. by Peter; om. in P.
 
 
+❦
 
 47
 perraras Peter; erraras P1; raras P corr., acc. to Mommsen, Ges. Schr. vii, p355.
 
 
+❦
 
 48
 non diu P.
 
 
+❦
 
 49
 continentes ins. by Kellerbauer and Peter2; om. in P.
 
 
+❦
 
 50
 cum ins. in P corr.; om. in P1.
 
 
+❦
 
 51
 prouehendis Mommsen; prouendis P, acc. to Mommsen, Ges. Schr. vii, p355; promouendis Peter.
 
 
+❦
 
 52
 hic empta Salm., Peter; uicem pia P.
 
 
+❦
 
 53
 conferre rationes P, Peter.
 
 
+❦
 
 54
 retinendos Cornelissen, Peter2; retinendos P, Peter1.
+❦
 
 55
 octo minutulis Mommsen; octominutalis P, Peter.
 
 
+❦
 
 56
 unumquemque P.
 
 
+❦
 
 57
 agebat Editor; ageret P; agere Peter.
 
 
+❦
 
 58
 fumos P corr., acc. to Mommsen, Ges. Schr. vii, p355; fumus P1; fumum Peter.
 
 
+❦
 
 59
 praesidales P corr., acc. to Mommsen, ibid.; praesidiales P1, Peter.
 
 
+❦
 
 60
 non ante auroram Σ codd., acc. to Hohl, Klio, xiii, p406; annonam P; ante nonam Gruter; ante nonam non Peter.
 
 
+❦
 
 61
 inter P1; principes add. in P corr.; in thermis Jordan; imperator Peter.
 
 
+❦
 
 62
 plateis ins. by Peter2; om. in P.
 
 
+❦
 
 63
 festo editors, Peter; frusta P; a scurra Salm.
 
 
+❦
 
 64
 lacessiuerant editors, Peter; lacessitus erat P, Salm., Petschenig.
 
 
+❦
 
 65
 et om. in P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

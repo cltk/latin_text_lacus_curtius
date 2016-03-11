@@ -1,4 +1,111 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italianoº
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Gallieni duo
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Claudius
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p64
+Tyranni Triginta
+	
+
 11 Scriptis iam pluribus libris non historico nec diserto sed pedestri adloquio, ad eam temporum venimus seriem, in qua per annos, quibus Gallienus et Valerianus rem publicam tenuerunt, triginta tyranni occupato Valeriano magnis belli Persici necessitatibus exstiterunt, cum Gallienum non solum viri sed etiam mulieres contemptui haberent, ut suis locis probabitur. 2 sed quoniam tanta obscuritas eorum hominum fuit, qui ex diversis orbis partibus ad imperium convolabant, ut non multa de iis vel dici possint a doctioribus vel requiri, deinde ab omnibus
 
 
@@ -7,6 +114,9 @@ p66historicis, qui Graece ac Latine scripserunt, ita nonnulli praetereantur ut e
 
 
 	
+Cyriades
+	
+
 2
 1 Hic patrem Cyriadem fugiens, dives et nobilis, cum luxuria sua et moribus perditis sanctum senem gravaret, direpta magna parte auri, argenti etiam infinito pondere Persas petiit. 2 atque inde Sapori regi coniunctus atque sociatus, cum hortator belli Romanis inferendi fuisset, Odomastem primum, deinde Saporem ad Romanum solum traxit; Antiochia etiam capta et Caesarea Caesareanum nomen meruit. 3 atque inde vocatus Augustus, cum omnem orientem vel virium vel audaciae terrore quateret, patrem vero interemisset (quod alii historici negant factum), ipse per insidias suorum, cum Valerianus iam ad bellum Persicum veniret, occisus est. 4 neque plus de hoc historiae quicquam mandatum est quod dignum memoratu esse videatur, quem clarum perfugium et
 
@@ -16,6 +126,9 @@ p68parricidium et aspera tyrannis et2 summa luxuria litteris dederunt.
 
 
 	
+Postumus
+	
+
 3 1 Hic vir in bello fortissimus, in pace constantissimus, in omni vita gravis, usque adeo ut Saloninum filium suum eidem Gallienus in Gallia positum crederet, quasi custodi vitae et morum et actuum imperialium institutori. 2 sed, quantum plerique adserunt (quod eius non convenit moribus), postea fidem fregit et occiso Salonino sumpsit imperium. 3 ut autem verius plerique tradiderunt, cum Galli vehementissime Gallienum odissent, puerum autem apud se imperare ferre non possent, eum, qui commissum regebat imperium, imperatorem appellarunt missisque militibus adulescentem interfecerunt. 4 quo interfecto ab omni exercitu et ab omnibus Gallis Postumus gratanter acceptus talem se praebuit per annos septem
 
 
@@ -28,10 +141,16 @@ p70ut Gallias instauraverit, cum Gallienus luxuriae et popinis vacaret et amore 
 
 	p72
 
+Postumus Iunior
+	
+
 4 1 De hoc prope nihil est quod dicatur, nisi quod a patre appellatus Caesar ac deinceps in eius honore Augustus cum patre dicitur interemptus, cum Lollianus in locum Postumi subrogatus delatum sibi a Gallis sumpsisset imperium. 2 fuit autem (quod solum memoratu dignum est) ita in declamationibus disertus ut eius controversiae Quintiliano dicantur insertae, quem declamatorem Romani generis acutissimum vel unius capitis lectio prima statim fronte demonstrat.
 
 
 	
+Lollianus
+	
+
 5 1 Huius rebellione in Gallia Postumus, vir omnium fortissimus, interemptus est, cum iam nutante Gallia6 Gallieni luxuria in veterem statum Romanum formasset imperium. 2 fuit quidem etiam iste fortissimus, sed rebellionis intuitu minorem apud Gallos auctoritatem de suis viribus tenuit. 3 interemptus autem est a Victorino, Vitruviae filio vel Victoriae, quae postea mater castrorum appellata est et Augustae nomine affecta, cum ipsa per se fugiens tanti ponderis molem primum in Marium, deinde in Tetricum atque eius
 
 
@@ -43,6 +162,9 @@ p74filium contulisset imperia. 4 et Lollianus quidem non nihilum rei publicae p
 
 
 	
+Victorinus
+	
+
 6 1 Postumus senior cum videret multis se Gallienis viribus peti atque auxilium non solum militum verum etiam alterius principis necessarium, Victorinum
 
 
@@ -55,10 +177,16 @@ p76militaris industriae virum, in participatum vocavit imperii et cum eodem cont
 
 	p78
 
+Victorinus Iunior
+	
+
 7 1 De hoc nihil amplius in litteras est relatum, quam quod nepos Victoriae Victorini filius fuit et a patre vel ab avia sub eadem hora qua Victorinus interemptus Caesar est nuncupatus ac statim a militibus ira occisus. 2 exstant denique sepulchra circa Agrippinam, brevi marmore impressa humilia, in quibus titulus9 est inscriptus: "Hic duo Victorini tyranni siti sunt."
 
 
 	
+Marius
+	
+
 8 1 Victorino, Lolliano et Postumo interemptis Marius ex fabro, ut dicitur, ferrario triduo tantum imperavit. 2 de hoc quid amplius requiratur ignoro, nisi quod eum insigniorem brevissimum fecit imperium. nam ut ille consul, qui sex meridianis horis consulatum suffectum tenuit, a Marco Tullio tali aspersus est ioco: "Consulem habuimus tam severum tamque censorium ut in eius magistratu nemo pranderit, nemo cenaverit, nemo dormiverit," de hoc etiam dici posse videatur, qui una die factus est imperator, alia die visus est imperare, tertia interemptus est.
 
 	
@@ -77,6 +205,9 @@ p82specialiter in nobis ferrum timeant. 12 vos tamen cogitetis velim fecisse vo
 
 
 	
+Ingenuus
+	
+
 9 1 Tusco et Basso consulibus cum Gallienus vino et popinis vacaret cumque se lenonibus, mimis et meretricibus dederet ac bona naturae luxuriae continuatione deperderet, Ingenuus, qui Pannonias tunc regebat, a Moesiacis legionibus imperator est dictus, ceteris Pannoniarum volentibus. neque in quoquam melius consultum rei publicae a militibus videbatur quam quod instantibus Sarmatis creatus est imperator, qui fessis rebus mederi sua virtute potuisset. 2 causa autem ipsi arripiendi tunc imperii fuit, ne suspectus esset imperatoribus, quod erat fortissimus ac rei publicae necessarius et militibus, quod imperantes vehementer movet, acceptissimus. 3 sed Gallienus, ut erat nequam et perditus, ita etiam, ubi necessitas coegisset, velox, fortis, vehemens, crudelis, denique Ingenuum conflictu habito vicit eoque occiso in omnes Moesiacos
 
 
@@ -91,6 +222,9 @@ p84tam milites quam cives asperrime saeviit. nec quemquam suae crudelitatis exso
 
 
 	
+Regalianus
+	
+
 10 1 Fati publici fuit, ut Gallieni tempore quicumque potuit ad imperium prosiliret. Regalianus denique
 
 
@@ -122,6 +256,9 @@ p90Ingenuus et Postumus et Aureolus, qui omnes in imperio interempti sunt, cum m
 
 
 	
+Aureolus
+	
+
 11
 Hic quoque Illyricianos exercitus regens in contemptu Gallieni, ut omnes eo tempore, coactus a militibus sumpsit imperium. 2 et cum Macrianus cum filio suo Macriano contra Gallienum veniret cum plurimis, exercitus eius cepit, aliquos corruptos fidei suae addixit. 3 et cum factus esset hinc validus19 imperator cumque Gallienus expugnare virum fortem
 
@@ -133,6 +270,28 @@ p92frustra temptasset, pacem cum eo fecit20 contra Postumum pugnaturus. quorum p
 4 Hunc eundem Aureolum Claudius interfecto iam Gallieno conflictu habito apud eum pontem interemit qui nunc pons Aureoli nuncupatur, atque illic ut tyrannum sepulchro humiliore donavit. 5 exstat etiam nunc epigramma Graecum in hanc formam:
 
 
+
+
+
+Dono sepulchrorum victor post multa tyranni
+			
+proelia iam felix Claudius Aureolum
+			
+munere prosequitur mortali et iure superstes,
+			
+vivere quem vellet, si pateretur amor
+			
+militis egregii, vitam qui iure negavit
+			
+omnibus indignis et magis Aureolo.
+			
+ille tamen clemens, qui corporis ultima servans
+			
+et pontem Aureoli dedicat et tumulum.
+		
+
+
+
 6 hos ego versus a quodam grammatico translatos ita posui ut fidem servarem, non quo non21 melius potuerint transferri, sed ut fidelitas historica servaretur, quam ego prae ceteris custodiendam putavi, qui quod ad eloquentiam pertinet nihil curo. 7 rem enim vobis
 
 
@@ -141,6 +300,9 @@ p94proposui deferre, non verba, maxime tanta rerum copia ut in triginta tyrannor
 
 
 	
+Macrianus
+	
+
 12 1 Capto Valeriano, diu clarissimo principe civitatis, fortissimo deinde imperatori, ad postremum omnium infelicissimo, vel quod senex apud Persas consenuit vel quod indignos se posteros dereliquit, cum Gallienum contemnendum Ballista praefectus Valeriani et Macrianus primus ducum22 intellegerent, quaerentibus etiam militibus principem, unum in locum concesserunt quaerentes quid faciendum esset. 2 tuncque constitit, Gallieno longe posito Aureolo usurpante imperium, debere aliquem principem fieri, et quidem optimum, ne quispiam tyrannus exsisteret. 3 verba igitur Ballistae (quantum Maeonius Astyanax, qui consilio interfuit, adserit) haec fuerunt: 4 "Mea et aetas et professio et voluntas longe ab imperio absunt, et ego, quod negare non possum, bonum principem quaero. 5 sed quis tandem est, qui Valeriani locum possit implere, nisi talis qualis tu es, fortis, constans, integer, probatus in re publica et, quod maxime ad imperium pertinet, dives? 6 arripe igitur
 
 
@@ -160,10 +322,16 @@ p10018 huc accedit quod habet iuvenes filios Romano dignos26 collegio, nostra d
 
 
 	
+Macrianus Iunior
+	
+
 13 1 Multa de hoc in patris imperio praelibata sunt, qui numquam imperator factus esset, nisi prudentiae patris eius creditum videretur. 2 de hoc plane multa miranda dicuntur, quae ad fortitudinem pertineant iuvenalis aetatis. sed quid27 ad fata aut quantum in bellis unius valet fortitudo? 3 hic enim vehemens cum prudentissimo patre, cuius merito imperare coeperat, a Domitiano victus triginta (dixi superius) milibus militum spoliatus est, matre nobilis, patre tantum forti et ad bellum parato atque ab ultima militia in summum perveniente ducatum splendore sublimi.
 
 
 	
+Quietus
+	
+
 14 1 Hic, ut diximus, Macriani filius fuit. cum patre et fratre Ballistae iudicio imperator est factus. sed ubi comperit Odaenathus, qui olim iam orientem tenebat, ab Aureolo Macrianum, patrem Quieti, cum
 
 
@@ -176,11 +344,17 @@ p102eius fratre Macriano victos, milites in eius potestatem concessisse, quasi G
 
 	p104
 
+Odaenathus
+	
+
 15 1 Nisi Odaenathus, princeps Palmyrenorum, capto Valeriano, fessis Romanae rei publicae viribus, sumpsisset imperium, in oriente perditae res essent. 2 quare adsumpto nomine primum regali cum uxore Zenobia et filio maiore, cui erat nomen Herodes, minoribus Herenniano et Timolao collecto exercitu contra Persas profectus est. 3 Nisibin primum et orientis pleraque cum omni Mesopotamia in potestatem recepit, deinde ipsum regem victum fugere coegit. 4 postremo Ctesiphonta usque Saporem et eius liberos persecutus captis concubinis, capta etiam magna praeda ad orientem vertit, sperans quod Macrianum, qui imperare contra Gallienum coeperat, posset opprimere, sed illo iam profecto contra Aureolum et contra Gallienum. eo interempto filium eius Quietum interfecit, Ballista, ut plerique adserunt, regnum usurpante, ne et ipse posset occidi. 5 composito igitur magna ex parte orientis statu a consobrino suo
 
 
 
 p106Maeonio, qui et ipse imperium sumpserat, interemptus est cum filio suo Herode, qui et ipse post reditum de Perside cum patre imperator est appellatus. 6 iratum fuisse rei publicae deum credo, qui interfecto Valeriano noluit Odaenathum reservare. 7 ille plane cum uxore Zenobia non solum orientem, quem iam in pristinum reformaverat statum, sed et omnes omnino totius orbis partes reformasset, vir acer in bellis et, quantum plerique scriptores loquuntur, venatu memorabili semper inclitus, qui a prima aetate capiendis leonibus et pardis, ursis ceterisque silvestribus animalibus sudorem officii virilis impendit quique semper in silvis ac montibus vixit, perferens calorem, pluvias et omnia mala quae in se continent venatoriae voluptates. 8 quibus duratus solem ac pulverem in bellis Persicis tulit, non aliter etiam coniuge adsueta, quae multorum sententia fortior marito fuisse perhibetur, mulier omnium nobilissima orientalium feminarum et, ut Cornelius Capitolinus adserit, speciosissima.28
+
+Herodes
+	
 
 16 1 Non Zenobia matre sed priore uxore genitus Herodes cum patre accepit imperium, homo omnium delicatissimus et prorsus orientalis et Graecae luxuriae,
 
@@ -190,10 +364,16 @@ p108cui erant sigillata tentoria et aureati papiliones et omnia Persica. 2 deni
 
 
 	
+Maeonius
+	
+
 17 1 Hic consobrinus Odaenathi fuit nec ulla re alia ductus nisi damnabili invidia imperatorem optimum interemit, cum ei nihil aliud obiceret praeter filium Herodem.29 2 dicitur autem primum cum Zenobia consensisse, quae ferre non poterat ut privignus eius Herodes priore loco quam filii eius, Herennianus et Timolaus, principes dicerentur. sed hic quoque spurcissimus fuit. 3 quare imperator appellatus per errorem brevi a militibus pro suae luxuriae meritis interemptus est.
 
 
 	
+Ballista
+	
+
 18 1 De hoc, utrum imperavit, scriptores inter se ambigunt. multi enim dicunt Quieto per Odaenathum
 
 
@@ -215,6 +395,9 @@ p112Thracia etiam equites sine noxa provincialium hiemare possint. multum enim e
 
 
 	
+Valens
+	
+
 19 1 Hic vir militaris, simul etiam civilium virtutum gloria pollens, proconsulatum Achaiae dato a Gallieno tunc honore gubernabat. 2 quem Macrianus vehementer reformidans, simul quod in omni genere
 
 
@@ -223,10 +406,16 @@ p114vitae satis clarum norat, simul quod inimicum sibi esse invidia virtutum sci
 
 
 	
+Valens Superior
+	
+
 20 1 Et bene venit in mentem, ut, cum de hoc Valente loquimur, etiam de illo Valente qui superiorum principum temporibus interemptus est aliquid diceremus. 2 nam huius Valentis, qui sub Gallieno imperavit, avunculus magnus fuisse perhibetur. alii tantum avunculum dicunt. 3 sed par in ambobus fuit fortuna,33 nam et ille, cum34 paucis diebus Illyrico imperasset, occisus est.
 
 
 	
+Piso
+	
+
 21 1 Hic a Macriano ad interficiendum Valentem missus, ubi eum providum futurorum imperare cognovit, Thessaliam concessit atque illic paucis sibi consentientibus sumpsit imperium Thessalicusque appellatus vi35 interemptus est, vir summae sanctitatis
 
 
@@ -238,6 +427,9 @@ p116et temporibus suis Frugi dictus et qui ex illa Pisonum familia ducere origin
 
 
 	p118
+
+Aemilianus
+	
 
 22 1 Est39 hoc familiare populi Aegyptiorum ut velut40 furiosi ac dementes de levissimis quibusque41 ad summa rei publicae pericula perducantur; 2 saepe illi ob neglectas salutationes, locum in balneis non concessum, carnem et olera sequestrata, calceamenta servilia et cetera talia usque ad summum rei publicae periculum in42 seditiones, ita ut armarentur contra eas exercitus, pervenerunt. 3 familiari ergo sibi furore, cum quadam die cuiusdam servus curatoris, qui Alexandriam tunc regebat, militari ob hoc caesus esset quod crepidas suas meliores esse quam militis diceret, collecta multitudo ad domum Aemiliani ducis venit atque eum omni seditionum instrumento et furore persecuta est; ictus est lapidibus, petitus est ferro, nec defuit43 ullum seditionis telum. 4 qua re coactus Aemilianus sumpsit imperium, cum sciret sibi undecumque pereundum. 5 consenserunt ei Aegyptiacus exercitus, maxime in Gallieni odium. 6 nec eius ad regendam rem publicam vigor defuit, nam Thebaidem
 
@@ -251,15 +443,29 @@ p120totamque Aegyptum peragravit et, quatenus potuit, barbarorum gentes forti au
 
 	p122
 
+Saturninus
+	
+
 23 1 Optimus ducum Gallieni temporis, sed Valeriano delectus, Saturninus fuit. 2 hic quoque, cum dissolutionem Gallieni, pernoctantis in publico, ferre non posset et milites non exemplo imperatoris sui sed suo regeret, ab exercitibus sumpsit imperium, vir prudentiae singularis, gravitatis insignis, vitae amabilis, victoriarum barbaris etiam ubique notarum. 3 hic ea die, qua est amictus a militibus peplo imperatorio, contione adhibita dixisse fertur: "Commilitones, bonum ducem perdidistis et malum principem fecistis." 4 denique cum multa strenue in imperio fecisset, quod esset severior et gravior militibus ab iisdem ipsis a quibus factus fuerat interemptus est. 5 huius insigne est quod convivio discumbere milites, ne inferiora denudarentur,48 cum sagis iussit, hieme gravibus, aestate perlucidis.
 
 
 	
+Tetricus Senior
+	
+
 24 1 Interfecto Victorino et eius filio mater eius Victoria sive Vitruvia Tetricum senatorem populi Romani praesidatum in Gallia regentem ad imperium
 
 
 
 p124hortata, quod eius erat, ut plerique loquuntur, adfinis, Augustum appellari fecit filiumque eius Caesarem nuncupavit. 2 et cum multa Tetricus feliciterque gessisset diuque imperasset, ab Aureliano victus, cum militum suorum impudentiam et procacitatem ferre non posset, volens se gravissimo principi et severissimo dedit. 3 versus denique illius fertur, quem furtim49 ad Aurelianum scripserat:
+
+
+
+
+
+"Eripe me his, invicte, malis."
+		
+
 
 
 4 Quare cum Aurelianus nihil simplex neque mite aut tranquillum facile cogitaret, senatorem populi Romani eundemque consularem, qui iure praesidali omnes Gallias rexerat, per triumphum duxit, eodem tempore quo et Zenobiam Odaenathi uxorem cum filiis minoribus Odaenathi, Herenniano et Timolao. 5 pudore tamen victus vir nimium severus eum quem triumphaverat correctorem totius Italiae fecit, id est Campaniae, Samnii, Lucaniae, Bruttiorum, Apuliae, Calabriae, Etruriae atque Umbriae, Piceni et Flaminiae omnisque annonariae regionis, ac Tetricum non solum vivere, sed etiam in summa dignitate manere
@@ -270,10 +476,16 @@ p126passus est, cum illum saepe collegam, nonnumquam commilitonem, aliquando eti
 
 
 	
+Tetricus Iunior
+	
+
 25 1 Hic puerulus a Victoria Caesar est appellatus, cum illa mater castrorum ab exercitu nuncupata esset. 2 qui et ipse cum patre per triumphum ductus postea omnibus senatoriis honoribus functus est inlibato patrimonio, quod quidem ad suos posteros misit, ut Arellius50 Fuscus dicit, semper insignis. 3 narrabat avus meus sibi familiarem fuisse neque quemquam illi ab Aureliano aut postea ab aliis principibus esse praelatum. 4 Tetricorum domus hodieque exstat in Monte Caelio inter duos lucos contra Iseum Metellinum, pulcherrima, in qua Aurelianus pictus est utrique praetextam tribuens et senatoriam dignitatem, accipiens ab his sceptrum, coronam, cycladem. pictura est51 de musivo,52 quam cum dedicassent, Aurelianum ipsum dicuntur duo Tetrici adhibuisse convivio.
 
 
 	p128
+
+Trebellianus
+	
 
 26 1 Pudet iam persequi quanti sub Gallieno fuerint tyranni vitio pestis illius, si quidem erat in eo ea luxuria ut rebelles plurimos mereretur et ea crudelitas ut iure timeretur. 2 qua erat53 et in Trebellianum factum in Isauria principem, ipsis Isauris sibi ducem quaerentibus. quem cum alii archipiratam vocassent, ipse se imperatorem appellavit. monetam etiam cudi iussit. 3 palatium in arce Isauriae constituit. qui quidem cum se in intima et tuta Isaurorum loca munitus difficultatibus locorum et montibus contulisset, aliquamdiu apud Cilicas imperavit. 4 sed per Gallieni ducem Camsisoleum, natione Aegyptium, fratrem Theodoti qui Aemilianum ceperat, ad campum deductus victus est et occisus. 5 neque tamen postea Isauri timore ne in eos Gallienos saeviret, ad aequalitatem perduci quavis principum humanitate potuerunt. 6 denique post Trebellianum pro barbaris habentur; etenim54 in medio Romani nominis solo regio eorum novo genere custodiarum quasi limes includitur, locis defensa non hominibus. 7 nam sunt non statura decori, non virtute graves, non instructi
 
@@ -284,7 +496,13 @@ Cilicia conlocaret, daturus uni ex amicissimis omnem Isaurorum possessionem, ne 
 
 
 	
+Herennianus
+	
+
 27 1 Odaenathus moriens duos parvulos reliquit, Herennianum et fratrem eius Timolaum, quorum nomine Zenobia usurpato sibi imperio diutius quam feminam decuit rem publicam obtinuit, parvulos Romani imperatoris habitu praeferens purpuratos eosdemque adhibens contionibus, quas illa viriliter frequentavit, Didonem et Semiramidem et Cleopatram sui generis principem inter cetera praedicans. 2 sed de horum exitu incertum est; multi enim dicunt eos ab Aureliano interemptos, multi morte sua esse consumptos, si quidem Zenobiae posteri etiam nunc Romae inter nobiles manent.55
+
+Timolaus
+	
 
 28 1 De hoc ea putamus digna notione quae de fratre sunt dicta. 2 unum tamen est quod eum a
 
@@ -294,10 +512,16 @@ p132fratre separat, quod tanti fuit ardoris ad studia Romana ut brevi consecutus
 
 
 	
+Celsus
+	
+
 29 1 Occupatis partibus Gallicanis, orientalibus, quin etiam Ponti, Thraciarum et Illyrici, dum Gallienus popinatur et balneis ac lenonibus deputat vitam, Afri quoque auctore Vibio Passieno, proconsule Africae, et Fabio Pomponiano, duce limitis Libyci, Celsum imperatorem appellaverunt peplo deae Caelestis ornatum. 2 hic privatus ex tribunis in Africa positus in agris suis vivebat, sed ea iustitia et corporis magnitudine ut dignus videretur imperio. 3 quare creatus per quandam mulierem, Gallienam nomine, consobrinam Gallieni, septimo imperii die interemptus est atque adeo etiam inter obscuros principes vix relatus est. 4 corpus eius a canibus consumptum est Siccensibus, qui Gallieno fidem servaverant, perurgentibus, et novo iniuriae genere imago in crucem sublata persultante vulgo, quasi patibulo ipse Celsus videretur adfixus.
 
 
 	p134
+
+Zenobia
+	
 
 30 1 Omnis iam consumptus est pudor, si quidem fatigata re publica eo usque perventum est ut Gallieno nequissime agente optime etiam mulieres imperarent. 2 et quidem peregrina enim,56 nomine Zenobia, de qua multa iam dicta sunt, quae se de Cleopatrarum Ptolemaeorumque gente iactaret, post Odaenathum maritum imperiali sagulo perfuso per umeros, habitu Didonis57 ornata, diademate etiam accepto, nomine filiorum Herenniani et Timolai diutius quam femineus sexus patiebatur imperavit. 3 si quidem Gallieno adhuc regente rem publicam regale mulier superba munus obtinuit et Claudio bellis Gothicis occupato vix denique ab Aureliano victa et triumphata concessit in iura Romana.
 
@@ -328,6 +552,9 @@ p142in Tiburti, quae hodieque Zenobia dicitur, non longe ab Hadriani palatio atq
 
 
 	
+Victoria
+	
+
 31 1 Non tam digna res erat ut etiam Vitruvia sive Victoria in litteras mitteretur, nisi Gallieni mores hoc facerent ut memoria dignae etiam mulieres censerentur. 2 Victoria enim, ubi filium ac nepotem a militibus vidit occisos, Postumum, deinde Lollianum, Marium etiam, quem principem milites nuncupaverant, interemptos, Tetricum, de quo superius dictum est, ad imperium hortata est, ut virile semper facinus auderet. insignita est praeterea hoc titulo, ut castrorum se diceret matrem. 3 custodi sunt eius nummi aerei, aurei et argentei, quorum hodieque forma exstat apud Treviros. 4 quae quidem non diutius vixit. nam Tetrico imperante, ut plerique loquuntur, occisa, ut alii adserunt, fatali necessitate consumpta.
 
 	
@@ -346,6 +573,9 @@ p146Maximino, alter sub Claudio fuit, qui ambo ab iisdem militibus a quibus purp
 
 
 	
+Titus
+	
+
 32 1 Docet Dexippus, nec Herodianus tacet omnesque qui talia legenda posteris tradiderunt, Titum, tribunum Maurorum, qui a Maximino inter privatos relictus fuerat, timore violentae mortis, ut illi73 dicunt, invitum vero et a militibus coactum, ut plerique adserunt, imperasse, atque hunc intra paucos dies post vindicatam defectionem, quam consularis vir Magnus Maximino paraverat, a suis militibus interemptum. imperasse autem mensibus sex. 2 fuit hic vir de primis erga rem publicam domi forisque laudabilis, sed in imperio parum felix. 3 alii dicunt ab Armeniis sagittariis, quos Maximinus ut Alexandrinos et oderat et offenderat, principem factum. 4 nec mireris tantam esse varietatem de homine, cuius vix nomen agnoscitur. 5 huius uxor Calpurnia fuit, sancta et venerabilis femina de genere Caesoninorum, id est Pisonum, quam maiores nostri univiriam sacerdotem inter sacratissimas feminas
 
 
@@ -357,6 +587,9 @@ p148adorarunt, cuius statuam in Templo Veneris adhuc vidimus acrolitham sed aura
 
 
 	
+Censorinus
+	
+
 33 1 Vir plane militaris et antiquae in curia dignitatis, bis consul, bis praefectus praetorii, ter praefectus urbi, quarto pro consule, tertio consularis, legatus praetorius secundo, quarto aedilicius, tertio quaestorius, extra ordinem quoque legatione Persica functus, etiam Sarmatica.
 
 	
@@ -373,383 +606,571 @@ p150circa Bononiam,74 in quo grandibus litteris incisi sunt omnes eius honores; 
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 nec ins. by Erasmus; om. in P.
 
 
+❦
 
 2
 et Σ; ex P.
 
 
+❦
 
 3
 mente Salm.; gente P, Σ.
 
 
+❦
 
 4
 gereret Baehrens, Peter; regeret P, Σ.
 
 
+❦
 
 5
 milites P, Σ.
 
 
+❦
 
 6
 Gallia ins. by Paucker, Peter2, Hohl; om. in P and Σ.
 
 
+❦
 
 7
 quae Σ; om. in P.
 
 
+❦
 
 8
 in Σ; om. in P.
 
 
+❦
 
 9
 titulus Cas.; unus P, Σ.
 
 
+❦
 
 10
 impellendum Σ; implendum P.
 
 
+❦
 
 11
 dux esset Cas., Eyssenhardt, Hohl; duxisset P corr., Peter.
 
 
+❦
 
 12
 uerba Editor; uerbo P, Σ; uero Salm., Peter.
 
 
+❦
 
 13
 enitar Petschenig, Hohl; in Italia P, Σ, foll. by lacuna Peter.
 
 
+❦
 
 14
 in aquam se mersisse Σ, Hohl; in qua se P1; intrasse domum in qua se pugione transfodit P corr.; laqueasse se Peter.
 
 
+❦
 
 15
 loco P, Σ.
 
 
+❦
 
 16
 imposuit Σ, Hohl, foll. by Klotz; posuit P, Peter.
 
 
+❦
 
 17
 re ins. by Novák; om. in P1; ins. after militari P corr., Peter.
 
 
+❦
 
 18
 bellicis Baehrens, Peter; belli ius P.
 
 
+❦
 
 19
 hinc validus Salm., Peter; invalidus P, Σ.
 
 
+❦
 
 20
 fecit Σ, Hohl; om. in P; ins. after pugnaturus by Peter.
 
 
+❦
 
 21
 non om. in P.
 
 
+❦
 
 22
 ducum Salm.; dum P, Σ.
 
 
+❦
 
 23
 partibus Σ; patribus P.
 
 
+❦
 
 24
 imperatore ins. by P corr., foll. by Klotz; om. by Peter and Hohl.
 
 
+❦
 
 25
 et om. in P.
 
 
+❦
 
 26
 dignos Σ; dignus P, Peter, Hohl.
 
 
+❦
 
 27
 quid ins. by Helm, foll. by Hohl; om. in P and Σ; ad fata aut in bellis quantum Peter following Salm. and Obrecht.
 
 
+❦
 
 28
 spetiosissimam Σ; saepedissimam P1.
 
 
+❦
 
 29
 So Salm. foll. by Peter; filii herodes P; filii Herodis <luxuriem> Helm foll. by Hohl.
 
 
+❦
 
 30
 iam uinum Peter2, Hohl; iam in P.
 
 
+❦
 
 31
 agit Σ, Lessing, Hohl; ait P, Peter.
 
 
+❦
 
 32
 tribunum Cornelissen foll. by Hohl; et tribunum P, Peter.
 
 
+❦
 
 33
 forma P.
 
 
+❦
 
 34
 cum om. in P; ins. by Hohl; before ille in Σ.
 
 
+❦
 
 35
 ui P; om. by Peter and Hohl.
 
 
+❦
 
 36
 id probaturos Salm.; imperaturos P.
 
 
+❦
 
 37
 citer consultum P.
 
 
+❦
 
 38
 locum ins. by Richter and Hohl; om. in P and Σ; alibi Peter.
 
 
+❦
 
 39
 est Peter; et P.
 
 
+❦
 
 40
 uelut Baehrens, Peter2; uel P, Σ.
 
 
+❦
 
 41
 quibusque Editio Princ.; quibus usque P; quibusque usque Peter.
 
 
+❦
 
 42
 in ins. by Petschenig and Hohl; om. in P.
 
 
+❦
 
 43
 defuit Cod. Laurent. foll. by Peter; de P.
 
 
+❦
 
 44
 et Baehrens, Peter2; sed P.
 
 
+❦
 
 45
 de Σ, Peter; om. in P.
 
 
+❦
 
 46
 nunc Petschenig, Peter; non P.
 
 
+❦
 
 47
 cum ins. by Peter and Hohl; om. in P.
 
 
+❦
 
 48
 denudarentur Σ, Peter, Hohl; nudarentur P.
 
 
+❦
 
 49
 furtim Peter; statim P, Hohl.
 
 
+❦
 
 50
 Arellius Salm., Hohl; Dagellius P, susp. by Peter.
 
 
+❦
 
 51
 So Peter foll. by Hohl; cycli picturiae P.
 
 
+❦
 
 52
 museo P, Peter, Hohl.
 
 
+❦
 
 53
 qua erat Eyssenhardt foll. by Hohl; quare P, Σ, Peter.
 
 
+❦
 
 54
 etenim Petschenig foll. by Hohl; et cum P, Σ, Peter.
 
 
+❦
 
 55
 manent Σ, Hohl; maneat P.
 
 
+❦
 
 56
 enim P, def. by Tidner; etiam Peter; <peregrina> enim, Petschenig, Hohl.
 
 
+❦
 
 57
 Didonis Salm.; donis P.
 
 
+❦
 
 58
 illa sit Peter, Hohl; illas P.
 
 
+❦
 
 59
 consulte Paucker, Cornelissen, Peter2; occulte P, Peter1.
 
 
+❦
 
 60
 temptandis Cornelissen, Hohl; temptatis P, Peter.
 
 
+❦
 
 61
 uigentibus Σ, Peter; ingentibus P.
 
 
+❦
 
 62
 uenata Kiessling, Peter; nata P.
 
 
+❦
 
 63
 So Editor; conuiuicimusa Pb; conuiuia non nisi Peter; conuiuia, usa Hohl.
 
 
+❦
 
 64
 ita Peter; id P.
 
 
+❦
 
 65
 cohibito Peter; cohibita P, Hohl.
 
 
+❦
 
 66
 est Σ, Mommsen, Hohl; es P corr.; O Peter.
 
 
+❦
 
 67
 uita ins. by Walter and Hohl; om. in P.
 
 
+❦
 
 68
 si ins. by Peter; om. in P.
 
 
+❦
 
 69
 saltim Σ; saluti P.
 
 
+❦
 
 70
 uitae Peter; uiri P, Hohl.
 
 
+❦
 
 71
 cum risu et ioco transp. by Peter; after tyrannos in P.
 
 
+❦
 
 72
 addentur sugg. by Peter2; om. in P.
 
 
+❦
 
 73
 alii P, def. by Lenze.
 
 
+❦
 
 74
 circa Bononiam transp. by Eyssenhardt, foll. by Peter; after litteris in P.
 
 
+❦
 
 75
 adscriptum est Hohl; asscriptus est Σ; adseripest P1; adseri potest P corr., Peter.
 
 
+❦
 
 76
 fideliter Σ, Peter; feliciter P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+My thanks to
+			
+Erkki Salo
+			
+for his careful proofreading and correction of this text.
+		
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Kal. Aug. 2008

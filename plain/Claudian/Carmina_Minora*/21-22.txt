@@ -1,6 +1,410 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p196
+C. Claudiani
+	
+ex Carminibus Minoribus
+	
+
+
+
+XXI (LXXX)
+	
+De Theodoro et Hadriano.
+	
+
+
+
+
+
+
+Manlius indulget somno noctesque diesque;
+			
+insomnis Pharius sacra profana rapit.
+			
+omnibus hoc, Italae gentes, exposcite votis,
+			
+Manlius ut vigilet, dormiat ut Pharius.
+		
+
+
+
+
+XXII (XXXIX)
+	
+Deprecatio ad Hadrianum.
+	
+
+
+
+
+   
+5 
+			    
+10 
+			    
+15 
+			    
+20 
+			    
+25 
+			    
+			 
+30 
+			    
+35 
+			    
+40 
+			    
+			 
+45 
+			    
+50 
+			    
+55 
+		
+
+
+
+Usque adeone tuae producitur impetus irae?
+			
+nullus erit finis lacrimis? subitisque favorem
+			
+permutas odiis? quo mens ignara nocendi,
+			
+quo sensus abiere pii? tantumne licebit
+			
+invidiae? tantum strepitus valuere maligni?
+			
+
+Me dolor incautus, me lubrica duxerit aetas,
+			
+me tumor impulerit, me devius egerit ardor:
+			
+te tamen haud decuit paribus concurrere telis.
+			
+humanae superos numquam tetigere querellae
+			
+nec vaga securum penetrant convicia caelum.
+			
+p198
+excessit iam poena modum. concede iacenti.
+			
+en adsum; veniam confessus crimina posco.
+			
+
+Manibus Hectoreis atrox ignovit Achilles.
+			
+ultrices Furias matris placavit Orestes.
+			
+reddidit Alcides Priamo, quas ceperat, arces.
+			
+Pellaeum iuvenem regum flexere ruinae:
+			
+Darium famulis manibus doluisse peremptum
+			
+fertur et ingenti solatus fata sepulchro;
+			
+tradita captivo spatiosior India Poro.
+			
+conditor hic patriae; sic hostibus ille pepercit;
+			
+hunc virtus tua digna sequi. quemcumque deorum
+			
+laesimus, insultet iugulo pascatque furorem.
+			
+
+Gratia defluxit, sequitur ferialis egestas;
+			
+desolata domus, caris spoliamur amicis:
+			
+hunc tormenta necant, hic undique truditur exul.
+			
+quid superest damnis? quae saeva pericula restant?
+			
+
+Emollit rabiem praedae mortisque facultas.
+			
+praetereunt subiecta ferae, torvique leones,
+			
+quae stravisse calent, eadem prostrata relinquunt
+			
+nec nisi bellantis gaudent cervice iuvenci
+			
+nobiliore fame. secuit nascentia vota
+			
+livor et ingesto turbavit gaudia luctu:
+			
+iamiam suppliciis fessos humilesque serenus
+			
+respice. quid tanta dignaris mole clientem?
+			
+in brevibus numquam sese probat Aeolus undis,
+			
+nec capit angustus Boreae certamina collis:
+			
+Alpes ille quatit, Rhodopeia culmina lassat.
+			
+incubuit numquam caelestis flamma salictis
+			
+p200
+nec parvi frutices iram meruere Tonantis:
+			
+ingentes quercus, annosas fulminat ornos.
+			
+
+Hoc pro supplicibus ramis, pro fronde Minervae,
+			
+hoc carmen pro ture damus. miserere tuorum.
+			
+me precor, heu, me redde mihi gravibusque medere
+			
+vulneribus vitamque iube famamque reverti.
+			
+quae per te cecidit, per te fortuna resurgat.
+			
+sanus Achilleis remeavit Telephus herbis,
+			
+cuius pertulerat vires, et sensit in uno
+			
+letalem placidamque manum; medicina per hostem
+			
+contigit, et pepulit quos fecerat ipse dolores.
+			
+
+Quodsi nec precibus fletu nec flecteris ullo,
+			
+eripe calcatis non prospera cingula Musis,
+			
+eripe militiam, comitem me pelle sodalis.1
+
+scilicet insignis de paupere vate triumphus.
+			
+scilicet egregiis ornabere victor opimis.
+			
+inruat in miseros cognata potentia cives;
+			
+audiat haec commune solum longeque carinis
+			
+nota Pharos, flentemque attollens gurgite vultum
+			
+nostra gemat Nilus numerosis funera ripis.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 Birt sodali (EVAJ); sodalis R.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IX Kal. Aug. 07

@@ -1,0 +1,381 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p262
+De crystallo cui aqua inerat.
+	
+
+
+XXXIII (LVI)
+	
+
+
+
+Possedit glacies naturae signa prioris
+		   
+et fit parte lapis, frigora parte negat.
+		
+sollers lusit hiems, imperfectoque rigore
+		   
+nobilior vivis gemma tumescit aquis.
+		
+
+
+
+
+XXXIV (LVII)
+	
+
+
+
+   
+5
+
+
+Lymphae, quae tegitis cognato carcere lymphas,
+		   
+et, quae nunc estis quaeque fuistis, aquae,
+		
+quod vos ingenium iunxit? qua frigoris arte
+		   
+torpuit et maduit prodigiosa silex?
+		
+quis tepor inclusus securas vindicat undas?
+		   
+interior glacies quo liquefacta Noto?
+		
+gemma quibus causis arcano mobilis aestu
+		   
+vel concreta fuit vel resoluta gelu?
+		
+
+
+p264
+
+
+XXXV (LVIII)
+	
+
+
+
+   
+5
+
+
+Solibus indomitum glacies Alpina rigorem
+		   
+sumebat nimio iam pretiosa gelu
+		
+nec potuit toto mentiri corpore gemmam,
+		   
+sed medio mansit proditor orbe latex.
+		
+auctus honor; liquidi crescunt miracula saxi,
+		   
+et conservatae plus meruistis aquae.
+		
+
+
+
+
+XXXVI (LIX)
+	
+
+
+
+   
+5
+
+
+Adspice porrectam splendenti fragmine venam,
+		   
+qua trahitur limes lucidiore gelu.
+		
+hic nullum Borean nec brumam sentit opacus
+		   
+umor, sed varias itque reditque vias.
+		
+non illum constrinxit hiems, non Sirius axis,
+		   
+aetatis spatium non tenuavit edax.
+		
+
+
+
+
+XXXVII (LX)
+	
+
+
+
+   
+5
+
+
+Clauditur inmunis convexo tegmine rivus,
+		   
+duratisque vagus fons operitur aquis.
+		
+nonne vides, propriis ut spumet gemma lacunis
+		   
+et refluos ducant pocula viva sinus
+		
+udaque pingatur radiis obstantibus Iris,
+		   
+secretas hiemes sollicitante die?
+		
+mira silex mirusque latex. et flumina vincit
+		   
+et lapides merito, quod fluit et lapis est.
+		
+
+
+
+
+XXXVIII (LXI)
+	
+
+
+
+   
+5
+
+
+Dum crystalla puer contingere lubrica gaudet
+		   
+et gelidum tenero pollice versat onus,
+		
+vidit perspicuo deprensas marmore lymphas,
+		   
+dura quibus solis parcere novit hiems,
+		
+et siccum relegens labris sitientibus orbem
+		   
+inrita quaesitis oscula fixit aquis.
+		
+
+
+p266
+
+
+XXXIX (LXII)
+	
+
+
+
+Marmoreum ne sperne globum: spectacula transit
+		   
+regia nec Rubro vilior iste mari.
+		
+informis glacies, saxum rude, nulla figurae
+		   
+gratia, sed raras inter habetur opes.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIV Kal. Feb. 04

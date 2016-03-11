@@ -1,7 +1,135 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+ 
+Caligula
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Nero
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p2
+Claudius
+	
+
 1
 
 1 Patrem Claudi Caesaris Drusum, olim Decimum mox Neronem praenomine, Livia, cum Augusto gravida nupsisset, intra mensem tertium peperit, fuitque suspicio ex vitrico per adulterii consuetudinem procreatum. Statim certe vulgatus est versus:
+
+
+
+
+
+Τοῖς εὐτυχοῦσι καὶ τρίμηνα παιδία.
+		
+
 
 
 2 Is Drusus in quaesturae praeturaeque honore dux Raetici, deinde Germanici belli Oceanum septemtrionalem primus Romanorum ducum navigavit transque Rhenum fossas navi et immensi operis effecit, quae nunc adhuc Drusinae vocantur. Hostem etiam frequenter caesum ac penitus in intimas solitudines actum non prius destitit insequi, quam species barbarae mulieris humana amplior victorem tendere
@@ -377,6 +505,13 @@ p76Prioris materiae duo volumina, posterioris unum et quadraginta reliquit. 3 C
 1 Nec minore cura Graeca studia secutus est, amorem praestantiamque linguae occasione omni professus. Cuidam barbaro Graece ac Latine disserenti: "Cum utroque," inquit, "sermone nostro sis paratus"; et in commendanda patribus conscriptis Achaia, gratam sibi provinciam ait communium studiorum commercio; ac saepe in senatu legatis perpetua oratione respondit. Multum vero pro tribunali etiam Homericis locutus est versibus. Quotiens quidem hostem vel insidiatorem ultus esset, excubitori tribuno signum de more poscenti non temere aliud dedit quam:
 
 
+
+
+Ἄνδρ᾽ ἀπαμύνασθαι, ὅτε τις πρότερος χαλεπήνῇ.55
+
+
+
+
 2 Denique et Graecas scripsit historias, Tyrrhenicon viginti, Carchedoniacon octo. Quarum causa veteri
 
 
@@ -418,206 +553,255 @@ p82aliquot quidem argumentis. Nam et cum consules designaret, neminem ultra mens
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Iullo, Ihm; Iulio, Ω; Iulo, Pulmann.
+❦
 
 2
 ἠλαττῶσθαι, Beroaldus; ελαττωσθαι and ελαττωσεαι, mss.
+❦
 
 3
 ψυχῆς, Roman editions; ψχης, mss.
+❦
 
 4
 εἰωθόσιν, Roman editions; εηιωθοσιν, most of the mss.
+❦
 
 5
 et, mss.; ut, Smilda; cum, Bentley.
 
 
+❦
 
 6
 e, second Roman edition; ne, Ω.
 
 
+❦
 
 7
 legato quoque, Ernesti; legatoque, mss.; legato, Torrentius.
+❦
 
 8
 sigillaria, L3ς; sigillari, Ω.
 
 
+❦
 
 9
 exposceret, ς; exposceretur, Casaubon; exposcerent, mss.
+❦
 
 10
 lacernas, Π2T; the other mss. have lucernas.
 
 
+❦
 
 11
 desiderante, Υ; the other mss. have desideranti.
 
 
+❦
 
 12
 studio, G; the other mss. have e studio (ex, T).
 
 
+❦
 
 13
 adgnovit] agnovit, Tς; the other mss. have adcognovit.
 
 
+❦
 
 14
 armatos, ΠQ; the other mss. have armatus.
 
 
+❦
 
 15
 viva, Lipsius; avia, Ω.
 
 
+❦
 
 16
 At in fratris memoriam, suggested by Ihm; a fratris memoria, MGX; ad fratris memoriam, Υ.
 
 
+❦
 
 17
 sed et a, Υ; etaeta, M; et a, GX.
 
 
+❦
 
 18
 an, Stephanus; in, Ω.
 
 
+❦
 
 19
 principali, ς; principalem, Ω.
 
 
+❦
 
 20
 Stoechadas, ς; Stochadas, Ω.
 
 
+❦
 
 21
 praetexta M., G; praetextam, M; pretexta, X; eodem . . . palmata, omitted by Υ.
 
 
+❦
 
 22
 excogitavit, Tς; the other mss. have ex eo cogitavit; ex eo agitavit, Bentley.
+❦
 
 23
 civi, Turnebus; civis, Ω; civibus, ς.
 
 
+❦
 
 24
 magna potius et necessaria, suggested by Ihm; magna potius quam n., mss. The second quam is omitted by Π1Q.
 
 
+❦
 
 25
 passus, MGL.
 
 
+❦
 
 26
 effosso, Sς; exfossa, M; the other mss. have exfosso except T, which omits effosso monte partim; ecfosso, Roth.
+❦
 
 27
 salo, Stephanus.
+❦
 
 28
 plurifariam, Rς; plurifaria, Ω (multifaria, G).
 
 
+❦
 
 29
 daturus edixerat, Basle ed. of 1533; daturum se dixerat, Ω (dixerant, Υ).
 
 
+❦
 
 30
 aut non] avete vos, ς.
 
 
+❦
 
 31
 vacillatione, ς; bacillatione, Ω.
 
 
+❦
 
 32
 exciente, ΠR; the other mss. have eiciente (eitiente, G).
 
 
+❦
 
 33
 ave, Roth (avi, Turnebus); aut, MGLP; aut in urbe aut, Υ´O.
 
 
+❦
 
 34
 tribuniciove, Mommsen; sella vel tribunicio, Smilda; tribunicio, mss.
+❦
 
 35
 communi, Basle ed. of 1533 (ς?); communis, Ω.
 
 
+❦
 
 36
 Cauchi, suggested by Ihm; Cauchius, mss.
+❦
 
 37
 Esquilino, GQT; the other mss. have Esquilinio.
 
 
+❦
 
 38
 Druidarum, Nς; Driadarum, Ω.
 
 
+❦
 
 39
 icit, Sabellicus; iecit, Ω.
 
 
+❦
 
 40
 Urgulanilla, M; the other mss. have Ergulanilla (erc-, GΠQ).
 
 
+❦
 
 41
 Ergulanilla, Ω (erc-, GΠQ).
 
 
+❦
 
 42
 Erculanilla, Ω (herc-, L; erg-, ST).
 
 
+❦
 
 43
 prope iam, Bentley; prope tum, Bücheler; Pompeis impuberem, Lipsius; pompeium, mss.
+❦
 
 44
 ominibus, ς; omnibus, Ω.
 
 
+❦
 
 45
 The mss. have se after principem.
 
 
+❦
 
 46
 ei verum, Bentley, Oudendorp; et veterum, MGLPδ (see
@@ -625,57 +809,177 @@ ei verum, Bentley, Oudendorp; et veterum, MGLPδ (see
 p. xxiv);º vel, Υ.
 
 
+❦
 
 47
 qui, Υ´O; ut, δ; the other mss. omit the word, except G, which has ut after veteri.
 
 
+❦
 
 48
 interdiu, ς; interdum, Ω.
 
 
+❦
 
 49
 modo veniam, ς; veniam modo, Ω.
 
 
+❦
 
 50
 tamen, J. F. Gronov.; ante, Ω (autem, Π1).
 
 
+❦
 
 51
 descripsitque, Torrentius; descripsit, mss.
+❦
 
 52
 quaesturae, ς (Beroaldus); questore, Ω.
 
 
+❦
 
 53
 λάλει, Turnebus; λαλι, mss.
+❦
 
 54
 sed et, MSS.; Müller struck out sed, Torrentius et.
 
 
+❦
 
 55
 ανδραεπ, Ω; χαλεπήνῃ, Torrentius; χαλεπελινει, M.
 
 
+❦
 
 56
 novum, added by Drechsler; Roth suggested Claudieum after Musio.
 
 
+❦
 
 57
 clystera, ς; clysteram, MX (clystere, T); clysterum, G; clysterem, Υ.
 
 
+❦
 
 58
 quam . . . vocant: probably a gloss; cf. Jul. lxxxviii.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Id. Aug. 12

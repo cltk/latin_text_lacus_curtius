@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Macrinus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Elagabalus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p82
+Diadumenus Antoninus
+	
+
 11 Antonini Diadumeni pueri, quem cum patre Opilio Macrino imperatorem dixit exercitus occiso Bassiano factione Macriniana, nihil habet vita memorabile, nisi quod Antoninus est dictus et quod ei stupenda omina sunt facta imperii non diutini, ut evenit. 2 nam cum primum innotuit per legiones occisum esse Bassianum, ingens maeror obsedit omnium pectora, quod Antoninum in re publica non haberent, existimantium quod cum eo Romanum esset imperium periturum. 3 id ubi Macrino iam imperatori nuntiatum est, veritus ne in aliquem Antoninorum, qui multi ex adfinibus Antonini Pii erant inter duces, exercitus inclinaret, statim contionem parari iussit filiumque suum hunc puerum Antoninum appellavit. 4 contio: "Videtis, conmilitones, et me aetatis iam provectae et Diadumenum puerum, quem diu principem, si di
 
 
@@ -51,6 +159,23 @@ p94putant. 4 sed aliud est cum praenomen adscitur, aliud cum ipsum nomen imponi
 p96non fuerat vel deorum. 2 quam epistulam priusquam intexam, libet versus inserere in Commodum dictos, qui se Herculem appellaverat, ut intellegant omnes tam clarum fuisse Antoninorum nomen, ut illi ne deorum nomen commode videretur adiungi. 3 versus in Commodum adiungi. versus in Commodum Antoninum dicti:
 
 
+
+
+Commodus Herculeum nomen habere cupit,
+			
+Antoninorum non putat esse bonum,
+			
+expers humani iuris et imperii,
+			
+sperans quin etiam clarius esse deum,
+			
+quam si sit princeps nominis egregii.
+			
+non erit iste deus nec tamen ullus homo.
+		
+
+
+
 4 hi versus a Graeco nescio quo compositi a malo poeta in Latinum translati sunt, quos ego idcirco inserendos putavi, ut scirent omnes Antoninos pluris13 fuisse quam deos ab14 trium principum amore, quo sapientia, bonitas, pietas consecrata sit, in Antonino pietas, in Vero bonitas, in Marco sapientia. 5 redeo nunc ad epistulam Macrini Opilii:
 
 	
@@ -71,6 +196,19 @@ p98est istud quod etiam indignis fortuna concessit. 6 Antonini pater factus sum
 p100sperans eos vel amiciores tibi futuros, si iis parceres, vel ob antiquam familiaritatem16 dimittendos. 6 quod nec debuit fieri nec proderit.17 nam primum omnium iam te exulcerati suspicionibus amare non possunt. deinde crudeliores inimici sunt, qui obliti veteris familiaritatis se inimicissimis tuis iunxerunt. adde quod exercitus adhuc habent.
 
 
+
+
+7 'Si te nulla movet tantarum gloria rerum,
+			
+Ascanium surgentem et spes heredis Iuli
+			
+respice, cui regnum Italiae Romanaque tellus
+			
+debetur.'
+		
+
+
+
 8 feriendi sunt isti, si vis esse securus. nam vitio generis humani alii non sunt defuturi, cum isti servantur." 9 hanc epistulam quidam ipsius, quidam magistri eius Caeliani ferunt, Afri quondam rhetoris, ex qua apparet, quam asper futurus iuvenis si vixisset.
 
 	
@@ -89,93 +227,214 @@ p102dicit, istae litterae per notarium proditae illi puero multum apud milites o
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 dudum Peter; diuum P.
 
 
+❦
 
 2
 dignus om. in P; patre Antoninus <dignus> Mommsen, Jordan; imperatorem. Antoninus Peter.
 
 
+❦
 
 3
 duxistis Jordan, Peter; dixistis P.
 
 
+❦
 
 4
 ad om. in P.
 
 
+❦
 
 5
 so P; haec <fere> Peter1; haec <sunt> quae de imperio Peter2.
 
 
+❦
 
 6
 so Cas., Peter; uiris intersedentibus P.
 
 
+❦
 
 7
 quasi om. in P.
 
 
+❦
 
 8
 et om. in P; ins. by Paucker, Petschenig, Peter2.
 
 
+❦
 
 9
 ut quae Unger, Peter2; atque P.
 
 
+❦
 
 10
 Antonino P.
 
 
+❦
 
 11
 cum om. in P.
 
 
+❦
 
 12
 clarius Jordan, Peter1; clarior P; clarior <honor> Peter2.
 
 
+❦
 
 13
 plures P.
 
 
+❦
 
 14
 ab Peter2; ac P, Peter1.
 
 
+❦
 
 15
 conscios ins. by Paucker, Peter2; om. in P, Peter1.
 
 
+❦
 
 16
 familiam tamen P.
 
 
+❦
 
 17
 proderit Unger, Peter2; poterit P.
 
 
+❦
 
 18
 diligenter P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Feb. 05

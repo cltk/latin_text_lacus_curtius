@@ -1,8 +1,741 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXLI
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+C. Claudiani
+	
+
+ex Carminibus Minoribus
+	
+
+p174
+
+I (XIII)
+	
+Ad Stilichonem.
+	
+
+
+
+
+
+Solitas galea fulgere comas,
+			
+Stilicho, molli necte corona.
+			
+cessent litui saevumque procul
+			
+Martem felix taeda releget.
+			5
+tractus ab aula rursus in aulam
+			
+redeat sanguis. patris officiis
+			
+iunge potenti pignora dextra.
+			
+gener Augusti pridem fueras,
+			
+nunc rursus eris socer Augusti.
+			10
+quae iam rabies livoris erit?
+			
+vel quis dabitur color invidiae?
+			
+Stilicho socer est, pater est Stilicho.
+		
+
+
+
+
+II (LXXXV)
+	
+Descriptio portus Smyrnensis.
+	
+
+
+
+
+
+Urbs in conspectu montana cacumina velat
+			
+tranquillo praetenta mari. ducentia portum
+			
+cornua pacatas removent Aquilonibus undas.
+			
+hic exarmatum terris cingentibus aequor
+			5
+clauditur et placidam discit servare quietem.
+		
+
+
+
+p176
+
+III (LXXXI)
+	
+Ad Aeternalem.
+	
+
+
+
+
+
+Quidquid Castalio de gurgite Phoebus anhelat,
+			
+quidquid fatidico mugit cortina recessu,
+			
+carmina sunt; sed verba negant communia Musae.
+			
+carmina sola loquor: sic me meus implet Apollo.
+		
+
+
+
+
+IV (LIV)
+	
+Descriptio armenti.
+	
+
+
+
+
+
+Non tales quondam species tulit armentorum
+			
+tellus tergemino subdita Geryoni.
+			
+non tales, Clitumne, lavas in gurgite tauros,
+			
+Tarpeio referunt quos pia vota Iovi.
+			5
+non talis Tyrias sparsisse iuvencus harenas
+			
+dicitur, optatum quando revexit onus.
+			
+non Cretaeus ager nec amati conscia tauri
+			
+Gnosos nec similes paverit Ida feros.
+			
+ipse et dispariles monstro commissus in artus
+			10
+qui crimen matris prodidit1 ore novo
+			
+Cres puer haud talem potuisset reddere formam,
+			
+portassent totum si fera membra patrem.
+		
+
+
+
+p178
+
+V (LXXXVI)
+	
+Est in conspectu longe locus.
+	
+
+
+
+
+
+Est procul ingenti regio summota recessu,
+			
+insula qua resides fluctus mitescere cogit
+			
+in longum producta latus, fractasque per undas
+			
+ardua tranquillo curvantur brachia portu.
+		
+
+
+
+
+VI (LXXXVIII)
+	
+Rimanti telum ira facit.
+	
+
+
+
+
+
+In iaculum, quodcumque gerit, dementia mutat.
+			
+omnibus armatur rabies. pro cuspide ferri
+			
+cuncta volant, dum dextra ferox in vulnera saevit.
+			
+pro telo geritur quidquid suggesserit ira.
+		
+
+
+
+
+VII (LXXXVII)
+	
+De quadriga marmorea.
+	
+
+
+
+
+
+
+1.
+			
+
+Quis dedit innumeros uno de marmore vultus?
+			
+surgit in aurigam currus, paribusque lupatis
+			
+unanimi frenantur equi: quos forma diremit,
+			
+materies cognata tenet discrimine nullo.
+
+			
+
+2.
+			
+
+Vir redit in currum; ducuntur ab axe iugales;
+			
+ex alio se quisque facit. quae tanta potestas?
+			
+una silex tot membra ligat ductusque per artem
+			
+mons patiens ferri varios mutatur in artus.
+		
+
+
+
+p180
+
+VIII (LXIX)
+	
+De Polycaste et Perdicca.
+	
+
+
+
+
+
+Quid non saevus Amor flammarum numine cogat?
+			
+sanguinis en fetum mater amare timet.
+			
+pectore dum niveo miserum tenet anxia nutrix,
+			
+inlicitos ignes iam fovet ipsa parens.
+			5
+ultrices pharetras tandem depone, Cupido.
+			
+consule iam Venerem: forsan et ipsa dolet.
+		
+
+
+
+p184
+
+X (XCII)
+	
+De birro castoreo.
+	
+
+
+
+
+
+Nominis umbra manet veteris; nam dicere birrum,
+			
+si Castor iuret, castoreum nequeo.
+			
+sex emptus solidis! quid sit, iam scire potestis:
+			
+si mihi nulla fides, credite vel pretio.
+		
+
+
+
+
+XI (XCI)
+	
+In sepulchrum speciosae.
+	
+
+
+
+
+
+Pulchris stare diu Parcarum lege negatur.
+			
+magna repente ruunt; summa cadunt subito.
+			
+hic formosa iacet: Veneris sortita figuram
+			
+egregiumque decus invidiam meruit.
+		
+
+
+
+
+XII (LXXXIV)
+	
+De balneis Quintianis quae in via posita erant.
+	
+
+
+
+
+
+Fontibus in liquidis paulum requiesce, viator,
+			
+atque tuum rursus carpe refectus iter.
+			
+p186
+lympharum dominum nimium miraberis, hospes,
+			
+inter dura viae balnea qui posuit.
+		
+
+
+
+
+XIII (LXXIX)
+	
+In podagrum qui carmina sua non stare dicebat.
+	
+
+
+
+
+
+Quae tibi cum pedibus ratio? quid carmina culpas?
+			
+scandere qui nescis, versiculos laceras?
+			
+"claudicat hic versus; haec" inquit "syllaba nutat";
+			
+atque nihil prorsus stare putat podager.
+
+
+
+
+
+XIV (LXXXII)
+	
+Ad Maximum qui ei mel misit.
+
+
+
+
+
+
+Dulcia dona mihi semper tu, Maxime, mittis,
+			
+et, quidquid mittis, mella putare decet.
+		
+
+
+
+
+XV (LXXXIX)
+	
+De paupere amante.
+
+
+
+
+
+
+Paupertas me saeva domat dirusque Cupido:
+			
+sed toleranda fames, non tolerandus amor.
+		
+
+
+
+
+XVI (XC)
+	
+De eodem.
+	
+
+
+
+
+
+Esuriens pauper telis incendor amoris.
+			
+inter utrumque malum deligo pauperiem.
+		
+
+
+
+p192
+
+XIX (XLIII)
+	
+Epistula ad Gennadium exproconsule.
+	
+
+
+
+
+
+Italiae commune decus, Rubiconis amoeni
+			
+incola, Romani fama secunda fori,
+			
+p194
+Graiorum populis et nostro cognite Nilo
+			
+(utraque gens fasces horret amatque tuos):
+			5
+carmina ieiunas poscis solantia fauces?
+			
+testor amicitiam nulla fuisse domi.
+			
+nam mihi mox nidum pennis confisa relinquunt
+			
+et lare contempto non reditura volant.
+		
+
+
+
+p270
+
+XLII (LIII)
+	
+De apro et leone.
+	
+
+
+
+
+
+Torvus aper fulvusque leo coiere superbis
+			
+viribus, hic saeta saevior, ille iuba;
+			
+hunc Mars, hunc laudat Cybele. dominatur uterque
+			
+montibus; Herculeus sudor uterque fuit.
+		
+
+
+
+
+XLIII (LXXV)
+	
+In Curetium.
+	
+
+
+
+
+
+Fallaces vitreo stellas componere mundo
+			
+et vaga Saturni sidera saepe queri
+			
+venturumque Iovem paucis promittere nummis
+			
+Cureti genitor noverat Uranius.
+			5
+in prolem dilata ruunt periuria patris
+			
+et poenam merito filius ore luit.
+			
+nam spurcos avidae lambit meretricis hiatus
+			
+consumens luxu flagitiisque domum
+			
+et, quas fallacis collegit lingua parentis,
+			10
+has eadem nati lingua refundit opes.
+		
+
+
+
+
+XLIV (LXXVI)
+	
+In eundem Curetium.
+	
+
+
+
+
+
+Si tua, Cureti, penitus cognoscere quaeris
+			
+sidera, patre tuo certius ipse loquar.
+			
+quod furis, adversi dedit inclementia Martis;
+			
+quod procul a Musis, debilis Arcas erat;
+			p272
+5
+quod turpem pateris iam cano podice morbum,
+			
+femineis signis Luna Venusque fuit;
+			
+attrivit Saturnus opes. hoc prorsus in uno
+			
+haereo: quae cunnum lambere causa facit?
+		
+
+
+
+
+XLV (LV)
+	
+De concha.
+	
+
+
+
+
+
+Transferat huc liquidos fontes Heliconia Nais
+			
+et patulo conchae divitis orbe fluat.
+			
+namque latex doctae qui laverit ora Serenae,
+			
+ultra Pegaseas numen habebit aquas.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 prodidit cod. Med. (and Cuiacius). Birt condidit
+
 
 The Loeb edition has no other critical notes to these poems. Slightly different texts of them, however, are available on Michael Hendry's site (see navigation bar below); they include variant readings by several scholars.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Aug. 07

@@ -1,4 +1,119 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+VII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p474
+Liber VIII
+	
+
 Superest ea pars, quae ad ossa pertinet; quae quo facilius accipi possit, prius positus figurasque eorum indicabo.
 
 	
@@ -457,645 +572,777 @@ Haec facienda sunt in iis casibus, ubi sine vulnere ossa exciderunt. . . .JJJ
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 zzzz
 
 
+❦
 
 2
 zzzz
 
 
+❦
 
 3
 zzzz
 
 
+❦
 
 4
 zzzz
 
 
+❦
 
 5
 zzzz
 
 
+❦
 
 6
 zzzz
 
 
+❦
 
 7
 zzzz
 
 
+❦
 
 8
 zzzz
 
 
+❦
 
 9
 zzzz
 
 
+❦
 
 10
 zzzz
 
 
+❦
 
 11
 zzzz
 
 
+❦
 
 12
 zzzz
 
 
+❦
 
 13
 zzzz
 
 
+❦
 
 14
 zzzz
 
 
+❦
 
 15
 zzzz
 
 
+❦
 
 16
 zzzz
 
 
+❦
 
 17
 zzzz
 
 
+❦
 
 18
 zzzz
 
 
+❦
 
 19
 zzzz
 
 
+❦
 
 20
 zzzz
 
 
+❦
 
 21
 zzzz
 
 
+❦
 
 22
 zzzz
 
 
+❦
 
 23
 zzzz
 
 
+❦
 
 24
 zzzz
 
 
+❦
 
 25
 zzzz
 
 
+❦
 
 26
 zzzz
 
 
+❦
 
 27
 zzzz
 
 
+❦
 
 28
 zzzz
 
 
+❦
 
 29
 zzzz
 
 
+❦
 
 30
 zzzz
 
 
+❦
 
 31
 zzzz
 
 
+❦
 
 32
 zzzz
 
 
+❦
 
 33
 zzzz
 
 
+❦
 
 34
 zzzz
 
 
+❦
 
 35
 zzzz
 
 
+❦
 
 36
 zzzz
 
 
+❦
 
 37
 zzzz
 
 
+❦
 
 38
 zzzz
 
 
+❦
 
 39
 zzzz
 
 
+❦
 
 40
 zzzz
 
 
+❦
 
 41
 zzzz
 
 
+❦
 
 42
 zzzz
 
 
+❦
 
 43
 zzzz
 
 
+❦
 
 44
 zzzz
 
 
+❦
 
 45
 zzzz
 
 
+❦
 
 46
 zzzz
 
 
+❦
 
 47
 zzzz
 
 
+❦
 
 48
 zzzz
 
 
+❦
 
 49
 zzzz
 
 
+❦
 
 50
 zzzz
 
 
+❦
 
 51
 zzzz
 
 
+❦
 
 52
 zzzz
 
 
+❦
 
 53
 zzzz
 
 
+❦
 
 54
 zzzz
 
 
+❦
 
 55
 zzzz
 
 
+❦
 
 56
 zzzz
 
 
+❦
 
 57
 zzzz
 
 
+❦
 
 58
 zzzz
 
 
+❦
 
 59
 zzzz
 
 
+❦
 
 60
 zzzz
 
 
+❦
 
 61
 zzzz
 
 
+❦
 
 62
 zzzz
 
 
+❦
 
 63
 zzzz
 
 
+❦
 
 64
 zzzz
 
 
+❦
 
 65
 zzzz
 
 
+❦
 
 66
 zzzz
 
 
+❦
 
 67
 zzzz
 
 
+❦
 
 68
 zzzz
 
 
+❦
 
 69
 zzzz
 
 
+❦
 
 70
 zzzz
 
 
+❦
 
 71
 zzzz
 
 
+❦
 
 72
 zzzz
 
 
+❦
 
 73
 zzzz
 
 
+❦
 
 74
 zzzz
 
 
+❦
 
 75
 zzzz
 
 
+❦
 
 76
 zzzz
 
 
+❦
 
 77
 zzzz
 
 
+❦
 
 78
 zzzz
 
 
+❦
 
 79
 zzzz
 
 
+❦
 
 80
 zzzz
 
 
+❦
 
 81
 zzzz
 
 
+❦
 
 82
 zzzz
 
 
+❦
 
 83
 zzzz
 
 
+❦
 
 84
 zzzz
 
 
+❦
 
 85
 zzzz
 
 
+❦
 
 86
 zzzz
 
 
+❦
 
 87
 zzzz
 
 
+❦
 
 88
 zzzz
 
 
+❦
 
 89
 zzzz
 
 
+❦
 
 90
 zzzz
 
 
+❦
 
 91
 zzzz
 
 
+❦
 
 92
 zzzz
 
 
+❦
 
 93
 zzzz
 
 
+❦
 
 94
 zzzz
 
 
+❦
 
 95
 zzzz
 
 
+❦
 
 96
 zzzz
 
 
+❦
 
 97
 zzzz
 
 
+❦
 
 98
 zzzz
 
 
+❦
 
 99
 zzzz
 
 
+❦
 
 100
 zzzz
 
 
+❦
 
 101
 zzzz
 
 
+❦
 
 102
 zzzz
 
 
+❦
 
 103
 zzzz
 
 
+❦
 
 104
 zzzz
 
 
+❦
 
 105
 zzzz
 
 
+❦
 
 106
 zzzz
 
 
+❦
 
 107
 zzzz
 
 
+❦
 
 108
 zzzz
 
 
+❦
 
 109
 zzzz
 
 
+❦
 
 110
 zzzz
 
 
+❦
 
 111
 zzzz
 
 
+❦
 
 112
 zzzz
 
 
+❦
 
 113
 zzzz
 
 
+❦
 
 114
 zzzz
 
 
+❦
 
 115
 zzzz
 
 
+❦
 
 116
 zzzz
 
 
+❦
 
 117
 zzzz
 
 
+❦
 
 118
 zzzz
 
 
+❦
 
 119
 zzzz
 
 
+❦
 
 120
 zzzz
 
 
+❦
 
 121
 zzzz
 
 
+❦
 
 122
 zzzz
 
 
+❦
 
 123
 zzzz
 
 
+❦
 
 124
 zzzz
 
 
+❦
 
 125
 zzzz
 
 
+❦
 
 126
 zzzz
 
 
+❦
 
 127
 zzzz
 
 
+❦
 
 128
 zzzz
 
 
+❦
 
 129
 zzzz
@@ -1103,3 +1350,116 @@ zzzz
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+V Kal. Apr. 05

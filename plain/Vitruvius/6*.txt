@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber V
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber VII
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber VI
+	
+
+Praefatio
+	
+
+
 1. Aristippus philosophus Socraticus naufragio cum eiectus ad Rhodiensium litus animadvertisset geometrica schemata descripta, exclamavisse ad comites ita dicitur bene speremus, hominum enim vestigia video statimque in oppidum Rhodum contendit et recta gymnasium devenit, ibique de philosophia disputans muneribus est donatus, ut non tantum se ornaret sed etiam eis qui una fuerunt et vestitum et cetera quae opus essent ad victum praestaret. cum autem eius comites in patriam reverti voluissent interrogarentque eum quidnam vellet domum renuntiari, tunc ita mandavit dicere, eiusmodi possessiones et viatica liberis oportere parari quae etiam e naufragio una possent enatare.
 
 	
@@ -30,6 +125,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Haec autem ita erunt recte disposita, si primo animadversum fuerit quibus regionibus aut quibus inclinationibus mundi constituantur. namque aliter Aegypto, aliter Hispania, non eodem modo Ponto, dissimiliter Romae, item ceteris terrarum et regionum proprietatibus oportere videntur constitui genera aedificiorum, quod alia parte solis cursu premitur tellus, alia longe ab eo distat, alia per medium temperatur. igitur uti constitutio mundi ad terrae spatium inclinatione signiferi circuli et solis cursu disparibus qualitatibus naturaliter est conlocata, ad eundem modum etiam ad regionum rationes caelique varietates videntur aedificiorum debere dirigi conlocationes.
 
@@ -86,6 +184,9 @@ graeci dicunt.
 
 
 	
+Caput 2
+	
+
 
 1. Nulla architecto maior cura esse debet nisi uti proportionibus ratae partis habeant aedificia rationum exactiones. cum ergo constituta symmetriarum ratio fuerit et commensus ratiocinationibus explicati, tum etiam acuminis est proprium providere ad naturam loci aut usum aut speciem <et detractionibus aut> adiectionibus temperaturas efficere, cum de symmetria sit detractum aut adiectum, uti id videatur recte esse formatum in aspectuque nihil desideretur.
 
@@ -109,6 +210,9 @@ graeci dicunt.
 
 
 	
+Caput 3
+	
+
 
 1. Cava aedium quinque generibus sunt distincta, quorum ita figurae nominantur, tuscanicum, corinthium, tetrastylon, displuviatum, testudinatum. tuscanica sunt in quibus trabes in atrii latitudine traiectae habent interpensiva et collicias ab angulis parietum ad angulos tignorum intercurrentes, item asseribus stillicidiorum in medium compluvium deiectus. in corinthiis isdem rationibus trabes et compluvia conlocantur, sed a parietibus trabes recedentes in circumitione circa columnas componuntur. tetrastyla sunt quae subiectis sub trabibus angularibus columnis et utilitatem trabibus et firmitatem praestant, quod neque ipsae magnum impetum coguntur habere neque ab interpensivis onerantur.
 
@@ -157,6 +261,9 @@ graeci dicunt.
 
 
 	
+Caput 4
+	
+
 
 1. Nunc explicabimus quibus proprietatibus genera aedicifiorum ad usum et caeli regiones apte debeant spectare. hiberna triclinia et balnearia ad occidentem hibernum spectent, ideo quod vespertino lumine opus est uti, praeterea quod etiam sol occidens adversus habens splendorem, calorem remittens efficit vespertino tempore regionem tepidiorem. cubicula et bybliothecae ad orientem spectare debent, usus enim matutinum postulat lumen, item in bybliothecis libri non putrescent. nam quaecumque ad meridiem et occidentem spectant, ab tineis et umore libri vitiantur, quod venti umidi advenientes procreant eas et alunt infundentesque umidos spiritus pallore volumina corrumpunt.
 
@@ -169,6 +276,9 @@ graeci dicunt.
 
 
 	
+Caput 5
+	
+
 
 1. Cum ad regiones caeli ita ea fuerint disposita, tunc etiam animadvertendum est quibus rationibus privatis aedificiis propria loca patribus familiarum et quemadmodum communia cum extraneis aedificari debeant. namque ex his quae propria sunt, in ea non est potestas omnibus intro eundi nisi invitatis, quemadmodum sunt cubicula triclinia balineae ceteraque quae easdem habent usus rationes. communia autem sunt in quibus etiam invocati suo iure de populo possunt venire, id est vestibula cava aedium peristyla quaeque eundem habere possunt usum. igitur is qui communi sunt fortuna, non necessaria magnifica vestibula nec tabulina neque atria, quod magis aliis officia praestant ambiundo quam ab aliis ambiuntur.
 
@@ -185,6 +295,9 @@ graeci dicunt.
 
 
 	
+Caput 6
+	
+
 
 1. primum de salubritatibus, uti in primo volumine de moenibus conlocandis scriptum est, regiones aspiciantur et ita villae conlocentur. magnitudines earum ad modum agri copiasque fructuum comparentur. cohortes magnitudinesque earum ad pecorum numerum atque quot iuga boum opus fuerit ibi versari, ita finiantur. in cohorte culina quam calidissimo loco designetur, coniuncta autem habeat bubilia, quorum praesepia ad focum et orientis caeli regionem spectent, ideo quod boves lumen et ignem spectando horridi non fiunt. item agricolae regionum inperiti non putant oportere aliam regionem caeli boves spectare nisi ortum solis.
 
@@ -217,6 +330,9 @@ torquetur sed vectibus et prelo premitur, ne minus longum pedes XL constituatur,
 
 
 	
+Caput 7
+	
+
 
 1. Atriis Graeci quia non utuntur, neque aedificant, sed ab ianua introeuntibus itinera faciunt latitudinibus non spatiosis, et ex una parte equilia, ex altera ostiariis cellas, statimque ianuae interiores finiuntur. hic autem locus inter duas ianuas graece θυρωρειον appellatur. deinde est introitus in peristylon. id peristylon in tribus partibus habet porticus inque ea parte quae spectat ad meridiem duas antas inter se spatio amplo distantes in quibus trabes invehuntur, et quantum inter antas distat, ex eo tertia adempta spatium datur introrsus. hic locus apud nonnullos prostas, apud alios pastas nominatur.
 
@@ -249,6 +365,9 @@ torquetur sed vectibus et prelo premitur, ne minus longum pedes XL constituatur,
 
 
 	
+Caput 8
+	
+
 
 1. Aedificia quae plano pede instituuntur, si fundamenta eorum facta fuerint ita ut in prioribus libris de muro et theatris a nobis est expositum, ad vetustatem ea erunt sine dubitatione firma. sin autem hypogea concamarationesque instituentur, fundationes eorum fieri debent crassiores quam quae in superioribus aedificiis structurae sunt futurae, eorumque parietes pilae columnae ad perpendiculum inferiorum medio conlocentur, uti solido respondeant. nam si in pendentibus onera fuerint parietum aut columnarum, non poterunt habere perpetuam firmitatem.
 
@@ -290,3 +409,131 @@ torquetur sed vectibus et prelo premitur, ne minus longum pedes XL constituatur,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+V Kal. Iun. 00

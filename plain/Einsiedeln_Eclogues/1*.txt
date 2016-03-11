@@ -1,8 +1,257 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+
+Einsidlensibus Eclogis
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p324
+Incerti Carmina Bucolica
+	
+I
+	
+
+
+Thamyra:1 Ladas: Midaº
+
+
+
+
+
+
+
+Th.
+Te, formose Mida, iam dudum nostra requirunt
+	
+iurgia: da vacuam pueris certantibus aurem.
+
+	
+
+Mi.
+haud moror; et casti2 nemoris secreta voluptas
+	
+invitat calamos: imponite lusibus artem.
+
+	5
+
+Th.
+praemia si cessant, artis fiducia muta3 est.
+
+	
+
+La.
+sed nostram durare fidem duo pignora cogent:
+	
+vel caper ille, nota frontem qui pingitur alba,4
+
+vel levis haec et mobilibus5 circumdata bullis
+	
+fistula, silvicolae munus memorabile6 Fauni.
+
+	10
+
+Th.
+sive caprum mavis vel Fauni ponere munus,
+	
+elige utrum perdas; sed7 erit, puto, certius omen
+	
+fistula damnato iam nunc pro pignore dempta.8
+
+
+p326
+La.
+quid iuvat insanis lucem consumere verbis?
+	
+iudicis e gremio victoris gloria surgat.
+
+	15
+
+Th.
+praeda mea est, quia Caesareas me dicere laudes
+	
+mens iubet: huic semper debetur palma labori.
+
+	
+
+La.
+et mi sidereo cor movit9 Cynthius ore
+	
+laudatamque chelyn iussit variare canendo.
+
+	
+
+Mi.
+pergite, io pueri, promissum reddere carmen;
+	20
+sic vos cantantes10 deus adiuvet! incipe, Lada,
+	
+tu prior; alternus Thamyras imponet11 honorem.
+
+	
+
+La.
+maxime divorum caelique12 aeterna potestas,
+	
+seu tibi, Phoebe, placet temptare13 loquentia fila
+	
+et citharae modulis primordia iungere mundi14
+25
+carmine uti15 virgo furit et canit ore coacto,
+	
+fas mihi sit vidisse deos, fas prodere mundum:16
+
+seu caeli mens illa fuit seu solis imago,
+	
+dignus utroque17 <deo> stetit18 ostro clarus et auro
+	
+p328
+intonuitque manu. talis divina potestas
+	30
+quae genuit mundum septemque intexuit oris19
+
+artificis zonas et totas20 miscet amore.
+	
+talis Phoebus erat, cum laetus caede draconis
+	
+docta repercusso generavit carmina plectro:
+	
+caelestes ulli si sunt, hac voce loquuntur!
+	3521
+venerat ad modulos doctarum turba sororum. . . .22
+
+
+Th.
+huc huc, Pierides, volucri concedite saltu:
+	
+hic Heliconis opes florent, hic vester Apollo est!
+	
+tu quoque Troia sacros cineres ad sidera tolle
+	
+atque Agamemnoniis opus hoc ostende Mycenis!
+	40
+iam tanti cecidisse fuit! gaudete, ruinae,
+	
+et laudate rogos: vester vos tollit alumnus!
+	
+..............23
+
+<venerat en et Maeonides, cui>24 plurima barba
+	
+p330
+albaque caesaries pleno radiabat honore.
+	45
+ergo ut divinis implevit25 vocibus aures,
+	
+candida flaventi discinxit26 tempora vitta
+	
+Caesareumque caput merito velavit27 amictu.
+	
+haud procul Iliaco quondam non segnior ore
+	
+stabat et ipsa suas delebat Mantua cartas.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 Thamira E: Thamyra Hagen: cf. Thamyras, 21.
 
 
+❦
 
 2
 et casti Baehrens (cf. Tac. Germ. 40
@@ -10,129 +259,255 @@ et casti Baehrens (cf. Tac. Germ. 40
 castum nemus): et cusu E: et lusu Hagen: excusum Gundermann.
 
 
+❦
 
 3
 nulla Hagen, Ribbeck.
 
 
+❦
 
 4
 nota . . . alba Hagen: notam . . . albam E.
 
 
+❦
 
 5
 nobilibus E, corr. Hagen.
 
 
+❦
 
 6
 munus venerabile Baehrens munus et memorabile E.
 
 
+❦
 
 7
 set Baehrens: et E.
 
 
+❦
 
 8
 dempta Baehrens: empta est E.
 
 
+❦
 
 9
 mi s. cor movit (commovit olim) Baehrens: me s. corrumpit E, Giarratano.
 
 
+❦
 
 10
 cantantes E: certantes Baehrens.
 
 
+❦
 
 11
 imponit E: imponet Baehrens: imponat Hagen.
 
 
+❦
 
 12
 caelique Hagen: ceterique E.
 
 
+❦
 
 13
 temptare Peiper: emitare E.
 
 
+❦
 
 14
 versum qui est 24 in E post 31 traiecit Baehrens.
 
 
+❦
 
 15
 carmine uti Baehrens: carminibus E.
 
 
+❦
 
 16
 mundo Hagen, Baehrens: mundum E.
 
 
+❦
 
 17
 utraque Peiper.
 
 
+❦
 
 18
 post stetit, dux addidit Baehrens: deus Peiper: ante stetit, deo addidit Krickenberg: Nero Buecheler.
 
 
+❦
 
 19
 orbis Hagen: oris E.
 
 
+❦
 
 20
 totas Baehrens: toto E: totum Riese.
 
 
+❦
 
 21
 versum qui est 35 in E post 41 traiecit Baehrens.
 
 
+❦
 
 22
 sororum Hagen: sonarum E.
 
 
+❦
 
 23
 hic versus totus et 43 ex maiore parte desunt in E.
 
 
+❦
 
 24
 explevit Baehrens ut supra.
 
 
+❦
 
 25
 implentur . . . aurae Baehrens: implevit aures E.
 
 
+❦
 
 26
 discinxit Hagen: distinxit E.
 
 
+❦
 
 27
 velavit Peiper: celabit E.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Eclogarum
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVI Kal. Mart. 09

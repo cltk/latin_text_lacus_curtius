@@ -1,4 +1,129 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber VIII
+				
+
+
+
+
+
+Vol. IIp208
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Septimus
+	
+
+I.
+ 	
+
 1 Cum incognitis hominibus Orpheus sacrorum caerimonias <intimaret>, nihil aliud ab his quos initiabat in primo vestibulo nisi iurisiurandi necessitatem [et] cum terribili auctoritate religionis exegit, ne profanis auribus inventae ac conpositae religiones proderentur. Sed et †Platonici meum perpetuum a se eum frequenter convenit, nec secretarum disputationum veneranda commenta inperitis aliquando <auribus> intimari. Patiuntur enim haec omnia iacturam, cum perditis ac desperatis animis ingeruntur. [apud] Pythagoras etiam et noster Porphyrius religioso putant animum nostrum silentio consecrari. 2 Unde et ego horum virorum legem [in]secutus convenio te iureiurando, Mavorti decus nostrum, per fabricatorem mundi deum, qui omnia necessitate perpetuitatis excoluit, qui Solem formavit et Lunam, qui omnium siderum cursus ordinesque disposuit, qui maris fluctus intra certos
 
 
@@ -442,3 +567,122 @@ p280brevi tibi ratione monstrabo. Vide in quo signo sit Mercurius positus, et in
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

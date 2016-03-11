@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars I
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Alexander Severus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p142
+
+Antoninus Heliogabalus
+		
+(Pars II)
+	
+
 (18)4 De huius vita multa in litteras missa sunt obscena, quae quia digna memoratu non sunt, ea prodenda censui quae ad luxuriam pertinebant, quorum aliqua privatus, aliqua iam imperator fecisse perhibetur, cum ipse e privatis diceret se Apicium, imperatorum vero37 Othonem et Vitellium imitari. 19
 nam primus omnium privatorum toros aureis toralibus texit, quia tunc ex Antonini Marci auctoritate id fieri licebat, qui omnem apparatum imperatorium publice vendiderat. 2 deinde aestiva convivia coloribus exhibuit, ut hodie prasinum, vitreum alia die, venetum deinceps38 exhiberet, semper
 
@@ -166,188 +276,328 @@ Haec sunt de Heliogabalo, cuius vitam me invitum et retractantem ex Graecis Lati
 
 p176ut nihil de73 eorum virtute derogetur. 7 non enim ego id faciam quod plerique scriptores solent, ut de iis detraham qui victi sunt, cum intellegam gloriae tuae accedere, si omnia de illis, quae bona in se habuerint, vera praedicaro.º
 
+
+Apparatus Criticus:
+	
+
 37
 e priuatis . . . imperatorum uero Petschenig, Peter2; priuatus . . . imperatorem uero P.
 
 
+❦
 
 38
 et deinceps P.
 
 
+❦
 
 39
 officiorum Salm., Peter2; horum P.
 
 
+❦
 
 40
 urbis regiones Cas., Peter2; urbes lenones P.
 
 
+❦
 
 41
 et ut P.
 
 
+❦
 
 42
 lances ins. by Salm., om. in P1; ingentes dapes P corr.; magides Peter.
 
 
+❦
 
 43
 nascentis P.
 
 
+❦
 
 44
 absentato P, Peter.
 
 
+❦
 
 45
 ita ins. by Editor.
 
 
+❦
 
 46
 eas dimitteret Jordan; † eos demitteret P, Peter2.
 
 
+❦
 
 47
 lauit Peter; uiuit P.
 
 
+❦
 
 48
 ex uiuariis Edit. princ.; seuiuariti P.
 
 
+❦
 
 49
 So Hirschfeld, Peter2; Ixionios amicos P, Peter1.
 
 
+❦
 
 50
 in mimicis Scaliger, Peter; inimicis P.
 
 
+❦
 
 51
 exhiberi Petschenig; exhibere P, Peter.
 
 
+❦
 
 52
 uidit Peter2; sibi P, Peter1.
 
 
+❦
 
 53
 pyctas. frequenter strauit Peter2.
 
 
+❦
 
 54
 ad om. in P.
 
 
+❦
 
 55
 haberent ipsi Petschenig; haberet ipsis P, Peter.
 
 
+❦
 
 56
 cellario salarii annua Salm., Peter; cellarios salarii annua P.
 
 
+❦
 
 57
 idemque Peter; idque P.
 
 
+❦
 
 58
 amicos <admisit> cottidie Golisch; amicos cottidie P; amicis cottidie <aliquid dabat> Cas., Peter.
 
 
+❦
 
 59
 si ius Salm., Peter; sicus P.
 
 
+❦
 
 60
 pretia rerum P.
 
 
+❦
 
 61
 diaetis Lessing; zetis P; zaetis Peter.
 
 
+❦
 
 62
 et alia ins. by Cas. and Peter; om. in P.
 
 
+❦
 
 63
 diaetas Lessing; zetas P; zaetas Peter.
 
 
+❦
 
 64
 in P.
 
 
+❦
 
 65
 So P; accurabantur <loco> Cas., Peter.
 
 
+❦
 
 66
 nouaculam Gruter, von Winterfeld; nouaclum P, Peter.
 
 
+❦
 
 67
 So Madvig; conscidit uel lanam P; † uel lanam Peter2.
 
 
+❦
 
 68
 de om. in P.
 
 
+❦
 
 69
 So Bernhardy and Peter; nemo uir ep̃ P.
 
 
+❦
 
 70
 So Lectius and Peter; credidisse reficiendum P.
 
 
+❦
 
 71
 Licinius Seuerus Alexander P; S. A. del. by Mommsen and Peter.
 
 
+❦
 
 72
 uis P.
 
 
+❦
 
 73
 de om. in P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Feb. 05

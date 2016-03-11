@@ -1,10 +1,135 @@
 
+
+
+
+
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+This webpage reproduces
+				
+
+
+
+The Spanish War
+				
+
+by an unknown author, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+
+This page has not been proofread.
+				
+If you find a mistake though, 
+				
+
+please let me know!
+				
+
+
+
+
+p310
+Caesar
+	
+de Bello Hispaniensi
+	
+
+
+
+
+
+
+
+
 Thayer's Note: The map — a larger, fully readable version (836K) opens
 			
 in a separate window
 			
 — is from the end of the volume, where it is titled "Map 6". I've added the Google map of the area today; at a somewhat different scale, unavoidably.
 		
+
+
+
+
+
+
+
+JavaScript must be enabled in order for you to use Google Maps. It seems, though, that JavaScript is either disabled or not supported by your browser. To view Google Maps, enable JavaScript by changing your browser options, and then try again.
+			
+
+
+
+
 1
 Pharnace superato, Africa recepta, qui ex his proeliis cum adulescente Cn. Pompeio profugissent, cum . . . et ulterioris Hispaniae potitus esset, dum Caesar muneribus dandis in Italia detinetur, . . . quo facilius zzz
 
@@ -18,3 +143,140 @@ p366 vehementer esset periculosum. Quod cum a Caesare esset animadversum, ne qu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Bello Hispaniensi
+			
+
+
+
+
+Caesar
+			
+ 
+
+
+
+
+Roman Military History
+			
+
+
+
+
+Military
+			
+History
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+VI Id. Feb. 13

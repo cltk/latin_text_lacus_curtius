@@ -1,3 +1,127 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+M. Terenti Varronis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+
+
+
+
+
+M. Terenti Varronis
+	
+
+Rerum Rusticarum
+	
+
+Liber Primus
+	
 p160
 1
 
@@ -634,115 +758,141 @@ p302alia, quae servari possunt, ut tum vendas, cum caritas est. Saepe enim diuti
 
 
 	
+
+Adnotationes Editorum:
+	
+
 1
 dixisti Iucundus: dixi.
 
 
+❦
 
 2
 generalibus partibus Keil: generibus.
 
 
+❦
 
 3
 et quae Iucundus: et iterum quae Goetz: et alterum quae.
 
 
+❦
 
 4
 generis added by Keil.
 
 
+❦
 
 5
 Schneider: ardulatione.
 
 
+❦
 
 6
 Ea Iucundus: et a.
 
 
+❦
 
 7
 cinis Keil: ignis.
 
 
+❦
 
 8
 A word has been lost.
 
 
+❦
 
 9
 in tenui Keil: in iis.
 
 
+❦
 
 10
 item Keil: ita.
 
 
+❦
 
 11
 The text is corrupt. Pontedera suggests item ubi vasa vinaria et olearia esse possint, faciendum.
 
 
+❦
 
 12
 interdius, MSS.: interius Iucundus.
 
 
+❦
 
 13
 quaereret Iucundus: quaeret.
 
 
+❦
 
 14
 satione Schneider: sationis notis.
 
 
+❦
 
 15
 cogit Nonius: colit.
 
 
+❦
 
 16
 vici in vicinia Keil: viciniae.
 
 
+❦
 
 17
 requisitione Ursinus: requisito.
 
 
+❦
 
 18
 iis quam qui Keil: ii quam.
 
 
+❦
 
 19
 oportere Keil: oportet.
 
 
+❦
 
 20
 mancipia se Keil: mancipia quae solent se.
 
 
+❦
 
 21
 cibi Victorius: ibi.
 
 
+❦
 
 22
 minus Keil: dominus.
 
 
+❦
 
 23
 The lacuna might be supplied from
@@ -750,74 +900,200 @@ The lacuna might be supplied from
 Cato, 6.3‑4, which see.
 
 
+❦
 
 24
 arbusta, stercorari added by Keil.
 
 
+❦
 
 25
 id est added by Keil.
 
 
+❦
 
 26
 Hi sunt enim Keil: is enim.
 
 
+❦
 
 27
 Farrago added by Goetz.
 
 
+❦
 
 28
 quae Keil: quod.
 
 
+❦
 
 29
 iacias Keil: iactas.
 
 
+❦
 
 30
 propensa Schöll; propterea.
 
 
+❦
 
 31
 The text is corrupt. Victorius conj. teguuntur, Jackson tinguntur, Scaliger restinguntur, Pontedera stringuntur, Schneider cingunter, and Pontedera and Schneider read in the preceding line quam quae supra adolescunt. Varro is translating Theophrastus, Caus. Plant., I.12.7: "because the upper parts are checked by the surrounding air, which is chillier."
 
 
+❦
 
 32
 deligatis Iucundus, Schneider: deligata.
 
 
+❦
 
 33
 post Goetz: prius.
 
 
+❦
 
 34
 quod in infima Iucundus: quod in firma.
 
 
+❦
 
 35
 si sit added by Gesner.
 
 
+❦
 
 36
 discutit Keil: aut discutit (discunt, A) MSS.: ut discutiat Iucundus, Schneider.
 
 
+❦
 
 37
 accesserit annus Iucundus: accesserunt.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Re Rustica
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+Id. Nov. 07

@@ -1,61 +1,490 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p456
+Nemesiani
+	
+Ecloga I
+	
+
+
+Timetas: Tityrus
+	
+
+
+
+
+
+Tim.
+
+Dum fiscella tibi fluviali, Tityre, iunco
+	
+texitur et raucis immunia rura cicadis,
+	
+incipe, si quod habes gracili sub harundine carmen
+	
+compositum. nam te calamos inflare labello
+	5
+Pan docuit versuque bonus tibi favit Apollo.
+	
+incipe, dum salices haedi, dum gramina vaccae
+	
+detondent, viridique greges permittere campo
+	
+dum ros et primis suadet clementia solis.
+
+	
+Tit.
+
+hos annos canamque comam, vicine Timeta,
+	10
+tu iuvenis carusque deis in carmina cogis?
+	
+diximus et calamis versus1 cantavimus olim,
+	
+dum secura hilares aetas ludebat amores.
+	
+nunc album caput et veneres tepuere sub annis,
+	
+iam mea ruricolae dependet fistula Fauno.
+	15
+te nunc rura sonant; nuper nam carmine victor
+	
+risisti calamos et dissona flamina Mopsi
+	
+p458
+iudice me. mecum senior Meliboeus utrumque
+	
+audierat laudesque tuas sublime ferebat;
+	
+quem nunc emeritae permensum tempora vitae
+	20
+secreti pars orbis habet mundusque piorum.
+	
+quare age, si qua tibi Meliboei gratia vivit,
+	
+dicat honoratos praedulcis tibia manes.
+
+	
+Tim.
+
+et parere decet iussis et grata iubentur.
+	
+namque fuit dignus senior, quem carmine Phoebus
+	25
+Pan calamis, fidibus Linus aut Oeagrius Orpheus
+	
+concinerent totque acta viri laudesque sonarent.
+	
+sed quia tu nostrae laudem deposcis avenae,
+	
+accipe quae super haec cerasus, quam cernis ad amnem,
+	
+continet, inciso servans mea carmina libro.
+
+	30
+
+dic age; sed nobis ne vento garrula pinus
+	
+obstrepat, has ulmos potius fagosque petamus.
+
+	
+Tim.
+
+hic cantare libet; virides nam subicit herbas
+	
+mollis ager lateque tacet nemus omne: quieti
+	
+adspice ut ecce procul decerpant gramina tauri.
+	35
+omniparens aether et rerum causa, liquores,
+	
+corporis et genetrix tellus, vitalis et aer,
+	
+accipite hos cantus2 atque haec nostro Meliboeo
+	
+mittite, si sentire datur post fata quietis.
+	
+nam si sublimes animae caelestia templa
+	40
+sidereasque colunt sedes mundoque fruuntur,
+	
+tu nostros adverte modos, quos ipse benigno
+	
+p460
+pectore fovisti, quos tu, Meliboee, probasti.
+	
+longa tibi cunctisque diu spectata senectus
+	
+felicesque anni nostrique novissimus aevi
+	45
+circulus innocuae clauserunt tempora vitae.
+	
+nec minus hinc nobis gemitus lacrimaeque fuere
+	
+quam si florentes mors invida carperet3 annos;
+	
+nec tenuit tales communis causa querellas.
+	
+"heu, Meliboee, iaces mortali4 frigore segnis
+	50
+lege hominum, caelo dignus canente5 senecta
+	
+concilioque deum. plenum tibi ponderis aequi
+	
+pectus erat. tu ruricolum discernere lites
+	
+adsueras, varias patiens6 mulcendo querellas.
+	
+sub te iuris7 amor, sub te reverentia iusti
+	55
+floruit, ambiguos signavit terminus agros.
+	
+blanda tibi vultu gravitas et mite serena
+	
+fronte supercilium, sed pectus mitius ore.
+	
+tu calamos aptare labris et iungere cera
+	
+hortatus duras docuisti fallere curas;
+	60
+nec segnem passus nobis marcere iuventam
+	
+saepe dabas meritae non vilia praemia Musae.
+	
+p462
+saepe etiam senior, ne nos cantare pigeret,
+	
+laetus Phoebea dixisti carmen avena.
+	
+felix o Meliboee, vale! tibi frondis odorae
+	65
+munera dat lauros carpens ruralis Apollo;
+	
+dant Fauni, quod quisque valet, de vite racemos,
+	
+de messi8 culmos omnique ex arbore fruges;
+	
+dat grandaeva Pales spumantia cymbia lacte,
+	
+mella ferunt Nymphae, pictas dat Flora coronas:
+	70
+manibus hic supremus honos. dant carmina Musae,
+	
+carmina dant Musae, nos et modulamur avena:
+	
+silvestris te nunc platanus, Meliboee, susurrat,
+	
+te pinus; reboat9 te quicquid carminis Echo
+	
+respondet silvae; te nostra armenta10 loquuntur.
+	75
+namque prius siccis phocae pascentur in arvis
+	
+hirsutusque11 freto vivet leo, dulcia mella
+	
+sudabunt taxi, confusis legibus anni
+	
+messem tristis hiemps, aestas tractabit12 olivam,
+	
+ante dabit flores autumnus, ver dabit uvas,
+	80
+quam taceat, Meliboee, tuas mea fistula laudes."
+
+	
+Tit.
+
+perge, puer, coeptumque tibi ne desere carmen.
+	
+nam sic dulce sonas, ut te placatus Apollo
+	
+provehat et felix dominam perducat in urbem.
+	
+iamque hic in silvis praesens tibi fama benignum
+	85
+stravit iter, rumpens livoris nubila pennis.
+
+	
+p464
+
+sed iam sol demittit equos de culmine mundi,
+	
+flumineos suadens gregibus praebere liquores.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 et calamis versus V nonnulli: et calamis et versu NGA: et calamis et versum aptavimus Baehrens.
 
 
+❦
 
 2
 hos cantus N: hos calamos V, Baehrens.
 
 
+❦
 
 3
 pelleret V: carperet NGA: velleret Glaeser: tolleret Heinsius: perderet Burman.
 
 
+❦
 
 4
 mortali NG: letali V, Baehrens.
 
 
+❦
 
 5
 canente codd.: callente Baehrens.
 
 
+❦
 
 6
 patiens codd.: pacans Maehly, Baehrens, H. Schenkl, Giarratano: sapiens Burman.
 
 
+❦
 
 7
 ruris N2GV: iuris N1, Martellius. iusti V, N (in margine): iuris G (corr. ex ruris), N (corr. ex viris).
 
 
+❦
 
 8
 messi Maehly: messe NGA: campo V: messo Burman.
 
 
+❦
 
 9
 reboant . . . silvae (nom. plur.) Baehrens.
 
 
+❦
 
 10
 armenta codd.: arbusta Haupt, Baehrens.
 
 
+❦
 
 11
 hirsutusque V nonnulli: vestitusque NG V plerique: insuetusque Heinsius: villosusque C. Schenkl.
 
 
+❦
 
 12
 tractabit GV: tractavit N: iactabit Burman: praestabit Haupt, Baehrens.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVIII Kal. Oct. 07

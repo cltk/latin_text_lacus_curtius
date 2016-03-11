@@ -1,4 +1,97 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VI
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VIII
+				
+
+
+
+
+
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber VII
+	
+p148
+Caput I
+	
+
 1 Philotan sicut recentibus sceleris eius vestigiis iure adfectum supplicio censuerant milites, ita, postquam desierat esse, quem odissent, invidia in misericordiam vertit.
 2 Moverat et claritas iuvenis et patris eius senectus atque orbitas.
 3 Primus Asiam aperuerat regi: omnium periculorum eius particeps semper alterum in acie cornu defenderat, Philippo quoque ante omnes amicus et ipsi Alexandro tam fidus, ut occidendi Attalum non alio ministro uti mallet.
@@ -71,6 +164,9 @@ ut alienos equos pugnaturis distribuat. Huc enim malorum ventum est, ut verba me
 
 
 p153
+
+Caput II
+	
 
 1 Dum haec Amyntas agit, forte supervenerunt, qui fratrem eius Polemonem, de quo ante est dictum, fugientem consecuti vinctum reducebant. Infesta contio vix inhiberi potuit, quin protinus suo more saxa in eum iaceret.
 2 Atque ille sane interritus, 'Nihil', inquit, 'pro me deprecor, modo ne fratrum innocentiae fuga imputetur mea. Haec si defendi non potest, meum crimen sit. Horum ob id ipsum melior est causa, quod ego, qui profugi, suspectus sum'.
@@ -150,6 +246,9 @@ inritati erant — sicut omnia alia felicitas regis excepit: nihil illis ad bell
 
 p157
 
+Caput III
+	
+
 1 His ita conpositis Alexander Arsame Ariorumº
 satrape constituto iter pronuntiari iubet in Arimaspos,º
 quos iam tunc mutato nomine Euergetas appellabant, ex quo frigore victusque penuria Cyri exercitum adfectum tectis et commeatibus iuverant.º
@@ -205,6 +304,9 @@ praeterea militibus, quorum opera uti desisset, permissum in novam urbem conside
 
 
 	
+Caput IV
+	
+
 1 At Bessus Alexandri celeritate perterritus dis patriis sacrificio rite facto, sicut illis gentibus mos est, cum amicis ducibusque copiarum inter epulas de bello consultabat.
 2 Graves mero suas vires extollere, hostium nunc temeritatem, nunc paucitatem spernere incipiunt.
 3 Praecipue Bessus, ferox verbis et parto per scelus regno superbus ac vix potens mentis, dicere orditur: 'Socordia Darei crevisse hostium famam.
@@ -286,6 +388,9 @@ belli decus, praeferens occurrit.
 
 
 	
+Caput V
+	
+
 1 Igitur Bactrianorum regione Artabazo tradita sarcinas et inpedimenta ibi cum praesidio relinquit. Ipse cum expedito agmine loca deserta Sogdianorum intrat, nocturno itinere exercitum ducens.
 2 Aquarum, ut ante dictum est, penuria prius desperatione quam desiderio bibendi sitim accendit. Per CCCC stadia ne modicus quidem humor existit.
 3 Harenas vapor aestivi solis accendit: quae ubi flagrare coeperunt, haud secus quam continenti incendio cuncta torrentur.
@@ -371,6 +476,9 @@ tam celebri usu, minus admirabilis videri ars haec possit: tum ingens visentibus
 
 
 	
+Caput VI
+	
+
 1 Interea Macedones ad petendum pabulum inconposito agmine egressi a barbaris, qui de proximis montibus decurrerunt, opprimuntur pluresque capti sunt quam occisi:
 2 barbari autem captivos prae se agentes rursus in montem recesserunt. XX milia latronum erant: fundis sagittisque pugnam invadunt.
 3 Quos dum obsidet rex, inter promptissimos dimicans sagitta ictus est, quae in medio crure fixa reliquerat spiculum.
@@ -429,6 +537,9 @@ ingemuit.
 castris, muro circumdedit. LX stadiorum urbis murus fuit: hanc quoque urbem Alexandriam appellari iussit.
 26 Opus tanta celeritate perfectum est, ut XVII die, quam munimenta excitata erant, tecta quoque urbis absolverentur. Ingens militum certamen inter ipsos fuerat, ut suum quisque munus — nam divisum erat — primus ostenderet.
 27 Incolae novae urbi dati captivi, quos reddito pretio dominis liberavit, quorum posteri nunc quoque apud eos tam longa aetate propter memoriam Alexandri non exoleverunt.º
+
+Caput VII
+	
 
 1 At rex Scytharum, cuius tum ultra Tanaim imperium erat, ratus eam urbem, quam in ripa amnis Macedones condiderant, suis inpositam esse cervicibus, fratrem, Carthasim nomine, cum magna equitum manu misit ad diruendam eam proculque amne submovendas Macedonum copias.
 2 Bactrianos Tanais ab Scythis, quos Europaeos vocant, dividit. Idem Asiam et Europam finis interfluit.
@@ -501,6 +612,9 @@ p174terram.
 
 
 	
+Caput VIII
+	
+
 1 Ceterum cum animo disparem vultum diutius ferre non posset, in tabernaculum super ripam fluminis de industria locatum secessit.
 2 Ibi sine arbitris singula animi consulta pensando noctem vigiliis extraxit saepe pellibus tabernaculi adlevatis, ut conspiceret hostium ignes, e quibus coniectare poterat, quanta hominum multitudo esset.
 3 Iamque lux adpetebat, cum thoracem indutus procedit ad milites, tum primum post vulnus proxime acceptum.
@@ -559,6 +673,9 @@ Thraciae Macedoniam coniunctam esse fama fert. Utrique imperio tuo finitimos hos
 
 
 	
+Caput IX
+	
+
 1 Contra rex fortuna sua et consiliis eorum se usurum esse respondet: nam et fortunam, cui confidat, et consilium suadentium, ne quid temere et audacter faciat, secuturum.
 2 Dimissisque legatis in praeparatas rates exercitum inposuit. In proris clipeatos locaverat iussos in genua subsidere, quo tutiores essent adversus ictus sagittarum.
 3 Post hos, qui tormenta intenderent, stabant et ab utroque latere et a fronte circumdati armatis. Reliqui, qui postº
@@ -602,6 +719,9 @@ Spitamenes conperto eius adventu Bactra perfugerat.
 
 
 	
+Caput X
+	
+
 1 Sogdiana regio maiore ex parte deserta est: octingenta fere stadia in latitudinem vastae solitudines tenent.
 2 Ingens spatium rectae regionis est, per quam amnis — Polytimetum vocant incolae — fertur. Torrentem eum ripae in tenuem alveum cogunt, deinde caverna accipit et sub terram rapit.
 3 Cursus absconditi indicium est aquae meantis sonus, cum ipsum solum, sub quo tantus amnis fluit, ne modico quidem resudet humore.
@@ -638,6 +758,9 @@ distabant, ne procul repetendum esset mutuum auxilium.
 
 
 	
+Caput XI
+	
+
 1 Et cetera quidem pacaverat rex. Una erat petra, quam Arimazes Sogdianus XXX milibus armatorum
 
 
@@ -692,11 +815,18 @@ se condicionem deditionis accipere respondit.
 
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 ab imo:
 	
 primo. Madvigius Adv. lat. II.533 defendit a primo = ab initio (Cic. finn. 3.32); Hedickius: crudo latere (cf. 8.10.25)
 
 
+❦
 
 
 contrahant — iussit:
@@ -704,17 +834,134 @@ contrahant — iussit:
 Addidi cum Halmio, ita tamen pro 'creent', quod alienum mihi esse videbatur a Curtii usu, substituerem 'contrahant'
 
 
+❦
 
 
 Maracanda:
 	
 marupenta (to which Vogel adds this further footnote:) In propriis quae dicuntur nominibus quam foedos errores saepe librarii admisissent, satis habui in singula fere capita uno alterove exemplo docuisse.
+❦
 
 
 in obsidione reliquit:º
 in obsidionem iungit. Proxima verba (ipse — Craterum) cum Zumptio inserui. Totus locus corruptus est.
+❦
 
 
 quietus quam par est:
 	
 (qui FP) sepius quam potest denuntio (denuntiat P). Neque tamen placet recepta lectio. Mihi totus locus corruptus, scripsisse autem Curtius videtur: 'timor autem saepius quam prodest dira (trstia?) denuntiat' vel simile quiddam
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus Romani
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Id. Dec. 03
