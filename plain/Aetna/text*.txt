@@ -1,0 +1,1672 @@
+
+5
+illa SAR om. H: ila C: Hyla Munro.
+
+
+
+6
+dodona CSH2A: do bona H1: do dodona R: Dodone Ald. 1517, Vollmer: Ladonis Munro, Ellis.
+
+
+
+10
+lactaret CS.
+
+
+
+14
+pingui codd.: pinguis H2.
+
+
+
+15
+cum V: tum ceteri codd.: securos omnis aleret cum gratia ruris Baehrens: secretos amnis ageret cum gratia ruris Vollmer.
+
+
+
+19
+matrem H2AR: mentem CSH1: mensam Schwartz.
+
+
+
+20
+semine codd.: semina Scaliger.
+
+
+
+25
+qui tanto CSH1: quis tantos H2AR. operi CS: operit H: reperit AR. vis quanta Ellis. qu(a)e CSH: quis A: quamvis R. tanta codd.: causa Ald. 1517.
+
+
+
+39
+flumen CSH1: fulmen H2AR.
+
+
+
+49
+creat codd.: ciet De Gubernatis (Paravia ed.): gravat Jacob: omerat Baehrens: terit  Ald. 1517.
+
+
+
+52
+infestus CS: infensus AR: inde Iris . . . convocat Baehrens (an illustration of his arbitrary changes).
+
+
+
+53
+admotisque tertia C: admotis ad territa sidera signis Haupt: admotisque terit iam sidera signis Sudhaus: admotis per inertia Ellis.
+
+
+
+54
+e caelo codd.: et caelo Bormans, Sudhaus, Vollmer.
+
+
+
+58
+discordes comitum codd.: discordi sonitum Jacob, Ellis.
+
+
+
+59
+flumina CS: fulmina Z, Munro, Ellis.
+
+
+
+62
+s(a)evus CSHA: scaevus R: laevus Bormans.
+
+
+
+63
+stant CSH1A: stat H2R. utrimque CS: utrumque Z. deus CZ: de . . S: tuens Baehrens, Vessereau: verens Ellis: stant ut cuique decus  Unger.
+
+
+
+64
+victo CSH1: vinctos H2: victor AR: iacto ed. Ascens. 1507.
+
+
+
+66
+infert(a)e S: infest(a)e Z: infert edivis (sic) C.
+
+
+
+69
+tum liber codd.; tunc imber Vollmer. cessat CS: c(a)essa H1A: cressa H2: celsa R: tum nimbo cessante nitet Baehrens: Liber cessata Ellis, Vessereau: cessat: lenit per sidera caelum De Gubernatis (Paravia ed.).
+
+
+
+73
+petulans Z: petula in se CS: patulis edd. ant., Baehrens.
+
+
+
+79
+canentes codd.: canesque Scaliger.
+
+
+
+81
+p(o)ena CSAR: cena Baehrens, Ellis.
+
+
+
+84
+quicquid interius codd.: in terris Baehrens. sibi conscia CS: consortia Z. terrent codd.: texent De Gubernatis (Paravia ed.): terra est Ald. 1517: quidquid et infernist, falsi consortia adhaerent Ellis.
+
+
+
+88
+peccent codd.: peccet Schrader.
+
+
+
+96
+non totum et solido desunt namque omnis hiatu CS: solidum . . . hiatus R: non totum ex solido est, ducit namque omnis hiatum Ellis: non totum et solido densum est Vollmer: solidum et densum Gercke.
+
+
+
+100
+idem codd.: eidem Ellis.
+
+
+
+107
+vacat acta CS: vacuata Ald. 1517: vacefacta Buecheler (cf. Lucret. VI.1005, multusque văcēfit). charibdis C: carinis corr. in charims S: carambos V.
+
+
+
+108
+simili codd.: similis Ellis. futur(a)e codd.: futura est Vollmer: figura Ald. 1517: figurae Ellis.
+
+
+
+112
+nympha CS: lympha Z. perenni codd.: perennis Ellis.
+
+
+
+114
+videre codd.: exedere Ald. 1517: vicere Sevin: rupere Jacob: fudere Munro: solvere Birt.
+
+
+
+116
+dolendi codd.: docendi Ald. 1517: docenda Clericus: docendi, dum stet opus, causas Munro.
+
+
+
+117
+credit CS: credat Ald. 1517. (In 118‑122 textual difficulties have possibly been increased by the loss of a line after 119: Munro and Ellis mark a lacuna.)
+
+
+
+119
+torrens Z: torres (n superscribed) C: totiens Haupt. uno CSZ: imo V, Haupt.
+
+
+
+120
+non Z: nam CS. vocemque codd.: vacuoque Scaliger: quocumque Sudhaus: nam mille ex tenui vocuoque (sic) agitata Munro: non ille ex tenui violens veget; arta Ellis.
+
+
+
+121
+cum fluvio C: cum fluvia S: confluit AR: confluvia H1, and modern editors.
+
+
+
+122
+et trahat CSH: extrahat AR: ut trahat Munro.
+
+
+
+128
+si codd.: ni Jacob: nisi Vollmer.
+
+
+
+129
+fluvium CS: fluminum Z: fluviorum Ald. 1517: fluviis Birt: fluvio Baehrens. aut CSHA: haud Clericus: et det Baehrens: det Ellis.
+
+
+
+131
+conserta codd.: conferta Ald. 1517.
+
+
+
+133
+si qua etiam CSR: si quae etiam V:et iam Scaliger: si quaedam Munro.
+
+
+
+138
+densaque . . . nocte G.
+
+
+
+139
+Vollmer punctuates after procul.
+
+
+
+140
+spatioque codd.: spatiosa Ald. 1517.
+
+
+
+141
+demissa pedibus CZ: dimiss apedibus (sic) S: demersas penitus G.
+
+
+
+142
+Munro and Ellis mark a lacuna after this line. operum CSZ: aer Jacob. effluit intra CSZ: effugit ultra G.
+
+
+
+145
+occultamque codd.: occultique Baehrens.
+
+
+
+148
+movent CSH: movet AR: novent Ellis.
+
+
+
+151
+verrit CS: ruit G.
+
+
+
+152
+causa est CSH1: causa (om. est) AR: massa est Munro: caula est Clericus: crusta est Haupt: secant quae causa tenerrima caussa est G (faulty enough to justify Ellis' remark "the fondest admirer of Gyr. will not claim much for it here.")
+
+
+
+158
+subitis G: summis CSZ. concrescere G: concredere CS: concedere Ellis.
+
+
+
+159
+et subitis G: et summis CSZ: adsumptis Ellis: ex subitis alimenti incursibus Unger. oris CSZ: ora? G, Munro.
+
+
+
+160
+qu(a)e CSZ: qua Ellis. patula G: valida CSZ. vastosque G: validosque CSAR: validosaque H.
+
+
+
+161
+falleris et G: fallere sed CSZ. certo tibi lumine res est G: tibi lumine certaque retro CSZ: tibi lumine certa liquet res Ellis.
+
+
+
+162
+illis G: illic H2: illuc CSH1: illud AR. quaecumque G: quodcunque CSARH2: quocumque H1. vacant hiatibus G: vacat hiat impetus CS: vagantur hiatibus Baehrens: vacans hiat, impetus Ellis.
+
+
+
+163
+et CSZ: set Ellis: at Vessereau.
+
+
+
+164
+conceptae G: conversae CSZ: conruptae Baehrens.
+
+
+
+165
+qui teneat G: contineat CZ: quod teneat Haupt. ventosa qua quaeque CS: ventos aquasque (? qua quasque) G: ventos acuatque Munro.
+
+
+
+166
+defit G: desint CSHA: desinit R: desit Ellis.
+
+
+
+168
+turbanti G: turbant in CSH: turbare R, Ellis. illos CSZ: illo G.
+
+
+
+171
+quassa meatu Wernsdorf, Maehly: quassa boatu Unger.
+
+
+
+175
+imo G: primo CZ: imo Matthiae.
+
+
+
+176‑177
+Punctuation varies according as stop is placed after venas, Aetna or sui.
+
+
+
+178
+caulas Baehrens.
+
+
+
+180
+spiracula Baehrens.
+
+
+
+182
+porrigit G: corrigit CZ. artus GCZ: artos Maehly. exaestuat G: quos exigit CS.
+
+
+
+183
+spissae CZ: scissae G.
+
+
+
+184
+aliae G: varies CH1: varios H2AR: varie Ellis.
+
+
+
+186
+aetne C: aethne S: ethnae R. The line is repeated after 195 in CSZ.
+
+
+
+187
+This is the order in G: CSZ omit 188.
+
+
+
+190
+parvi aut tenuis discriminis ignes CSZ (ingens Ellis): parvo aut tenui discrimine signis G (signes Heinsius).
+
+
+
+191
+ponent tibi Z: ibi S: ponentibus C. vera CSZ: veram Munro. exiguum venient tibi pignora tempus G.
+
+
+
+192
+oculique docent CZ: oculos ducent G. cogunt CSAR: cogent GH1.
+
+
+
+193
+moneant AV: moneat  CS: moneam G (?), Munro, Ellis.
+
+
+
+195
+operum C: operi G.
+
+
+
+197
+torqueat CSZ: torreat G.
+
+
+
+199
+exutae CZ: exhaustae G: exustae ed. Ascens. 1507. glomeratur CHAV: glomerantur SR: glomeratim G: glomeranter Ellis.
+
+
+
+206
+tantum premit CSZ: tremit G: tacitus tremit Baehrens, Ellis.
+
+
+
+208
+veniunt G: faciunt CSZ.
+
+
+
+211
+collecta G: coniecta CSZ.
+
+
+
+212
+expectata CSZ: expectanda G. ruunt CZ: terunt G. montis Z: mortis C (Ellis cites montis in error, Proleg. lxxviii).
+
+
+
+213
+inflat iis Maehly. momen Scaliger.
+
+
+
+214
+par est CZ: pars est G: per se est Wagler.
+
+
+
+217
+audit CSHR2: audis AR1: audet G.
+
+
+
+221
+cum CSZ: cur G. cohibetur inest CSZ: cohibent iners G: cohibent vires Heinsius. silenti CSZ: silendi G.
+
+
+
+223
+laborantis Exc., CSZ: laboratis G.
+
+
+
+227
+sic G: sacra per ingentem capitique attollere caelum CSZ.
+
+
+
+228
+natalia Exc., CS: fatalia G.
+
+
+
+232
+pervolet Exc., CSZ: pervolat G. Ellis inserts ut.
+
+
+
+233
+movet GHR: monet CSA: meet Exc.
+
+
+
+234
+suos servent G: suo errrant CSZ: suo derrent Ellis. motus G: cura CSAR: gyris Haupt: gyro Schrader: guro (? circo) Ellis.
+
+
+
+236
+omitted in all MSS. except G.
+
+
+
+237
+caelo terris Exc., CSZ: Panope caelo G: Phatne caelo Matthiae.
+
+
+
+245
+tendant Exc., CSAR: pandant G.
+
+
+
+247
+volet Exc., CSZ: vocet G. setius CS: secius H: serus AR: Sirius Ald. 1517. incubet Exc., CSAR: excubet G.
+
+
+
+249
+digesta Exc., CSZ: disiecta Ellis: congesta G.
+
+
+
+252
+hominis Z (? S): dominis C: omni G.
+
+
+
+253
+et qu(a)e nunc CSH: et quae tot Pithou: quaeque in ea G.
+
+
+
+254
+magna CSZ: magis G.
+
+
+
+255
+mortalis spes est quaeve CSH: mortali cuiquam est G.
+
+
+
+256
+velle CSZ: divos G.
+
+
+
+258
+premimurque Exc., CSZ: terimurque G.
+
+
+
+263
+viles taceant CSZ: tum demum humilesque iacent (unmetrical) G: vilesque iacent Mahely: vilesque tacent Wight Duff.
+
+
+
+265
+expendimus usum G: expellimur usu Exc., CSZ: expendimur usu Schwartz.
+
+
+
+267
+platanis Exc., CSZ: plantis G.
+
+
+
+268
+dura et Exc.: duro G: diviti CSZ.
+
+
+
+273
+avidi GCS: avidis Matthiae. qua visum est CSZ: quovis est G. ipsis G: istis CSZ: itis Ellis: sic avidi semper quaestus: est carius istis Unger.
+
+
+
+277
+multos CS: multo Z: mutos Scaliger: multum G: mutum Haupt: motum Postgate.
+
+
+
+281
+impediat CSZ: intendat G. illos C: ignes GH2: ignis AR.
+
+
+
+282
+multo codd.: muto Oudin (who also suggested inulto): iuncto Mencken, Vollmer: nullo Unger.
+
+
+
+283
+concrescant GCSZ: cur crescant Scaliger, Pithou. forte CSZ: porta G.
+
+
+
+284
+servent GCZ: fervent S: sorbent Sudhaus.
+
+
+
+285
+tenues G: neve CSZ: nivis in sese Ellis.
+
+
+
+286
+surgens G: surgit CSZ.
+
+
+
+291
+forte codd.: fortes Ellis.
+
+
+
+292
+una CSZ: ima Birt: unda Scaliger, Pithou.
+
+
+
+293
+torrentes codd.: torpentes De Rooy, Munro, Ellis.
+
+
+
+294
+ora diu H: ore diu AR: ora duc C: hora duci Munro: hora deo Maehly: hora deis Alzinger: hora die Haupt: sonituro horam Schwartz: urna ciens Tritona canorum Ellis. tritone CH: tritona AR. canoro Z: cancro C.
+
+
+
+304
+cremant CSZ: premunt Gronov: premant Baehrens.
+
+
+
+306
+nomina CSZ: momine Gronov: agmina Sudhaus. tota CSZ: torta Jacob.
+
+
+
+310
+provehere CSH: proruere Ald. 1517.
+
+
+
+312
+effundere CSZ: se effundere Baehrens.
+
+
+
+316
+fortis CSZ: fontis V.
+
+
+
+317
+rerum CZ: rorum Jacob.
+
+
+
+319
+coactus C: coactu Ellis.
+
+
+
+326
+ardentes CSZ: artantes Jacob. vires CZ: venas Ald. 1517: fauces Sudhaus: gyros Ellis.
+
+
+
+341
+(a)ethnae AR: aethna C: etna H (? ablative).
+
+
+
+342
+inprospectus CSZ: introspectus Schrader.
+
+
+
+344
+huincº C: huicne Ellis: hinc Scaliger, Baehrens.
+
+
+
+345
+notat CSZ: rotat Jacob.
+
+
+
+347
+declivia CZ: declinia Ellis. All lines after 346 are missing in S.
+
+
+
+348
+diripiant CHA: diripiat R: deripiat Clericus. absolveret CZ: absolverit Scaliger. arcu CZ: aestu vel actu Wernsdorf.
+
+
+
+351
+nec levitas tantos CZ: nec levis astantes Ellis (in note).
+
+
+
+354
+Ellis marks a lacuna after this line.
+
+
+
+356
+humus excita praedas C: exit humus apredas H: exit humor † ap̃ndas AR: placidissimus excit apludas Ellis.
+
+
+❦
+
+357
+adoratis CAR: odoratus H: odoratis Scaliger.
+
+
+❦
+
+370
+animi CZ: animo Ald. 1517.
+
+
+❦
+
+377
+et scisso C: et spisso Jacob. pr(a)estat CZ: pressat Baehrens.
+
+
+❦
+
+378
+haud similis teneros cursu CV: haud simili strepere hos cursu Munro: aut simili tenet occursu Ellis.
+
+
+❦
+
+380
+conticuere CAR: convaluere mora, velocius Morel.
+
+
+❦
+
+385
+si CZ: sic Maehly.
+
+
+❦
+
+395
+eripiantur CH: eripiant AR: excipiantur Vollmer: crispantur Ellis: testantur Maehly: evincant tibi Morel in supplem. novae editionis.
+
+
+❦
+
+401
+est si C: est sic R: est: is Munro.
+
+
+❦
+
+408
+coritur C: cogitur V, Munro.
+
+
+❦
+
+411
+tutum CZ: tanta Scaliger: bruta Ellis.
+
+
+❦
+
+413
+cardo C: tardans AR: tarde H: carbo Ellis.
+
+
+❦
+
+418
+lapidum CZ: lapidis De Rooy.
+
+
+❦
+
+425
+iacet Z: iacit C. delapsus CZ: dilapsus Scaliger.
+
+
+❦
+
+429
+et languit CH: elanguit Jacob.
+
+
+❦
+
+433
+pinguescat et CH: pingui scatet Ellis.
+
+
+❦
+
+440
+durata CZ: durat adhuc Scaliger: durat et a Vollmer.
+
+
+❦
+
+444
+Aetnaei codd.: Aetnaeo Ellis. illi CZ: igni Haupt.
+
+
+❦
+
+458
+in Vollmer: om. CZ. facie que (sic) C: scate quod AR: scaterest Ellis.
+
+
+❦
+
+459
+restat codd.: res stat Wight Duff.
+
+
+❦
+
+462
+minatus C: minatur Ulitius.
+
+
+❦
+
+463
+exemploque C: extemploque Z. ictaque ramis CZ: actaque rima Clericus: undique rimans Vessereau.
+
+
+❦
+
+466
+parere CHR: par rere A. e Scaliger: et CZ. collis CZ: colli ed. Ascens. 1507.
+
+
+❦
+
+469
+atque atra codd.: adque astra Ellis. sonant codd.: rotant Wight Duff: volant De Rooy.
+
+
+❦
+
+471
+stanti C: stantis Munro.
+
+
+❦
+
+472
+hinc defensus C: hinc indefessus Ellis.
+
+
+❦
+
+477
+sopita es CH1: s. est H2AR: sopito Maehly.
+
+
+❦
+
+486
+primis Z: prunis C: pronis Munro.
+
+
+❦
+
+488
+curtis CH: certis Wernsdorf.
+
+
+❦
+
+489
+frustra moles CHA: moles, frustra s. obvia p. Baehrens.
+
+
+❦
+
+490
+notant CAR: natant Baehrens. haec tela codd.: nunc terra Haupt: hic terra Ellis: perhaps hinc . . . hinc.
+
+
+❦
+
+491
+ipsa codd.: ipse Scaliger, Ellis.
+
+
+❦
+
+494
+ingeminant CZ: ingeminat ed. Ven. 1475.
+
+
+❦
+
+495
+curvo CA: turbo Vollmer. cernulus codd.: cernimus Munro: cernulat Jacob, Ellis.
+
+
+❦
+
+496
+imas C: simas H: undas Baehrens: simans Ellis: rimas Morel: tenuis sinuans agit unda priores Jacob.
+
+
+❦
+
+497
+succernens CZ: succrescunt Jacob: sua certis Schwartz.
+
+
+❦
+
+503
+inflexa CZ: inflixa Scaliger.
+
+
+❦
+
+506
+esse . . . esse CZ: ecce . . . ecce Scaliger. fides C: fide Z: vides Haupt: este pedes Ellis.
+
+
+❦
+
+507
+verum CZ: fert Baehrens. ignes codd.: ingens Baehrens, Ellis: igni est Vessereau.
+
+
+❦
+
+509
+iunctis codd.: uncis Ellis: iunctas Vessereau.
+
+
+❦
+
+516
+post . . . fundit CZ: posse . . . fundi Wernsdorf. exustam CHA: exusto Sudhaus.
+
+
+❦
+
+521
+ignis CZ: igni Scaliger.
+
+
+❦
+
+522
+constat CZ: constans Haupt.
+
+
+❦
+
+523
+ultraque CH: utramque AR: utraque Munro. portam CZ: partem Clericus.
+
+
+❦
+
+527
+quin etiam codd.: quin speciem Ellis. externam multis codd.: externa immotus A. M. Duff.
+
+
+❦
+
+531
+propala CZ: propria ed. Ven. 1475.
+
+
+❦
+
+533
+fridicas C: frichas AR: chytas or rhytas Scaliger: ϝρύδας (= frydas) Ellis (in notes).
+
+
+❦
+
+539
+gigni CZ: ab igni Scaliger.
+
+
+❦
+
+540
+quae codd.: cui Jacob: quo Scaliger.
+
+
+❦
+
+544
+lenitiem C: lentitiem A: lenticiem HR.
+
+
+❦
+
+549
+ingenium CZ: ingenio ed. Ven. 1475.
+
+
+❦
+
+555
+autem C: aurem AR: artem Ellis.
+
+
+❦
+
+558
+ac sacro C: a sacro AR: arcano Ellis.
+
+
+❦
+
+565
+examinant CH1AR: exanimant H2.
+
+
+❦
+
+566
+fama codd.: forma Wolf.
+
+
+❦
+
+568
+vivit codd.: via fit Baehrens.
+
+
+❦
+
+570
+sacras C: arcas Ellis: artes vel arces Vessereau.
+
+
+❦
+
+571
+traducti CHA: tracti R. maria De Rooy: materia CZ. terris CZ: terras De Rooy: taetris Scaliger.
+
+
+❦
+
+586
+tam CZ: iam Ald. 1534.
+
+
+❦
+
+587‑8
+Erigone edens questus P. canoras en volat in silvas Maass: Erigonae es, dequesta senem: P. canoris plorat Ityn silvis Ellis. evocat CZ: eiulat Jacob: en vocat Munro.
+
+
+❦
+
+595
+paflae CZ: Paphiae Ald. 1517. parte CZ: arte Scaliger: patre Haupt: matre Baehrens, Ellis.
+
+
+❦
+
+599
+turb(a)eque CHA: tabulaeque Ellis.
+
+
+❦
+
+602
+cum CZ: tu Clericus. humanis codd.: humanae Ellis. Ph(o)ebus CZ: rebus Ald. 1534: plebis Ellis ("ex plebeis quod est in Rehd. 60").
+
+
+❦
+
+605
+quamquam sors nobilis ignis CZ: quam quo sons, n. ignist Baehrens: quam sonti n. ignist Maehly.
+
+
+❦
+
+607
+ignes CZ: ingens Scaliger.
+
+
+❦
+
+608
+lapidis CH: rapidis AR.
+
+
+❦
+
+610
+c(a)elum CZ: telum Postgate.
+
+
+❦
+
+611
+mil(l)ia CZ: mollia Scaliger: mitia Heinsius.
+
+
+❦
+
+612
+urebant C: virebant Z: ruebant Wagler: rubebant Munro, Ellis.
+
+
+❦
+
+619
+nimio CZ: minimo Auratus, Pithou.
+
+
+❦
+
+623
+ratis CZ: ratos Ald. 1517.
+
+
+❦
+
+624
+concrepat CZ: concremat Auratus, Pithou.
+
+
+❦
+
+625
+dees CH: piis Ald. 1517.
+
+
+❦
+
+626
+Amphion CH: Amphinomus AR. fontis CH: fortis (nom. plur.) A.
+
+
+❦
+
+628
+senemque CZ: senecta Scaliger: sedentem Barth: senentem Baehrens: sequentem Ellis.
+
+
+❦
+
+630
+manduces corr. in manducens C: manus dites Ald. 1517: manus dulces Ellis.
+
+
+❦
+
+632
+rapies C: raperest Munro: rapient Ellis.
+
+
+❦
+
+638
+dextera CZ. tenet CH: tenent AR fervent HR: ferunt corr. in fervent C: fertur Buecheler.
+
+
+❦
+
+639
+fratremque CZ: fraterque ed. Ascens. 1507.
+
+
+❦
+
+640
+sufficit codd.: substitit Baehrens.
+
+
+❦
+
+646
+sed curae C: securae Munro, Ellis, Vessereau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Aetnae
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Mons Aetna
+			
+(ap. Livium)
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+357
+adoratis CAR: odoratus H: odoratis Scaliger.
+
+
+
+370
+animi CZ: animo Ald. 1517.
+
+
+
+377
+et scisso C: et spisso Jacob. pr(a)estat CZ: pressat Baehrens.
+
+
+
+378
+haud similis teneros cursu CV: haud simili strepere hos cursu Munro: aut simili tenet occursu Ellis.
+
+
+
+380
+conticuere CAR: convaluere mora, velocius Morel.
+
+
+
+385
+si CZ: sic Maehly.
+
+
+
+395
+eripiantur CH: eripiant AR: excipiantur Vollmer: crispantur Ellis: testantur Maehly: evincant tibi Morel in supplem. novae editionis.
+
+
+
+401
+est si C: est sic R: est: is Munro.
+
+
+
+408
+coritur C: cogitur V, Munro.
+
+
+
+411
+tutum CZ: tanta Scaliger: bruta Ellis.
+
+
+
+413
+cardo C: tardans AR: tarde H: carbo Ellis.
+
+
+
+418
+lapidum CZ: lapidis De Rooy.
+
+
+
+425
+iacet Z: iacit C. delapsus CZ: dilapsus Scaliger.
+
+
+
+429
+et languit CH: elanguit Jacob.
+
+
+
+433
+pinguescat et CH: pingui scatet Ellis.
+
+
+
+440
+durata CZ: durat adhuc Scaliger: durat et a Vollmer.
+
+
+
+444
+Aetnaei codd.: Aetnaeo Ellis. illi CZ: igni Haupt.
+
+
+
+458
+in Vollmer: om. CZ. facie que (sic) C: scate quod AR: scaterest Ellis.
+
+
+
+459
+restat codd.: res stat Wight Duff.
+
+
+
+462
+minatus C: minatur Ulitius.
+
+
+
+463
+exemploque C: extemploque Z. ictaque ramis CZ: actaque rima Clericus: undique rimans Vessereau.
+
+
+
+466
+parere CHR: par rere A. e Scaliger: et CZ. collis CZ: colli ed. Ascens. 1507.
+
+
+
+469
+atque atra codd.: adque astra Ellis. sonant codd.: rotant Wight Duff: volant De Rooy.
+
+
+
+471
+stanti C: stantis Munro.
+
+
+
+472
+hinc defensus C: hinc indefessus Ellis.
+
+
+
+477
+sopita es CH1: s. est H2AR: sopito Maehly.
+
+
+
+486
+primis Z: prunis C: pronis Munro.
+
+
+
+488
+curtis CH: certis Wernsdorf.
+
+
+
+489
+frustra moles CHA: moles, frustra s. obvia p. Baehrens.
+
+
+
+490
+notant CAR: natant Baehrens. haec tela codd.: nunc terra Haupt: hic terra Ellis: perhaps hinc . . . hinc.
+
+
+
+491
+ipsa codd.: ipse Scaliger, Ellis.
+
+
+
+494
+ingeminant CZ: ingeminat ed. Ven. 1475.
+
+
+
+495
+curvo CA: turbo Vollmer. cernulus codd.: cernimus Munro: cernulat Jacob, Ellis.
+
+
+
+496
+imas C: simas H: undas Baehrens: simans Ellis: rimas Morel: tenuis sinuans agit unda priores Jacob.
+
+
+
+497
+succernens CZ: succrescunt Jacob: sua certis Schwartz.
+
+
+
+503
+inflexa CZ: inflixa Scaliger.
+
+
+
+506
+esse . . . esse CZ: ecce . . . ecce Scaliger. fides C: fide Z: vides Haupt: este pedes Ellis.
+
+
+
+507
+verum CZ: fert Baehrens. ignes codd.: ingens Baehrens, Ellis: igni est Vessereau.
+
+
+
+509
+iunctis codd.: uncis Ellis: iunctas Vessereau.
+
+
+
+516
+post . . . fundit CZ: posse . . . fundi Wernsdorf. exustam CHA: exusto Sudhaus.
+
+
+
+521
+ignis CZ: igni Scaliger.
+
+
+
+522
+constat CZ: constans Haupt.
+
+
+
+523
+ultraque CH: utramque AR: utraque Munro. portam CZ: partem Clericus.
+
+
+
+527
+quin etiam codd.: quin speciem Ellis. externam multis codd.: externa immotus A. M. Duff.
+
+
+
+531
+propala CZ: propria ed. Ven. 1475.
+
+
+
+533
+fridicas C: frichas AR: chytas or rhytas Scaliger: ϝρύδας (= frydas) Ellis (in notes).
+
+
+
+539
+gigni CZ: ab igni Scaliger.
+
+
+
+540
+quae codd.: cui Jacob: quo Scaliger.
+
+
+
+544
+lenitiem C: lentitiem A: lenticiem HR.
+
+
+
+549
+ingenium CZ: ingenio ed. Ven. 1475.
+
+
+
+555
+autem C: aurem AR: artem Ellis.
+
+
+
+558
+ac sacro C: a sacro AR: arcano Ellis.
+
+
+
+565
+examinant CH1AR: exanimant H2.
+
+
+
+566
+fama codd.: forma Wolf.
+
+
+
+568
+vivit codd.: via fit Baehrens.
+
+
+
+570
+sacras C: arcas Ellis: artes vel arces Vessereau.
+
+
+
+571
+traducti CHA: tracti R. maria De Rooy: materia CZ. terris CZ: terras De Rooy: taetris Scaliger.
+
+
+
+586
+tam CZ: iam Ald. 1534.
+
+
+
+587‑8
+Erigone edens questus P. canoras en volat in silvas Maass: Erigonae es, dequesta senem: P. canoris plorat Ityn silvis Ellis. evocat CZ: eiulat Jacob: en vocat Munro.
+
+
+
+595
+paflae CZ: Paphiae Ald. 1517. parte CZ: arte Scaliger: patre Haupt: matre Baehrens, Ellis.
+
+
+
+599
+turb(a)eque CHA: tabulaeque Ellis.
+
+
+
+602
+cum CZ: tu Clericus. humanis codd.: humanae Ellis. Ph(o)ebus CZ: rebus Ald. 1534: plebis Ellis ("ex plebeis quod est in Rehd. 60").
+
+
+
+605
+quamquam sors nobilis ignis CZ: quam quo sons, n. ignist Baehrens: quam sonti n. ignist Maehly.
+
+
+
+607
+ignes CZ: ingens Scaliger.
+
+
+
+608
+lapidis CH: rapidis AR.
+
+
+
+610
+c(a)elum CZ: telum Postgate.
+
+
+
+611
+mil(l)ia CZ: mollia Scaliger: mitia Heinsius.
+
+
+
+612
+urebant C: virebant Z: ruebant Wagler: rubebant Munro, Ellis.
+
+
+
+619
+nimio CZ: minimo Auratus, Pithou.
+
+
+
+623
+ratis CZ: ratos Ald. 1517.
+
+
+
+624
+concrepat CZ: concremat Auratus, Pithou.
+
+
+
+625
+dees CH: piis Ald. 1517.
+
+
+
+626
+Amphion CH: Amphinomus AR. fontis CH: fortis (nom. plur.) A.
+
+
+
+628
+senemque CZ: senecta Scaliger: sedentem Barth: senentem Baehrens: sequentem Ellis.
+
+
+
+630
+manduces corr. in manducens C: manus dites Ald. 1517: manus dulces Ellis.
+
+
+
+632
+rapies C: raperest Munro: rapient Ellis.
+
+
+
+638
+dextera CZ. tenet CH: tenent AR fervent HR: ferunt corr. in fervent C: fertur Buecheler.
+
+
+
+639
+fratremque CZ: fraterque ed. Ascens. 1507.
+
+
+
+640
+sufficit codd.: substitit Baehrens.
+
+
+
+646
+sed curae C: securae Munro, Ellis, Vessereau.
+
+
+
