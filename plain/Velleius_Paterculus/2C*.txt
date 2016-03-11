@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Liber II
+				
+Capp. 29‑58
+				
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+
+Historiae Romanae
+				
+
+
+C. Vellei Paterculi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXIIII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+Capp. 94‑131
+				
+
+
+
+
+Vellei Paterculi
+	
+Historia Romana
+	
+p176
+Liber II: Capitula 59‑93
+	
+
 59
 
 Caesaris deinde testamentum apertum est, quo C. Octavium, nepotem sororis suae Iuliae, adoptabat. De cuius origine, etiam si praeveniet,193 pauca dicenda sunt. 2 Fuit C. Octavius ut non patricia, ita admodum speciosa equestri genitus familia, gravis, sanctus, innocens, dives. Hic praetor inter nobilissimos viros creatus primo loco, cum ei dignatio Iulia genitam Atiam conciliasset uxorem, ex eo honore sortitus Macedoniam appellatusque in ea194 imperator, decedens ad petitionem consulatus obiit praetextato relicto filio. 3 Quem C. Caesar, maior eius avunculus, educatum apud Philippum vitricum dilexit ut suum, natumque annos duodeviginti Hispaniensis militiae adsecutum se postea comitem habuit, numquam aut
@@ -85,6 +208,13 @@ Huius totius temporis fortunam ne deflere quidem quisquam satis digne potuit, ad
 
 
 p194exprimere verbis potest. 2 Id tamen notandum est, fuisse in proscriptos uxorum fidem summam, libertorum mediam, servorum aliquam, filiorum nullam: adeo difficilis est hominibus utcumque conceptae spei mora. 3 Ne quid ulli sanctum relinqueretur, velut217 in dotem invitamentumque sceleris Antonius L. Caesarem avunculum, Lepidus Paulum fratrem proscripserant; nec Planco gratia defuit ad impetrandum, ut frater eius Plancus Plotius proscriberetur. 4 Eoque inter iocos militaris, qui currum Lepidi Plancique secuti erant, inter execrationem civium usurpabant hunc versum:
+
+
+
+
+De germanis, non de Gallis duo triumphant consules.
+		
+
 
 
 68
@@ -343,480 +473,699 @@ Ante triennium fere, quam Egnatianum scelus erumperet, circa Murenae Caepionisqu
 
 
 	
+
+Apparatus Criticus:
+	
+
 193
 praeveniet Ellis; praevenit et AP; per se nitet Burman.
+❦
 
 194
 in eam AP; corrected by Gelenius; ex ea Ursinus.
+❦
 
 195
 ordinem ac rationem Muncker; ordinationem AP.
 
 
+❦
 
 196
 The passage is corrupt as it stands. The general sense is, however, clear from the following passage in
 	
 Seneca, Nat. Quaest. I.2.1; memoriae proditum est, quo die Divus Augustus . . . intravit, circa solem visum coloris varii circulum, qualis esse in arcu solet; hunc Graeci halo vocant, nos dicere coronam aptissime possimus.
+❦
 
 197
 credere Gelenius; cedere AP.
 
 
+❦
 
 198
 sibi added by Lipsius.
+❦
 
 199
 civitatibus inmunitatibusque Ellis; civitatibusque AP.
 
 
+❦
 
 200
 id added by Gelenius.
+❦
 
 201
 arbitrio A; imperio P.
 
 
+❦
 
 202
 rei publicae Gelenius; resp. AP.
 
 
+❦
 
 203
 ac pari AP; ac parato Burman.
+❦
 
 204
 Caesar ipse Halm; Caesari AP.
 
 
+❦
 
 205
 a added by Heinsius.
+❦
 
 206
 peristhaec A peris. Haec P; perire vel perisse Rhenanus in marg.
+❦
 
 207
 canina Ruhnken; continna A; continua P.
 
 
+❦
 
 208
 velut Puteanus; vel AP; ut Halm.
+❦
 
 209
 facta Burer; iacta AP.
 
 
+❦
 
 210
 Antonius subinde Caesarem admoneret, et quam Bipont.; et subinde . . . quam AP.
 
 
+❦
 
 211
 tum or tunc Burer; tur AP; tum igitur Halm.
+❦
 
 212
 abhinc after conditam deleted by Gelenius.
+❦
 
 213
 DCCVIIII Gelenius; ACCVIIIII AP; DCCXI Aldus.
+❦
 
 214
 cum . . . essent] the passage is clearly corrupt, but as yet no satisfactory emendation has been offered.
+❦
 
 215
 tu M. Gelenius; tum AP.
 
 
+❦
 
 216
 Ciceronis nomen supplied by Laurent.
+❦
 
 217
 velut Gelenius; vel AP; ut Halm.
+❦
 
 218
 acriter Haupt; Africaque AP.
 
 
+❦
 
 219
 ne modica quidem solvere ac servari posset Ellis; immodica (in modica P) quidem servari posset AP; ne modica quidem re servari posset Halm.
+❦
 
 220
 et consulis (after Lipsius) auctoritate Cludius; et auctoritate COSS. AP.
 
 
+❦
 
 221
 in agris haud Mommsen; haud magis AP; at in agris Lipsius.
+❦
 
 222
 in added by Madvig.
+❦
 
 223
 cum Orelli; tum AP.
 
 
+❦
 
 224
 interfecerat Rhenanus (or confecerat); fecerat AP.
 
 
+❦
 
 225
 ad ictum Rhenanus; adiectum AP.
 
 
+❦
 
 226
 at Lipsius; et AP; sed Kreyssig.
+❦
 
 227
 damnatis after ignique deleted by Delbenius.
+❦
 
 228
 se added by Gelenius.
+❦
 
 229
 Halm supplied Corvinus before Messalla.
 
 
+❦
 
 230
 Corvinus AP; Corvini Bothe and Halm.
+❦
 
 231
 incorrupto Tollius; corrupto AP.
 
 
+❦
 
 232
 facti Rhenanus; fecit AP.
 
 
+❦
 
 233
 sed added by Gelenius.
+❦
 
 234
 cogitatu Scheffer; cogitator AP.
 
 
+❦
 
 235
 iussa Heinsius; iuste AP; iniusta (or iniuste) Lipsius.
+❦
 
 236
 vir P; viri BA.
 
 
+❦
 
 237
 doctissimique AP; rectissimique Madvig; promptissimique Ruhnken.
+❦
 
 238
 arma ac manus Ellis; arma A; arma nus P; arma minus Voss followed by Halm.
+❦
 
 239
 Ti. Neronis Aldus; Tironis A; Tyronis P.
 
 
+❦
 
 240
 cum comes Aldus; comes B; cum AP.
 
 
+❦
 
 241
 est added by Cludius.
+❦
 
 242
 iniectum Gelenius; electum AP.
 
 
+❦
 
 243
 apparatusque Sylburg; praeparatusque AP; paratusque Gelenius.
+❦
 
 244
 in id Puteanus; in is BA; simul P.
 
 
+❦
 
 245
 molimentis Ruhnken; momentis AP.
 
 
+❦
 
 246
 interim before Caesar deleted by Ellis as a gloss.
+❦
 
 247
 Pompeianae added by Heinsius.
+❦
 
 248
 mature Ruhnken; matura AP.
 
 
+❦
 
 249
 alienae victoriae P; in alienae victoriae AB; in aliena victoria Burer.
+❦
 
 250
 Caesari Acidalius; Caesaris AP.
 
 
+❦
 
 251
 interpretabatur audebatque AP; interpretaretur audebatque Gelenius; interpretaretur auderetque Ruhnken.
+❦
 
 252
 telis added by Orelli.
+❦
 
 253
 indignissimam Ruhnken; in dissimillimam AP.
 
 
+❦
 
 254
 Halm suggests to fill the lacuna: veteranis in agros deductis qui coloniae.
 
 
+❦
 
 255
 instrumentum Cludius; instar AP.
 
 
+❦
 
 256
 sepelivit in Sicilia bellum Ruhnken; libium in Sicilia Bñ (bene A) AP.
 
 
+❦
 
 257
 et in A; in P.
 
 
+❦
 
 258
 mitis saeviit Haupt; militavit AP.
 
 
+❦
 
 259
 egressus AP; ingressus Gelenius.
+❦
 
 260
 a added by Kreyssig.
+❦
 
 261
 desperaret Haupt; desperaverat AP.
 
 
+❦
 
 262
 est added by Orelli.
+❦
 
 263
 ac tot Salmasius and Lipsius; acto AP.
 
 
+❦
 
 264
 illius Voss; illis AP.
 
 
+❦
 
 265
 crocota Ruhnken; corona AP.
 
 
+❦
 
 266
 P. Silii Gelenius; Patersilii A; pater Silii A.º
+❦
 
 267
 in (before illa) added by Vascosanus.
+❦
 
 268
 remiges Lipsius; reges AP.
 
 
+❦
 
 269
 specie Gelenius; specie et AP.
 
 
+❦
 
 270
 aliquis Heinsius; aliquid AB; aliqui transfugiebant P.
 
 
+❦
 
 271
 The clause rex . . . transmisit ad Caesarem found in AP after superata, at the end of the paragraph, was transposed to its present position by Haase.
+❦
 
 272
 Dellius Kritz; de illius AP.
 
 
+❦
 
 273
 exempli sui tenax ut a Lipsius; exemplis uitae naxuta AP.
 
 
+❦
 
 274
 ad Cassium . . . transiit supplied by Ruhnken.
+❦
 
 275
 detracto Vascosanus; detrectato AP.
 
 
+❦
 
 276
 ut dubites, suone Burer; videbites ne A; videbit e suo P.
 
 
+❦
 
 277
 direxerit Halm; direxit AP.
 
 
+❦
 
 278
 paucissimi summoti Baiter; paucissimi et hi AP.
 
 
+❦
 
 279
 qui ne deprecari quidem pro se sustinerent Heinsius; qui deprecari quidem pro se non sustinerent AP.
 
 
+❦
 
 280
 si ei Halm; sic A; si sic P; si Burer.
+❦
 
 281
 modum added by Rhenanus.
+❦
 
 282
 diu . . . luctatus AP; odium . . . eluctatus Madvig and Halm.
+❦
 
 283
 aspide in B; aspidem A; aspide P.
 
 
+❦
 
 284
 et sanie eius Burman; sanie eius BAP; eius sane Acidalius and Halm.
+❦
 
 285
 est added by Orelli.
+❦
 
 286
 ab eo devictum Acidalius; ab (ob P) eodem vitum BAP.
 
 
+❦
 
 287
 ei Cludius; eius AP.
 
 
+❦
 
 288
 primus added by Aldus, but before Trebonius.
 
 
+❦
 
 289
 erat added by Madvig.
+❦
 
 290
 paene A; pene P; the most satisfactory emendation is that of Salmasius angusticlavo plene contentus.
 
 
+❦
 
 291
 Antistii Vossius; Antistiae AP.
 
 
+❦
 
 292
 praematura morte Burer; praematruam mortem AB.
 
 
+❦
 
 293
 quo occursu Lipsius; occursus AP.
 
 
+❦
 
 294
 favore omnium hominum aetatium AP; generum added by Halm.
+❦
 
 295
 ne in operis quidem Gelenius; nedum in operis siquidem AP.
 
 
+❦
 
 296
 quin Madvig; quem AP.
 
 
+❦
 
 297
 non added by Madvig.
+❦
 
 298
 fatigarent Vossius; fatigant AP.
 
 
+❦
 
 299
 et (or etiam) coaluere Bergk; et coram aliero AP.
 
 
+❦
 
 300
 annos added by Orelli.
+❦
 
 301
 incultisque Heinsius; multisque AP.
 
 
+❦
 
 302
 belli added by Heinsius.
+❦
 
 303
 X Lipsius; XX AP.
 
 
+❦
 
 304
 oppresso Gelenius; presso P; praesso A.
 
 
+❦
 
 305
 iure Orelli; viro AP.
 
 
+❦
 
 306
 ut added by Burer.
+❦
 
 307
 et om. A.
 
 
+❦
 
 308
 in after aberat deleted by Krause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Velleius Paterculus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Non. Feb. 04

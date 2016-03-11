@@ -1,4 +1,161 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars III
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars V
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+
+
+
+X.
+		
+
+Bellum Sertorianum.
+		
+
+
+
+XI.
+		
+
+Bellum civile sub Lepido.
+		
+
+
+
+XII.
+		
+
+Bellum Catilinae.
+		
+
+
+
+p256
+
+X. Bellvm Sertorianvm
+	
+
 III, 22
 Bellum Sertorianum quid amplius quam Sullanae proscriptionis hereditas fuit? Hostile potius an civile dixerim nescio, quippe quod Lusitani Celtiberique Romano gesserint duce. 2 Exul et profugus feralis illius tabulae, vir summae quidem sed calamitosae virtutis malis suis maria terrasque permiscuit; et iam Africae, iam Balearibus insulis fortunam expertus usque in Oceanum Fortunatasque Insulas penetravit consiliis, tandem Hispaniam armavit. 3 Viro cum viris facile convenit. Nec alias magis apparuit Hispani militis vigor quam Romano duce. 4 Quamquam ille non contentus Hispania ad Mithridatem quoque Ponticosque respexit1 regemque classe iuvit. 5 Et quid futurum fuit satis tanto hosti, cui uno imperatore resistere res Romana non potuit? 6 additus Metello Gnaeus Pompeius. Hi copias adtrivere viri, prope tota Hispania persecuti. Diu et ancipiti semper acie pugnatum est; nec tamen prius bello quam suorum scelere et insidiis extinctus est.2 Prima per legatos habita certamina, cum hinc Domitius et Thorius, inde Hirtulei proluderent; 7 mox his apud Segoviam, illis apud Anam flumen oppressis, ipsi duces comminus invicem experti apud Lauronem atque Sucronem
 
@@ -8,6 +165,10 @@ p258aequavere clades. Tum illis ad populationes agrorum,3 his ad urbium excidia 
 
 
 	
+
+XI. Bellvm Civile svb Lepido
+	
+
 III, 23
 Marco Lepido Quinto Catulo consulibus civile bellum paene citius oppressum est quam inciperet: sed quantulacumque fax illius motus ab ipso Sullae rogo exarsit. 2 Cupidus rerum novarum per insolentiam Lepidus acta tanti viri rescindere parabat; nec inmerito, si tamen posset sine magna clade rei publicae. 3 Nam cum iure belli Sulla dictator proscripsisset inimicos, qui supererant revocante Lepido quid aliud quam ad bellum vocabantur? Cumque damnatorum civium bona addicente Sulla quamvis male capta iure tamen tenerentur,5 repetitio eorum procul dubio labefactabat
 
@@ -17,6 +178,10 @@ p260compositae civitatis statum. 4 Expediebat ergo quasi aegrae sauciaeque rei 
 
 
 	
+
+XII. Bellvm Catilinae
+	
+
 IIII, 1
 Catilinam luxuria primum, tum10 hinc conflata egestas rei familiaris, simul occasio, quod in extremis finibus mundi arma Romana peregrinabantur, in nefaria consilia opprimendae patriae suae conpulere.11 2 Senatum confodere, consules trucidare, distringere incendiis urbem, diripere aerarium, totam denique rem publicam funditus tollere et quidquid nec Annibal videretur optasse, quibus —
 
@@ -31,8 +196,15 @@ p264arma sollicitat. Isset15 ultra Alpes furor, nisi altera proditione Volturci 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 respexit: perrexit B.
+
+
+
 
 
 
@@ -43,8 +215,14 @@ hi — extinctus est Iahnius et Halmius: hic copias adtriverant viri diu et anci
 
 
 
+
+
+
 3
 ad populationes agrorum: apopulatione sacrorum B: ad populationem agrorum NL.
+
+
+
 
 
 
@@ -55,8 +233,14 @@ Termes, Ulia Salmasius et Iahnius: tergaest cum B: termestudia NL.
 
 
 
+
+
+
 5
 tenerentur add. Dukerus.
+
+
+
 
 
 
@@ -67,8 +251,14 @@ ne om. B.
 
 
 
+
+
+
 7
 curatione: cutio B.
+
+
+
 
 
 
@@ -79,8 +269,14 @@ Lutatius: latius B.
 
 
 
+
+
+
 9
 pace: pacis B.
+
+
+
 
 
 
@@ -91,8 +287,14 @@ tum: cum B: tu N.
 
 
 
+
+
+
 11
 conpulere: contulere B.
+
+
+
 
 
 
@@ -103,8 +305,14 @@ ni: ne B.
 
 
 
+
+
+
 13
 tum: cum B.
+
+
+
 
 
 
@@ -115,8 +323,117 @@ legatos Halmius: legatis NL: om. B.
 
 
 
+
+
+
 15
 sollicitat. Isset Halmius: sollicitatis. Sed B: sollicitatiset. Isset N: sollicitatis isset L.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

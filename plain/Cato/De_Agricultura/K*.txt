@@ -1,3 +1,123 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+CXLII‑CLV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+Marci Catonis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+CLVIII‑CLXII
+				
+
+
+
+
+
+Marci Catonis
+	
+
+De Re Rustica
+	
+
+Capitula CLVI‑CLVII
+	
 p140
 156
 De brassica quod concoquit. Brassica est quae omnibus holeribus antistat. Eam esto vel coctam vel crudam. Crudam si edes, in acetum intinguito. Mirifice concoquit, alvum bonam facit, lotiumque ad omnes res salubre est. Si voles in convivio multum bibere cenareque libenter, ante cenam esto crudam quantum voles ex aceto, et item, ubi cenaveris, comesto aliqua V folia; reddet te quasi nihil ederis, bibesque quantum voles.
@@ -36,13 +156,130 @@ p150brassicam tritam, aquae cyatos IIII. Nulla res tam bene purgabit, neque ell
 
 
 	
+
+Apparatus Criticus:
+	
+
 63
 miseri Hauler: umseri.
 
 
+❦
 
 64
 Depetigini spurcae Schneider: de petiginis porcae.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Agricultura
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+V Kal. Oct. 04

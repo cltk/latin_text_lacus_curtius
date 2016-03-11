@@ -1,6 +1,516 @@
 
 
 
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+In Rufinum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II
+				
+
+
+
+
+
+C. Claudiani
+	
+In Rufinum
+	
+p24
+
+Liber Prior
+	
+
+Incipit Praefatio
+	
+(II)
+	
+
+
+
+
+   
+5
+    
+10
+    
+			 
+15
+
+
+
+Phoebeo domitus Python cum decidit arcu
+	   
+membraque Cirrhaeo fudit anhela iugo,
+	
+qui spiris tegeret montes, hauriret hiatu
+	   
+flumina, sanguineis tangeret astra iubis:
+	
+iam liber Parnasus erat nexuque soluto
+	   
+coeperat erecta surgere fronde nemus
+	
+concussaeque diu spatiosis tractibus orni
+	   
+securas ventis explicuere comas
+	
+et qui vipereo spumavit saepe veneno
+	   
+Cephisos nitidis purior ibat aquis.
+	
+omnis "io Paean" regio sonat; omnia Phoebum
+	   
+rura canunt; tripodas plenior aura rotat,
+	
+auditoque procul Musarum carmine dulci
+	   
+ad Themidis coëunt antra severa dei.
+	
+
+Nunc alio domini telis Pythone perempto
+	   
+convenit ad nostram sacra caterva lyram,
+	
+qui stabilem servans Augustis fratribus orbem
+	   
+iustitia pacem, viribus arma regit.
+	
+
+
+
+p26
+Liber I
+	
+(III)
+	
+
+
+
+   
+5
+    
+10
+    
+15
+    
+20
+    
+25
+    
+30
+    
+35
+    
+40
+    
+45
+    
+50
+    
+55
+    
+60
+    
+65
+    
+			 
+70
+    
+75
+    
+80
+    
+85
+    
+90
+    
+95
+    
+100
+    
+105
+    
+110
+    
+115
+    
+120
+    
+125
+    
+130
+    
+135
+    
+140
+    
+145
+    
+150
+    
+155
+    
+160
+    
+165
+    
+170
+    
+175
+    
+180
+    
+185
+    
+190
+    
+195
+    
+200
+    
+205
+    
+210
+    
+215
+    
+220
+    
+225
+    
+230
+    
+235
+    
+240
+    
+245
+    
+250
+    
+255
+    
+			 
+260
+    
+265
+    
+			 
+270
+    
+275
+    
+280
+    
+285
+    
+290
+    
+295
+    
+300
+    
+305
+    
+310
+    
+315
+    
+320
+    
+325
+    
+330
+    
+335
+    
+340
+    
+345
+    
+350
+    
+355
+    
+360
+    
+365
+    
+370
+    
+375
+    
+380
+    
+385
+
+   
+
+Saepe mihi dubiam traxit sententia mentem,
+	
+curarent superi terras an nullus inesset
+	
+rector et incerto fluerent mortalia casu.
+	
+nam cum dispositi quaesissem foedera mundi
+	
+praescriptosque mari fines annisque meatus
+	
+et lucis noctisque vices: tunc omnia rebar
+	
+consilio firmata dei, qui lege moveri
+	
+sidera, qui fruges diverso tempore nasci,
+	
+qui variam Phoeben alieno iusserit igni
+	
+compleri Solemque suo, porrexerit undis
+	
+litora, tellurem medio libraverit axe.
+	
+sed cum res hominum tanta caligine volvi
+	
+adspicerem laetosque diu florere nocentes
+	
+vexarique pios, rursus labefacta cadebat
+	
+relligio causaeque viam non sponte sequebar
+	
+alterius, vacuo quae currere semina motu
+	
+adfirmat magnumque novas per inane figuras
+	
+fortuna non arte regi, quae numina sensu
+	
+ambiguo vel nulla putat vel nescia nostri.
+	p28
+abstulit hunc tandem Rufini poena tumultum
+	
+absolvitque deos. iam non ad culmina rerum
+	
+iniustos crevisse queror; tolluntur in altum,
+	
+ut lapsu graviore ruant. vos pandite vati,
+	
+Pierides, quo tanta lues eruperit ortu.
+	   
+Invidiae quondam stimulis incanduit atrox
+	
+Allecto, placidas late cum cerneret urbes.
+	
+protinus infernas ad limina taetra sorores
+	
+concilium deforme vocat. glomerantur in unum
+	
+innumerae pestes Erebi, quascumque sinistro
+	
+Nox genuit fetu: nutrix Discordia belli,
+	
+imperiosa Fames, leto vicina Senectus
+	
+impatiensque sui Morbus Livorque secundis
+	
+anxius et scisso maerens velamine Luctus
+	
+et Timor et caeco praeceps Audacia vultu
+	
+et Luxus populator opum, quem semper adhaerens
+	
+infelix humili gressu comitatur Egestas,
+	
+foedaque Avaritiae complexae pectora matris
+	
+insomnes longo veniunt examine Curae.
+	
+complentur vario ferrata sedilia coetu
+	
+torvaque collectis stipatur curia monstris.
+	
+Allecto stetit in mediis vulgusque tacere
+	
+iussit et obstantes in tergum reppulit angues
+	
+perque umeros errare dedit. tum corde sub imo
+	
+inclusam rabidis patefecit vocibus iram:
+	   
+"Sicine tranquillo produci saecula cursu,
+	
+sic fortunatas patiemur vivere gentes?
+	
+quae nova corrupit nostros clementia mores?
+	
+quo rabies innata perit? quid inania prosunt
+	
+verbera? quid facibus nequiquam cingimur atris?
+	p30
+heu nimis ignavae, quas Iuppiter arcet Olympo,
+	
+Theodosius terris. en aurea nascitur aetas,
+	
+en proles antiqua redit. Concordia, Virtus
+	
+cumque Fide Pietas alta cervice vagantur
+	
+insignemque canunt nostra de plebe triumphum.
+	
+pro dolor! ipsa mihi liquidas delapsa per auras
+	
+Iustitia insultat vitiisque a stirpe recisis
+	
+elicit oppressas tenebroso carcere leges.
+	
+at nos indecores longo torpebimus aevo
+	
+omnibus eiectae regnis! agnoscite tandem
+	
+quid Furias deceat; consuetas sumite vires
+	
+conventuque nefas tanto decernite dignum.
+	
+iam cupio Stygiis invadere nubibus astra,
+	
+iam flatu violare diem, laxare profundo
+	
+frena mari, fluvios ruptis inmittere ripis
+	
+et rerum vexare fidem."
+	
+                                          
+Sic fata cruentum
+	
+mugiit et totos serpentum erexit hiatus
+	
+noxiaque effudit concusso crine venena.
+	
+anceps motus erat vulgi. pars maxima bellum
+	
+indicit superis, pars Ditis iura veretur,
+	
+dissensuque alitur rumor: ceu murmurat alti
+	
+impacata quies pelagi, cum flamine fracto
+	
+durat adhuc saevitque tumor dubiumque per aestum
+	
+lassa recedentis fluitant vestigia venti.
+	   
+Improba mox surgit tristi de sede Megaera,
+	
+quam penes insani fremitus animique profanus
+	
+error et undantes spumis furialibus irae:
+	
+non nisi quaesitum cognata caede cruorem
+	
+inlicitumve bibit, patrius quem fuderit ensis,
+	p32
+quem dederint fratres; haec terruit Herculis ora
+	
+et defensores terrarum polluit arcus,
+	
+haec Athamanteae direxit spicula dextrae,
+	
+haec Agamemnonios inter bacchata penates
+	
+alternis lusit iugulis; hac auspice taedae
+	
+Oedipoden matri, natae iunxere Thyesten.
+	
+quae tunc horrisonis effatur talia dictis:
+	
+
 "Signa quidem, sociae, divos attollere contra
 	
 nec fas est nec posse reor; sed laedere mundum
@@ -611,5 +1121,112 @@ attonito pastore greges pontumque per omnem
 	
 ridebunt virides gemmis nascentibus algae."
 		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 gramina E; other codd. gramine. Birt conjectures toxica, Heinsius carmina. I take Postgate's crimina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Jan 04

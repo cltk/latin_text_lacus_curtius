@@ -1,5 +1,97 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber II
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber I
+	
+
+Praefatio
+	
+
+
 1. Cum divina tua mens et numen, imperator Caesar, imperio potiretur orbis terrarum invictaque virtute cunctis hostibus stratis, triumpho victoriaque tua cives gloriarentur et gentes omnes subactae tuum spectarent nutum populusque Romanus et senatus liberatus timore amplissimis tuis cogitationibus consiliisque gubernaretur, non audebam, tantis occupationibus, de architectura scripta et magnis cogitationibus explicata edere, metuens ne non apto tempore interpellans subirem tui animi offensionem.
 
 	
@@ -14,6 +106,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Architecti est scientia pluribus disciplinis et variis eruditionibus ornata, cuius indicio probantur omnia quae ab ceteris artibus perficiuntur opera. ea nascitur ex fabrica et ratiocinatione. fabrica est continuata ac trita usus meditatio, qua manibus perficitur e materia cuiuscumque generis opus est ad propositum deformationis. ratiocinatio autem est quae res fabricatas sollertia, ratione proportionis demonstrare atque explicare potest.
 
@@ -93,6 +188,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 2
+	
+
 
 1. Architectura autem constat ex ordinatione, quae graece ιαξις dicitur, et ex dispositione, hanc autem Graeci διαθεσιν vocitant, et eurythmia et symmetria et decore et distributione, quae graece οἰκονομία dicitur.
 
@@ -132,6 +230,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 3
+	
+
 
 1. Partes ipsius architecturae sunt tres, aedificatio, gnomonice, machinatio. aedificatio autem divisa est bipertito, e quibus una est moenium et communium operum in publicis locis conlocatio, altera est privatorum aedificiorum explicatio. publicorum autem distributiones sunt tres, e quibus est una defensionis, altera religionis, tertia opportunitatis. defensionis est murorum turriumque et portarum ratio ad hostium impetus perpetuo repellendos excogitata, religionis deorum inmortalium fanorum aediumque sacrarum conlocatio, opportunitatis communium locorum ad usum publicum dispositio, uti portus fora porticus balineae theatra inambulationes ceteraque quae isdem rationibus in publicis locis designantur.
 
@@ -143,6 +244,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 4
+	
+
 
 1. In ipsis vero moenibus ea erunt principia. primum electio loci saluberrimi. is autem erit excelsus et non nebulosus non pruinosus regionesque caeli spectans neque aestuosas neque frigidas sed temperatas, deinde si vitabitur palustris vicinitas. cum enim aurae matutinae cum sole oriente ad oppidum pervenient et his ortae nebulae adiungentur spiritusque bestiarum palustrium venenatos cum neula mixtos in habitatorum corpora flatu spargent, efficient locum pestilentem. item si secundum mare erunt moenia spectabuntque ad meridiem aut occidentem non erunt salubria, quod per aestatem caelum meridianum sole exoriente calescit meridie ardet, item quod spectat ad occidentem sole exorte tepescit meridiei calet vespere fervet.
 
@@ -194,6 +298,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 5
+	
+
 
 1. Cum ergo his rationibus erit salubritatis moenium conlocandorum explicatio regionesque electae fuerint fructibus ad alendam civitatem copiosae et viarum munitiones aut opportunitates fluminum seu per portus marinae subvectiones habuerint ad moenia comportationes expeditas, tunc turrium murorumque fundamenta sic sunt facienda uti fodiantur, si queat inveniri, ad solidum et in solido, quantum ex amplitudine operis pro ratione videatur, crassitudine ampliore quam parietum qui supra terram sunt futuri, et ea impleantur quam solidissima structura.
 
@@ -229,6 +336,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 6
+	
+
 
 1. Moenibus circumdatis secuntur intra murum arearum divisiones platearumque et angiportorum ad caeli regionem directiones. dirigentur haec autem recte, si exclusi erunt ex angiportis venti prudenter. qui si frigidi sunt laedunt, si calidi vitiant, si umidi nocent. quare vitandum videtur noc vitium et advertendum ne fiat quod in multis civitatibus usu solet venire. quemadmodum in insula Lesbo oppidum Mytilene magnificenter est aedificatum et eleganter, sed positum non prudenter. in qua civitate auster cum flat, homines aegrotant, cum corus, tussiunt, cum septentrio, restituuntur in salubritatem sed in angiportis et plateis non possunt consistere propter vehementium frigoris.
 
@@ -284,6 +394,9 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 	
+Caput 7
+	
+
 
 1. Divisis angiportis et plateis constitutis arearum electio ad opportunitatem et usum communem civitatis est explicanda aedibus sacris foro reliquisque locis communibus. et si erunt moenia secundum mare, area ubi forum constituatur eligenda proxime portum, sin autem mediterranea, in oppido medio. aedibus vero sacris, quorum deorum maxime in tutela civitas videtur esse, et Iovi et Iunoni et Minervae in excelsissimo loco unde moenium maxima pars conspiciatur areae distribuantur. Mercurio autem in foro, aut etiam ut Isidi et Serapi in emporio, Apollini Patrique Libero secundum theatrum, Herculi in quibus civitatibus non sunt gymnasia neque amphitheatra ad circum, Marti extra urbem sed ad campum, itemque Veneri ad portum. id autem etiam Etruscis haruspicibus disciplinarum scripturis ita est dedicatum, extra murum Veneris Volcani Martis fana ideo conlocari uti non insuescat in urbe adulescentibus seu matribus familiarum veneria libido, Volcanique vi e moenibus religionibus et sacrificiis evocata ab timore incendiorum aedificia videantur liberari. Martis vero divinitas cum sit extra moenia dedicata, non erit inter cives armigera dissensio, sed ab hostibus ea defensa a belli periculo conservabit.
 
@@ -293,3 +406,130 @@ dicunt, et aeris et locorum qui sunt salubres aut pestilentes aquarumque usus. s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Mar. 10

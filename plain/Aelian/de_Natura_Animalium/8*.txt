@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber IX
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p118
+Liber Octavus
+	
+
 1
 Ex Indicarum rerum scriptis ista etiam docemur: Canes feminas multo generosissimas, tum ad investiganda ferarum vigilia praestantissimas, tum vero ad cursum velocissimas, in loca feris abundantia, venationis periti, perductas ut primum ad arborem alligarunt, aleamque, ut vulgo dicitur, jecerunt, discedunt. In has autem tigres incurrentes, venationis inopia ex fame laborantes, lacerant; si autem libidine inflammati et cibo repleti sint, cum canibus complexu venereo junguntur; namque illi quoque cum sunt exsaturati, ad venerem proni sunt. Ex hac tigridis consuetudine cum cane non canis, sed1 tigris, ut ferunt procreatur; et ex hoc et cane femina etiamnum tigris; qui vero deinceps ex hoc et cane concipitur, matri similis est, et seminis in deterius degenera tione, canis nascitur. Neque hoc negaverit Aristoteles. zzz canes tigride pate nati, ut vel cervi vel apri venatum praeclare spernunt, sic leones invadere, et sui generis nobilitatem ita testari gaudent. Horum igitur canum virtutis specimen Indi Alexandro Philippi filio exhibuerunt, hoc modo: Primo cervum emiserunt, at canis se quietum tenuit; deinde aprum, at idem immotus permansit; tum vero ursum, at ursus eum nihil excitavit; ad extremum leonem protulerunt, quem ut vidit, vehementiori ira exarsit, et tanquam verum adversarium conspicatus, sine mora intrepidus invasit, atque acriter comprehensum tenens illius fauces premebat, et suffocabat. Tum Indus, qui hoc spectaculum regi praebebat, quique probe sciebat ejus robur animi et constantiam, primum huic caudam abscindi jussit; at canis sibi caudam facile abscindi patiebatur. Deinde etiam crus unum suffringi imperavit; is vero quoque ut a principio urgebat, et perinde nihil remittebat, quasi alienum crus et ad se nihil pertinens suffringeretur: post, alterum, unde quoque is de morsu nihil remisit: tum tertium incidi praecepit, is similiter ut ante leonem constrictum tenuit: tum etiam quartum crus abscindi jussit, is nihilo minus leonem mordicus tenere perseveravit. Denique etsi caput a reliquo corpore abscissum erat, illius tamen dentes ex illa leonis parte, in quam primum defixi fuissent, pendebant; et quamvis is, qui eos in initio defixisset, jam mortuus esset, ejus tamen ipsius etiam nunc ex leone appensum caput sublime ferebatur. Hic Alexander non mediocri dolore adficiebatur, a cane obstupefactus, quod is, qui tale virtutis experimentum
 
@@ -154,5 +277,120 @@ p128cornois ob secundam piscationem sese non modo piscatores ornant, sed et pisc
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+V Kal. Oct. 04

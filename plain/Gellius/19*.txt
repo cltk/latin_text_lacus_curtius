@@ -1,75 +1,564 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XVIII
+				
+
+
+Haec pagina telaris liber est
+				
+
+
+
+Noctium Atticarum
+				
+
+
+A. Gellii
+				
+
+
+
+a
+Loeb Classical Library
+editarum
+				
+MCMXXVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber XX
+				
+
+
+
+
+
+(Vol. III)
+Gellius
+	
+Noctes Atticae
+	
+
+
+Liber XIX
+	
+
+1
+
+. . .
+
+	
 1 Navigabamus a Cassiopa Brundisium mare Ionium violentum et vastum et iactabundum. 2 Nox deinde, quae diem primum secuta est, in ea fere tota ventus a latere saeviens navem undis compleverat. 3 Tum postea complorantibus nostris omnibus atque in sentina satis agentibus dies quidem tandem inluxit. Sed nihil de periculo neque de saevitia venti remissum; quin turbines etiam crebriores et caelum atrum et fumigantes globi et figurae quaedam nubium metuendae, quos typhonas vocabant, inpendere inminereque ac depressurae navem videbantur. 4 In eadem fuit philosophus in disciplina Stoica celebratus, quem ego Athenis cognoveram non parva virum auctoritate satisque attente discipulos iuvenes continentem. 5 Eum tunc in tantis periculis inque illo tumultu caeli marisque requirebam oculis scire cupiens, quonam statu animi et an interritus intrepidusque esset. 6 Atque ibi hominem conspicimus pavidum et exterritum ploratus quidem nullos sicuti ceteri omnes nec ullas eiusmodi voces cientem, sed coloris et voltus turbatione non multum a ceteris differentem. 7 At ubi caelum enituit et deferbuit mare et ardor ille periculi deflagravit, accedit ad Stoicum Graecus quispiam dives ex Asia magno, ut videbamus, cultu paratuque rerum et familiae, atque ipse erat multis corporis animique deliciis diffluens. 8 Is quasi inludens: "quid hoc est," inquit "o philosophe, quod, cum in periculis essemus, timuisti tu et palluisti? ego neque timui neque pallui." 9 Et philosophus aliquantum cunctatus, an respondere ei conveniret, "si quid ego" inquit "in tanta violentia tempestatum videor paulum pavefactus, non tu istius rei ratione audienda dignus es. 10 Set tibi sane Aristippus ille . . . discipulus, pro me responderit, qui cum in simili tempore a simillimo tui homine esset interrogatus, quare philosophus timeret, cum ille contra nihil metueret, non eandem esse causam sibi atque illi respondit, quoniam is quidem esset non magno opere sollicitus pro anima nequissimi nebulonis, ipsum autem pro Aristippi anima timere." 11 His tunc verbis Stoicus divitem illum Asiaticum a sese molitus est. 12 Sed postea cum Brundisium adventaremus malaciaque esset venti ac maris, percontatus eum sum, quaenam illa ratio esset pavoris sui, quam dicere ei supersedisset, a quo fuerat non satis digne compellatus. 13 Atque ille mihi placide et comiter "quoniam" inquit "audiendi cupidus es, audi, quid super isto brevi quidem, sed necessario et naturali pavore maiores nostri, conditores sectae Stoicae, senserint, vel potius" inquit "lege; nam et facilius credideris, si legas, et memineris magis." 14 Atque ibi coram ex sarcinula sua librum protulit Epicteti philosophi quintum dialexeon, quas ab Arriano digestas congruere scriptis Zenonos et Chrysippi non dubium est. 15 In eo libro Graeca scilicet oratione scriptum ad hanc sententiam legimus: "Visa animi, quas phantasias philosophi appellant, quibus mens hominis prima statim specie accidentis ad animum rei pellitur, non voluntatis sunt neque arbitraria, sed vi quadam sua inferunt sese hominibus noscitanda; 16 probationes autem, quas synkatatheseis vocant, quibus eadem visa noscuntur ac diiudicantur voluntariae sunt fiuntque hominum arbitratu. 17 Propterea cum sonus aliquis formidabilis aut caelo aut ex ruina, aut repentinus nescio cuius periculi nuntius vel quid aliud est eiusmodi factum, sapientis quoque animum paulisper moveri et contrahi et pallescere necessum est non opinione alicuius mali praecepta, sed quibusdam motibus rapidis et inconsultis officium mentis atque rationis praevertentibus. 18 Mox tamen ille sapiens ibidem τὰς τοιαύτας φαντασίας, id est visa istaec animi sui terrifica, non adprobat, hoc est οὐ συγκατατίθεται οὐδὲ προσεπιδοξαζει, sed abicit respuitque, nec ei metuendum esse in his quicquam videtur. 19 Atque hoc inter insipientis sapientisque animum differre dicunt, quod insipiens, qualia sibi esse primo animi sui pulsu visa sunt saeva et aspera, talia esse vero putat et eadem incepta, tamquam si iure metuenda sint, sua quoque adsensione adprobat καὶ προεπιδοξαζει — hoc enim verbo Stoici, cum super ista re disserunt, utuntur —, 20 sapiens autem, cum breviter et strictim colore atque vultu motus est, ou συγκατατίθεται, sed statum vigoremque sententiae suae retinet, quam de huiuscemodi visis semper habuit ut de minime metuendis, sed fronte falsa et formidine inani territantibus." 21 Haec Epictetum philosophum ex decretis Stoicorum sensisse atque dixisse in eo, quo dixi, libro legimus adnotandaque esse idcirco existimavimus, ut rebus forte id genus, quibus dixi, obortis pavescere sensim et quasi albescere non insipientis esse hominis neque ignavi putemus et in eo tamen brevi motu naturali magis infirmitati cedamus, quam quod esse ea, qualia visa sunt, censeamus.
+
+	
+2
+
+. . .
 
 	
 1 Quinque sunt hominum sensus, quos Graeci αἰσθήσεις appellant, per quos voluptas animo aut corpori quaeri videatur: gustus, tactus, odoratus, visus, auditus. Ex his omnibus quae inmodice voluptas capitur, ea turpis atque inproba existimatur. 2 Sed enim quae nimia ex gustu atque tactu est, ea voluptas, sicuti sapientes viri censuerunt, omnium rerum foedissima est, eosque maxime, qui duabus istis beluinis voluptatibus sese dediderunt, gravissimi vitii vocabulis Graeci appellant vel ἀκρατεῖς vel ἀκολάστους: nos eos vel "incontinentes" dicimus vel "intemperantes"; ἀκολάστους enim si interpretari coactius velis, nimis id verbum insolens erit. 3 Istae autem voluptates duae gustus atque tactus, id est libidines in cibos atque in Venerem prodigae, solae sunt hominibus communes cum beluis et idcirco in pecudum ferorumque animalium numero habetur, quisquis est his ferinis voluptatibus praevinctus; 4 ceterae ex tribus aliis sensibus proficiscentes hominum esse tantum propriae videntur. 5 Verba super hac re Aristotelis philosophi adscripsi, ut vel auctoritas clari atque incluti viri tam infamibus nos voluptatibus deterreret: Διὰ τί οἱ κατὰ τὴν τῆς ἀφῆς ἢ γεύσεως ἡδονὴν γιγνομένην, ἂν ὑπερβάλλωσιν, ἀκρατεῖς λέγονται; οἵ τε γὰρ περὶ τὰ ἀφροδίσια ἀκόλαστοι τοιοῦτοι, οἵ τε περὶ τὰς τῆς τροφῆς ἀπολαύσεις· τῶν δὲ κατὰ τὴν τροφὴν ἀπ᾽ ἐνίων μὲν ἐν τῇ γλοττω τὸ ἡδὺ, ἀπ᾽ ἐνίων δὲ ἐν τῷ λάρυγγι, διὸ καὶ Φιλόξενος γεράνου λάρυγγα εὔχετο ἔχειν. Ἢ διὰ τὸ τὰς ἀπὸ τούτων γινομένας ἡδονὰς κοινὰς εἶναι ἡμῖν καὶ τοῖς ἄλλοις ζώοις; ἅτε οὐσῶν κοινῶν ἀτιμώτατα εἰσι καὶ μάλιστα ἢ μόναι ἐπονείδιστοι, ὡς τὸν ὑπὸ τούτων ἡττώμενον ψέγομεν καὶ ἀκρατῆ καὶ ἀκόλαστον λέγομεν διὰ τὸ ὑπὸ τῶν χειρίστων ἡδονῶν ἡττᾶσθαι. Οὐσῶν δὲ τῶν αἰσθήσεων πέντε τὰ ἄλλα ζῶα ἀπὸ δύο μόνων ἥδεται, κατὰ δὲ τὰς ἄλλας ἢ ὅλως οὐχ ἥδεται ἢ κατὰ συμβεβηκὸς τοῦτο πάσχει. 6 Quis igitur habens aliquid humani pudoris voluptatibus istis duabus coeundi atque comedendi, quae sunt homini cum sue atque asino communes, gaudeat? 7 Socrates quidem dicebat multos homines propterea velle vivere, ut ederent et biberent, se bibere atque esse, ut viveret. 8 Hippocrates autem, divina vir scientia, de coitu venerio ita existimabat partem esse quandam morbi taeterrimi, quem nostri comitialem dixerunt; namque ipsius verba haec traduntur: τὴν συνουσίαν εἶναι μικρὰν ἐπιληψίαν.
 
 	
+3
+
+. . .
+
+	
 1 Turpius esse dicebat Favorinus philosophus exigue atque frigide laudari quam insectanter et graviter vituperari: 2 "quoniam," inquit "qui maledicit et vituperat, quanto id acerbius facit, tam maxime pro iniquo et inimico ducitur et plerumque propterea fidem non capit. Sed qui infecunde atque ieiune laudat, destitui a causa videtur et amicus quidem creditur eius, quem laudare vult, sed nihil posse reperire, quod iure laudet."
+
+	
+4
+
+. . .
 
 	
 1 Aristotelis libri sunt, qui problemata physica inscribuntur, lepidissimi et elegantiarum omnigenus referti. 2 In his quaerit, quam ob causam eveniat, ut quibus invasit repentinus rei magnae timor, plerumque alvo statim cita fiant. 3 Item quaerit, cur accidat, ut eum, qui propter ignem diutius stetit, libido urinae lacessat. 4 Ac de alvo quidem inter timendum prona atque praecipiti causam esse dicit, quod timor omnis sit algificus, quem ille appellat ψυχροποιὸν, eaque vi frigoris sanguinem caldoremque omnem de summa corporis cute cogat penitus et depellat faciatque simul, uti, qui timent, sanguine ex ore decedente pallescant. 5 "Is autem" inquit "sanguis et caldor in intuma coactus movet plerumque alvum et incitat. 6 De urina celebri ex igni proximo facta verba haec posuit: Τὸ δὲ πῦρ διαχαλᾷ τὸ πεπηγὸς ὥσπερ ἥλιος τὴν χιόνα.
 
 	
+5
+
+. . .
+
+	
 1 In Tiburte rus concesseramus hominis amici divitis aestate anni flagrantissima ego et quidam alii aequales et familiares mei, eloquentiae aut philosophiae sectatores. 2 Erat nobiscum vir bonus ex peripatetica disciplina bene doctus et Aristotelis unice studiosissimus. 3 Is nos aquam multam ex diluta nive bibentis coercebat severiusque increpabat. Adhibebat nobis auctoritates nobilium medicorum et cumprimis Aristotelis philosophi, rei omnis humanae peritissimi, qui aquam nivalem frugibus sane et arboribus fecundam diceret, sed hominibus potu nimio insalubrem esse tabemque et morbos sensim atque in diem longam visceribus inseminare. 4 Haec quidem ille ad nos prudenter et benivole et adsidue dictitabat. Sed cum bibendae nivis pausa fieret nulla, promit e bibliotheca Tiburti, quae tunc in Herculis templo satis commode instructa libris erat, Aristotelis librum eumque ad nos adfert et "huius saltem" inquit "sapientissimi viri verbis credite ac desinite valitudinem vestram profligare." 5 In eo libro scriptum fuit deterrimam esse potu aquam e nive itemque solidius altiusque concretam eam, quam κρύσταλλον Graeci appellant; causaque ibi adscripta est huiuscemodi: 6 "quoniam, cum aqua frigore aeris duratur et coit, necessum est fieri evaporationem et quandam quasi auram tenuissimam exprimi ex ea et emanare. 7 Id autem" inquit "in ea levissimum est, quod evaporatur; manet autem, quod est gravius et sordidius et insalubrius, atque id pulsu aeris verberatum in modum coloremque spumae candidae oritur. 8 Sed aliquantum, quod est salubrius, difflari atque evaporari ex nive indicium illud est, quod minor fit illo, quod ante fuerat quam concresceret." 9 Verba ipsa Aristotelis ex eo libro pauca sumpsi et adscripsi: Διὰ τί τὰ ἀπὸ χιόνος καὶ κρυστάλλων ὕδατα φαῦλα ἐστίν; ὅτι παντὸς ὕδατος πηγνυμένου τὸ λεπτότατον καὶ κουφότατον ἐξατμίζει. Σημεῖον δέ, ὅτι ἔλαττον γίνεται ἢ πρότερον, ὅταν τακῆι παγέν. Ἀπεληλυθότος οὖν τοῦ ὑγιεινοτάτου ἀνάγκη ἀεὶ τὸ καταλειπόμενον χεῖρον εἶναι. 10 Hoc ubi legimus, placuit honorem doctissimo viro haberi Aristoteli. Atque ita postea ego bellum et odium nivi indixi, alii indutias cum ea varie factitabant.
+
+	
+6
+
+. . .
 
 	
 1 In problematis Aristotelis philosophi ita scriptum est: Διὰ τί οἱ μὲν αἰσχυνόμενοι ἐρυθριῶσιν, οἱ δὲ φοβούμενοι ὠχριῶσιν παραπλησίων τῶν παθῶν ὄντων; ὅτι τῶν μὲν αἰσχυνομένων διαχεῖται τὸ αἷμα ἐκ τῆς καρδίας εἰς ἅπαντα τὰ μέρη τοῦ σώματος, ὥστε ἐπιπολάζειν· τοῖς δὲ φοβηθεῖσιν συντρέχει εἰς τὴν καρδίαν, ὥστε ἐκλείπειν ἐκ τῶν ἄλλων μερῶν. 2 Hoc ego Athenis cum Tauro nostro legissem percontatusque essem, quid de ratione ista reddita sentiret, "dixit quidem" inquit "probe et vere, quid accideret diffuso sanguine aut contracto, sed cur ita fieret, non dixit. 3 Adhuc enim quaeri potest, quam ob causam pudor sanguinem diffundat, timor contrahat, cum sit pudor species timoris atque ita definiatur: "timor iustae reprehensionis". Ita enim philosophi definiunt: αἰσχύνη ἐστὶν φόβος δικαίου ψόγου."
 
 	
+7
+
+. . .
+
+	
 1 In agro Vaticano Iulius Paulus poeta, vir bonus et rerum litterarumque veterum inpense doctus, herediolum tenue possidebat. Eo saepe nos ad esse sese vocabat et olusculis pomisque satis comiter copioseque invitabat. 2 Atque ita molli quodam tempestatis autumnae die ego et Iulius Celsinus, cum ad eum cenassemus et apud mensam eius audissemus legi Laevii Alcestin rediremusque in urbem sole iam fere occiduo, figuras habitusque verborum nove aut insigniter dictorum in Laeviano illo carmine ruminabamur et, ut quaeque vox indidem digna animadverti subvenerat, qua nos quoque possemus uti, memoriae mandabamus. 3 Erant autem verba, quae tunc suppetebant, huiuscemodi:
+
+
+
+"corpore" inquit "pectoreque undique obeso ac mente exsensa tardigenuclo senio obpressum."
 
 
 "Obesum" hic notavimus proprie magis quam usitate dictum pro exili atque gracilento; vulgus enim ἀκύρως vel κατὰ ἀντίφρασιν "obesum" pro "uberi" atque "pingui" dicit. 4 Item notavimus, quod "oblitteram" gentem pro "oblitterata" dixit; 5 item, quod hostis, qui foedera frangerent, "foedifragos", non "foederifragos" dixit; 6 item, quod rubentem auroram "pudoricolorem" appellavit et Memnonem "nocticolorem"; 7 item, quod forte "dubitanter" et ab eo, quod est "sileo", "silenta loca" dixit et "pulverulenta" et "pestilenta" et quod 8 "carendum tui est" pro "te" quodque "magno impete" pro "impetu"; 9 item quod "fortescere" posuit pro "fortem fieri" quodque "dolentiam" pro "dolore" et "avens" pro "libens"; 10 item "curis intolerantibus "pro "intolerandis", quodque "manciolis" inquit "tenellis" pro "manibus" et "quis tam siliceo?" . . . Item "fiere" inquit "inpendio infit", id est "fieri inpense incipit"; 11 quodque "accipitret" posuit pro "laceret". 12 His nos inter viam verborum Laevianorum adnotatiunculis oblectabamus. 13 Cetera enim, quae videbantur nimium poetica, ex prosae orationis usu alieniora praetermisimus; veluti fuit quod de Nestore ait "trisaeclisenex" et "dulciorelocus", 14 item quod de tumidis magnisque fluctibus "fluctibus" inquit "multigrumis" 15 et flumina gelu concreta "tegmine" esse "onychino" dixit et quae multiplica ludens conposuit, 16 quale illud est, quod vituperones suos "subductisupercilicarptores" appellavit.
 
 	
+8
+
+. . .
+
+	
 1 Adulescentulus Romae, priusquam Athenas concederem, quando erat a magistris auditionibusque obeundis otium, ad Frontonem Cornelium visendi gratia pergebam sermonibusque eius purissimis bonarumque doctrinarum plenis fruebar. Nec umquam factum est, quotiens eum vidimus loquentemque audivimus, quin rediremus fere cultiores doctioresque. 2 Veluti fuit illa quodam die sermocinatio illius levi quidem de re, sed a Latinae tamen linguae studio non abhorrens. 3 Nam cum quispiam familiaris eius, bene eruditus homo et tum poeta inlustris, liberatum esse se aquae intercutis morbo diceret, quod "harenis calentibus" esset usus, tum adludens Fronto "morbo quidem" inquit "cares, sed verbi vitio non cares. Gaius enim Caesar, ille perpetuus dictator, Cn. Pompei socer, a quo familia et appellatio Caesarum deinceps propagata est, vir ingenii praecellentis, sermonis praeter alios suae aetatis castissimi? in libris, quos ad M. Ciceronem de analogia conscripsit, "harenas" vitiose dici existimat, quod "harena" numquam multitudinis numero appellanda sit, sicuti neque "caelum" neque "triticum"; 4 contra autem "quadrigas", etiamsi currus unus, equorum quattuor iunctorum agmen unum sit, plurativo semper numero dicendas putat sicut "arma" et "moenia" et "comitia" et "inimicitias", nisi quid contra ea dicis, poetarum pulcherrime, quo et te purges et non esse id vitium demonstres." 5 "De 'caelo' " inquit ille "et 'tritico' non infitias eo, quin singulo semper numero dicenda sint, neque de 'armis' et 'moenibus' et 'comitiis', quin figura multitudinis perpetua censeantur; 6 videbimus autem potius de 'inimicitiis' et 'quadrigis'. Ac fortassean de 'quadrigis' veterum auctoritati concessero, 'inimicitiam' tamen, sicuti 'inscientiam' et 'inpotentiam' et 'iniuriam', quae ratio est, quamobrem C. Caesar vel dictam esse a veteribus vel dicendam a nobis non putat, quando Plautus, linguae Latinae decus, 'deliciam' quoque ἑνικῶς dixerit pro deliciis?
+
+
+
+"mea" inquit "voluptas, mea delicia."
 
 
 "Inimicitiam" autem Q. Ennius in illo memoratissimo libro dixit:
 
 
+
+"eo ego" inquit "ingenio natus sum: amicitiam atque inimicitiam in frontem promptam gero."
+
+
 Sed enim "harenas" parum Latine dici quis, oro te, alius aut scripsit aut dixit? Ac propterea peto, ut, si Gai Caesaris liber prae manibus est, promi iubeas, ut quam confidenter hoc dicat, aestimari a te possit." 7 Tunc prolato libro de analogia primo verba haec ex eo pauca memoriae mandavi. 8 Nam cum supra dixisset neque "caelum" "triticum"ve neque "harenam" multitudinis significationem pati, "num tu" inquit "harum rerum natura accidere arbitraris, quod "unam terram" ac "plures terras" et "urbem" et "urbes" et "imperium" et "imperia" dicamus, neque "quadrigas" in unam nominis figuram redigere neque "harenam" in multitudinis appellationem convertere possimus?" 9 His deinde verbis lectis ibi Fronto ad illum poetam "videturne tibi" inquit "C. Caesar de statu verbi contra te satis aperte satisque constanter pronuntiasse?" 10 Tunc permotus auctoritate libri poeta: "si a Caesare" inquit "ius provocandi foret, ego nunc ab hoc Caesaris libro provocassem. Sed quoniam ipse rationem sententiae suae reddere supersedit, nos te nunc rogamus, ut dicas, quam esse causam vitii putes et in "quadriga" dicenda et in "harenis"." 11 Tum Fronto ita respondit: " 'Quadrigae' semper, etsi multiiugae non sunt, multitudinis tamen numero tenentur, quoniam quattuor simul equi iuncti 'quadrigae' quasi 'quadriiugae' vocantur, neque debet prorsus appellatio equorum plurium includi in singularis numeri unitatem. 12 Eandemque rationem habet 'harena', sed in specie dispari; nam cum 'harena' singulari numero dicta multitudinem tamen et copiam significet minimarum, ex quibus constat, partium, indocte et inscite 'harenae' dici videntur, tamquam id vocabulum indigeat numeri amplitudine, cum ei singulariter dicto ingenita sit naturalis sui multitudo. Sed haec ego" inquit "dixi, non ut huius sententiae legisque fundus subscriptorque fierem, sed ut ne Caesaris, viri docti, opinionem ἀπαραμύθητον destituerem. 13 Nam cur "caelum" semper ἑνικῶς dicatur, "mare" et "terra" non semper, et "pulvis", "ventus" et "fumus" non semper, cur "indutias" et "caerimonias" scriptores veteres nonnumquam singulari numero appellaverint, "ferias" et "nundinas" et "inferias" et "exsequias" numquam, cur "mel" et "vinum" atque id genus cetera numerum multitudinis capiant, "lac" non capiat, quaeri, inquam, ista omnia et enucleari et extundi ab hominibus negotiosis in civitate tam occupata non queunt. 14 Quin his quoque ipsis, quae iam dixi, demoratos vos esse video alicui, opinor, negotio destinatos. 15 Ite ergo nunc et, quando forte erit otium, quaerite, an "quadrigam" et "harenas" dixerit e cohorte illa dumtaxat antiquiore vel oratorum aliquis vel poetarum, id est classicus adsiduusque aliquis scriptor, non proletarius." 16 Haec quidem Fronto requirere nos iussit vocabula non ea re, opinor, quod scripta esse in ullis veterum libris existumaret, sed ut nobis studium lectitandi in quaerendis rarioribus verbis exerceret. 17 Quod unum ergo rarissimum videbatur, invenimus "quadrigam" numero singulari dictam in libro saturarum M. Varronis, qui inscriptus est Ecdemeticus. 18 "Harenas" autem πληθυντικῶς dictas minore studio quaerimus, quia praeter C. Caesarem, quod equidem meminerim, nemo id doctorum hominum dedit.
+
+	
+9
+
+. . .
 
 	
 1 Adulescens e terra Asia de equestri loco laetae indolis moribusque et fortuna bene ornatus et ad rem musicam facili ingenio ac lubenti cenam dabat amicis ac magistris sub urbe in rusculo celebrandae lucis annuae, quam principem sibi vitae habuerat. 2 Venerat tum nobiscum ad eandem cenam Antonius Iulianus rhetor, docendis publice iuvenibus magister, Hispano ore florentisque homo facundiae et rerum litterarumque veterum peritus. 3 Is, ubi eduliis finis et poculis mox sermonibusque tempus fuit, desideravit exhiberi, quos habere eum adulescentem sciebat, scitissimos utriusque sexus, qui canerent voce et qui psallerent. 4 Ac posteaquam introducti pueri puellaeque sunt, iucundum in modum Ἀνακρεόντεια pleraque et Sapphica et poetarum quoque recentium ἐλεγεῖα quaedam erotica dulcia et venusta cecinerunt. 5 Oblectati autem sumus praeter multa alia versiculis lepidissimis Anacreontis senis, quos equidem scripsi, ut interea labor hic vigiliarum et inquies suavitate paulisper vocum atque modulorum adquiesceret:
 
 
+
+
+6
+Τὸν ἄργυρον τορεύσας,
+			
+Ἥφαιστέ μοι ποίησον
+			
+πανοπλίας μὲν οὐχὶ,
+			
+τί γὰρ μαχαισι κἀμοι;
+			
+ποτήριον δὲ κοῖλόν,
+			
+ὅσον δύνῃ, βάθυνον.
+			
+καὶ με ποιεῖ κατ᾽ αὐτοῦ
+			
+μήτ᾽ ἄστρα, μήθ᾽ ἁμάξας,
+			
+τί Πλειάδων μέλει μοι,
+			
+τί δ᾽ ἀστέρος Βοώτεω;
+			
+ποίησον αμπἕλους μοι
+			
+καὶ βότρυας κατ᾽ αὐτῶν
+			
+καὶ χρύσεος πατοῦντας
+			
+ὁμοῦ καλοὶ Λυαίῳ
+			
+Ἔρωτα καὶ Βάθυλλον.
+		
+
+
+
 7 Tum Graeci plusculi, qui in eo convivio erant, homines amoeni et nostras quoque litteras haut incuriose docti, Iulianum rhetorem lacessere insectarique adorti sunt tamquam prorsus barbarum et agrestem, qui ortus terra Hispania foret clamatorque tantum et facundia rabida iurgiosaque esset eiusque linguae exercitationes doceret, quae nullas voluptates nullamque mulcedinem Veneris atque Musae haberet; saepeque eum percontabantur, quid de Anacreonte ceterisque id genus poetis sentiret et ecquis nostrorum poetarum tam fluentes carminum delicias fecisset, "nisi Catullus" inquiunt "forte pauca et Calvus itidem pauca. Nam Laevius inplicata et Hortensius invenusta et Cinna inlepida et Memmius dura ac deinceps omnes rudia fecerunt atque absona." 8 Tum ille pro lingua patria tamquam pro aris et focis animo inritato indignabundus "cedere equidem" inquit "vobis debui, ut in tali asotia atque nequitia Alcinoum vinceretis et sicut in voluptatibus cultus atque victus, ita in cantilenarum quoque mollitiis anteiretis. 9 Sed ne nos, id est nomen Latinum, tamquam profecto vastos quosdam et insubidos ἀναφροδισίας condemnetis, permittite mihi, quaeso, operire pallio caput, quod in quadam parum pudica oratione Socraten fecisse aiunt, et audite ac discite nostros quoque antiquiores ante eos, quos nominastis, poetas amasios ac venerios fuisse." 10 Tum resupinus capite convelato voce admodum quam suavi versus cecinit Valerii Aeditui, veteris poetae, item Porcii Licini et Q. Catuli, quibus mundius, venustius, limatius, tersius Graecum Latinumve nihil quicquam reperiri puto. 11 Aeditui versus:
+
+
+
+
+
+dicere cum conor curam tibi, Pamphila, cordis,
+			
+quid mi abs te quaeram, verba labris abeunt,
+			
+per pectus manat subito subido mihi sudor:
+			
+sic tacitus, subidus, dum pudeo, pereo.
+		
+
 
 
 12 Atque item alios versus eiusdem addidit, non hercle minus dulces quam priores:
 
 
+
+
+
+quid faculam praefers, Phileros, qua est nil opus nobis?
+			
+ibimus sic, lucet pectore flamma satis.
+			
+Istam nam potis est vis saeva extinguere venti
+			
+aut imber caelo candidus praecipitans;
+			
+at contra hunc ignem Veneris, nisi si Venus ipsa,
+			
+nullast quae possit vis alia opprimere.
+		
+
+
+
 13 Item dixit versus Porcii Licini hosce:
+
+
+
+
+
+custodes ovium tenerae propaginis, agnum,
+			
+quaeritis ignem? ite huc; quaeritis? ignis homost.
+			
+si digito attigero, incendam silvam simul omnem,
+			
+omne pecus flammast, omnia qua video.
+		
+
 
 
 14 Quinti Catuli versus illi fuerunt:
 
 
+
+
+
+aufugit mi animus; credo, ut solet, ad Theotimum
+			
+devenit. Sic est: perfugium illud habet.
+			
+Quid, si non interdixem, ne illunc fugitivum
+			
+mitteret ad se intro, sed magis eiceret?
+			
+ibimus quaesitum. Verum, ne ipsi teneamur,
+			
+formido. Quid ago? da, Venus, consilium.
+		
+
+
+
+10
+
+. . .
+
+	
 1 Memini me quodam et Celsinum Iulium Numidam ad Frontonem Cornelium pedes tunc graviter aegrum ire et visere. Atque ubi introducti sumus, offendimus eum cubantem in scimpodio Graeciensi circumundique sedentibus multis doctrina aut genere aut fortuna nobilibus viris. 2 Adsistebant fabri aedium complures balneis novis moliendis adhibiti ostendebantque depictas in membranulis varias species balnearum. 3 Ex quibus cum elegisset unam formam speciemque veris, interrogavit, quantus esset pecuniae sumptus ad id totum opus absolvendum, 4 cumque architectus dixisset necessaria videri esse sestertia ferme trecenta, unus ex amicis Frontonis "et praeterpropter" inquit "alia quinquaginta". 5 Tum Fronto dilatis sermonibus, quos habere de balnearum sumptu institerat, aspiciens ad eum amicum, qui dixerat quinquaginta esse alia praeterpropter necessaria, eum interrogavit, quid significaret verbum "praeterpropter". 6 Atque ille amicus "non meum" inquit "hoc verbum est, sed multorum hominum, quos loquentis id audias; 7 quid autem id verbum significet, non ex me, sed ex grammatico quaerundum est", ac simul digito demonstrat grammaticum haud incelebri nomine Romae docentem. 8 Tum grammaticus usitati pervulgatique verbi obscuritate motus "quaerimus" inquit "quod honore quaestionis minime dignum est. 9 Nam nescio quid hoc praenimis plebeium est et in opificum sermonibus quam . . . notius." 10 At enim Fronto iam voce atque vultu intentiore "itane," inquit "magister, dehonestum tibi deculpatumque hoc verbum videtur, quo et M. Cato et M. Varro et pleraque aetas superior ut necessario et Latino usi sunt?" 11 Atque ibi Iulius Celsinus admonuit in tragoedia quoque Enni, quae Iphigenia inscripta est, id ipsum, de quo quaerebatur, scriptum esse et a grammaticis contaminari magis solitum quam enarrari. 12 Quocirca statim proferri Iphigeniam Q. Enni iubet. In eius tragoediae choro inscriptos esse hos versus legimus:
+
+
+
+
+
+otio qui nescit uti,
+			
+plus negoti habet quam, cum est negotium, in negotio.
+			
+Nam cui, quod agat, institutum in otio est negotium,
+			
+id agit, id studet, ibi mentem atque animum delectat suum;
+			
+otioso in otio animus nescit quid velit.
+			
+Hoc idem est; em neque domi nunc nos nec militiae sumus:
+			
+imus huc, hinc illuc; cum illuc ventum est, ire illinc lubet.
+			
+incerte errat animus, praeterpropter vitam vivitur.
+		
+
 
 
 13 Hoc ubi lectum est, tum deinde Fronto ad grammaticum iam labentem "audistine," inquit "magister optime, Ennium tuum dixisse "praeterpropter" et cum sententia quidem tali, quali severissimae philosophorum esse obiurgationes solent? petimus igitur, dicas, quoniam de Enniano iam verbo quaeritur, qui sit remotus huiusce versus sensus:
 
 
+
+
+
+incerte errat animus, praeterpropter vitam vivitur."
+		
+
+
+
 14 Et grammaticus sudans multum ac rubens multum, cum id plerique prolixius riderent, exsurgit et abiens "tibi," inquit "Fronto, postea uni dicam, ne inscitiores audiant ac discant." Atque ita omnes relicta ibi quaestione verbi consurreximus.
+
+	
+11
+
+. . .
 
 	
 1 Celebrantur duo isti Graeci versiculi multorumque doctorum hominum memoria dignantur, quod sint lepidissimi et venustissimae brevitatis. 2 Neque adeo pauci sunt veteres scriptores, qui eos Platonis esse philosophi adfirmant, quibus ille adulescens luserit, cum tragoediis quoque eodem tempore faciendis praeluderet:
 
 
+
+
+
+τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν εἶχον·
+			
+ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.
+		
+
+
+
 3 Hoc δίστιχον amicus meus, οὐκ ἄμουσος adulescens, in plures versiculos licentius liberiusque vertit. Qui quoniam mihi quidem visi sunt non esse memoratu indigni, subdidi:
 
 
+
+
+
+4Dum semihiulco savio
+			
+meum puellum savior
+			
+dulcemque florem spiritus
+			
+duco ex aperto tramite,
+			
+anima aegra et saucia
+			
+cucurrit ad labeas mihi,
+			
+rictumque in oris pervium
+			
+et labra pueri mollia,
+			
+rimata itineri transitus,
+			
+ut transiliret, nititur.
+			
+Tum si morae quid plusculae
+			
+fuisset in coetu osculi,
+			
+Amoris igni percita
+			
+transisset et me linqueret,
+			
+et mira prorsum res foret,
+			
+ut fierem ad me mortuus,
+			
+ad puerulum intus viverem.
+
+		
+
+
+
+12
+
+. . .
+
+	
 1 Herodem Atticum, consularem virum, Athenis disserentem audivi Graeca oratione, in qua fere omnes memoriae nostrae universos gravitate atque copia et elegantia vocum longe praestitit. 2 Disseruit autem contra ἀπάθειαν Stoicorum lacessitus a quodam Stoico, tamquam minus sapienter et parum viriliter dolorem ferret ex morte pueri, quem amaverat. 3 In ea dissertione, quantulum memini, huiuscemodi sensus est: quod nullus usquam homo, qui secundum naturam sentiret et saperet, adfectionibus istis animi, quas πάθη appellabat, aegritudinis, cupiditatis, timoris, irae, voluptatis, carere et vacare totis posset, atque, si posset etiam obniti, ut totis careret, non fore id melius, quoniam langueret animus et torperet adfectionum quarundam adminiculis ut necessaria plurium temperie privatus. 4 Dicebat enim sensus istos motusque animi, qui cum inmoderatiores sunt, vitia fiunt, innexos inplicatosque esse vigoribus quibusdam mentium et alacritatibus, 5 ac propterea, si omnino omnis eos inperitius convellamus, periculum esse, ne eis adhaerentes bonas quoque et utiles animi indoles amittamus. 6 Moderandos esse igitur et scite considerateque purgandos censebat, ut ea tantum, quae aliena sunt contraque naturam videntur et cum pernicie adgnata sunt, detrahantur, ne profecto id accidat, quod cuipiam Thraco insipienti et rudi in agro, quem emerat, procurando venisse usu fabulast. 7 "Homo Thracus" inquit "ex ultima barbaria ruris colendi insolens, cum in terras cultiores humanioris vitae cupidine conmigrasset, fundum mercatus est oleo atque vino consitum. Qui nihil admodum super vite aut arbore colenda sciret, videt forte vicinum rubos alte atque late obortas excidentem, fraxinos ad summum prope verticem deputantem, suboles vitium e radicibus caudicum super terram fusas revellentem, stolones in pomis aut in oleis proceros atque derectos amputantem, acceditque prope et cur tantam ligni atque frondium caedem faceret percontatus est. 8 Et vicinus ita respondit: "Ut ager" inquit "mundus purusque fiat, eius arbor atque vitis fecundior." 9 Discedit ille a vicino gratias agens et laetus tamquam adeptus rei rusticae disciplinam. Tum falcem ibi ac securim capit; atque ibi homo misere inperitus vites suas sibi omnis et oleas detruncat comasque arborum laetissimas uberrimosque vitium palmites decidit et frutecta atque virgulta simul omnia pomis frugibusque gignendis felicia cum sentibus et rubis purificandi agri gratia convellit mala mercede doctus audaciam fiduciamque peccandi imitatione falsa eruditus. 10 Sic" inquit "isti apathiae sectatores, qui videri se esse tranquillos et intrepidos et inmobiles volunt, dum nihil cupiunt, nihil dolent, nihil irascuntur, nihil gaudent, omnibus vehementioris animi officiis amputatis in torpore ignavae et quasi enervatae vitae consenescunt."
+
+	
+13
+
+. . .
 
 	
 1 Stabant forte una in vestibulo Palatii fabulantes Fronto Cornelius et Festus Postumius et Apollinaris Sulpicius, atque ego ibi adsistens cum quibusdam aliis sermones eorum, quos de litterarum disciplinis habebant, curiosius captabam. 2 Tum Fronto Apollinari "fac me," inquit "oro, magister, ut sim certus, an recte supersederim "nanos" dicere parva nimis statura homines maluerimque eos "pumiliones" appellare, quoniam hoc scriptum esse in libris veterum memineram, "nanos" autem sordidum esse verbum et barbarum credebam." 3 "Est quidem" inquit "hoc" Apollinaris "in consuetudine inperiti vulgi frequens, sed barbarum non est censeturque linguae Graecae origine; νάνους enim Graeci vocaverunt brevi atque humili corpore homines paulum supra terram exstantes idque ita dixerunt adhibita quadam ratione etymologiae cum sententia vocabuli competente et, si memoria" inquit "mihi non labat, scriptum hoc est in comoedia Aristophanis, cui nomen est Ὁλκάδες. Fuisset autem verbum hoc a te civitate donatum aut in Latinam coloniam deductum, si tu eo uti dignatus fores, essetque id inpendio probabilius, quam quae a Laberio ignobilia nimis et sordentia in usum linguae Latinae intromissa sunt." 4 Tum Festus Postumius grammatico cuipiam Latino, Frontonis familiari "docuit" inquit "nos Apollinaris "nanos" verbum Graecum esse, tu nos doce, in quo de mulis aut eculeis humilioribus vulgo dicitur, anne Latinum sit et aput quem scriptum reperiatur." 5 Atque ille grammaticus, homo sane perquam in noscendis veteribus scriptis exercitus, "si piaculum" inquit "non committitur praesente Apollinare, quid de voce ulla Graeca Latinave sentiam, dicere, audeo tibi, Feste, quaerenti respondere esse hoc verbum Latinum scriptumque inveniri in poematis Helvi Cinnae, non ignobilis neque indocti poetae", versusque eius ipsos dixit, quos, quoniam memoriae mihi forte aderant, adscripsi:
 
 
+
+
+
+at nunc me Genumana per salicta
+			
+bigis raeda rapit citata nanis.
+		
+
+
+
+14
+
+. . .
+
+	
 1 Aetas M. Ciceronis et C. Caesaris praestanti facundia viros paucos habuit, doctrinarum autem multiformium variarumque artium, quibus humanitas erudita est, columina habuit M. Varronem et P. Nigidium. 2 Sed Varronis quidem monumenta rerum ac disciplinarum, quae per litteras condidit, in propatulo frequentique usu feruntur, 3 Nigidianae autem commentationes non proinde in volgus exeunt, et obscuritas subtilitasque earum tamquam parum utilis derelicta est. 4 Sicuti sunt, quae paulo ante legimus in commentariis eius, quos grammaticos inscripsit, ex quibus quaedam ad demonstrandum scripturae genus exempli gratia sumpsi. 5 Nam cum de natura atque ordine litterarum dissereret, quas grammatici "vocales" appellant, verba haec scripsit, quae reliquimus inenarrata ad exercendam legentium intentionem: 6 "a" et "o" semper principes sunt, "i" et "u" semper subditae, "e" et subit et praeit; praeit in "Euripo", subit in "Aemilio". Si quis putat praeire "u" in his: "Valerius", "Vennonius", "Volusius", aut "i" in his: "iampridem", "iecur", "iocus", "iucundum", errabit, quod hae litterae, cum praeeunt, ne vocales quidem sunt." 7 Item ex eodem libro verba haec sunt: "Inter litteram "n" et "g" est alia vis, ut in nomine "anguis" et "angari" et "ancorae" et "increpat" et "incurrit" et "ingenuus". In omnibus enim his non verum "n", sed adulterinum ponitur. Nam "n" non esse lingua indicio est; nam si ea littera esset, lingua palatum tangeret." 8 Alio deinde in loco ita scriptum: "Graecos non tantae inscitiae arcesso, qui ou ex o et u scripserunt, quantae, qui "ei" ex "e" et "i"; illud enim inopia fecerunt, hoc nulla re subacti."
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+Gellius
+			
+
+
+
+
+Classical Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Kal. Iul. 12

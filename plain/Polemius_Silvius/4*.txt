@@ -1,4 +1,88 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+Laterculus
+	
+
+p545
+IV
+	
+
+Quae sint Romae.
+	
+
 Montes septem: Caelius, Aventinus, Palatinus (inter quos duos circus est in valle Murcia), Tarpeius, Esquilinus, Vaticanus ec (sic) Ianiculensis.
 
 	
@@ -56,6 +140,7 @@ Inter quae omnia VII sunt mira praecipua, id est Ianicolum, cloacae, aquaeducti
 
 
 
+
 Excerpta hae ex appendice Notitiae urbis satis habui ita repraesentare ut in codice perscripta sunt tractata satis a Notitiae editoribus, inter quos nomino Iordanum cum in topographiae vol. 2 (1871) p539 seq. tum in forma urbis (1874) p47 seq. — Quem ad editionem priorem adieci locum de ambitu urbium quattuor Carthaginis Babylonis Romae Alexandreae repertum in cod. Paris. 8319 saec. XI (unde receperunt eum Iordanus topogr. 2 p176; Urlichs cod. urb. Romae top. p49; Riese geogr. min. p140) non repetivi, quoniam sumptus est ex Alexandri Polemii commentariis de rebus gestis Alexandri Macedonis I.1 c. 26. — Iis quae ex Notitia urbis Romae Silvius expilavit adieci montium et aquaeductum urbis Romae recensum inventum cum in Laur. 89, 67 (vide supra p529 not. 2) tum in apographis codicis Spirensis (supra p528 c. 3). prodiit iam praemissus Notitiae urbis Romae in editione eius libelli principe opinor Romae a. 1505 per Ioannem de Besicken; deinde cum ex Laurentiano edidit Preller (Regionen der Stadt Rom a. 1846 p37). hoc loco exhibetur ad codices duos Monacensem 10291 (M) et Laurentianumº 89, 67 (L).
 
 
@@ -99,59 +184,83 @@ Praeter haec repletur etiam indigeniso nymphis, quasp admiratus Vergilius Aeneam
 	
 [Aen. 8.71]: Nymphae, Laurentes Nymphae, genus amnibus unde est
 
+
+Apparatus Criticus:
+	
+
 a
 om. L
+❦
 
 b
 celius M
+❦
 
 c
 ante nunc ins. de aquarum ductibus romam rigantibus L
+❦
 
 d
 aquarum quae] quarumcunque M, quorum L
+❦
 
 e
 urbis] M, urbis aquae L
+❦
 
 f
 confluctionibus avectae M
+❦
 
 g
 et adducta est M, est et adducta L
+❦
 
 h
 adductaque] et adducta L
+❦
 
 i
 inu. adductaque est a. m. agr. L
+❦
 
 j
 aureliano M
+❦
 
 k
 alexandriana M
+❦
 
 l
 deductaque est L
+❦
 
 m
 que om. M
+❦
 
 n
 drusio L
+❦
 
 o
 indegis L
+❦
 
 p
 quas . . . inter alia dicere] scripsi dubitans, quae admiratus (ammiratur M) uirgo aeneam taliter italiam dixit LM
+
+
+Adnotationes Editoris:
+	
 
 1a
 1b
 Notitia p546 edita concordat in nominibus quattuor primis, pro Quirinali et Viminali substituit Vaticanum et Ianiculensem.
 
 
+❦
 
 2
 Marciam non duxit, sed restituit Agrippa teste
@@ -159,6 +268,7 @@ Marciam non duxit, sed restituit Agrippa teste
 Frontino c. 9.
 
 
+❦
 
 3
 Hoc aliquatenus defendit relatio
@@ -166,11 +276,13 @@ Hoc aliquatenus defendit relatio
 Frontini c. 9.
 
 
+❦
 
 4
 Fuerunt aquae tam Iulia quam Aurelia; sine dubio post inventa quaedam exciderunt.
 
 
+❦
 
 5
 Immo ab Augusto teste
@@ -178,6 +290,7 @@ Immo ab Augusto teste
 Frontino c. 11.
 
 
+❦
 
 6
 Recte; videatur
@@ -185,9 +298,117 @@ Recte; videatur
 Frontinus c. 9.
 
 
+❦
 
 7
 Haec quo pertineant, non perspicitur.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+XVII Kal. Aug. 07

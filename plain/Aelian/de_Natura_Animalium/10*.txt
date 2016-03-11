@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber 9
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber 11
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p144
+Liber Decimus
+	
+
 1
 Elephantum raro amare ferunt; quoniam, ut ante dictum est, a libidine temperans sit. Audivi sane elephantorum adfectum amatorium admiratione dignum; quemque audivi, hicce est: Virum venandi elephantos haud imperitum, Alexandrum nomine, ut auctor est Dion1 cum ab imperatore Romano cum potestate in Mauritaniam ad venandum elephantos ablegatus esset, ex elephantino genere adolescentem formosam, ut elephanti formosi esse possunt vidisse coeuntem cum elephanto similiter et adolescente et pulchro; alterum vero seniorem, quia hujus sive amator sive maritus esset, ut se spretum vidit, ignominiae loco hoc tulisse: quare acri animo incitatum impetum fecisse, ut nihil propius factum fuerit, quam ut nos, inquit, omnes perderet; sicque incurrisse in illum formosum rivalem suum, pugnamque edidisse, tanquam eum, qui de amica sibi erepta doloribus aceerrimis premitur: adeoque infestis animis utrumque cum altero pugnam commisisse, ut ex impetu cornibus ambo mutilarentur; neutrum vero vicisse, quod multis jaculis eos venatores distraxerint, jam enim cornibus mutilos tanquam inutiles capere non dignabantur. Hic igitur amatorum elephantorum pugnae aequis semper utrinque viribus decertate finis est impositu. At Paridem apud Homerum trahit Menelaus, et loro sub galea constrictum tantum non suffocabat,
 Et sane vicisset, et praeclaram laudem sibi comparasset
@@ -268,8 +391,16 @@ Audivi qui dicerent in Eryce, ubi scilicet celeberrimum illud Veneris templum es
 
 p159quae cum multa subinde sacrificia recipiat, die toto usque ad noctem accenditur. Illucescente vero jam aurora non amplius prunam, non cinerem, non ullos titiones ostendit; sed rore est plena, et recentibus herbis, quae subinde singulis noctibus in ea renascuntur. Porro victimae de pecorum gregibus sua sponte accedunt, et ad aram adstant. Ducit autem illas primum deae vis, deinde voluntas sacrificantis. Nam si ovem sacrificare libuerit, en tibi ovis ad aram adstat, et gutturnium ad sacrificandi usum; si capram, si hoedum, similiter. Quod si copiosior fueris, et vaccam aut etiam plures ferire volueris, neque pastores, nimio ejus pretio indicato, tibi molesti erunt vendendo, neque tu ipsis licitando. Intuetur enim dea contractus justitiam, quam si servaris, et justum solveris pretium propitiam eam experieris; at si minoris, quam par est, emere volueris, frustra a de deponetur pecoris; victima enim recedet, nec erit, quod sacrifices. Hoc igitur Erycinis animalibus proprium iis, quae supra dixi, hic addiderim.
 
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+Adnotatio Thayeri:
+	
 
 a
 
@@ -277,3 +408,114 @@ Frag. 81.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+VI Kal. Oct. 04

@@ -1,6 +1,119 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p484
+Suetonius,
+	
+Vita Horati
+	
+
+
+
 Q. Horatius Flaccus, Venusinus, patre ut ipse tradit libertino et exactionum coactore (ut vero1 creditum est salsamentario, cum illi quidam in altercatione exprobrasset:2 "Quotiens ego vidi patrem tuum brachio se emungentem!") bello Philippensi excitus a Marco Bruto imperatore, tribunus militum meruit; victisque partibus venia impetrata scriptum quaestorium comparavit. Ac primo Maecenati, mox Augusto insinuatus non mediocrem in amborum amicitia locum tenuit. Maecenas quantopere eum dilexerit3 satis testatur4 illo epigrammate:
+
+
+
+
+
+"Ni te visceribus meis, Horati,
+			
+Plus iam diligo, tu tuum sodalem
+			
+Ninnio5 videas strigosiorem";
+		
+
 
 
 
@@ -19,6 +132,20 @@ p488plerisque eius modi scriptis mecum potissimum loquaris; an vereris ne apud p
 
 
 
+
+
+"Cum tot sustineas et tanta negotia solus,
+			
+Res Italas armis tuteris, moribus ornes,
+			
+Legibus emendes: in publica commoda peccem,
+			
+Si longo sermone morer tua tempora, Caesar."
+		
+
+
+
+
 Habitu corporis fuit brevis atque obesus, qualis et a semet ipso in saturis describitur et ab Augusto hac epistula: "Pertulit ad me Onysius libellum tuum, quem ego ut excusantem,12 quantuluscumque est, boni consulo. Vereri autem mihi videris ne maiores libelli tui sint, quam ipse es; sed tibi statura deest, corpusculum non deest. Itaque licebit in sextariolo scribas, ut circuitus voluminis tui sit ὀγκωδέστατος, sicut est ventriculi tui."
 
 	
@@ -33,30 +160,39 @@ Natus est VI Idus Decembris L. Cotta et L. Torquato consulibus, decessit V K
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 vero, Muretus; vere, MSS.; fere, Casaubon.
 
 
+❦
 
 2
 exprobasset, Fλ.
 
 
+❦
 
 3
 dilexerit, ϛ; the other MSS. have dilexit.
 
 
+❦
 
 4
 testatur, Fλp; monstratur, V.
 
 
+❦
 
 5
 nimio, MSS. (ninio, ϕ); Ninnio, P. Pithoeus; hinnulo, Oudendorp; hinno me, Lambinus; simio, Sudhaus.
 
 
+❦
 
 6
 Augustus . . . Caesar
@@ -66,50 +202,162 @@ Augustus . . . Caesar
 omitted in ϛ.
 
 
+❦
 
 7
 ut, added by Lambinus.
 
 
+❦
 
 8
 a, added by Nannius.
 
 
+❦
 
 9
 Casaubon.
 
 
+❦
 
 10
 penem, Murenus; pene, MSS.
+❦
 
 11
 perpetuo, V; the other MSS. have perpetua.
 
 
+❦
 
 12
 accusantem, MSS.; excusantem, Reiff.; ut accusem te, Bentley.
 
 
+❦
 
 13
 eius, V; the other MSS. omit.
 
 
+❦
 
 14
 O. Jahn indicated a lacuna; there is no mention of Horace's genuine works.
 
 
+❦
 
 15
 Marcio, Bonagars mario, MSS.
+❦
 
 16
 diem . . . quinquagesimum, supplied by Vahlen; see Hermes, 33.245.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08

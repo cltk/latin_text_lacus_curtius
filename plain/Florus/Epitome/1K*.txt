@@ -1,4 +1,134 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars X
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars XII
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+p178
+
+XL. Bellvm Mithridaticvm
+	
+
 III, 5
 Ponticae gentes a septentrione in sinistrum iacent, a Pontico cognominatae mari. Harum gentium atque regionum rex antiquissimus Aeetas,1 post Artabazes, a septem Persis oriundus, inde Mithridates, omnium longe maximus. 2 Quippe cum quattuor Pyrrho, tredecim2 anni Annibali suffecerint, ille per quadraginta annos restitit, donec tribus ingentibus bellis subactus felicitate Sullae,3 virtute Luculli, magnitudine Pompei consumeretur. 3 Causam quidem illius belli praetenderat apud Cassium legatum, adtrectari terminos suos a Nicomede Bithyno; ceterum elatus animis ingentibus Asiae totius et,
 
@@ -34,8 +164,15 @@ p188positis sub ipso Caucaso castris iussit in plana descendere, at Arthocen, qu
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Aeetas: œtas N: aetas B: etas L.
+
+
+
 
 
 
@@ -46,8 +183,14 @@ tredecim B: quattuordecim NL.
 
 
 
+
+
+
 3
 Sullae: syllae NL: sillae B.
+
+
+
 
 
 
@@ -58,8 +201,14 @@ depulisset: dispulisset BL.
 
 
 
+
+
+
 5
 a: et B.
+
+
+
 
 
 
@@ -70,8 +219,14 @@ Nicomedes, Ariobarzanes: nichomede abariobar zenae B.
 
 
 
+
+
+
 7
 tantum: tantus B.
+
+
+
 
 
 
@@ -79,8 +234,14 @@ tantum: tantus B.
 8
 alienas . . . raptas scripsi: alienam . . . raptam codd.
 
+
+
+
 9
 Cyzicus: ci zicus B: Cyzicum NL.
+
+
+
 
 
 
@@ -91,11 +252,20 @@ cecidt L: caedit B: caecidit N.
 
 
 
+
+
+
 11
 Aesepus Salmasius: aesopus codd.
 
+
+
+
 12
 centum om. B.
+
+
+
 
 
 
@@ -106,8 +276,14 @@ Pontico: in pontico NL: pontu B.
 
 
 
+
+
+
 14
 quasi post cum add. B.
+
+
+
 
 
 
@@ -118,8 +294,14 @@ valuit om. B.
 
 
 
+
+
+
 16
 captis, ipso capite gentis, Artaxatis NL: captae gentis atrapens supplicem ceteris omissis B.
+
+
+
 
 
 
@@ -127,8 +309,14 @@ captis, ipso capite gentis, Artaxatis NL: captae gentis atrapens supplicem cete
 17
 horum Graevius: colchorum codd.
 
+
+
+
 18
 Oroden: orhozen B.
+
+
+
 
 
 
@@ -139,8 +327,14 @@ post imperabat add. et codd., del. Iahnius.
 
 
 
+
+
+
 20
 Oroden: horolen B.
+
+
+
 
 
 
@@ -151,8 +345,14 @@ Hierosolyma: ierosolimam B: hierosolymam N.
 
 
 
+
+
+
 22
 vite: vitae B.
+
+
+
 
 
 
@@ -162,3 +362,109 @@ totam: tota B: totum (‑am man. sec.) N.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

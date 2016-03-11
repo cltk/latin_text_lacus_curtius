@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+ 
+Vitellius
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Divus
+				
+Titus
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p280
+Divus Vespasianus
+	
+
 1
 
 1 Rebellione trium principum et caede incertum diu et quasi vagum imperium suscepit firmavitque tandem gens Flavia, obscura illa quidem ac sine ullis maiorum imaginibus, sed tamen rei p. nequaquam paenitenda, constet licet Domitianum cupiditatis ac saevitiae merito poenas luisse.
@@ -213,6 +334,26 @@ p312praemium pro commento non mediocre optulit, operam remisit praefatus sineret
 p314exonerare desieris."
 
 
+
+
+
+
+
+
+Imago Vespasiani imperatoris,
+			
+in Sala degli Imperatori, Musei Capitolini, Romae.
+	
+
+
+
+
+photographia © William P. Thayer 1998
+		
+
+
+
+
 Valitudine prosperrima usus est, quamvis ad tuendam eam nihil amplius quam fauces ceteraque membra sibimet ad numerum in sphaeristerio defricaret inediamque unius diei per singulos menses interponeret.
 
 	
@@ -235,7 +376,27 @@ p316dispensatore, quem ad modum summam rationibus vellet inferri, "Vespasiano," 
 1 Utebatur et versibus Graecis tempestive satis, et de quodam procerae statuae improbiusque nato:
 
 
+
+
+
+Μακρὰ βιβάς, κραδάων δολιχόσκιον ἔγχος,
+		
+
+
+
 et de Cerylo liberto, qui dives admodum ob subterfugiendum quandoque ius fisci ingenuum se et Lachetem mutato nomine coeperat ferre:
+
+
+
+
+
+ὦ Λάχης, Λάχης,
+			
+ἐπὰν ἀποθάνῃς,20 αὖθις ἐξ ἀρχῆς21 ἔσει
+			
+σὺ22 Κηρύλος.23
+
+
 
 
 Maxime tamen dicacitatem adfectabat in deformibus lucris, ut invidiam aliqua cavillatione dilueret transferretque ad sales.
@@ -264,84 +425,105 @@ p320nititur, inter manus sublevantium extinctus est VIIII. Kal. Iul. annum age
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Sabinis, ς; Samnis, Ω.
 
 
+❦
 
 2
 Falacrinae] Phalacrinae (-ne), Ω.
 
 
+❦
 
 3
 vesperiq(ue), Ω; corrected in ς.
 
 
+❦
 
 4
 illam, Torrentius; etiam, Ω.
 
 
+❦
 
 5
 hanc, Bentley, Duker; ac, Ω.
 
 
+❦
 
 6
 infensum, Lipsius; infensus (-os), mss.
+❦
 
 7
 exim, M; the other mss. have exin.
 
 
+❦
 
 8
 cui, ς (Sabellicus); qui, Ω.
 
 
+❦
 
 9
 Trachiam, Bentley (Π); Thraciam, Ω.
 
 
+❦
 
 10
 statim nec, supplied by Bücheler; aut, Roth; statim, O. Hirschfeld.
+❦
 
 11
 clausulam, Duker; clausulae, Ω.
 
 
+❦
 
 12
 reperietur, ς (Scriverius, Salmasius); reperiretur, Ω.
 
 
+❦
 
 13
 laetatus, ς; omitted by the earlier mss.
+❦
 
 14
 negata . . . gratuita libertate, Π1QST; the other mss. have negatam . . . gratuitam libertatem.
 
 
+❦
 
 15
 adeptum, S2Tς; ademptum, Ω.
 
 
+❦
 
 16
 Coae Veneris, Graevius; coevenerit, MGΥ; coemerit, LPS1; coemit, S2T.
 
 
+❦
 
 17
 Apellae, Bücheler; Apellari, mss. (apelli, ρς).
 
 
+❦
 
 18
 Cybiosacten, Torrentius from
@@ -349,54 +531,172 @@ Cybiosacten, Torrentius from
 Strabo, 17.796; cybiotanten, Ω.
 
 
+❦
 
 19
 Caenidis, Q; Cenidis, ΠS2; the other mss. have G(a)enidis.
 
 
+❦
 
 20
 ἀποθάνῃς] αποθανες, Ω.
 
 
+❦
 
 21
 ἀρχῆς, Casaubon; αιχαρχης, M; αυχαρης, G; the rest of the mss. for the most part have αυχαρχης.
 
 
+❦
 
 22
 ἔσει σύ, Bücheler; ειρσυ, Ω.
 
 
+❦
 
 23
 Γηρυλος, Ω.
 
 
+❦
 
 24
 desiluisse, M; the other mss. have desilisse.
 
 
+❦
 
 25
 et pactus est, J. Gronov.; pactusque est, L3ς; the other mss. have pactus.
 
 
+❦
 
 26
 atqui] atquin, M.
 
 
+❦
 
 27
 ponere, Bentley; the mss. have poneret or ponerent.
 
 
+❦
 
 28
 Cutilias, ς (Beroaldus); Cutillas, Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Dec. 03

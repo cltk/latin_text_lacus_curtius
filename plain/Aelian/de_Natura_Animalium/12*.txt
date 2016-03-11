@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XI
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XIII
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p173
+Liber Duodecimus
+	
+
 1
 In Myrensi Lyciae sinu fons1 est et Apollinis templum, ad cujus sacerdotem vitulinas carunculas ex oblatis sacrificiis dispergentem orphi gregatim adnatant, et tanquam sane convivae ad epulas invitati carnes comedunt. Et vero immolantes ex eo magna voluptate adficiuntur, quod pisces sua sacrificatione pascantur; quod quidem ipsum res suas bene et feliciter casuras esse significare sibi persuadent, idcircoque propitium esse sibi deum dicunt, cujus voluntate cibis pisces expleantur. Quod si caudis carnes in terram ejiciant, tanquam sordidas a se detestantes, exinde sibi iram dei portendi arbitrantur. Itemque hujuscemodi piscium genus sacerdotis vocem et agnoscit, et si ad eos, a quibus appellatur, accesserit, sic incredibilem ipsis laetitiam adfert; at, si contra fecerit, magnum dolorem eisdem inurit.
 
@@ -95,6 +218,19 @@ Age nunc tibi de sereno adversus mollitiem muris fulgurabo Xenophontis.
 
 	
 Et feminam quidem murem majoe veneris rabie flagrare dicunt; et rursus Epicratem citant in dramate, quod inscribitur Chorus;
+
+
+
+
+Postremo subiit laena detestabilis,
+			
+Per Phersephattam, per Dianam dejerans,
+			
+Esse hanc puellam, virginemque, et integram
+			
+Pullus ut indomitus: at cavus erat murium
+		
+
 
 
 Voluit autem extreme libidinosam dicere cavum totum murinum eam appellando. Et Philemon:
@@ -336,5 +472,120 @@ Anthiae cum sunt capti, miserabile praebent spectaculum, mortemque suam lugere e
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+VI Kal. Oct. 04

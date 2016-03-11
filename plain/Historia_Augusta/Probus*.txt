@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Tacitus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Firmus et al.
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+p334
+
+Probus
+	
+
 11 Certum est quod Sallustius Crispus quodque Marcus Cato et Gellius historici sententiae modo in litteras rettulerunt, omnes omnium virtutes tantas esse quantas videri eas voluerint eorum ingenia qui unius cuiusque1 facta descripserint. 2 inde est quod Alexander Magnus Macedo, cum ad Achillis sepulchrum venisset, graviter ingemescens "Felicem te," inquit, "iuvenis, qui talem praeconem tuarum virtutum repperisti," Homerum intellegi volens, qui Achillem tantum in virtutum studio fecit2 quantum ipse valebat ingenio.
 
 	
@@ -246,170 +354,207 @@ p384ut eius praetexta colores mutaret, haruspices responderunt huius familiae po
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 cuiusque Σ; cuius P.
 
 
+❦
 
 2
 fecit Peter; fuit P.
 
 
+❦
 
 3
 securitatem Σ; seueritatem P.
 
 
+❦
 
 4
 piratici Σ; Parthici P.
 
 
+❦
 
 5
 ut ins. by Peter; om. in P.
 
 
+❦
 
 6
 infitias Peter; infinitas P1.
 
 
+❦
 
 7
 contra sententiam Gruter, Peter; constentiam P1.
 
 
+❦
 
 8
 bucellati aceti Purser (cf. Av. Cass. v.3); bolulaci P; pabuli aceti Peter, Hohl.
 
 
+❦
 
 9
 fulgeas Σ; fulges P.
 
 
+❦
 
 10
 interemerit Σ; interemit P.
 
 
+❦
 
 11
 parere Σ; parare P.
 
 
+❦
 
 12
 hic P.
 
 
+❦
 
 13
 So Walter; nomina om. in P; nomen suum ins. after iussit by Peter and Hohl.
 
 
+❦
 
 14
 So Peter and Hohl; emergeret ei om. in P.
 
 
+❦
 
 15
 terra elato P corr., Salm.; terra elatum P1, Peter, Hohl.
 
 
+❦
 
 16
 ac om. in P.
 
 
+❦
 
 17
 inepta Σ; inaegyptum P.
 
 
+❦
 
 18
 militi Σ; milites P.
 
 
+❦
 
 19
 arripuerat imperium Σ, ins. by Peter and Hohl; om. in P.
 
 
+❦
 
 20
 ut Σ; ad P.
 
 
+❦
 
 21
 iudicetis ins. by Hohl (Helm); om. in P and by Peter.
 
 
+❦
 
 22
 in om. in P.
 
 
+❦
 
 23
 uigent Σ; uigeant P.
 
 
+❦
 
 24
 nationibus Σ; nationes P.
 
 
+❦
 
 25
 proconsulibus Mommsen; consulibus P; ex consulibus Salm., Peter.
 
 
+❦
 
 26
 diuitias etiam Cas.; diuinas tamen P.
 
 
+❦
 
 27
 reliquos Σ; reliquas P.
 
 
+❦
 
 28
 serunt Salm., Peter; seruiunt P, Σ, Hohl.
 
 
+❦
 
 29
 sola Σ; solo P.
 
 
+❦
 
 30
 So P, Lessing; in itinere Σ, Peter, Hohl.
 
 
+❦
 
 31
 ut om. in P.
 
 
+❦
 
 32
 imperare ins. by Peter; om. in P.
 
 
+❦
 
 33
 e ins. by Salm., who explains posticis; om. in P.
 
 
+❦
 
 34
 subegerat Editor (cf. c. xv.2;
@@ -417,49 +562,158 @@ subegerat Editor (cf. c. xv.2;
 xvii.2); subierat P; subiecerat Σ, Peter, Hohl.
 
 
+❦
 
 35
 pedibus totumque Σ, Peter1; pedibusque totum P; penitusque totum Kellerbauer, Peter2, Hohl.
 
 
+❦
 
 36
 possidebit Salm., Peter; possidebimus P, Σ.
 
 
+❦
 
 37
 boues Salm.; uobis P.
 
 
+❦
 
 38
 Sauum Closs, Peter; saltum P.
 
 
+❦
 
 39
 so Σ, Petschenig, Hohl; hac permoti P; hac re moti Salm., Peter.
 
 
+❦
 
 40
 qua om. in P and by Hohl.
 
 
+❦
 
 41
 anni P.
 
 
+❦
 
 42
 et Σ; om. in P.
 
 
+❦
 
 43
 iecta P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

@@ -1,4 +1,384 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Panegyricus Manlio Theodoro consuli
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p336 
+C. Claudiani
+	
+Panegyricus dictus
+	
+Manlio Theodoro consuli
+	
+
+PRAEFATIO
+		 
+(XVI)
+	
+
+
+
+   
+5
+    
+10
+    
+15
+    
+20
+
+
+Audebisne, precor, tantae subiecta catervae,
+	   
+inter tot proceres, nostra Thalia, loqui?
+	
+nec te fama vetat, vero quam celsius auctam
+	   
+vel servasse labor vel minuisse pudor?
+	
+an tibi continuis crevit fiducia castris
+	   
+totaque iam vatis pectora miles habet?
+	
+culmina Romani maiestatemque senatus
+	   
+et, quibus exultat Gallia, cerne viros.
+	
+omnibus audimur terris mundique per aures
+	   
+ibimus. ah nimius consulis urget amor!
+	
+Iuppiter, ut perhibent, spatium cum discere vellet
+	   
+naturae regni nescius ipse sui,
+	
+armigeros utrimque duos aequalibus alis
+	   
+misit ab Eois Occiduisque plagis.
+	
+Parnasus geminos fertur iunxisse volatus;
+	   
+contulit alternas Pythius axis aves.
+	
+Princeps non aquilis terras cognoscere curat;
+	   
+certius in vobis aestimat imperium.
+	
+hoc ego concilio collectum metior orbem;
+	   
+hoc video coetu quidquid ubique micat.
+		
+
+
+p338
+
+PANEGYRICUS
+		 
+(XVII)
+	
+
+
+
+   
+5
+    
+10
+    
+15
+    
+20
+    
+25
+    
+30
+    
+35
+    
+40
+    
+45
+    
+50
+    
+55
+    
+60
+    
+65
+    
+70
+    
+75
+    
+80
+    
+85
+    
+90
+    
+95
+    
+100
+    
+105
+    
+110
+    
+115
+    
+120
+    
+125
+    
+130
+    
+135
+    
+140
+    
+145
+    
+150
+    
+155
+    
+160
+    
+165
+    
+170
+    
+			 
+175
+    
+180
+    
+185
+    
+190
+    
+195
+    
+200
+    
+205
+    
+210
+    
+215
+    
+220
+    
+225
+    
+230
+    
+235
+    
+240
+    
+			 
+245
+    
+250
+    
+255
+    
+260
+    
+265
+    
+270
+    
+275
+    
+280
+    
+285
+    
+290
+    
+295
+    
+300
+    
+305
+    
+310
+    
+315
+    
+320
+    
+325
+    
+330
+    
+335
+    
+340
+
+   
+
+Ipsa quidem Virtus pretium sibi, solaque late
+	
+Fortunae secura nitet nec fascibus ullis
+	
+erigitur plausuve petit clarescere vulgi.
+	
+nil opis externae cupiens, nil indiga laudis,
+	
+divitiis animosa suis inmotaque cunctis
+	
+casibus ex alta mortalia despicit arce.
+	
+attamen invitam blande vestigat et ultro
+	
+ambit honor: docuit totiens a rure profectus
+	
+lictor et in mediis consul quaesitus aratris.
+	
+te quoque naturae sacris mundique vacantem,
+	
+emeritum pridem desudatisque remotum
+	
+iudiciis eadem rursum complexa potestas
+	
+evehit et reducem notis imponit habenis.
+	
+accedunt trabeae: nil iam, Theodore, relictum,
+	
+quo virtus animo crescat vel splendor honori.1
+
+culmen utrumque tenes: talem te protinus anni
+	
+formavere rudes, et dignum vita curuli
+	
+traxit iter primaeque senes cessere iuventae.
+	
+iam tum canities animi, iam dulce loquendi
+	p340
+pondus et attonitas sermo qui duceret aures.
+	
+mox undare foro victrix opulentia linguae
+	
+tutarique reos. ipsa haec amplissima sedes
+	
+orantem stupuit, bis laudatura regentem.
+	
+hinc te pars Libyae moderantem iura probavit,
+	
+quae nunc tota probat; longi sed pignus amoris
+	
+exiguae peperere morae populumque clientem
+	
+publica mansuris testantur vocibus aera.
+	
+inde tibi Macetum tellus et credita Pellae
+	
+moenia, quae famulus quondam ditavit Hydaspes;
+	
+tantaque commissae revocasti gaudia genti
+	
+mitibus arbitriis, quantum bellante Philippo
+	
+floruit aut nigri cecidit cum regia Pori.
+	
 Sed non ulterius te praebuit urbibus aula:
 	
 maluit esse suum; terris edicta daturus,
@@ -623,19 +1003,141 @@ mutua posteritas servatoque ordine fati
 	
 Manlia continuo numeretur consule proles."
 		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 honori conject. Birt; honore codd.
+❦
 
 2
 expertus Barthius; Birt keeps MSS. exertus.
 
 
+❦
 
 3
 Birt regit with the MSS. (he suggests nequit); Heinsius legit
+❦
 
 4
 Numidas Heinsius; Birt †Lydos
+❦
 
 5
 codd. have Stilichone; Birt obelizes the line; it is only found in V; Helicone Gevartius.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Vita brevis Manlii Theodori
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Kal. Feb. 04

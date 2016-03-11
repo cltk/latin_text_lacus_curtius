@@ -1,5 +1,334 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+I
+				
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+De Consulatu Stilichonis
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+III
+				
+
+
+
+
+
+C. Claudiani
+	
+De Consulatu Stilichonis
+	
+p2
+Liber Secundus
+	
+(XXII)
+	
+
+
+
+
+   
+5
+    
+10
+    
+15
+    
+20
+    
+25
+    
+30
+    
+35
+    
+40
+    
+45
+    
+50
+    
+55
+    
+60
+    
+			 
+65
+    
+70
+    
+75
+    
+			 
+80
+    
+85
+    
+90
+    
+95
+    
+100
+    
+105
+    
+110
+    
+115
+    
+120
+    
+125
+    
+130
+    
+			 
+135
+    
+140
+    
+145
+    
+150
+    
+155
+    
+160
+    
+165
+    
+170
+    
+175
+    
+180
+    
+185
+    
+190
+    
+195
+    
+200
+    
+205
+    
+210
+    
+215
+    
+220
+    
+225
+    
+230
+    
+235
+    
+240
+    
+			 
+245
+    
+250
+    
+255
+    
+260
+    
+			 
+265
+    
+270
+    
+275
+    
+280
+    
+285
+    
+290
+    
+295
+    
+300
+    
+305
+    
+310
+    
+			 
+315
+    
+320
+    
+325
+    
+330
+    
+335
+    
+			 
+340
+    
+345
+    
+350
+    
+355
+    
+360
+    
+365
+    
+370
+    
+375
+    
+380
+    
+385
+    
+390
+    
+395
+    
+400
+    
+405
+    
+410
+    
+415
+    
+420
+    
+425
+    
+430
+    
+435
+    
+440
+    
+445
+    
+450
+    
+455
+    
+460
+    
+465
+    
+470
+    
+475
+
+   
+
+Hactenus armatae laudes: nunc qualibus orbem
+	
+moribus et quanto frenet metuendus amore,
+	
+quo tandem flexus trabeas auctore rogantes
+	
+induerit fastisque suum concesserit annum,
+	
+mitior incipiat fidibus iam Musa remissis.
+	
+
 Principio magni custos Clementia mundi,
 	
 quae Iovis incoluit zonam, quae temperat aethram
@@ -994,17 +1323,145 @@ inque novos iterum revoluto cardine cursus
 	
 scribunt aetheriis Stilichonem sidera fastis.
 		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 I retain Birt's nodi (VPΠ), but doni (V2 and the other MSS.) is very tempting.
+❦
 
 2
 Birt suggests exsectisque
+❦
 
 3
 Birt prints factorum (EΠ); the other MSS. have fatorum; Koch suggests fractorum (in the sense of "effeminate").
+❦
 
 4
 ore Π; the other MSS. give igne. But ore better corresponds with brachia.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+Divus Angelus
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

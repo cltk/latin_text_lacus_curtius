@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IV
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber VI
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber V
+	
+
+Praefatio
+	
+
+
 1. Qui amplioribus voluminibus, imperator, ingenii cogitationes praeceptaque explicaverunt, maximas et egregias adiecerunt suis scriptis auctoritates. quod etiam velim nostris quoque studiis res pateretur, ut amplificationibus auctoritas et in his praeceptis augeretur, sed id non est quemadmodum putatur expeditum. non enim de architectura sic scribitur uti historia aut poemata. historiae per se tenent lectores. habent enim novarum rerum varias expectationes. poematorum vero metra et pedes ac verborum elegans dispositio et sententiarum inter personas distinctas ad versum pronuntiatio prolectando sensus legentium perducit sine offensa ad summam scriptorum terminationem.
 
 	
@@ -22,6 +117,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Graeci in quadrato amplissimis et duplicibus porticibus fora constituunt crebrisque columnis et lapideis aut marmoreis epistyliis adornant et supra ambulationes in contignationibus faciunt. Italiae vero urbibus non eadem est ratione faciendum, ideo quod a maioribus consuetudo tradita est gladiatoria munera in foro dari.
 
@@ -69,6 +167,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 2
+	
+
 
 1. Aerarium, carcer, curia foro sunt coniungenda, sed ita ut magnitudo symmetriae eorum foro respondeat. maxime quidem curia in primis est facienda ad dignitatem municipii sive civitatis. et si quadrata erit, quantum habuerit latitudinis dimidia addita constituatur altitudo, sin autem oblonga fuerit, longitudo et latitudo componantur et summa composita, eius dimidia pars sub lacunariis altitudini detur.
 
@@ -80,6 +181,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 3
+	
+
 
 1. Cum forum constitutum fuerit, tum deorum inmortalium diebus festis ludorum spectationibus eligendus est locus theatro quam saluberrimus, uti in primo libro de salubritatibus in moenium conlocationibus est scriptum. per ludos enim cum coniugibus et liberis persedentes delectationibus detinentur et corpora propter voluptatem inmota patentes habent venas, in quas insidunt aurarum flatus, qui si a regionibus palustribus aut aliis regionibus vitiosis advenient, nocentes spiritus corporibus infundent. itaque si curiosius eligetur locus theatro, vitabuntur vitia.
 
@@ -115,6 +219,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 4
+	
+
 
 1. Harmonice autem est montionica litteratura obscura et difficilis, maxime quidem quibus graecae litterae non sunt notae. quam si volumus explicare, necesse est etiam graecis verbis uti, quod nonnulla eorum latinas non habent appellationes. itaque ut potuero quam apertissime ex Aristoxeni scripturis interpretabor et eius diagramma subscribam finitionesque sonituum designabo, uti qui diligentius attenderit facilius percipere possit.
 
@@ -155,6 +262,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 5
+	
+
 
 1. Ita ex his indagationibus mathematicis rationibus fiant vasa aerea pro ratione magnitudinis theatri eaque ita fabricentur ut cum tangantur, sonitum facere possint inter se diatessaron diapente et ex ordine ad disdiapason. postea inter sedes theatri constitutis cellis, ratione musica ibi conlocentur ita uti nullum parietem tangant circaque habeant locum vacuum et ab summo capite spatium, ponanturque inversa et habeant in parte quae spectat ad scaenam suppositos cuneos ne minus altos semipedem, contraque eas cellas relinquantur aperturae inferiorum graduum cubilibus longae pedes duo, altae semipedem.
 
@@ -190,6 +300,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 6
+	
+
 
 1. Ipsius autem theatri conformatio sic est facienda uti quam magna futura est perimetros imi, centro medio conlocato circumagatur linea rotundationis, in eaque quattuor scribantur trigone paribus lateribus et intervallis, quae extremam lineam circinationis tangant, quibus etiam in duodecim signorum caelestium <descriptione> astrologi ex montionica convenientia astrorum ratiocinantur. ex his trigonis cuius latus fuerit proximum scaenae, ea regione qua praecidit curvaturam circinationis, ibi finiatur scaenae frons, et ab eo loco per centrum parallelos linea ducatur, quae disiungat proscaenii pulpitum et orchestrae regionem.
 
@@ -229,6 +342,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 7
+	
+
 
 1. In Graecorum theatris non omnia isdem rationibus sunt facienda, quod primum in ima circinatione ut in latino trigonorum IIII, in eo quadratorum trium anguli circinationis lineam tangunt, et cuius quadrati latus est proximum scaenae praeciditque curvaturam circinationis, ea regione designatur finitio proscaenii. et ab ea regione ad extremam circinationem curvaturae parallelos linea designatur, in qua constituitur frons scaenae, per centrumque orchestrae a proscaenii regione parallelos linea describitur et qua secat circinationis lineas dextra ac sinistra in cornibus hemicyclii centra signantur, et circino conlocato in dextro ab intervallo sinistro circumagitur circinatio ad proscaenii sinistram partem, item centro conlocato in sinistro cornu ab intervallo dextro circumagitur ad proscaenii dextram partem.
 
@@ -240,6 +356,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 8
+	
+
 
 1. Cum haec omnia summa cura sollertiaque explicata sunt, tunc etiam diligentius est animadvertendum uti sit electus locus, in quo leniter adplicet se vox neque repulsa resiliens incertas auribus referat significationes. sunt enim nonnulli qui graece dicuntur κατηχουντες, circumsonantes qui apud eos nominantur περιηχοῦντες, item resonantes qui dicuntur ἀντηχοῦντες, consonantesque quos appellant συνηχουντες. dissonantes sunt in quibus vox prima cum est elata in altitudinem, offensa superioribus solidis corporibus repulsaque residens in imo opprimit insequentis vocis elationem,
 
@@ -251,6 +370,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 9
+	
+
 
 1. Post scaenam porticus sunt constituendae, uti cum imbres repentini ludos interpellaverint, habeat populus quo se recipiat ex theatro choragiaque laxamentum habeant ad comparandum. uti sunt porticus Pompeianae itemque Athenis porticus Eumenicae Parumontrisque Liberi fanum, et exeuntibus e theatro sinistra parte odeum, quod Themistocles columnis lapideis dispositis, navium malis et antemnis e spoliis Persicis pertexit, idem autem etiam incensum Mithridatico bello rex Ariobarzanes restituit, Zmyrnae Stratoniceum, Trallibus porticus ex utraque parte scaenae supra stadium, ceterisque civitatibus quae diligentiores habuerunt architectos circa theatra sunt porticus et ambulationes.
 
@@ -290,6 +412,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 10
+	
+
 
 1. primum eligendus locus est quam calidissimus, id est aversus ab septentrione et aquilone. ipsa autem caldaria tepidariaque lumen habeant ab occidente hiberno, sin autem natura loci inpedierit, utique a meridie, quod maxime tempus lavandi a meridiano ad vesperum est constitutum. et item est animadvertendum uti caldaria muliebria et virilia coniuncta et in isdem regionibus sint conlocata. sic enim efficietur ut in vasaria et hypocausis communis sit eorum utrisque. aenea supra hypocausim tria sunt componenda, unum caldarium, alterum tepidarium, tertium frigidarium, et ita conlocanda uti ex tepidario in caldarium quantum aquae calidae exierit, influat de frigidario in tepidarium ad eundem modum, testudinesque alveolorum ex communi hypocausi calefaciantur.
 
@@ -312,6 +437,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 
+Caput 11
+	
+
 
 1. Nunc mihi videtur, etiamsi non sint italicae consuetudinis palaestrarum aedificationes, traditas tamen explicare et quemadmodum apud Graecos constituantur monstrare. in palestris peristyla quadrata sive oblonga ita sunt facienda uti duorum stadiorum habeant ambulationis circumitionem, quod Graeci vocant διαυλον, ex quibus tres porticus simplices disponantur, quarta quae ad meridianas regiones est conversa, duplex, uti cum tempestates ventosae sint, non possit aspergo in interiorem partem pervenire.
 
@@ -331,6 +459,9 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+Caput 12
+	
+
 
 1. de opportunitate autem portuum non est praetermittendum, sed quibus rationibus tueantur naves in iis ab tempestatibus explicandum. hi autem naturaliter si sint bene positi habeantque acroteria sive promuntoria procurrentia, ex quibus introrsus curvaturae sive versurae ex loci natura fuerint conformatae, maximas utilitates videntur habere. circum enim porticus sive navalia sunt facienda sive ex porticibus aditus ad emporia, turresque ex utraque parte conlocandae, ex quibus catenae traduci per machinas possint.
 
@@ -362,8 +493,139 @@ conlocavi curavique faciendam, cuius proportiones et symmetriae sic sunt constit
 
 
 	
+
+Adnotatio Thayeri:
+	
+
 a
 Secundum Platnerum, non duae sunt basilicae (Julia et Aquiliana) sed una, Julia Aquiliana,
 	
 q.v.
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Kal. Iul. 12

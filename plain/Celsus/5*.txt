@@ -1,4 +1,124 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber
+				
+IV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber
+				
+VI
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p2
+Liber V
+	
+
 Dixi de iis malis corporis, quibus victus ratio maxime subvenit: nunc transeundum est ad eam medicinae partem, quae magis medicamentis pugnat. His multum antiqui auctores tribuerunt, et Erasistratus et ii, qui se empiricos nominarunt, praecipue tamen Herophilus deductique ab illo viro, adeo ut nullum morbi genus sine his curarent. Multaque etiam de facultatibus medicamentorum memoriae prodiderunt, qualia sunt vel Zenonis vel Andriae vel Apolloni, qui Mys cognominatus est. 2 Horum autem usum ex magna parte Asclepiades non sine causa sustulit; et cum omnia fere medicamenta stomachum laedant malique suci sint, ad ipsius victu rationem potius omnem curam suam transtulit. Verum ut illud in plerisque morbis utilius est, sic multa admodum corporibus nostris incidere consuerunt, quae sine medicamentis ad sanitatem pervenire non possunt. Illud ante omnia scire convenit, quod omnes medicinae partes ita innexae sunt, ut ex toto separari non possint sed ab
 
 
@@ -999,45 +1119,57 @@ p174ex aceto sint. Aliud ad idem, quod ad Irenaeum auctorem refertur: alcyonium,
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 zzzz
 
 
+❦
 
 2
 zzzz
 
 
+❦
 
 3
 zzzz
 
 
+❦
 
 4
 zzzz
 
 
+❦
 
 5
 zzzz
 
 
+❦
 
 6
 zzzz
 
 
+❦
 
 7
 zzzz
 
 
+❦
 
 8
 zzzz
 
 
+❦
 
 9
 zzzz
@@ -1045,3 +1177,116 @@ zzzz
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+V Kal. Apr. 05

@@ -1,4 +1,177 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars IX
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars XI
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+XXXV.
+		
+
+Bellum Asiaticum.
+		
+
+
+
+XXXVI.
+		
+
+Bellum Iugurthinum.
+		
+
+
+
+XXXVII.
+		
+
+Bellum Allobrogum.
+		
+
+
+
+XXXVIII.
+		
+
+Bellum Cimbricum Teutonicum Tigurinum.
+		
+
+
+
+XXXVIIII.
+		
+
+Bellum Thracicum.
+		
+
+
+
+p158
+
+XXXV. Bellvm Asiaticvm
+	
+
 II, 20
 Victa ad occasum Hispania populus Romanus ad orientem pacem agebat, nec pacem modo, sed inusitata et incognita quadam felicitate relictae regiis hereditatibus opes et tota insemel regna veniebant. 2 Attalus rex Pergamenorum, regis Eumenis filius, socii quondam commilitonisque nostri testamentum reliquit: "Populus Romanus bonorum meorum heres esto. In bonis regiis hanc fuerunt." 3 Adita igitur hereditate provinciam populus Romanus non quidem bello nec armis, sed, quod aequius, testamenti iure retinebat. 4 Sed hanc difficile dictu est utrum facilius amiserit populus Romanus an recuperaverit. Aristonicus, regii sanguinis ferox iuvenis, urbis regibus parere consuetas partim facile sollicitat, paucas resistentis, Myndon,1 Samon, Colophona vi recepit, Crassi quoque praetoris cecidit2 exercitum ipsumque cepit.
 
@@ -8,6 +181,10 @@ p1605 Sed ille memor et familiae et Romani nominis custodem3 barbarum virgula e
 
 
 	
+
+XXXVI. Bellvm Ivgvrthinvm
+	
+
 III, 1
 Haec ad orientem; sed non ad meridianam plagam eadem quies. Quis speraret post Carthaginem aliquod in Africa bellum? 2 Atquin non leviter se Numidia concussit, et fuit in Iugurtha quod post Annibalem timeretur. Quippe rex callidissimus populum Romanum armis invictum opibus adgressus est; citra spem omnium fortuna cessit, ut rex fraude praecipuus fraude caperetur. 3 Hic, Massinissa avo, Micipsa patre per adoptionem, cum interficere fratres statuisset agitatus regni cupiditate, nec illo magis quam senatum populumque Romanum, quorum in fide et in clientela regnum
 
@@ -25,6 +202,10 @@ p166Sullae10 in manum traditur, tandemque opertum catenis Iugurtham in triumpho 
 
 
 	
+
+XXXVII. Bellvm Allobrogvm
+	
+
 III, 2
 Sic ad meridiem populus Romanus. Multo atrocius et multipliciter magis a septentrione venientem ***.11 2 Nihil hac plaga infestius. Atrox caelum, perinde ingenia. Omni igitur tractu violentus hostis, a dextris atque laevis et a medio septentrionis erupit.
 
@@ -38,6 +219,10 @@ p168in armis argenteoque carpento, qualis pugnaverat. 6 Utriusque victoriae quo
 
 
 	
+
+XXXVIII. Bellvm Cimbricvm Tevtonicvm Tigvrinvm
+	
+
 III, 3
 Cimbri, Teutoni atque Tigurini ab extremis Galliae profugi, cum terras eorum inundasset Oceanus, novas sedes toto orbe quaerebant, 2 exclusique et Gallia et Hispania cum in Italiam demigrarent, misere legatos in castra Silani, inde ad senatum, petentes ut Martius populus aliquid sibi terrae daret quasi stipendium, ceterum ut vellet manibus atque armis suis uteretur. 3 Sed quas daret terras populus Romanus agrariis legibus inter se dimicaturus? Repulsi igitur, quod nequiverant precibus, armis petere coeperunt.17 4 Sed nec primum impetum barbarorum Silanus, nec secundum Manilius, nec tertium Caepio sustinere potuerunt; omnes fugati, exuti castris. 5 Actum erat, nisi Marius illi saeculo contigisset. Ille quoque non ausus congredi statim militem tenuit in castris, donec invicta illa rabies
 
@@ -67,6 +252,10 @@ p176gladiatorio munere fieri solet, uno eodemque momento, cum in acie Cimbri suc
 
 
 	
+
+XXXVIIII. Bellvm Thracicvm
+	
+
 III, 4
 Post Macedonas, si dis placet, Thraces rebellabant, illi quondam tributarii Macedonum; nec in proximas modo provincias contenti incurrere, Thessaliam atque Dalmatiam, in Adriaticum mare usque venerunt; eoque fine retenti,29 quasi interveniente natura, contorta in ipsas aquas tela miserunt. 2 Nihil interim per id omne30 tempus residuum crudelitatis fuit in captivos saevientibus: litare dis sanguine humano, bibere in ossibus capitum, cuiusque modi ludibriis foedare mortem tam igne quam fumo, partus quoque gravidarum mulierum extorquere tormentis. 3 Saevissimi omnium Thracum Scordisci fuere, sed calliditas quoque ad robur accesserat: 4 silvarum et montium situ cum ingenio consentiebant. Itaque non fusus modo ab his aut fugatus, sed — simile31 prodigio — omnino totus interceptus exercitus quem duxerat Cato. 5 Didius vagos et libera populatione diffusos intra suam reppulit Thraciam. Drusus ulterius egit et vetuit transire Danuvium. Minucius toto vastavit Hebro, multis quidem amissis, dum per32
 p178perfidum glacie flumen equitatur. 6 Volso Rhodopen Caucasumque33 penetravit. Curio Dacia tenus venit, sed tenebras saltuum expavit. Appius in Sarmatas usque pervenit, Lucullus ad terminum gentium Tanain lacumque Maeotin. 7 Nec aliter cruentissimi hostium quam suis moribus domiti. Quippe in captivos igni ferroque saevitum est; sed nihil barbaris atrocius visum est quam quod abscisis manibus relicti vivere superstites poenae suae iubebantur.
@@ -74,8 +263,15 @@ p178perfidum glacie flumen equitatur. 6 Volso Rhodopen Caucasumque33 penetravit
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Myndon: myndam B.
+
+
+
 
 
 
@@ -83,8 +279,14 @@ Myndon: myndam B.
 2
 cecidit Rehd.: caede codd.
 
+
+
+
 3
 sui post custodem delevi.
+
+
+
 
 
 
@@ -92,8 +294,14 @@ sui post custodem delevi.
 4
 quo Perizonius: quod codd.
 
+
+
+
 5
 non add. Aldus.
+
+
+
 
 
 
@@ -101,8 +309,14 @@ non add. Aldus.
 6
 contentus: contemptus codd.
 
+
+
+
 7
 adsiluit Freudenbergius: diuoluit B: diu uoluit NL.
+
+
+
 
 
 
@@ -113,8 +327,14 @@ regiis Hamlmius: regii B: regis NL.
 
 
 
+
+
+
 9
 Molucham Aldus: molucam B.
+
+
+
 
 
 
@@ -125,8 +345,14 @@ sullae N: sillae B.
 
 
 
+
+
+
 11
 lacunam post venientem indicavit Mommsenus: saevitum vel saeviente Aldus: venit malum vel exitium Rossbachius.
+
+
+
 
 
 
@@ -134,14 +360,26 @@ lacunam post venientem indicavit Mommsenus: saevitum vel saeviente Aldus: venit 
 12
 eos add. Voss. Rehd. Monac. Palat.
 
+
+
+
 13
 utriusque Iahniius: variusque codd.
+
+
+
 
 14
 testes Dukerus: testis codd.
 
+
+
+
 15
 elephanti NL: elephantis B.
+
+
+
 
 
 
@@ -152,8 +390,14 @@ Bituitus: vituitus B: bis visus NL.
 
 
 
+
+
+
 17
 coeperunt: ceperunt B: constituunt NL.
+
+
+
 
 
 
@@ -164,8 +408,14 @@ quo fidem Salmasius: pro fide B: qua fide L.
 
 
 
+
+
+
 19
 flagitante aquam exercitu: flagitantem aquam exercitum B.
+
+
+
 
 
 
@@ -176,8 +426,14 @@ Teutobodus: teuto vocatus B: teutobocus NL.
 
 
 
+
+
+
 21
 veluti add. N. Heinsius.
+
+
+
 
 
 
@@ -188,8 +444,14 @@ Atesim Salmasius: adȩsim B: ad hostes in NL.
 
 
 
+
+
+
 23
 locus valde corruptus: est — vestigia om. B: venere — vestigia om. L: venere illi quam et in barbaris multa vestigia ceteri: venere ipsi — nam metus in barbaris nulla vestigia — et etc. Halmius.
+
+
+
 
 
 
@@ -200,8 +462,14 @@ aure repercusso Iahnius: aere percusso B.
 
 
 
+
+
+
 25
 Boiorix: Boleris BL: bo eloris N.
+
+
+
 
 
 
@@ -212,8 +480,14 @@ et NL: e B.
 
 
 
+
+
+
 27
 si credere fas est: fas est si credere B.
+
+
+
 
 
 
@@ -224,11 +498,20 @@ post Cimbricae lacunam statuit Iahnius.
 
 
 
+
+
+
 29
 retenti Graevius: contenti codd.
 
+
+
+
 30
 per id omne: peridomne L: perdi omne N: per imperium donec B.
+
+
+
 
 
 
@@ -239,8 +522,14 @@ simile Aldus: simili BL.
 
 
 
+
+
+
 32
 per om. B.
+
+
+
 
 
 
@@ -250,3 +539,109 @@ Caucasumque: cauca umque B: Haemumque Iahnius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

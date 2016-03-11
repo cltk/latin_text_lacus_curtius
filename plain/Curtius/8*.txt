@@ -1,3 +1,98 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VII
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber IX
+				
+
+
+
+
+
+
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber VIII
+	
+
+p184
+Caput I
+	
 1 Alexander maiore fama quam gloria in dicionem redacta petra, cum propter vagum hostem spargendae manus essent, in tres partes divisit exercitum. Hephaestionem uni, Coenon alteri duces dederat: ipse ceteris praeerat.
 2 Sed non eadem mens omnibus barbaris fuit. Armis quidam subacti, plures ante certamen imperata fecerunt, quibus eorum, qui in defectione perseveraverant, urbes agrosque iussit attribui.
 3 At exules Bactriani cum DCCC Massagetarum equitibus proximos vicos vastaverunt. Ad quos coercendos Attinas, regionis eius praefectus, CCC equites, insidiarum, quae parabantur, ignarus, eduxit.
@@ -78,7 +173,10 @@ obluctari perseverantem morabantur: Lysimachus et Leonnatus etiam lanceam abstul
 52 Haec dicentis latus hasta transfixit morientisque sanguine adspersus, 'I nunc,' inquit, 'ad Philippum et Parmenionem et Attalum.'
 
 
-	1 Male humanis ingeniis natura consuluit, quod plerumque non futura, sed transacta perpendimus. Quippe rex, postquam ira mente decesserat, etiam ebrietate discussa magnitudinem facinoris sera aestimatione perspexit.
+	
+Caput II
+	
+1 Male humanis ingeniis natura consuluit, quod plerumque non futura, sed transacta perpendimus. Quippe rex, postquam ira mente decesserat, etiam ebrietate discussa magnitudinem facinoris sera aestimatione perspexit.
 2 Videbat, tunc immodica libertate abusum, sed alioqui egregium bello virum et, nisi erubesceret fateri, servatorem sui occisum. Detestabile carnificis ministerium occupaverat rex, verborum licentiam, quae vino poterat inputari, nefanda caede ultus.
 3 Manabat toto vestibulo cruor paulo ante convivae: vigiles attoniti et stupentibus similes procul stabant liberioremque paenitentiam solitudo exciebat.º
 4 Ergo hastam ex corpore iacentis evolsam retorsit in semet: iamque admoverat pectori, cum advolant vigiles et repugnanti e manibus extorquent adlevatumque in tabernaculum deferunt.
@@ -147,7 +245,10 @@ qui defecerant, cum equite processit. Arduum et inpeditum saxis iter primo utcum
 40 Maestum regem alius haud levis dolor excepit. Erigyius inter claros duces fuerat: quem extinctum esse paulo ante, quam reverteretur in castra, cognovit. Utriusque funus omni apparatu atque honore celebratum est.
 
 
-p1931 Dahas deinde statuerat petere: ibi namque Spitamenen esse cognoverat. Sed hanc quoque expeditionem, ut pleraque alia, fortuna indulgendo ei numquam fatigata pro absente transegit. Spitamenes uxoris immodico amore flagrabat: quam aegre fugamº
+p193
+Caput III
+	
+1 Dahas deinde statuerat petere: ibi namque Spitamenen esse cognoverat. Sed hanc quoque expeditionem, ut pleraque alia, fortuna indulgendo ei numquam fatigata pro absente transegit. Spitamenes uxoris immodico amore flagrabat: quam aegre fugamº
 et nova subinde exilia tolerantem, in omne discrimen comitem trahebat.
 2 Illa malis fatigata identidem muliebres adhibere blanditias, ut tandem fugam sisteret victorisque Alexandri clementiam expertus placaret, quem effugere non posset.
 3 Tres adulti erant liberi ex eo geniti: quos cum pectori patris admovisset, ut saltem eorum misereri vellet, orabat: et, quo efficaciores essent preces, haud procul erat Alexander.
@@ -173,7 +274,10 @@ moram, interfectus esset: contra facinus ingens aversabatur, cum optime meritum 
 praefecto, substitutus est Stasanor: Arsaces in Mediam missus, ut Oxydates inde decederet. Babylonia demortuo Mazaeo Stameni subiecta est.
 
 
-	1 His conpositis tertio mense ex hibernis movit exercitum, regionem quae Gazaba appellatur, aditurus.
+	
+Caput IV
+	
+1 His conpositis tertio mense ex hibernis movit exercitum, regionem quae Gazaba appellatur, aditurus.
 2 Primus dies quietum iter praebuit: proximus ei nondum quidem procellosus et tristis, obscurior tamen pristino non sine minis crescentis mali praeteriit.
 3 Tertio ab omni parte caeli emicare fulgura et, nunc internitente luce, nunc condita, non oculos modo meantis exercitus sed etiam animos terrere coeperunt.
 4 Erat prope continuus
@@ -227,7 +331,10 @@ matrimonii iure velle iungi.
 30 Pudebat amicos, super vinum et epulas socerum ex deditis esse delectum, sed post Cliti caedem libertate sublata vultu, qui maxime servit, adsentiebantur.
 
 
-	1 Ceterum Indiam et inde Oceanum petiturus, ne quid a tergo, quod destinata inpedire posset, moveretur, ex omnibus provinciis XXX milia iuniorum legi iussit et ad se armata perduci, obsides simul habiturus et milites.
+	
+Caput V
+	
+1 Ceterum Indiam et inde Oceanum petiturus, ne quid a tergo, quod destinata inpedire posset, moveretur, ex omnibus provinciis XXX milia iuniorum legi iussit et ad se armata perduci, obsides simul habiturus et milites.
 2 Craterum autem ad persequendos Haustanen et Catenen, qui ab ipso defecerant, misit: quorum Haustanes captus est, Catenes in proelio occisus. Polypercon quoque regionem, quae Bubacene appellatur, in dicionem redegit.
 3 Itaque omnibus conpositis cogitationes in bellum Indicum vertit. Dives regio habebatur non auro modo, sed gemmis quoque margaritisque, ad luxum magis quam ad magnificentiam exculta.
 4 Periti, militares auro et ebore fulgere, dicebant:
@@ -273,7 +380,10 @@ p200inveterati moris externa mutatio.
 24 Tum detractum eum lecto rex praecipitat in terram et, cum is pronus corruisset, 'Videsne', inquit, 'idem te fecisse, quod in alio paulo ante ridebas?' Et tradi eo in custodiam iusso convivium solvit.
 
 
-	1 Polyperconti quidem postea castigato diu ignovit: in Callisthenem olim contumacia suspectum pervicacioris irae fuit.
+	
+Caput VI
+	
+1 Polyperconti quidem postea castigato diu ignovit: in Callisthenem olim contumacia suspectum pervicacioris irae fuit.
 2 Cuius explendae matura obvenit occasio. Mos erat, ut supra dictum est, principibus Macedonum adultos liberos regibus tradere ad munia haud multum servilibus ministeriis abhorrentia.
 3 Excubabant servatis noctium vicibus proximi foribus eius aedis, in qua rex adquiescebat. Per hos pelices introducebantur alio aditu, quam quem armati obsidebant.
 4 Iidem acceptos ab agasonibus equos, cum rex ascensurus esset, admovebant comitabanturque et venantem et in proeliis omnibus, artibus studiorum liberalium exculti.
@@ -324,7 +434,10 @@ introduci coniuratos praeter Callisthenen iussit: atque, quae agitaverant, sine 
 30 Increpantibus deinde universis eos ipse rex, quo suo merito tantum in semet cogitassent facinus, interrogat.
 
 
-	1 Stupentibus ceteris Hermolaus, 'Nos vero', inquit, 'quoniam, quasi nescias, quaeris, occidendi te consilium iniimus, quia non ut ingenuis imperare coepisti, sed quasi in mancipia dominari.'º
+	
+Caput VII
+	
+1 Stupentibus ceteris Hermolaus, 'Nos vero', inquit, 'quoniam, quasi nescias, quaeris, occidendi te consilium iniimus, quia non ut ingenuis imperare coepisti, sed quasi in mancipia dominari.'º
 2 Primus ex omnibus pater ipsius Sopolis, parricidam etiam parentis sui clamitans esse, consurgit et ad os manu obiecta scelere et malis insanientem ultra negat audiendum.
 3 Rex inhibito patre dicere Hermolaum iubet, quae ex magistro didicisset Callisthene. Et Hermolaus, 'Utor', inquit, 'beneficio tuo et dico, quae nostris malis didici.
 4 Quota pars Macedonum saevitiae tuae superest? Quotus quidem non e vilissimo sanguine? Attalus et Philotas et Parmenio et Lyncestes Alexander et Clitus, quantum ad hostes pertinet, vivunt, stant in acie, te clipeis suis protegunt et pro gloria tua, pro victoria vulnera excipiunt: quibus tu egregiam gratiam rettulisti.
@@ -351,7 +464,10 @@ quorum orbasº
 senectutem, suppliciis ne oneraveris. Nos iube duci ut, quod ex tua morte petieramus, consequamur ex nostra.' Haec Hermolaus.
 
 
-	1 At rex: 'Quam falsa sint', inquit, 'quae iste tradita a magistro suo dixit, patientia mea ostendit.
+	
+Caput VIII
+	
+1 At rex: 'Quam falsa sint', inquit, 'quae iste tradita a magistro suo dixit, patientia mea ostendit.
 2 Confessum enim ultimum facinus tamen non solum ipse audivi, sed ut vosº
 audiretis expressi, non inprudens, cum permisissem latroni huic dicere, usurum eaº
 rabie, qua conpulsus est, ut me, quem parentis loco colere deberet, vellet occidere.
@@ -400,7 +516,10 @@ audisti, illius quoque ore referantur. Quem, si Macedo esset, tecum introduxisse
 23 Quam crudelitatem sera paenitentia consecuta est.
 
 
-	1 Sed ne otium serendis rumoribus natum aleret, in Indiam movit, semper bello quam post victoriam clarior.
+	
+Caput IX
+	
+1 Sed ne otium serendis rumoribus natum aleret, in Indiam movit, semper bello quam post victoriam clarior.
 2 India tota ferme spectat orientem, minus in latitudinem quam recta regione spatiosa.
 3 Quae austrum accipiunt, in altius terrae fastigium excedunt: plana sunt cetera multisque inclitis amnibus Caucaso monte ortis placidum per campos iter praebent.
 4 Indus gelidior est quam ceteri: aquas vehit a colore maris haud multum abhorrentes.
@@ -469,7 +588,10 @@ spatium eorum ad hunc lunae modum dirigunt.
 videbatur.
 
 
-	1 Igitur Alexandro finis Indiae ingresso gentium suarum reguli occurrerunt imperata facturi, illum tertium Iove genitum ad ipsos pervenisse memorantes: Patrem Liberum atque Herculem fama cognitos esse, ipsum coram adesse cernique.
+	
+Caput X
+	
+1 Igitur Alexandro finis Indiae ingresso gentium suarum reguli occurrerunt imperata facturi, illum tertium Iove genitum ad ipsos pervenisse memorantes: Patrem Liberum atque Herculem fama cognitos esse, ipsum coram adesse cernique.
 2 Rex benigne exceptos sequi iussit, isdem itinerum ducibus usurus. Ceterum cum amplius nemo occurreret, Hephaestionem et Perdiccan cum copiarum parte praemisit ad subigendos, qui aversarentur imperium, iussitque ad flumen Indum procedere et navigia facere, quis in ulteriora transportari posset exercitus.
 3 Illi, quia plura flumina superanda erant, sic iunxere naves, ut solutae plaustris vehi possent rursusque coniungi.
 4 Post se Cratero cum phalange iusso sequi equitatum ac levem armaturam eduxit eosque, qui occurrerent, levi proelio in urbem proximam conpulit. Iam supervenerat Craterus.
@@ -533,7 +655,10 @@ legati ad regem descenderunt veniam petituri.
 postea ex ea utcumque genito Alexandro fuit nomen.
 
 
-p2141 Hinc Polypercon ad urbem Noram cum exercitu missus inconditos oppidanos proelio vicit: intra munimenta conpulsos secutus urbem in dicionem redegit.
+p214
+Caput XI
+	
+1 Hinc Polypercon ad urbem Noram cum exercitu missus inconditos oppidanos proelio vicit: intra munimenta conpulsos secutus urbem in dicionem redegit.
 2 Multa ignobilia oppida deserta a suis venere in regis potestatem. Quorum incolae armati petram Aornin nomine occupaverunt. Hanc ab Hercule frustra obsessam esse terraeque motu coactum absistere fama vulgaverat.
 3 Inopem consilii Alexandrum, quia undique praeceps et abrupta rupes erat, senior quidam peritus locorum cum duobus filiis adiit, si pretium operae esset,º
 aditum se monstraturum esse promittens.
@@ -576,7 +701,10 @@ et cultu deum fecit. Arae in petra locatae sunt Minervae Victoriaeque.
 25 Ducibus itineris, quo subire iusserat leviter armatos, etsi promissis minora praestiterant, pretium cum fide redditum est, petrae regionisque ei adiunctae Sisocosto tutela permissa.
 
 
-	1 Inde processit Ecbolima et, cum angustias itineris obsideri XX milibus armatorum ab Erice quodam conperisset, gravius agmen exercitus Coeno ducendum modicis itineribus tradidit.
+	
+Caput XII
+	
+1 Inde processit Ecbolima et, cum angustias itineris obsideri XX milibus armatorum ab Erice quodam conperisset, gravius agmen exercitus Coeno ducendum modicis itineribus tradidit.
 2 Ipse praegressus perº
 funditores ac sagittarios deturbatis, qui obsederant saltum, sequentibus se copiis viam fecit.
 3 Indi, sive odio ducis sive gratiam victoris inituri, Ericen fugientem adorti interemerunt caputque eius atque arma ad Alexandrum detulerunt. Ille facto inpunitatem dedit, honorem denegavit exemplo.
@@ -610,7 +738,10 @@ p218suis cum iisdem insignibus, quis adsueverant, cum ipsum veherent.
 18 Rex haud oblitus, quam aegre tulisset, quod Clitum ob linguae temeritatem occidisset, iram quidem tenuit sed dixit, invidos homines nihil aliud quam ipsorum esse tormenta.
 
 
-	1 Postero die legati Abisarae adiere regem. Omnia dicioni eius, ita ut mandatum erat, permittebant firmataque invicem fide remittuntur ad regem.
+	
+Caput XIII
+	
+1 Postero die legati Abisarae adiere regem. Omnia dicioni eius, ita ut mandatum erat, permittebant firmataque invicem fide remittuntur ad regem.
 2 Porum quoque nominis sui fama ratus ad deditionem posse conpelli, misit ad eum Cleocharen, qui denuntiaret ei, ut stipendium penderet et in primo suorum finium aditu occurreret regi. Porus alterum ex his facturum sese respondit, ut intranti regnum suum praesto esset, sed armatus.
 3 Iam Hydaspen Alexander superare decreverat, cum Barzaentes, defectionis Arachosiis auctor, vinctus trigintaque elephanti simul capti perducuntur, opportunum adversus Indos auxilium, quippe plus in beluis quam in exercitu spei ac virium illis erat.
 4 Samaxus quoque,º
@@ -653,7 +784,10 @@ obscuritatem, quae ceteros terrebat,
 iussit.
 
 
-p2211 Iamque agmen in cornua divisum ipse ducebat, cum Poro nuntiatur armis virisque ripam obtineri et rerum adesse discrimen. Ac primo humani ingenii vitio spei suae indulgens Abisaren belli socium — et ita convenerat — adventare credebat.
+p221
+Caput XIV
+	
+1 Iamque agmen in cornua divisum ipse ducebat, cum Poro nuntiatur armis virisque ripam obtineri et rerum adesse discrimen. Ac primo humani ingenii vitio spei suae indulgens Abisaren belli socium — et ita convenerat — adventare credebat.
 2 Mox liquidiore luce aperiente aciem hostiumº
 C quadrigas et IIII milia equitum venienti agmini obiecit. Dux erat copiarum, quas praemisit, Hages, frater ipsius, summa virium in curribus.
 3 Senos viros singuli vehebant, duos clipeatos, duos sagittarios, ab utroque latere dispositos: aurigae erant ceteri, haud sane inermes, quippe iacula conplura, ubi comminus proeliandum erat, omissis habenis in hostem ingerebant. Ceterum vix ullus usus huius auxilii eo die fuit.
@@ -732,12 +866,19 @@ p225quam interrogando fecisti. Neminem me fortiorem esse censebam.
 
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 subigendos Sogdianos:
 	
 subigendos. Cf. lectiones receptas
 	5.2.1;
 	7.3.1;
 	7.8.11
+❦
 
 
 linguis:
@@ -746,11 +887,13 @@ linguis:
 
 linguis iussitque: Jeep] linguis itaque. Cf. adn. ad 7.10.7
 
+❦
 
 
 praeferebantur:
 	
 I] ferebantur. Quod in antecedente versu ante propinquis legitur quae, delevi voculam ortam esse ratus e praepositione prae, quae aliquo casu sede sua mota sit.
+❦
 
 
 parce:
@@ -761,6 +904,7 @@ Haud scio an vera viderit Fossius, qui coniecit: parce parentibus (cf. 8.18 ut 
 8.3.7) parentibus parce, quorum orbam sen. suppl. ne oner.
 
 
+❦
 
 
 a duobus indicibus:
@@ -775,8 +919,125 @@ postposui cum Eussnero verbis liberavi rursus, ne sensu cassa uncis includerem. 
 	 (del. a. d. i.)
 
 
+❦
 
 
 videre:
 	
 P videri C. Si retinetur inf. passivi inseriturque et post ostendere, alius sensus oritur isque minime spernendus: volui ostendere (Indis), adsuetis (i.e. iis qui adsueverint) nihil vilius videri etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Kal. Apr. 00

@@ -1,3 +1,277 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p260
+C. Claudiani
+	
+De salvatore
+	
+
+
+
+
+
+
+XXXII (XCV)
+	
+
+
+Christe potens rerum, redeuntis conditor aevi,
+	
+vox summi sensusque dei, quem fudit ab alta
+	
+mente pater tantique dedit consortia regni,
+	
+impia tu nostrae domuisti crimina vitae
+	5
+passus corporea numen1 vestire figura
+	
+adfarique palam populos hominemque fateri;
+	
+quemque utero inclusum Mariae mox numine viso
+	
+virginei tumuere sinus, innuptaque mater
+	
+arcano stupuit compleri viscera partu
+	p262
+10
+auctorem paritura suum: mortalia corda
+	
+artificem texere poli, mundique repertor
+	
+pars fuit humani generis, latuitque sub uno
+	
+pectore, qui totum late complectitur orbem,
+	
+et qui non spatiis terrae, non aequoris unda
+	
+15
+nec capitur caelo, parvos confluxit in artus.
+	
+quin et supplicii nomen nexusque subisti,
+	
+ut nos subriperes leto mortemque fugares
+	
+morte tua, mox aetherias evectus in auras
+	
+purgata repetens laetum tellure parentem.
+	
+
+Augustum foveas, festis ut saepe diebus
+	
+annua sinceri celebret ieiunia sacri.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
  numen Koch; mundum Birt (following the MSS.); he suggests mentem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Non. Aug. 07

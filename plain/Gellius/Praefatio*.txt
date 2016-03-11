@@ -1,4 +1,121 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est
+				
+
+
+
+Noctium Atticarum
+				
+
+
+A. Gellii
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXVII
+				
+(recensiti MCMXLVI)
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber I
+				
+
+
+
+
+
+(Vol. I)
+Gellius
+	
+Noctes Atticae
+	
+
+
+p. xxvi
+Praefatio
+	
+
 1 *** iucundiora alia reperiri queunt, ad hoc ut liberis quoque meis partae istiusmodi remissiones essent, quando animus eorum interstitione aliqua negotiorum data laxari indulgerique potuisset. 2 Usi autem sumus ordine rerum fortuito, quem antea in excerpendo feceramus. Nam proinde ut librum quemque in manus ceperam seu Graecum seu Latinum vel quid memoratu dignum audieram, ita quae libitum erat, cuius generis cumque erant, indistincte atque promisce annotabam eaque mihi ad subsidium memoriae quasi quoddam litterarum penus recondebam, ut quando usus venisset aut rei aut verbi, cuius me repens forte oblivio tenuisset, et libri ex quibus ea sumpseram non adessent, facile inde nobis inventu atque depromptu foret.
 
 	
@@ -27,11 +144,37 @@ p. xxxivpetimus, inquam, ut ea non docendi magis quam admonendi gratia scripta 
 19 Erit autem id longe optimum, ut qui in lectitando, percontando,8 scribendo, commentando, numquam voluptates, numquam labores ceperunt, nullas hoc genus vigilias vigilarunt neque ullis inter eiusdem Musae aemulos certationibus disceptationibusque elimati sunt, sed intemperiarum negotiorumque pleni sunt, abeant9 a "Noctibus" his procul, atque alia sibi oblectamenta quaerant. Vetus adagium est:
 
 
+
+
+
+Nil cum fidibus graculost,10 nihil cum amaracino sui.
+		
+
+
+
 20 Atque etiam, quo sit quorundam male doctorum hominum scaevitas et invidentia irritatior, mutuabor ex Aristophanae choro anapaesta pauca et quam ille homo festivissimus fabulae suae spectandae legem dedit, eandem ego commentariis his legendis dabo, ut ea ne attingat neve adeat profestum et profanum
 
 
 
 p. xxxvivulgus, a ludo musico diversum. 21 Versus legis datae hi sunt:
+
+
+
+
+
+Εὐφημεῖν χρὴ κἀξίστασθαι τοῖς ἡμετέροισι χοροῖσιν
+			
+Ὅστις ἄπειρος τοιῶνδε λόγων ἢ γνώμῃ μὴ καθαρεύει
+			
+Ἢ γενναίων ὄργια Μουσῶν μήτ᾽ εἶδεν μήτ᾽ ἐχόρευσεν,
+			
+Τούτοις αὐδῶ, καὖθις ἀπαυδῶ, καὖθις τὸ τρίτον μάλ᾽ ἀπαυδῶ
+			
+Ἐξίστασθαι μύσταισι χοροῖς, ὑμεῖς δ᾽ ἀνεγείρετε μολπὴν
+			
+Καὶ παννυχίδας τὰς ἡμετέρας, αἲ τῇδε πρέπουσιν ἑορτῇ.
+		
+
 
 
 22 Volumina commentariorum ad hunc diem viginti iam facta sunt. 23 Quantum autem vitae mihi deinceps deum voluntate erit quantumque a tuenda re familiari procurandoque cultu liberorum meorum dabitur otium, ea omnia subsiciva et subsecundaria tempora ad colligendas huiusce modi memoriarum delectatiunculas conferam. 24 Progredietur ergo numerus librorum, diis bene iuvantibus, cum ipsius vitae, quantuli quomque11 fuerint progressibus, neque longiora mihi dari spatia vivendi volo quam dum ero ad hanc quoque facultatem scribendi commentandique idoneus.
@@ -42,58 +185,170 @@ p. xxxvivulgus, a ludo musico diversum. 21 Versus legis datae hi sunt:
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 ex, added by J. F. Gronov.
 
 
+❦
 
 2
 et, Skutsch; est, ω.
 
 
+❦
 
 3
 scripserit, Petschenig; scripsit, ω.
 
 
+❦
 
 4
 geometrica, ω; geometrica, ς (A.L.L. X, p240).
 
 
+❦
 
 5
 ecquid, Madvig; et quid, ω.
 
 
+❦
 
 6
 si, added by Skutsch.
 
 
+❦
 
 7
 temere, Carrio; tempere, ω (tempore R).
 
 
+❦
 
 8
 percontando, added by J. F. Gronov; see
 	
 note 9.º
+❦
 
 9
 labeant percontando scribendo, ω.
 
 
+❦
 
 10
 graculos, ω.
 
 
+❦
 
 11
 quomque, Skutsch; quique, ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+Gellius
+			
+
+
+
+
+Classical Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Id. Oct 06

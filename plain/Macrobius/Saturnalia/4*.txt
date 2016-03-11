@@ -1,166 +1,1244 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber III
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber V
+				
+
+
+
+
+Pagina tota depicta, ite ad capita recte:
+	
+
+I
+	
+	•
+	
+II
+	
+	•
+	
+III
+	
+	•
+	
+IV
+	
+	•
+	
+V
+	
+	•
+	
+VI
+	
+
+
+
+Macrobii
+	
+Saturnalia
+	
+
+
+Liber IV
+	
+p363
+
+
+I.
+	
+1 *** sermone movetur,
+
+
+
+
+
+p364
+Quam si dura silex aut stet Marpesia cautes.
+			
+Tandem corripuit sese atque inimica refugit.
+		
+
+
+
 Idem pathos est et in hoc versu:
+
+
+
+
+
+
+Obstupui, steteruntque comae et vox faucibus haesit.
+		
 
 
 
 2 Sed et tota Daretis fatigatio habitu depingitur:
 
+Ast illum fidi aequales genua aegra trahentem
+	
+Quassantemque utroque caput crassumque cruorem
+	
+Ore eiectantem.
+ Sociorum quoque eius trepidationem breviter ostendit:
+— 
+Galeamque ensemque vocati
+	
+Accipiunt,
+ quasi non sponte accepturi munus, quod erat damnum verecundiae. Ex eodem genere est illud:
+— 
+Totoque loquentis ab ore
+	
+Scintillae absistunt, oculis micat acribus ingis.
+
+
 3 Est et in descriptione languoris habitus, ut est tota descriptio pestilentiae apud Thucydidem, et:
+
+Labitur infelix studiorum atque immemor herbae
+	
+Victor equus,
+ et:
+— 
+Demissae aures, incertus ibidem
+	
+Sudor, et ille quidem morituris frigidus.
+
 
 4 Est inter pathe et pudor, ut circa Deiphobum
 
 
 
 p365
+— 
+pavitantem et dira tegentem
+	
+Supplicia.
+
 
 5 Et luctus habitu proditur, ut in Euryali matre:
+
+Expulsi manibus radii revolutaque pensa:
+	
+Evolat infelix.
+ Et Latinus, quia miratur,
+— 
+Defixa.
+	
+Obtutu tenet ora:
+ et Venus, quia rogatura, est
+
+Tristior et lacrimis oculos suffusa nitentes:
+ et, Sibylla quia insanit,
+— 
+Subito non vultus, non color unus,
+	
+Non comptae mansere comae.
+
+
+
+II.
+	
 
 1 Nunc videamus pathos quo tenore orationis exprimitur. Ac primum quaeramus quid de tali oratione rhetorica arte praecipitur. Oportet enim ut oratio pathetica aut ad indignationem aut ad misericordiam dirigatur, quae a Graecis οἶκτος καὶ δείνωσις appellantur. Horum alterum accusatori necessarium est, alterum reo: et necesse est initium abruptum habeat, quoniam satis
 
 
 
 p366indignantibus leniter incipere non convenit. 2 Ideo apud Virgilium Iuno sic incipit:
+— 
+Quid me alta silentia cogis
+	
+Rumpere?
+ et alibi:
+— 
+Mene incepto desistere victam?
+ et alibi:
+
+Heu stirpem invisam et fatis contraria nostris
+	
+Fata Phrygum.
+ Et Dido:
+— 
+Moriemur inultae?
+	
+Sed moriamur, ait,
+ et eadem:
+— 
+Pro Iuppiter! ibit
+	
+Hic, ait.
+ Et Priamus:
+
+At tibi pro scelere, exclamat, pro talibus ausis.
+
 
 3 Nec initium solum tale esse debet, sed omnis, si fieri potest, oratio videri pathetica, et brevibus sententiis et crebris figuratum mutationibus debet velut inter aestus iracundiae fluctuare. 4 Una ergo nobis Virgiliana oratio pro exemplo sit.
+
+Heu stirpem invisam:
+ initium ab ecphonesi. Deinde secuntur breves interrogatiunculae:
+— 
+Num Sigeis occumbere campis,
+	
+Num capti potuere capi? num incensa cremavit
+	
+Troia viros?
+ Deinde sequitur hyperbole:
+
+Medias acies mediosque per ignes
+	
+Invenere viam.
+ Deinde ironia:
+
+At credo mea numina tandem
+	
+Fessa iacent odiis aut exsaturata quievi.
+
 
 5 Deinde ausus suos inefficaces queritur:
 
 
 
 p367
+— 
+Per undas
+	
+Ausa sequi et profugis toto me opponere ponto.
+ Secunda post haec hyperbole:
+
+Absumptae in Teucros vires caelique marisque.
+ Inde dispersae querelae:
+
+Quid Syrtes aut Scylla mihi, quid vasta Charybdis
+	
+Profuit?
+
 
 6 Iungitur deinde argumentum a minore, ut pathos augeatur:
+— 
+Mars perdere gentem
+	
+Inmanem Lapithum valuit.
+ Minor scilicet persona: ideo illud sequitur:
+
+Ast ego magna Iovis coniunx.
+
 
 Deinde, cum causas quoque contulisset, quanto impetu dea dixit:
+— 
+Infelix quae memet in omnia verti!
+ Nec dixit: Non possum perdere Aeneam, sed:
+
+Vincor ab Aenea.
+
 
 7 Deinde confirmat se ad nocendum, et, quod proprium est irascentis, etsi desperat perfici posse, tamen impedire contenta est:
 
+Flectere si nequeo superos, Acheronta movebo.
+	
+Non dabitur regnis, esto, prohibere Latinis,
+	
+At trahere, atque moras tantis licet addere rebus.
+	
+At licet amborum populos excindere regum.
+
+
 8 Post haec in novissimo, quod irati libenter faciunt, maledicit:
+
+Sanguine Troiano et Rutulo dotabere virgo,
+
+et protinus argumentum a simili conveniens ex praecedentibus:
+— Nec face tantum
+	
+Cisseis praegnas ignes enixa iugales.
+
 
 9 Vides quam saepe orationem mutaverit ac frequentibus figuris variaverit, qui ira, quae brevis furor est, non potest unum continuare sensum in loquendo. 10 Nec desunt apud eundem orationes misericordiam commoventes. Turnus ad Iuturnam:
 
+An miseri fratris letum ut crudele videres?
+
+p368et idem, cum auget invidiam occisorum pro se amicorum:
+
+Vidi oculos ante ipse meos me voce vocantem
+	
+Murranum.
+
+
 11 Et idem, cum miserabilem fortunam suam faceret, ut victo sibi parceretur:
+— 
+Vicisti, et victum tendere palmas
+	
+Ausonii videre,
+ id est quos minime vellem: et aliorum preces orantium vitam:
+
+Per te, per qui te talem genuere parentes,
+ et similia.
+
+
+	
+
+III.
+	
 
 1 Nunc dicamus de habitu pathus quod est vel in aetate vel in debilitate et ceteris quae secuntur. Eleganter hoc servavit, ut ex omni aetate pathos misericordiae moveret. 2 Ab infantia:
 
+Infantumque animae flentes in limine primo.
+ 3 A pueritia:
+
+Infelix puer atque impar congressus Achilli,
+ et:
+— 
+Parvumque patri tendebat Iulum,
+ ut non minus miserabile sit periculum in parvo quam in filio, et:
+— 
+Superet coniunxne Creusa?
+	
+Ascaniusque puer?
+ et alibi:
+— 
+et parvi casus Iuli.
+ 4 A iuventa vero:
+
+Inpositique rogis iuvenes ante ora parentum,
+ 5 A senecta:
+— 
+Dauni miserere senectae,
+
+p369et:
+
+Ducitur infelix aevo confectus Aletes,
+ et:
+
+Canitiem multo deformat pulvere.
+
+
 6 Movit et a fortuna modo misericordiam modo indignationem. Misericordiam:
+— 
+Tot quondam populis terrisque superbum
+	
+Regnatorem Asiae,
+ et Sinon:
+— 
+Et nos aliquod nomenque decusque
+	
+Gessimus,
+ et:
+— 
+Ausoniisque olim ditissimus arvis.
+
 
 7 Indignationem vero ex verbis Didonis:
+— 
+Et nostris inluserit advena regnis?
+ Eleganter enim ex contemptu Aeneae auget iniuriam suam. Et Amata:
+
+Exulibusne datur ducenda Lavinia Teucris?
+ et Numanus:
+
+Bis capti Phryges.
+
 
 8 Movit pathos misericordiae et ex debilitate:
+— 
+Ex quo me divum pater atque hominum rex
+	
+Fulminis adflavit ventis et contigit igne,
+ et alibi:
+— 
+Et truncas inhonesto vulnere nares,
+ et de Mezentio:
+— 
+Attollit in agrum
+	
+Se femur,
+ et:
+
+Huc caput atque illuc humero ex utroque pependit,
+ et:
+
+Te decisa suum, Laride, dextera quaerit,
+ et:
+— 
+Aterque cruento
+	
+Pulvere perque pedes traiectus lora tumentes.
+
 
 9 Movit pathos misericordiae frequenter et a loco:
 
+Cum vitam in silvis inter deserta ferarum
+	
+Lustra domosque traho.
+ et:
+— 
+Libyae deserta peragro,
+ et:
+
+At nos hinc alii sitientes ibimus Afros,
+	
+Pars Scythiam et rapidum Cretae veniemus Oaxem.
+
+
 10 Et illud egregie et breviter:
+
+Ter circum Iliacos raptaverat Hectora muros.
+
 p370
 Iliacos, id est patriae muros, quos ipse defenderat, pro quibus efficaciter per decem annorum spatia pugnaverat. 11 Et illud:
 
+Nos patriam fugimus,
+ et:
+
+Litora cum patriae lacrimans portusque relinquo,
+ et:
+— 
+Dulces moriens reminiscitur Argos,
+ et:
+— 
+Ignarum Laurens habet ora Mimanta,
+ [et:]
+
+Lyrnesi domus alta, solo Laurente sepulchrum.
+
+
 12 Et ut Agamemnonem indigne ostenderet occisum, adsumpsit locum:
+— 
+Prima inter limina dextra
+	
+Oppetiit,
+ et illud:
+
+Moenibus in patriis atque inter tuta domorum.
+
 
 13 Sacer vero locus praecipue pathos movet. Occisum inducit Orphea, et miserabiliorem interitum eius a loco facit:
 
+Inter sacra deum nocturnique orgia Bacchi.
+ Et in eversione Troiae:
+— 
+Perque domos et religiosa deorum
+	
+Limina.
+
+
 14 Cassandrae quoque raptum vel deminutionem quam miserabilem fecit sacer locus:
+
+Ecce trahebatur a templo adytisque Minervae?
+ Et alibi:
+— 
+Divae armipotentis ad aram
+	
+Procubuit.
+
 
 15 Et Andromache cum de Pyrrhi nece diceret, ut invidiam occidentis exprimeret:
 
+Excipit incautum, patriasque obtruncat ad aras.
+
+p371Et Venus, quod Aeneas in mari vexatur ira Iunonis, quam invidiose de loco queritur Neptuno:
+
+In regnis hoc ausa tuis?
+
+
 16 Fecit sibi pathos et ex tempore:
+— 
+Priusquam
+	
+Pabula gustassent Troiae Xanthumque bibissent.
+ Et Orpheus miserabilis ex longo dolore:
+
+Septem illum totos perhibent ex ordine menses,
+ et Palinurus:
+— 
+Vix lumine quarto
+	
+Prospexi Italiam.
+ et Achemenides:
+
+Tertia iam lunae se cornua lumine conplent.
+ Et:
+
+Septima post Troiae excidium iam vertitur aestas.
+
+
+
+IV.
+	
 
 1 Frequens apud illum pathos a causa. Revera enim plerumque efficit causa ut res aut atrox aut miserabilis videatur, ut Cicero in Verrem, qui ob sepulturam in carcere necatorum a parentibus rogabatur. Hic enim non tam rogari aut pecuniam exigere, quam ob hanc causam, indignum erat. 2 Et Demosthenes, cum queritur quendam a Midia circumventum, ex causa auget invidiam. Circumvenit, inquit, arbitrum, qui inter me atque se integre iudicaverat. 3 Ergo et Virgilius egregie saepe ex hoc loco traxit affectum. Occiditur, inquit, in acie Galesus. Hoc per se non est dignum misericordia belli tempore, sed admovit causam:p372
 
+Dum paci medium se offert.
+ 4 Idem alio loco:
+
+Sternitur infelix,
+ deinde subicit causam miserabilem:
+
+alieno vulnere:
+
+
 5 id est, cum in alium telum esset emissum. Et cum Palamedem indigne occisum vellet:
+— 
+Quem falsa sub proditione Pelasgi
+	
+Insontem infando indicio, quia bella vetabat,
+	
+Demisere neci.
+
 
 6 Et Aeneas, ut ostenderet magnitudinem timoris sui, bene causam posuit:
+— 
+Et pariter comitique onerique timentem.
+
 
 7 Quid? Iapix ut contemptis ceteris artificiis inglorius, quemadmodum poeta ait, viveret, qualis causa proponitur?
 
+Ille ut depositi proferret fata parentis.
+
+
 8 Ex eodem genere est:
 
+Fallit te incautum pietas tua.
+
+
 9 Haec enim causa illum hostibus etiam miserabilem fecit. Sed Aeneas, cum hortatur ut sepeliantur occisi, quam causam proponit?
+— 
+Qui sanguine nobis
+	
+Hanc patriam peperere suo.
+
 
 10 Nec non et indignatio demonstratur a causa, ut illic:
 
+Multa gemens, ignominiam plagasque superbi
+	
+Victoris, tum quos amisit inultus amores.
+
+
 11 Et illud a causa est ex affectu indignantis:
+— 
+An solos tangit Atridas
+	
+Iste dolor, solisque licet capere arma Mycenis
+
+
+et illud:
+— 
+At tu dictis, Albane, maneres.
+
+p373et illa omnia:
+
+Vendidit hic auro patriam, —
+	
+Quique ob adulterium caesi, —
+	
+Nec partem posuere suis.
+
 
 12 Ad pathos movendum nec duos illos praetermisit locos quos rhetores appellant a modo et a materia. Modus est, cum dico: Occidit manifeste vel occulte. 13 Materia est, cum dico, ferro an veneno. Demosthenes de modo invidiam Midiae facit, se pulsatum cothurno; Cicero Verri, cum nudum quendam dicit ab eo statuae inpositum. 14 Virgilius non minus evidenter:
+— 
+Altaria ad ipsa trementem
+	
+Traxit, et in multo lapsantem sanguine nati,
+ et:
+— 
+Capulo tenus abdidit ensem.
+
 
 15 Et illa omnia a modo sunt:
+— 
+Rostroque inmanis vultur adunco
+	
+Inmortale iecur tondens, et reliqua,
+
+et:
+
+Quos super atra silex iam iam lapsura cadentique
+	
+Inminet adsimilis.
+
 p374
 16 Sed et misericordiam a modo saepe commovet, ut de Orpheo:
+— 
+Latos iuvenem sparsere per agros,
+ et illud:
+
+Obruit auster aqua involvens navemque virosque,
+ et:
+
+Saxum ingens volvunt alii,
+ et:
+
+Mortua quin etiam iungebat corpora vivis,
+ et in Georgicis:
+
+Nec via mortis erat simplex,
+
 
 17 et cetera in descriptione morbi. Sed et materia apud rhetoras pathos movet, ut dum queritur Cicero flammam ex lignis viridibus factam atque ibi inclusum fumo necatum. Hoc enim a materia est, quoniam hic usus est fumo materia ad occidendum, ut alius gladio alius veneno: et ideo acerrimum pathos ex hoc motum est. Idem facit et cum flagellis caesum queritur civem Romanum. 18 Invenies idem apud Virgilium:
+
+
+
+
+
+At pater omnipotens densa inter nubila telum
+			
+Contorsit: non ille faces nec fumea taedis
+		
+
 
 
 19 et reliqua. Eleganter autem illius quidem materiam elusit, ex huius autem vera et vehementi materia expressit iracundiam. Et singula quidem enumeravimus, ex quibus apud rhetoras pathos nascitur, quibus ostendimus usum Maronem. Sed nonnumquam Virgilius in una re ad augendum pathos duobus aut pluribus locis coniunctis utitur: 20 ut in Turno ab aetate:
 
 
+
+
+
+— Miserere parentis
+			
+Longaevi,
+
+
+
+
 a loco:
+
+quem nunc maestum patria Ardea longe
+	
+Dividit;
+
 
 21 et circa Cassandram ex modo:
 
+Ecce trahebatur,
+ ex habitu corporis:
+
+passis Priameia virgo
+	
+Crinibus,
+
+p375ex loco:
+
+a templo . . . adytisque Minervae:
+
+
 22 et circa Agamemnonem a patria:
 
+Ipse Mycenaeus,
+ a fortuna:
+
+magnorum ductor Achivum,
+ a necessitudine:
+
+Coniugis,
+ a loco:
+
+prima inter limina,
+ a causa:
+— 
+possedit adulter.
+
+
 23 Tacite quoque et quasi per definitionem pathos movere solet, cum res quae miserationem movet non dilucide dicitur, sed datur intellegi, ut cum dicit Mezentius:
+— 
+Nunc alte vulnus adactum.
+
 
 Quid enim aliud ex hoc intellegendum est quam hoc, altum vulnus esse amittere filium? 24 Et rursus idem:
+— 
+Haec via sola fuit qua perdere posses.
+
 
 Sed et hic scilicet accipiendum est perire esse amittere filium. 25 Et Iuturna, cum queritur quod adiuvare fratrem prohibeatur:
 
+Inmortalis ego?
+ Quid enim sequitur? Non est inmortalitas in luctu vivere. Haec, ut dixi, vim definitionis habent, et a poeta eleganter introducta sunt.
+
+
+	
+
+V.
+	
+
 1 Sunt in arte rhetorica ad pathos movendum etiam hi loci qui dicuntur circa rem, et movendis affectibus peroportuni sunt. Ex quibus primus est a simili. Huius species sunt tres, exemplum parabola imago, Graece παράδειγμα παραβολὴ εἰκών. 2 Ab exemplo Virgilius:
+
+
+
+
+Si potuit Manes accersere coniugis Orpheus,
+			
+p376
+Threicia fretus cithara, fidibusque canoris:
+			
+Si fratrem Pollux alterna morte redemit.
+			
+. . . . Quid Thesea magnum,
+			
+Quid memorem Alciden?
+			
+Antenor potuit mediis elapsus Achivis.
+
+
+
 
 Haec enim omnia misericordiam movent, quoniam indignum videtur negari sibi quod aliis indultum sit. 3 Deinde vide unde auget invidiam:
 
+Si potuit Manes accersere coniugis Orpheus.
+ Habes causam disparem: Manes illic coniugis, hic patris; illic accersere, hic videre.
+
+Threicia fretus cithara.
+
+Hic materiam eius inrisit.
+4  Si fratrem Pollux alterna morte redemit,
+	
+Itque reditque viam toties.
+
+Hoc iam a modo, plus est enim saepe ire quam semel.
+
+Quid Thesea magnum,
+	
+Quid memorem Alciden?
+
+
 Hic propter egregias personas non habuit quod minueret vel augeret, verum quod in illis elucebat hoc sibi iactat cum his esse commune:
 
+Et mi genus ab Iove summo.
+
+
 5 Simile est et illud ab indignatione: Quid enim? ait Iuno:
+— 
+Pallasne exurere classem
+	
+Argivum?
+ Iam hoc plus est, classem victricem, quam reliquias fugientium. Deinde causam minuit:
+
+Unius ob noxam et furias Aiacis Oilei,
+
+p377quam minuit, ut noxam diceret, quod levis culpae nomen est, et unius, quod facile possit ignosci, et furentis, ut nec culpa sit. 6 Et alibi:
+— 
+Mars perdere gentem
+	
+Inmanem Lapithum valuit.
+ Vides easdem observationes, gentem et inmanem: deinde aliud exemplum:
+
+Concessit in iras
+	
+Ipse deum antiquam genitor Calydona Dianae,
+ antiquam, ut plus honoris accederet ex vetustate: deinde in utroque causam minuit:
+
+Quod scelus aut Lapithis tantum aut Calydone merente?
+
 
 7 A parabola vero, quoniam magis hoc poetae convenit, saepissime pathos movet, cum aut miserabilem aut iracundum vellet inducere. Miserabilem sic:
-8 Quid de ira?
+
+Qualis populea maerens Philomela sub umbra,
+	
+— Qualis commotis excita sacris
+	
+Thyas, —
+	
+Qualem virgineo demessum pollice florem,
+ et aliae plurimae patheticae parabolae in quibus miseratus est.
+
+	8 Quid de ira?
+
+Ac veluti pleno lupus insidiatus ovili
+	
+Cum fremit ad caulas,
+ et:
+
+Mugitus veluti, fugit cum saucius aram
+	
+Taurus.
+
 
 9 Et alia plura similia qui quaerit inveniet. Et imago, quae est a simili pars tertia, idonea est movendis affectibus. Ea fit, cum aut forma corporis absentis describitur, aut omnino quae nulla est fingitur. 10 Utrumque Virgilius eleganter fecit. Illud prius circa Ascanium:
 
+O mihi sola mei super Astyanactis imago,
+	p378
+Sic oculos, sic ille manus, sic ora ferebat.
+
+Fingit vero, cum dicit:
+— 
+Quam fama secuta est,
+	
+Candida succinctam latrantibus inguina monstris.
+
+
 11 Sed prior forma οἶκτον praestat, haec δείνωσιν, id est, prior misericordiam commovet, horrorem secunda, sicut alibi:
 
+Et scissa gaudens vadit Discordia palla,
+	
+Quam cum sanguineo sequitur Bellona flagello,
+
+
 12 et omnia illa quae de Fama dixit. Sed et illud nimium pathetice:
+— 
+Furor inpius intus
+	
+Saeva sedens super arma, et centum vinctus aenis
+	
+Post tergum nodis fremit horridus ore cruento.
+
+
+
+VI.
+	
 
 1 Diximus a simili: nunc dicamus a minore pathos a poeta positum. Nempe cum aliquid proponitur quod per se magnum sit, deinde minus esse ostenditur quam illud quod volumus augeri, sine dubio infinita miseratio movetur. 2 Ut est illud:
+O felix una ante alias Priameia virgo,
+	
+Hostilem ad tumulum Troiae sub moenibus altis
+	
+Iussa mori.
+ Primum quod ait felix, conparationem sui fecit, deinde posuit a loco: Hostilem ad tumulum, et a modo, quod non minus acerbum est: Iussa mori. Sic ergo haec accipienda sunt: Quamvis hoistilem ad tumulum, quamvis iussa mori, felicior tamen quam ego, quia sortitus non pertulit ullos. 3 Simile est et illud:
+— 
+O terque quaterque beati,
+ et quod de Pasiphae dicit:
+
+Proetides inplerunt falsis mugitibus agros,
+ deinde, ut minus hoc esse monstraret:
+
+At non tam turpes pecudum tamen ulla secuta est
+	
+Concubitus.
+
+
 4 Quid illud? nonne vehementer patheticum est a minore:
+
+Nec vates Helenus, cum multa horrenda moneret,
+	p379
+Hos mihi praedixit luctus, non dira Celaeno?
+
 
 Quid hic intellegimus, nisi omnia quae passus erat minora illi visa quam patris mortem? 5 A maiore negaverunt quidam augeri rem posse: sed eleganter hoc circa Didonem Virgilius induxit:
 
+Non aliter, quam si inmissis ruat hostibus omnis
+	
+Carthago, aut antiqua Tyros.
+
+
 Dixit enim non minorem luctum fuisse ex unius morte quam si tota urbs, quod sine dubio esset maius, ruisset. Et Homerus idem fecit:
+
+— Ὡς εἰ ἅπασα
+	
+Ἵλιος ὀφρυόεσσα πυρὶ σμήχοιτο κατ᾽ ἄκρας.
+
 
 6 Est apud oratores et ille locus idoneus ad pathos movendum qui dicitur praeter spem. Hunc Virgilius frequenter exercuit:
 
 
+Nos tua progenies, caeli quibus annuis arcem, et cetera.
+
+
+Et Dido:
+
+Hunc ego si potui tantum sperare dolorem,
+	
+Et perferre, soror, potero.
+
+
 7 Aeneas de Evandro:
+
+Et nunc ille quidem spe multum captus inani
+	
+Fors et vota facit.
+ Et illud:
+— 
+Advena nostri,
+	
+Quod numquam veriti sumus, ut possessor agelli
+	
+Diceret: Haec mea sunt, veteres migrate coloni.
+
 
 8 Invenio tamen posse aliquem et ex eo quod iam speraverit movere pathos, ut Evander:
 
+Haud ignarus eram, quantum nova gloria in armis,
+	
+Et praedulce decus.
+
+
 9 Oratores ὁμοιοπάθειαν vocant quoties de similitudine passionis pathos nascitur, ut apud Virgilium:
+— 
+Fuit et tibi talis
+	
+Anchises genitor,
+
+p380et:
+— 
+Patriae strinxit pietatis imago,
+ et:
+— 
+Subiit cari genitoris imago,
+ et Dido:
+
+Me quoque per multos similis fortuna labores.
+
 
 10 Est et ille locus ad permovendum pathos in quo sermo dirigitur vel ad inanimalia vel ad muta, quo loco oratores frequenter utuntur. Utrumque Virgilius bene pathetice tractavit, vel cum ait Dido:
 
+Dulces exuviae, dum fata deusque sinebant,
+ vel cum Turnus:
+— 
+Tuque optima ferrum
+	
+Terra tene,
+ et idem alibi:
+— 
+Nunc, o numquam frustrata vocatus
+	
+Hasta meos,
+ et:
+
+Rhoebe, diu, res si qua diu mortalibus ulla est,
+	
+Viximus.
+
+
 11 Facit apud oratores pathos etiam addubitatio, quam Graeci ἀπόρησιν vocant. Est enim vel dolentis vel irascentis dubitare quid agas:
+
+En, quid ago? rursusne procos inrisa priores
+	
+Experiar?
+
 
 12 Et illud de Orpheo:
 
+Quid faceret? quo se rapta bis coniuge ferret?
+ et de Niso:
+
+Quid faciat? qua vi iuvenem, quibus audeat armis
+	
+Eripere?
+ Et Anna permovetur:
+
+Quid primum deserta querar? comitemne sororem . . .
+
+
 13 Et attestatio rei visae apud rhetoras pathos movet. Hoc Virgilius sic exequitur:
+
+Ipse caput nivei fultum Pallantis et ora
+	
+Ut vidit levique patens in pectore vulnus.
+
 
 14 Et illud:
 
+Inplevitque sinum sanguis,
+
+p381et:
+— 
+Moriensque suo se in sanguine versat,
+ et:
+
+Crudelis nati monstrantem vulnera cernit,
+ et:
+
+Ora virum tristi pendebant pallida tabo,
+ et:
+
+Volvitur Euryalus. . ., pulchrosque per artus
+	
+It cruor,
+ et:
+
+Vidi egomet duo de numero cum corpora nostro . . .
+
+
 15 Facit hyperbole, id est nimietas, pathos: per quam exprimitur vel ira vel misericordia. Ira, ut cum forte dicimus: milies ille perire debuerat, quod est apud Virgilium:
+
+Omnes per mortes animam sontem ipse dedissem;
+
+miseratio, cum dicit:
+
+Daphni, tuum Poenos etiam ingemuisse leones
+	
+Interitum.
+
 
 16 Nascitur praeter haec de nimietate vel amatorium vel alterius generis pathos:
 
+Si mihi non haec lux toto iam longior anno est,
+ et illud seorsum:
+— 
+Maria ante exurere Turno
+	
+Quam sacras dabitur pinus,
+ et:
+— 
+Non si tellurem effundat in undas.
+
+
 17 Exclamatio, quae apud Graecos ἐκφώνησις dicitur, movet pathos. Haec fit interdum ex persona poetae, nonnumquam ex ipsius quem inducit loquentem. 18 Ex poetae quidem persona est:
 
+Mantua vae miserae nimium vicina Cremonae!
+	
+Infelix! utcumque ferent ea facta nepotes, —
+	p382
+Crimen amor vestrum!
+
+
 et alia similia; 19 ex persona vero alterius:
+— 
+Di capiti ipsius generique reservent!
+ et:
+— 
+Di talia Graiis
+	
+Instaurate, pio si poenas ore reposco!
+ et:
+— 
+Di talem terris avertite pestem!
+
 
 20 Contraria huic figurae ἀποσιώπησις, quod est taciturnitas. Nam ut illic aliqua exclamando dicimus, ita hic aliqua tacendo subducimus, quae tamen intellegere possit auditor. 21 Hoc autem praecipue irascentibus convenit, ut Neptunus:
 
+Quos ego! — sed motos praestat conponere fluctus,
+ et Mnestheus:
+— 
+Nec vincere certo.
+	
+Quamquam, o! — sed superent quibus hoc, Neptune, dedisti,
+ et Turnus:
+
+Quamquam, o, si solitae quicquam virtutis adesset!
+ et in Bucolicis:
+
+Novimus et qui te transversa tuentibus hircis,
+	
+Et quo — sed faciles Nymphae risere — sacello.
+
+
 22 Sed et miseratio ex hac figura mota est a Sinone:
+— 
+Donec Calchante ministro —
+	
+Sed quid ego haec autem nequidquam ingrata revolvo?
+
 
 23 Nascitur pathos et de repetitione, quam Graeci ἐπαναφορὰν vocant, cum sententiae ab isdem nominibus incipiunt. Hinc Virgilius:
+— 
+Eurydicen vox ipsa et frigida lingua,
+	
+Ah miseram Eurydicen! anima fugiente vocabat.
+	
+Eurydicen toto referebant flumine ripae,
+ et illud:
+
+	
+Te dulcis coniunx, te solo in litore secum,
+	
+Te veniente die, te decedente canebat,
+	
+et illud:
+
+	
+Te nemus Angitiae, vitrea te Fucinus unda,
+	
+Te liquidi flevere lacus.
+	
 
 24 Ἐπιτίμησις, quae est obiurgatio, habet et ipsa pathos, id est, cum obiecta isdem verbis refutamus:
 	
+Aeneas ignarus abest, ignarus et absit.
+	
+
+* * *
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Saturnalia:
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+1 Feb 06

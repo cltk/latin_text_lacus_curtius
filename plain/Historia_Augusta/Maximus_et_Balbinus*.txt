@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Gordiani tres
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Valeriani Duo
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p448
+
+Maximus et Balbinus
+	
+
 11 Interemptis in Africa Gordiano seniore cum filio, cum Maximinus ad urbem furens veniret, ut quod Gordiani Augusti appellati fuerant vindicaret, senatus praetrepidus in aedem Concordiae VII idus Iulias1 concurrit, Ludis Apollinaribus, remedium contra furorem hominis improbissimi requirens. 2 cum igitur duo consulares, et eminentes quidem viri, Maximus et Balbinus (quorum Maximus a plerisque in historia reticetur et loco eius Pupieni nomen infertur, cum et Dexippus et Arrianus Maximum et Balbinum dicant electos contra Maximinum post Gordianos), quorum alter bonitate, virtute alter ac severitate clari habebantur, ingressi essent Curiam ac praecipue timorem Maximini adventu fronte ostenderent, referente consule
 
 
@@ -164,85 +272,105 @@ p484successionum atque heredum reduxistis. 5 haec enumerare difficile est, 6 n
 18
 1 Haec epistula probat 2 Pupienum eundem esse qui a plerisque Maximus dicitur; si quidem per haec tempora apud Graecos non facile Pupienus, apud Latinos non facile Maximus inveniatur, et ea, quae gesta sunt contra Maximinum, modo a Pupieno modo a Maximo acta dicantur.40
 
+
+Apparatus Criticus:
+	
+
 1
 Iulias Peter (cf. Maxim. xvi.1); Iunias P.
 
 
+❦
 
 2
 ignobilitatem . . . texerit Lipsius, Damsté (cf. Maxim. xx.1); nobilitatem . . . † ei lexerit P, Peter.
 
 
+❦
 
 3
 est Peter; sit P.
 
 
+❦
 
 4
 After filia P reads qui est in Africa occisus; del. by Peter.
 
 
+❦
 
 5
 conlocata P.
 
 
+❦
 
 6
 persecutus Peter; prosecutus P.
 
 
+❦
 
 7
 pueri Salm., Peter; uiri P.
 
 
+❦
 
 8
 parentis Peter; patris P.
 
 
+❦
 
 9
 ac ins. by Peter; om. in P.
 
 
+❦
 
 10
 tandem Cas.; tamen P, Peter.
 
 
+❦
 
 11
 quae om. in P.
 
 
+❦
 
 12
 et Cod. Admont., Petschenig; in P; om. by Eyssenhardt and Peter.
 
 
+❦
 
 13
 nobili ins. by Lenze; om. in P; † ueluti Peter.
 
 
+❦
 
 14
 conlocauerat P, Petschenig, Bitschofsky;º conciliauerat Peter.
 
 
+❦
 
 15
 poemate Jordan; poemata P; poeta Peter.
 
 
+❦
 
 16
 defuit ins. by Jordan and Peter; om. in P.
 
 
+❦
 
 17
 Here follows in P the misplaced portion of the Vita Maxim. beginning comperit Alexandrum,
@@ -253,119 +381,242 @@ c. xviii.2; see
 Intro. to Vol. I p. xxxiii.
 
 
+❦
 
 18
 ut Damsté; et P, Peter.
 
 
+❦
 
 19
 tetendit Madvig, Peter2; tenuit P, Peter1.
 
 
+❦
 
 20
 ut om. in P.
 
 
+❦
 
 21
 quae om. in P.
 
 
+❦
 
 22
 crines . . . emittendas totondisse P corr., Jordan; crines . . . emittendasse P1; crinibus . . . emittendas usi esse Peter.
 
 
+❦
 
 23
 ut om. in P.
 
 
+❦
 
 24
 octo om. in P.
 
 
+❦
 
 25
 contingerent P, Peter1; <non> contingerent Peter2.
 
 
+❦
 
 26
 quem postula<re puta>bat Peter; quem postulabat P.
 
 
+❦
 
 27
 id est Augustus del. by Eyssenhardt and Peter.
 
 
+❦
 
 28
 certantium Cas., Peter; errantium P.
 
 
+❦
 
 29
 non Puppienus P.
 
 
+❦
 
 30
 After biennium the first Venice edition reads: Nec reticendum est quod Maximus, cum et sibi et Balbino deferretur iudicio senatus imperium, Balbino dixisse fertur, ut Herodianus dicit, "Quid tu, Balbine, et ego merebimur, cum hanc tam immanem beluam exitio dederimus?" cumque Balbinus dixisset, "Senatus populique Romani feruentissimum amorem et orbis terrarum," dixisse fertur Maximus, "Vereor ne militum odium sentiamus et mortem"; om. in P and rejected by Jordan and Peter; retained by Patzig, Byz. Zeitschr., xiii p45 f.
 
 
+❦
 
 31
 tantum om. in P.
 
 
+❦
 
 32
 modum P.
 
 
+❦
 
 33
 So Peter2; reducitis om. in P.
 
 
+❦
 
 34
 de legionibus P.
 
 
+❦
 
 35
 tam ins. by Gruter and Peter; om. in P.
 
 
+❦
 
 36
 sit Lessing, Damsté; sint P, Peter.
 
 
+❦
 
 37
 sceleratus Peter; sicelatus P.
 
 
+❦
 
 38
 ut ins. by Bitschofsky; om. in P and by Peter.
 
 
+❦
 
 39
 eos P.
 
 
+❦
 
 40
 After dicantur some editors print: Sed Fortunatiano credamus, qui dicit Pupienum dictum nomine suo, cognomine uero patero Maximum, ut omnium stupore legentibus aboliti uideantur; rejected by Jordan and Peter; retained (with emendations by Cas.) by Patzig, Byz. Zeitschr., xiii p49 f.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

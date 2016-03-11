@@ -1,41 +1,373 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+
+Einsidlensibus Eclogis
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p330
+Incerti Carmina Bucolica
+	
+II
+	
+
+
+Glyceranus: Mystes
+	
+
+
+
+
+
+
+Gl.
+Quid tacitus, Mystes? My. curae mea gaudia turbant:
+	
+cura dapes sequitur, magis inter pocula surgit,
+	
+et gravis anxietas laetis incumbere gaudet.
+
+	
+
+Gl.
+non satis accipio. My. nec me iuvat omnia fari.
+
+	5
+
+Gl.
+forsitan imposuit pecori lupus? My. haud timet hostes
+	
+turba canum vigilans. Gl. vigiles quoque somnus adumbrat.
+
+	
+
+My.
+altius est, Glycerane, aliquid, non quod patet:1 erras.
+
+	
+
+Gl.
+atquin turbari sine ventis non solet aequor.
+
+	
+
+My.
+quod minime reris, satias mea gaudia vexat.
+
+	10
+p332
+
+Gl.
+deliciae somnusque solent adamare querellas.
+
+	
+
+My.
+ergo si causas curarum scire laboras —
+
+	
+
+Gl.
+quae spargit ramos, tremula nos vestiet umbra
+	
+ulmus, et en tenero corpus summittere prato
+	
+herba iubet: tu dic, quae sit tibi causa tacendi.
+
+	15
+
+My.
+cernis ut attrito diffusus cespite pagus2
+
+annua vota ferat sollennesque incohet3 aras?
+	
+spirant templa mero, resonant cava tympana palmis,
+	
+Maenalides teneras ducunt per sacra choreas,
+	
+tibia laeta canit, pendet sacer hircus ab ulmo
+	20
+et iam nudatis cervicibus exuit exta.
+	
+ergo num4 dubio pugnant discrimine nati
+	
+et negat huic aevo stolidum pecus aurea regna?
+	
+Saturni rediere dies Astraeaque virgo
+	
+tutaque5 in antiquos redierunt saecula mores.
+	25
+condit secura totas spe messor aristas,
+	
+languescit senio Bacchus, pecus errat in herba,
+	
+nec gladio metimus nec clausis oppida muris
+	
+bella tacenda parant; nullo iam noxia partu
+	
+femina quaecumque est hostem parit. arva iuventus
+	30
+p334
+nuda fodit tardoque puer domifactus aratro
+	
+miratur patriis pendentem sedibus ensem.
+	
+est6 procul a nobis infelix gloriae Sullae
+	
+trinaque tempestas, moriens cum Roma supremas
+	
+desperavit <opes>7 et Martia vendidit arma.
+	35
+nunc tellus inculta novos parit ubere fetus,
+	
+nunc ratibus tutis fera non irascitur unda;
+	
+mordent frena tigres, subeunt iuga saeva8 leones!
+	
+casta fave Lucina: tuus iam regnat Apollo!
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 non quod patet Baehrens: non non pat E.
 
 
+❦
 
 2
 cespite pagus Baehrens: cortice fagus E.
 
 
+❦
 
 3
 inchoet Baehrens: imbuet E: imbuat Hagen: induat Peiper.
 
 
+❦
 
 4
 nunc Baehrens: num E.
 
 
+❦
 
 5
 tutaque Baehrens: totaque E.
 
 
+❦
 
 6
 est Baehrens: sed E.
 
 
+❦
 
 7
 opes add. Peiper: om. E.
 
 
+❦
 
 8
 sueta Baehrens: sęva E.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Eclogarum
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVI Kal. Mart. 09

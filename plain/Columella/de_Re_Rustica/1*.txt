@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Praefatio
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+L. Junii Columellae
+				
+
+
+
+a
+H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXLI
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber II
+				
+
+
+
+
+p26
+L. Junii Columellae
+	
+
+De Re Rustica
+	
+
+Liber I
+	
+
 1
 Qui studium agricolationi dederit, antiquissima sciat haec sibi advocanda: prudentiam rei, facultatem impendendi, voluntatem agendi. Nam is demum cultissimum rus habebit, ut ait Tremelius, qui et colere sciet et poterit et volet. Neque enim scire aut velle cuiquam satis fuerit sine sumptibus, quos exigunt opera; 2 nec rursus faciendi aut impendendi
 
@@ -57,6 +178,14 @@ Porcius quidem Cato censebat inspiciendo agro36 praecipue duo esse consideranda,
 p44et minuit impensas rerum invectarum, quia minoris adportentur eo, quo facili nisu perveniatur; 4 nec non38 nihil esse etiam parvo vehi, si conductis iumentis iter facias, quod magis expedit quam tueri propria; Severos quoque, qui secuturi patrem familiae sint, non aegre iter pedibus ingredi. De bonitate aquae ita omnibus clarum est ut pluribus non sit disserendum. 5 Quis enim dubitet eam maxime probatam haberi, sine qua nemo nostrum vel prosperae vel adversae valetudinis vitam prorogat? De vicini commodo non est quidem certum, quia39 non numquam mors aliaeque nobis eum40 causae diversae41 mutant. Et ideo quidam respuunt Catonis sententiam; qui tamen multum videntur errare. Nam quem ad modum sapientis est fortuitos casus magno animo sustinere, ita dementis est ipsum sibi malam facere fortunam, quod facit, qui nequam vicinum suis nummis parat, cum a primis cunabulis, si modo liberis parentibus est oriundus, audisse potuerit:
 
 
+
+
+
+οὐδ᾽ ἂν βοῦς ἀπόλοιτ᾽ εἰ μὴ γείτῶν κακὸς εἴη.
+		
+
+
+
 6 Quod non solum de bove dicitur, sed42 de omnibus partibus rei nostrae familiaris; adeo quidem ut multi praetulerint carere penatibus et propter iniuriam vicinorum sedes suas profugerint. nisi
 
 
@@ -69,6 +198,16 @@ p46aliter existimamus diversum orbem gentes universas petisse relicto patrio sol
 
 
 p48quam ratio calculorum patitur, emere velint.46 Nam huc pertinet praeclara nostri poetae sententia:
+
+
+
+
+
+laudato ingentia rura,
+			
+Exiguum colito.
+		
+
 
 
 9 Quod vir eruditissimus, ut mea fert opinio, traditum vetus praeceptum numeris significavitque acutissimam gentem Poenos dixisse convenit imbecilliorem agrum quam agricolam esse debere, quoniam, cum sit conluctandum cum eo, si fundus praevaleat, adlidi dominum. Nec dubium quin minus reddat laxus ager non recte cultus quam angustus eximie. 10 Ideoque post reges exactos Liciniana illa septena iugera, quae plebis47 tribunus viritim diviserat, maiores quaestus antiquis rettulere,48 quam nunc nobis praebent amplissima veterata. Tanta M'.49 quidem Curius Dentatus, quem paulo ante rettulimus, prospero ductu parta victoria ob eximiam virtutem deferente populo praemii nomine quinquaginta soli iugera supra consularem triumphalemque fortunam putavit esse, repudiato quoque publico munere populari ac plebeia mensura contentus fuit. 11 Mox etiam cum
@@ -84,6 +223,18 @@ Sequitur deinceps Caesonianum praeceptum, quo fertur usus etiam Cato marcus, agr
 
 
 p54maciem soli vincere potest. 4 Haec autem consequemur,61 si verissimo vati velut oraculo crediderimus dicenti:
+
+
+
+
+
+Ventos et proprium62 caeli praediscere morem
+			
+Cura sit ac patrios cultus63 habitusque locorum
+			
+Et quid quaeque ferat regio et quid quaeque recuset;
+		
+
 
 
 nec contenti tamen auctoritate vel priorum vel praesentium colonorum nostra promiserimus64 exempla novaque temptaverimus experimenta. 5 Quod etsi per partes non numquam damnosum est, in summa tamen fit compendiosum, quia nullus ager sine profectu colitur, si multa temptando65 possessor efficit, ut in id formetur, quod maxime praestare66 possit. Ea reas etiam feracissimos agros utiliores reddit. Itaque nusquam experimentorum varietas omittenda est, longeque etiam in pingui solo magis audendum, quoniam nec laborem nec sumptum frustratur effectus. 6 Sed quam67 refert qualis fundus et quo modo colatur, tam villa qualiter aedificetur et quam utiliter disponatur. Multos enim deerrasse
@@ -257,55 +408,69 @@ p100ita opus, ut neque singuli binive sint, quoniam dispersi non facile custodiu
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 om. R plerique, edd. praeter Lundström.
 
 
+❦
 
 2
 tam SAa, Lundström.
 
 
+❦
 
 3
 iam om. A.
 
 
+❦
 
 4
 sive R.
 
 
+❦
 
 5
 sunt om. Schn.
 
 
+❦
 
 6
 quae om. S, Schn.
 
 
+❦
 
 7
 disciplina Ursinus (teste Schn.), Lundström cum Cod. Laurent. 53. 27: disciplinam Sardinia, plerique edd.
 
 
+❦
 
 8
 repperiuntur SAa, Lundström.
 
 
+❦
 
 9
 cuius add. Lundström: om. Sardinia.
 
 
+❦
 
 10
 e qua Lundström: eaque SA: aeque vel eque R: e queis vulgo.
 
 
+❦
 
 11
 Chaerestaeus
@@ -313,733 +478,991 @@ Chaerestaeus
 Varro, R. R I.1.8.
 
 
+❦
 
 12
 Euphronius Lundström praeeuntibus Reitzensteinio, Ursino, Pontedera: euphrontis Sardinia: euphronis vulgo.
 
 
+❦
 
 13
 Mnasias S, Lundström: manassias A: manasseas R.
 
 
+❦
 
 14
 dadi vel eladis vel cladis R: dandis SA.
 
 
+❦
 
 15
 et Plentiphanes Lundström: Pleutiphanes vulgo: euabtiphanes (et om.) SA: alii alia in R.
 
 
+❦
 
 16
 filium et patrem SA.
 
 
+❦
 
 17
 virgilium R.
 
 
+❦
 
 18
 carmine R.
 
 
+❦
 
 19
 quia R plerique.
 
 
+❦
 
 20
 discitur S.
 
 
+❦
 
 21
 cesserit R aliquot.
 
 
+❦
 
 22
 significante S.
 
 
+❦
 
 23
 quom vel cum R, ut saepe.
 
 
+❦
 
 24
 ut SA: velut R pauci.
 
 
+❦
 
 25
 contingant S.
 
 
+❦
 
 26
 vel Schn. cum Gronovio.
 
 
+❦
 
 27
 corruptis SA, et R plerique.
 
 
+❦
 
 28
 culturis R aliquot, Schn.
 
 
+❦
 
 29
 se venturum ante Lundström.
 
 
+❦
 
 30
 natura SA.
 
 
+❦
 
 31
 multari R plerique, et vulgo: mulctari R pauci, vett. edd.
 
 
+❦
 
 32
 subriserit vel surriserit R plerique: subscripserit vulgo.
 
 
+❦
 
 33
 aliis cultis (deest codd.) Gesn.: aliis ac cultis Schn.
 
 
+❦
 
 34
 vinetisque R, plerique edd.
 
 
+❦
 
 35
 quadripedum SAa, Lundström.
 
 
+❦
 
 36
 sic Lundström cum S (m. pr.) the R nonnullis: censebat in inspiciendo agro S (m. alt.) A et R nonnulli: censebat in emendo inspiciendo agro cod. Lips. bibl. Comm. I.f. 13: c. i. e. inspiciendoque a. vulgo.
 
 
+❦
 
 37
 vicinam R: viam et aquam vicinam vett. edd.: v. et a. et vicinum vulgo.
 
 
+❦
 
 38
 non om. Schn.
 
 
+❦
 
 39
 quia S, Lundström: qui AR: quem edd. vulgo.
 
 
+❦
 
 40
 nobis eum Lundström: nobiscum Sardinia, cett. edd.
 
 
+❦
 
 41
 diversae om. SAa: inc. Schn.
 
 
+❦
 
 42
 sed etiam R aliquot, et vulgo: etiam om. SA, Lundström.
 
 
+❦
 
 43
 finitissimis S.
 
 
+❦
 
 44
 ne carbonẽ SA.
 
 
+❦
 
 45
 pedamentum vel pedamenti vel pedamenti quicquam R plerique, edd. ante Lundström.
 
 
+❦
 
 46
 velint Pontedera, Schneider, Lundström: velit Sardinia, et alii.
 
 
+❦
 
 47
 plebi Schn.
 
 
+❦
 
 48
 retulere Sardinia.
 
 
+❦
 
 49
 tanta M'. Lundström, praeeunte Madvigio: tanta vel tantam codd. plerique.
 
 
+❦
 
 50
 flagitiosum R aliquot, et vulgo ante Lundström.
 
 
+❦
 
 51
 sic SA, et R aliquot, Lundström: adhibebitur vel adhibetur alii.
 
 
+❦
 
 52
 poteremur S, Lundström.
 
 
+❦
 
 53
 quoque codd., vett. edd., Lundström: equis quidem vulgo.
 
 
+❦
 
 54
 ac populandos om. SA.
 
 
+❦
 
 55
 sic codd., vett. edd., Lundström: cuique moderata voluntas vulgo, sed moderata om. SA.
 
 
+❦
 
 56
 om. SA.
 
 
+❦
 
 57
 om. SA.
 
 
+❦
 
 58
 om. SA.
 
 
+❦
 
 59
 censebat R aliquot, Lundström: veniebat Sardinia vett. edd.: suadebat Ald., Gesn., Schn.
 
 
+❦
 
 60
 locuntur SA, Lundström.
 
 
+❦
 
 61
 consequimur SA, Lundström.
 
 
+❦
 
 62
 varium codd. Verg.
 
 
+❦
 
 63
 cultusque codd. Verg.
 
 
+❦
 
 64
 promiserimus (-is A) Sardinia, Lundström: praetermiserimus M, et alii.
 
 
+❦
 
 65
 simul attentando R plerique, vett. edd., Ald., Gesn.: simul ac tentando Schn.
 
 
+❦
 
 66
 praestari SA et R pauci dett., Lundström.
 
 
+❦
 
 67
 quam Lundström cum R plerisque, ac deinceps tam cum codicibus omnibus ut videtur: quoniam (vel in abbr.) A et R nonnulli, edd. ante Gesn.: cu S: cum (quum) . . . tum Gesn., Schn., fortasse recte.
 
 
+❦
 
 68
 facultatium SA, Lundström.
 
 
+❦
 
 69
 delicatior. quamobrem amoenitate Ald., Gesn., Schn.
 
 
+❦
 
 70
 incohatur AaM: inchoatur S et R plerique, edd. omnes.
 
 
+❦
 
 71
 optinet SA, Lundström.
 
 
+❦
 
 72
 paululum A2 et R aliquot, edd. ane Lundström.
 
 
+❦
 
 73
 pecoribus instruantur R plerique, Ald., Gesn., Schn.
 
 
+❦
 
 74
 quae . . . salubritati] sic codd., vett. edd., Lundström: colligendae aquae tandem pluviali, quae salubritati Ald., Gesn., Schn.
 
 
+❦
 
 75
 deducatur R plerique, edd. ante Lundström: deducetur M.
 
 
+❦
 
 76
 aqua, quae Lundström: aquae vel aque vel aqua e codd., edd.
 
 
+❦
 
 77
 ut . . . Campaniae om. S, in marg. A. Gaurano Lundström, praeeunte Cluverio; ac sic maluerunt Gesn. et Schn.: Guarceno R, edd. vulgo.
 
 
+❦
 
 78
 repit, et Lundström: repet Sardinia: repit vulgo.
 
 
+❦
 
 79
 dummodo (vel dumodo) R, edd. ante Lundström.
 
 
+❦
 
 80
 profluenti R plerique, edd. ante Lundström.
 
 
+❦
 
 81
 quom vel cum R et multi edd., ut saepe.
 
 
+❦
 
 82
 destituta edd. ante Lundström.
 
 
+❦
 
 83
 vere natas Schn.
 
 
+❦
 
 84
 nec a via procul Lundström: nec avia procul R nonnulli dett.: nec avia procul avie c: nec alia procul Sardinia; nec alio procul vett. edd.: nec pestilenti loco, sed procul et Ald., Gesn., Schn.: sed alio procul Pontedera, probavit Schn.
 
 
+❦
 
 85
 tunc SA, Lundström.
 
 
+❦
 
 86
 fructibus R, Ald., Gesn., Schn.
 
 
+❦
 
 87
 ab superiore parte S, Schn.
 
 
+❦
 
 88
 hiberna R, et vulgo ante Lundström.
 
 
+❦
 
 89
 cubilia R plerique.
 
 
+❦
 
 90
 et om. Gesn., Schn.
 
 
+❦
 
 91
 ponatur ed. pr.
 
 
+❦
 
 92
 omnes plerique codd., vett. edd.
 
 
+❦
 
 93
 plurimis idque angustis Gesn., Schn.
 
 
+❦
 
 94
 fiant ante stabula add. Ald., fient Gesn., Schn.
 
 
+❦
 
 95
 bubula SA, et R plerique, vett. edd.
 
 
+❦
 
 96
 omnia edd. ante Lundström.
 
 
+❦
 
 97
 convenit R, Ald., Gesn., Schn.
 
 
+❦
 
 98
 status SA, Lundström.
 
 
+❦
 
 99
 res add. Ald., Gesn., Schn.
 
 
+❦
 
 100
 pabulas et SA.
 
 
+❦
 
 101
 ab alienis SA, et R aliquot: a balneis R nonnulli.
 
 
+❦
 
 102
 camera R, edd. ante Schn.
 
 
+❦
 
 103
 distinguuntur SA et R nonnulli, Lundström.
 
 
+❦
 
 104
 quoi SA, Lundström.
 
 
+❦
 
 105
 dein SA, Lundström.
 
 
+❦
 
 106
 possit Sardinia, vett. edd.: possis Schn. in not., Lundström: possunt vulgo.
 
 
+❦
 
 107
 infestantur R, Ald., Gesn., Schn.
 
 
+❦
 
 108
 usus om. SA, vett. edd.
 
 
+❦
 
 109
 magis (R plerique) constringitur M, et Ald., Gesn., Schn. ex
 Pallad. I.20
+❦
 
 110
 fracescit scripsi cum Schn. ad loc., Corrigenda et Addenda: fracesset Sardinia, vett. edd: fracescet Ald., Gesn.: fracessit Lundström.
 
 
+❦
 
 111
 contigit SA, et R aliquot.
 
 
+❦
 
 112
 premitur S, Schn.
 
 
+❦
 
 113
 tantum Cod. Laurent. 53.24, plerique edd. ante Lundström.
 
 
+❦
 
 114
 fumi (M) quodam tenore Ald., Gesn., Schn.
 
 
+❦
 
 115
 sic SAac, vett. edd., Lundström: suffitione vel sufficione R aliquot, Ald., Gesn., Schn.
 
 
+❦
 
 116
 villae pertinet situm Ursinus, Gesn., Schn.: villae situm pertinet M.
 
 
+❦
 
 117
 ulmi om. SA, plerique edd. ante Lundström,
 
 
+❦
 
 118
 pavimentatumque scripsit Lundström: pavimtuque S: pavimentumque AR: pavitumque Laurentianus 53.24, Lipsiensis I.f.13: pavimentum que solo ne vett. edd.: pavitumque solum habeat ne Ald., Gesn., Schn.
 
 
+❦
 
 119
 suco om. SA.
 
 
+❦
 
 120
 arescere ventis sinunt, aut solis Ald., Gesn., Schn.
 
 
+❦
 
 121
 vel add. Lundström.
 
 
+❦
 
 122
 nubilar SA, Lundström: nubilarium R, plerique edd.
 
 
+❦
 
 123
 cohortis R, vett. edd.: chortes SA: chortis Lundström: cortis Ald., Gesn., Schn.
 
 
+❦
 
 124
 cui R, Ald., Gesn., Lundström: cum SA, cett. edd.
 
 
+❦
 
 125
 vel Lundström: ut codd., cett. edd.
 
 
+❦
 
 126
 adiuvantur haec te A: adiuvantur nec te a: adiuvantur ut recte R.
 
 
+❦
 
 127
 namcupiorum SA, Lundström.
 
 
+❦
 
 128
 iamque is plerique edd., sed isque qui iam maluit Schn. in not.: iamque iis S: Iamque his A1: iamque qui ad, vett. edd.: iam qui A2R.
 
 
+❦
 
 129
 timere R, edd. ante Gesn.
 
 
+❦
 
 130
 om. SA, et R aliquot.
 
 
+❦
 
 131
 remanere SA, et R pauci: re manere Lundström.
 
 
+❦
 
 132
 instrumenti M, vett. edd., Schn.
 
 
+❦
 
 133
 exsequantur SA: exequantur vett. edd.: exequentur Ald., Gesn., Schn.
 
 
+❦
 
 134
 defatigationem Gesn., Schn.
 
 
+❦
 
 135
 confiaitur vel confitiatur R nonnulli.
 
 
+❦
 
 136
 cum hac Lundström, praeeunte Schn.: hac S: hãc A: a R: enim M: cum vett. edd.
 
 
+❦
 
 137
 circumseptis SAa, vett. edd.
 
 
+❦
 
 138
 recognoscant Sardinia: recognoscam Lundström.
 
 
+❦
 
 139
 explorent Sardinia: explorem Lundström.
 
 
+❦
 
 140
 num R, edd. vulgo: numquam SA: num quem Lundström.
 
 
+❦
 
 141
 quaerat Ald., Gesn., Schn.
 
 
+❦
 
 142
 bonitatem R, Ald., Gesn., Schn.
 
 
+❦
 
 143
 exploret R, Ald., Gesn., Schn.
 
 
+❦
 
 144
 recognoscat R plerique, Ald., Gesn., Schn.
 
 
+❦
 
 145
 prosequamur SA.
 
 
+❦
 
 146
 plus SA, Lundström.
 
 
+❦
 
 147
 enim Ald., Gesn.
 
 
+❦
 
 148
 pecudes R.
 
 
+❦
 
 149
 operibus Gesn., Schn.
 
 
+❦
 
 150
 effecit SA.
 
 
+❦
 
 151
 maiorem SA, et R nonnulli.
 
 
+❦
 
 152
 quomodo AaM.
 
 
+❦
 
 153
 hominum om. SA.
 
 
+❦
 
 154
 coli M.
 
 
+❦
 
 155
 sic vulgo: aratores (a suprascr. S2) vinitoribus ab aratoribus SA: et vinitores ab aratoribus inclusit Schn., monente Pontedera.
 
 
+❦
 
 156
 iique a] et qua SA.
 
 
+❦
 
 157
 sic S2 et Schn. cum Gesn., not.: deducenda S1A, Lundström cum edd. plerisque: dividunde R aliquot.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Columella
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+XVI Kal. Nov. 07

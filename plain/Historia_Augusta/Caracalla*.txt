@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Clodius Albinus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Geta
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p2
+Antoninus Caracalla
+	
+
 11 Ex duobus liberis, quos Septimius Severus reliquit Getam et Bassianum, quorum unum Antoninum1 exercitus alterum pater dixit, Geta hostis est iudicatus, Bassianus autem obtinuit imperium. 2 de cuius maioribus frustra putamus iterandum, cum omnia in Severi vita satis dicta sint. 3 huius igitur pueritia blanda, ingeniosa, parentibus adfabilis, amicis parentum iucunda, populo accepta, grata senatui, ipsi etiam ad amorem conciliandum salutaris fuit. 4 non ille in litteris tardus, non in benevolentiis segnis, non tenax in largitate, non lentus in clementia, sed sub parentibus, visus. 5 denique, si quando feris obiectos damnatos vidit, flevit aut oculos avertit, quod populo plus quam amabile fuit.
 
 
@@ -126,118 +234,244 @@ p306 habet templum, habet Salios, habet sodales Antoninianos. qui Faustinae tem
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Antoninum ins. by Petschenig; om. in P; Antoninos ins. after Bassianum by F. Richter and Peter.
 
 
+❦
 
 2
 quasi Peter; quos P.
 
 
+❦
 
 3
 ducibus P.
 
 
+❦
 
 4
 So P corr., Peter1; uero excusationem om. in P1; excusationem sui Peter2.
 
 
+❦
 
 5
 locutus P.
 
 
+❦
 
 6
 item ins. by Petschenig and Peter2; om. in P, Peter1.
 
 
+❦
 
 7
 a om. in P, Peter.
 
 
+❦
 
 8
 Patruinus Borghesi; patrous P.
 
 
+❦
 
 9
 se ins. by Klein; om. in P, Peter.
 
 
+❦
 
 10
 multi Lenze; illi P, Peter.
 
 
+❦
 
 11
 adnexa P, Peter.
 
 
+❦
 
 12
 ita descenderet P; ita del. by Novák; uix descenderet Peter.
 
 
+❦
 
 13
 quando P, Petschenig; quo etiam Peter.
 
 
+❦
 
 14
 Triccianusque Henzen; Recianusque P, Peter.
 
 
+❦
 
 15
 Lunum Hirschfeld; deum P, Peter.
 
 
+❦
 
 16
 eumque . . . successisse om. in P1; ins. in P corr.; placed after commendatum in Peter's editions, after Seuero by Peter, on evidence of P, in Jahresb. cxxx (1906), p35; del. as interpolation by Mommsen and Hohl.
 
 
+❦
 
 17
 fauisse Salm.; fuisse P.
 
 
+❦
 
 18
 illud Salm., Peter; aliud P.
 
 
+❦
 
 19
 dicens eum Petschenig, Peter2; dicentem P.
 
 
+❦
 
 20
 Antoninum ins. by Erasmus; om. in P.
 
 
+❦
 
 21
 Germani P.
 
 
+❦
 
 22
 pugnassent P.
 
 
+❦
 
 23
 grauis P, Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

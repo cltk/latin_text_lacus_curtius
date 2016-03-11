@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Commodus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Didius Julianus
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+p314
+
+Helvius Pertinax
+	
+
 11 Publio Helvio Pertinaci pater libertinus Helvius Successus fuit, qui filio nomen ex continuatione lignariae negotiationis, quod pertinaciter eam rem gereret, imposuisse fatetur. 2 natus est Pertinax in Appennino in villa matris. equus pullus ea hora qua natus est in tegulas ascendit atque ibi breviter commoratus decidit et1 exspiravit. 3 hac re motus pater ad Chaldaeum venit. qui cum illi futura ingentia praedixisset, stirpem2 se perdidisse dixit.
 
 	
@@ -128,306 +236,470 @@ p346funus imaginarium ei et censorium ductum est, et ab ipso Severo funebri laud
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 et om. in P.
 
 
+❦
 
 2
 stirpem P; stipem Peter.
 
 
+❦
 
 3
 persecuta P.
 
 
+❦
 
 4
 artibus Peter; a partibus P.
 
 
+❦
 
 5
 et om. in P.
 
 
+❦
 
 6
 coactiliariam Scaliger, Mommsen; coactiliriam P; coctiliciam Salmasius, Peter.
 
 
+❦
 
 7
 litteris Peter; litteras P.
 
 
+❦
 
 8
 contra <se> ipse Lenze; contra ipse P; contra imperatorem Obrecht, Peter.
 
 
+❦
 
 9
 Britanniam P, Peter.
 
 
+❦
 
 10
 carminum Peter2; earum P.
 
 
+❦
 
 11
 electus P.
 
 
+❦
 
 12
 et Salmasius; ut P.
 
 
+❦
 
 13
 electo P.
 
 
+❦
 
 14
 germanici P.
 
 
+❦
 
 15
 commodo P.
 
 
+❦
 
 16
 marcianum P.
 
 
+❦
 
 17
 parauerunt P.
 
 
+❦
 
 18
 non ins. in P corr.; om. in P1.
 
 
+❦
 
 19
 omnis P1.
 
 
+❦
 
 20
 iam Peter; cum P.
 
 
+❦
 
 21
 conuictos Faber, Peter; uinctos P.
 
 
+❦
 
 22
 adituram P.
 
 
+❦
 
 23
 satius Gruter; statius P1; sanctius P corr.
+❦
 
 24
 pecuniam P.
 
 
+❦
 
 25
 qui om. in P.
 
 
+❦
 
 26
 perferentes P.
 
 
+❦
 
 27
 insigni opere Casaubon; insignior per P.
 
 
+❦
 
 28
 de luto Editor; eludo P; eluto Peter1; de ludo Krauss, Peter2.
 
 
+❦
 
 29
 phallouitrobuli Egnatius, Peter1; phandouitrobuli P, Peter2.
 
 
+❦
 
 30
 urbibus P.
 
 
+❦
 
 31
 recidit Egnatius; reddit P.
 
 
+❦
 
 32
 uiis Casaubon; suis P.
 
 
+❦
 
 33
 aptit P.
 
 
+❦
 
 34
 tenderet Casaubon; teneret P.
 
 
+❦
 
 35
 seuerius Walter; seruis P, Peter.
 
 
+❦
 
 36
 Falco consul, qui quaestus Editor; Falco conquestus P; lacuna ind. by Peter.
 
 
+❦
 
 37
 cui editor; quo P; quod Egnatius, Peter1; †quo Peter2.
 
 
+❦
 
 38
 senatus ins. by Editor; credidit, P, Peter.
 
 
+❦
 
 39
 cum sugg. by Peter; dum P, Peter.
 
 
+❦
 
 40
 so P; fauiae esset filius Edit. princeps, Peter1.
 
 
+❦
 
 41
 ridicula P.
 
 
+❦
 
 42
 esset Baehrens, Unger, Peter2; est P, Peter1.
 
 
+❦
 
 43
 quod P.
 
 
+❦
 
 44
 aedes Egnatius; caedes P.
 
 
+❦
 
 45
 e castris Petschenig; castris P; de castris Peter.
 
 
+❦
 
 46
 quam om. in P.
 
 
+❦
 
 47
 praecessit P.
 
 
+❦
 
 48
 Eclectus Peter; eiectus P.
 
 
+❦
 
 49
 inliberalis Jordan; inliberabilis P.
 
 
+❦
 
 50
 pomasi P.
 
 
+❦
 
 51
 cumeditauit P.
 
 
+❦
 
 52
 ut om. in P.
 
 
+❦
 
 53
 litteratus P.
 
 
+❦
 
 54
 uoluit P.
 
 
+❦
 
 55
 ///ut P.
 
 
+❦
 
 56
 uisae P; uisae sunt Peter.
 
 
+❦
 
 57
 diem Casaubon; dies P.
 
 
+❦
 
 58
 et ins. by Peter; om. in P.
 
 
+❦
 
 59
 genitalicii qui Casaubon; geniti aliqui P.
 
 
+❦
 
 60
 Bibulo P.
 
 
+❦
 
 61
 inserere Puteanus; inseri P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Jan. 05

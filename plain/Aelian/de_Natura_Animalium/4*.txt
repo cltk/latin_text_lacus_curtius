@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber III
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber V
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p48
+Liber Quartus
+	
+
 1
 Ex avibus perdices sunt salacissimi, ideoque feminas suas vehementissime amant, et continuo ad rem veneream proni sunt. Qui autem eos ad pugnam alunt, quando in mutuum certamen incitant, feminam suam singulis adstare curant, quod commentum ad timiditatem eorum atque ignaviam in certamine repellendam excogitarunt. Nunquam enim perdix victus in conspectum amatae vel conjugis venire audet; quin potius plagis percussus1 morietur, quam ab adversario retrocedens illam indecore adspicere sustineat, cui se approbare cupit. Idem etiam de amasiis statuerunt Cretenses. Audio enim Cretensem amaotrem, tum cetera bonum tum bello strenuum, adolescentem nobilem, forma excellentem, et animo magnum, atque ad optimas disciplinas bene factum, sed aetate nondum militiae apta in deliciis habuisse: (utriusque nomen alibi dixi) strenua autem facinora juvenem istum in pugna edidisse Cretenses ajunt, et toa homini acie in ipsum irruente, in cadaver offendisse, et sic fuisse subversum perhibent. Cum vero ex hostibus quidam, qui proximus ei erat, gladium intentans tergum ejus esset trajecturus; ille conversus inquit, "Ne tu turpem et imbellem plagam mihi inferas; sed potius pectus meum feri, ne amasius me timiditatis condemnet, et a cadavere meo componendo abstineat, ad me, ubi rem turpiter gesserim, accedere non sustinens." Nec quidem mirum est, si veneris, homo cum sit, ignavus videri erubescat; perdicem autem verecundiae esse participem, peregregium hoc a natura donum est. Aristodemus autem, qui prae timoe aufugit, et Cleonymus, qui clypeum abjecit, et pavidus Pisander, nec patriam, nec uxores, neque liberos sunt reveriti.
 
@@ -27,7 +149,23 @@ Inimicitias mutuas gerunt testudo et perdix; item crex et ciconia cum mergo, et 
 Equos pratis pascuis et palustribus locis ventosisque delectari, homines equorum nutritionis periti fatentur. Unde et Homerus in ejusmodi rebus considerandis excellens, ut mihi videtur alicubi cecinit:
 
 
+
+
+
+Hujus ter mille equae per palustria pascebantur.
+		
+
+
+
 Gaudere autem equas adspiratione vtoo, et austro et boreae se exponere, norun earum pastores; idque non ignorans idem poëta dixit:
+
+
+
+
+Harum aliquas et ipse Boreas adamavit pascentium.
+		
+
+
 
 unde et Aristoteles mutuatus est, nisi fallor, quod scribit, equas aliquando furentes recta adversus hos ventos aufugere.
 
@@ -225,7 +363,6 @@ Vindictae;
 	
 sed quemvis amicum ultorem relinqui, lucrum videtu: quod vel in bestiis jam dictis natura monstravit; et tale quid etiam de Zenone et Clanthe fertur.
 
-sed quemvis amicum ultorem relinqui, lucrum videtu: quod vel in bestiis jam dictis natura monstravit; et tale quid etiam de Zenone et Clanthe fertur.
 46
 Nascuntur in India animalia magnitudine qua canthari, colore rubro, cinnabari proximo, pedibus longissimis, tactu mollia. Ea in arboribus, quae succino manant, gignuntur, et earundem fructibus aluntur. Indi his captis expressisque puniceas vestes exteriores interioresque tingunt, et quicquam aliud eodem colore inficere libuit. Hujusmodi vestis etiam Persarum regi mittitur. Mirantur enim Persae, et suis vernaculis pulchritudine pretioque anteponunt, auctore Ctesia: nam vel celebribus illis Sardianis floridior ac splendidior est. In eodem Indiae tractu, ubi canthari jam dicti, cynocephali etiam nascuntur, quibus a facie et corporis specie nomen inditum; nam caput caninum, cetera fere humana habent, et vestiti pellibus ferarum ingrediuntur. Justi sunt, hominum nemini molesti aut injurii; non sermone, sed ululatu sonant, Indorum tamen linguam intelligunt. Venatione animalium ferorum vivunt, quis, ut sunt celerrimi, facile consecuti interimunt, et frustratim divisa non ad ignem, sed ad solem assant. Capras etiam, et oves alunt; ut ex lacte potu fruantur, sicuti ex feris cibo. Horum inter animantes rationis expertes non temere mentionem feci; articulato ejus discretoque et humano sermone non utuntur.
 
@@ -302,5 +439,120 @@ Spini aves in posterum longissime providentes hominibus ad rerum futurarum conje
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita 
+VI Kal. Oct. 04

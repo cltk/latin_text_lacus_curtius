@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VIII
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber X
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber IX
+	
+
+Praefatio
+	
+
+
 1. Nobilibus athletis qui Olympia Pythia Isthmia Nemea vicissent, Graecorum maiores ita magnos honores constituerunt uti non modo in conventu stantes cum palma et corona ferant laudes, sed etiam cum revertantur in suas civitates cum victoria triumphantes quadrigis in moenia et in patrias invehantur e reque publica perpetua vita constitutis vectigalibus fruantur. cum ergo id animadvertam, admiror quid ita non scriptoribus eidem honores etiamque maiores sint tributi, qui infinitas utilitates aevo perpetuo omnibus gentibus praestant. id enim magis erat institui dignum, quod athletae sua corpora exercitationibus efficiunt fortiora, scriptores non solum suos sensus sed etiam omnium, <cum> libris ad discendum et animos exacuendos praeparant praecepta.
 
 	
@@ -74,6 +169,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Ea autem sunt divina mente comparata habentque admirationem magnam considerantibus, quod umbra gnomonis aequinoctialis alia magnitudine est Athenis alia Alexandriae aliae Romae non eadem Placentiae ceterisque orbis terrarum locis. itaque longe aliter distant descriptiones horologiorum locorum mutationibus. umbrarum enim aequinoctialem magnitudinibus designantur analemmatorum formae, e quibus perficiuntur ad rationem locorum et umbrae gnomonum horarum descriptiones. αναλημμα est ratio conquisita solis cursu et umbrae crescentis ad brumam observatione inventa, e qua per rationes architectonicas circinique descriptiones est inventus effectus in mundo.
 
@@ -141,6 +239,9 @@
 
 
 	
+Caput 2
+	
+
 
 1. Berosus qui ab Chaldaeorum civitate sive natione progressus in Asia etiam disciplinam Chaldaicam patefacit, ita est professus pilam esse ex dimidia parte candentem, reliqua habere caeruleo colore. cum autem cursum itineris sui peragens subierit sub orbem solis, tunc eam radiis et impetu caloris corripi convertique candentem propter eius proprietatem luminis ad lumen. cum autem evocata ab solis orbi superiora spectet, tunc inferiorem partem eius quod canens non sit propter aeris similitudinem obscuram videri. cum ad perpendiculum ea sit ad eius radios, totum lumen ad superiorem speciem retineri et tunc eam vocari primam.
 
@@ -160,6 +261,9 @@
 
 
 	
+Caput 3
+	
+
 
 1. namque cum arietis signum iniit et partem octavam pervagatur, perficit aequinoctium vernum. cum progreditur ad caudam tauri sidusque vergiliarum e quibus eminet dimidia pars prior tauri, in maius spatium mundi quam dimidium procurrit procedens ad septentrionalem partem. e tauro cum ingreditur in geminos exorientibus vergiliis magis crescit supra terram et auget spatia dierum. deinde e geminis cum iniit ad cancrum, quo longissimum tenet caeli spatium, cum pervenit in partem octavam, perficit solstitiale tempus, et peragens pervenit ad caput et pectus leonis, quod eae partes cancro sunt attributae.
 
@@ -175,6 +279,9 @@
 
 
 	
+Caput 4
+	
+
 
 1. namque septentrio, quem Graeci nominant ἀρκτὸν sive ἑλικὴν, habet post se conlocatum custodem. ab eo non longe conformata est virgo, cuius supra umerum dextrum lucidissima stella nititur, quam nostri provindemiatorem, Graeci προτρυγητην vocant. candens autem magis spica eius est. conlocata item alia contra est stella media genuum custodis arcti, qui arcturus dicitur ibi dedicatus.
 
@@ -202,6 +309,9 @@
 
 
 	
+Caput 5
+	
+
 
 1. Primum sub capricorno subiectus piscis austrinus caudam prospiciens ceti. ab eo ad sagittarium locus est inanis. turibulum sub scorpionis aculeo. cenaturi priores partes proximae sunt librae et scorpioni. tenet in manibus simulacrum id quod bestiam astrorum periti nominaverunt. virginem et leonem et cancrum anguis porrigens agmen stellarum intortus succingit, regione cancri erigens rostrum, ad leonem medioque corpore sustinens cratera ad manumque virginis caudam subiciens, in qua inest corvus. quae sunt autem supra scapulas peraeque sunt lucentia.
 
@@ -221,6 +331,9 @@
 
 
 	
+Caput 6
+	
+
 
 1. De mundi circa terram pervolitantia duodecimque signorum ex septentrionali meridianaque parte siderum dispositione ut sit perspecta docui. namque ex ea mundi versatione et contrario solis per signa cursu gnomonumque aequinoctialibus umbris analemmatorum inveniuntur descriptiones.
 
@@ -236,6 +349,9 @@
 
 
 	
+Caput 7
+	
+
 
 1. Nobis autem ab his separandae sunt rationes et explicandae menstruae dierum brevitatis itemque dilatationis. namque sol aequinoctiali tempore ariete libraque versando, quas e gnomone partes habet novem, eas umbrae facit VIII in declinatione caeli quae est Romae. itemque Athenis quam magnae sunt gnomonis partes quattuor, umbrae sunt tres, ad VII Rhodo V, ad XI Tarenti IX, ad quinque <Alexandriae> tres, ceterisque omnibus locis aliae alio modo umbrae gnomonum aequinoctiales a natura rerum inveniuntur disparatae.
 
@@ -267,6 +383,9 @@
 
 
 	
+Caput 8
+	
+
 
 1. Hemicyclium excavatum ex quadrato ad enclimaque succisum Berosus Chaldaeus dicitur invenisse. scaphen sive hemisphaerium Aristarchus Samius, idem etiam discum in planitia. arachnen Eudoxus astrologus, nonnulli dicunt Apollonium. plinthium sive lacunar, quod etiam in circo Flaminio est positum, Scopinas Syracusius, πρὸς τὰ ἱστορούμενα Parmenion, πρὸς πᾶν κλίμα Theodosius et Andreas, Patrocles pelecinum, Dionysodorus conum, Apollonius pharetram, aliaque genera et qui supra scripti sunt et alii plures inventa reliquerunt, uti conarachnen, conicum plinthium, antiboreum. item ex his generibus viatoria pensilia uti fierent plures scripta reliquerunt. ex quorum libris si qui velit subiectiones invenire poterit, dummodo sciat analemmatos descriptiones.
 
@@ -329,6 +448,10 @@
 
 
 	
+
+Adnotatio Thayeri:
+	
+
 a
 
 In textu editionis Teubnerianae legitur Athenodorus; sed secundum Soubiran in editione Budé (1969), apud omnes veteres MSS. legitur Achinapolus, praeter duos: Vat. 2079 saec. XII et Vat. 1328 saec. XV, ubi lectio Archinapolus invenitur; mihi iucundum est gratias agere Paulo Keyseri, qui has res laboriose effodit.
@@ -338,3 +461,131 @@ Athenodorus mihi probabilior, sed incerta, emendatio videtur.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+2007, XVIII Kal. Jan.

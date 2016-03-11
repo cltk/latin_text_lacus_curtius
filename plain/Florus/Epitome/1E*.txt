@@ -1,4 +1,134 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars IV
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars VI
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+p76
+
+XVIII. Bellvm Pvnicvm Primvm
+	
+
 II, 1
 Domita subactaque Italia populus Romanus prope quingentensimum annum agens cum bona fide adolevisset, si quod est robur, si qua iuventas, tum ille vere robustus et iuvenis par1 orbi terrarum esse coepit. 2 Ita — mirum et incredibile dictu — qui prope quingentis annis domi luctatus est — adeo difficile fuerat dare Italiae caput — his ducentis annis qui secuntur Africam, Europam, Asiam, totum denique orbem terrarum bellis victoriisque peragravit.
 
@@ -70,8 +200,15 @@ p88ea quasi tota Carthago; quod ipsum exitio fuit. 35 Romana classis prompta, l
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 et iuvenis par Halmius: iuvenis et par B.
+
+
+
 
 
 
@@ -82,8 +219,14 @@ obvias NL: cunctas B.
 
 
 
+
+
+
 3
 abscissam L Halmius: abscisam BN.
+
+
+
 
 
 
@@ -94,8 +237,14 @@ tamen tanta Voss.: tanta tamen BNL.
 
 
 
+
+
+
 5
 quod velocitas navium mari iuvaretur post amplectitur add. BI.
+
+
+
 
 
 
@@ -106,11 +255,20 @@ Duillio: ad uilio B: diullio L: duellio I.
 
 
 
+
+
+
 7
 leve damnum: leve huius proelii damnum codd.
 
+
+
+
 8
 est add. Iahnius.
+
+
+
 
 
 
@@ -121,8 +279,14 @@ ut supervixit add. B, et supervixit add. NL post superfuit.
 
 
 
+
+
+
 10
 consule add. Iahnius.
+
+
+
 
 
 
@@ -133,8 +297,14 @@ ibi Aleriae Salmasius: ibi alte B: baleriae NL: ibi ateriae I.
 
 
 
+
+
+
 12
 prooemium belli Iahnius: prima premium (proemium I) belli B: prima belli praemium NL.
+
+
+
 
 
 
@@ -145,8 +315,14 @@ cecidisset Iordanis cod. Polling.: coepisset B: cepisset NI.
 
 
 
+
+
+
 14
 ut nec L: ut ne N: ne BI.
+
+
+
 
 
 
@@ -157,8 +333,14 @@ ibi IN: ab his B.
 
 
 
+
+
+
 16
 hostium post Aegimurum ponit BI.
+
+
+
 
 
 
@@ -169,8 +351,14 @@ et add. Bentleius.
 
 
 
+
+
+
 18
 interiacentium Bentleius: imperiagentium codd.
+
+
+
 
 19
 perisse om. B.
@@ -178,5 +366,114 @@ perisse om. B.
 
 
 
+
+
+
 20
 excindendis Halmius; excidendis codd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

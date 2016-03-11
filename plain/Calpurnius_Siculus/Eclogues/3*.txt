@@ -1,71 +1,540 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p234
+Calpurnius Siculus
+	
+III
+	
+
+
+Iollas: Lycidas
+	
+
+
+
+
+
+I.
+
+Numquid in hac, Lycida, vidisti forte iuvencam
+	
+valle meam? solet ista tuis occurrere tauris,
+	
+et iam paene duas, dum quaeritur, eximit horas;
+	
+nec tamen apparet. duris ego perdita ruscis
+	5
+p236
+iam dudum nullus1 dubitavi crura rubetis
+	
+scindere, nec quicquam post tantum sanguinis egi.
+
+	
+L.
+
+non satis attendi: nec enim vacat. uror, Iolla,
+	
+uror, et immodice: Lycidan ingrata reliquit
+	
+Phyllis amatque novum post tot mea munera Mopsum.
+
+	10
+I.
+
+mobilior ventis o femina! sic tua Phyllis:
+	
+quae sibi, nam memini, si quando solus abesses,
+	
+mella etiam sine te iurabat amara videri.
+
+	
+L.
+
+altius ista querar, si forte vacabis, Iolla.
+	
+has pete nunc salices et laevas flecte sub ulmos.
+	15
+nam cum prata calent, illic requiescere noster
+	
+taurus amat gelidaque iacet spatiosus in umbra
+	
+et matutinas revocat palearibus herbas.
+
+	
+I.
+
+non equidem, Lycida, quamvis2 contemptus,3 abibo.
+	
+Tityre, quas dixit, salices pete solus et illinc,
+	20
+si tamen invenies, deprensam verbere multo
+	
+huc age; sed fractum referas hastile memento.
+	
+nunc age dic, Lycida: quae noxam4 magna tulere
+	
+iurgia? quis vestro deus intervenit amori?
+
+	
+L.
+
+Phyllide contentus sola (tu testis, Iolla)
+	25
+Callirhoen sprevi, quamvis cum dote rogaret:
+	
+en, sibi cum Mopso calamos intexere cera
+	
+incipit et puero comitata sub ilice cantat.
+	
+p238
+haec ego cum vidi, fateor, sic intimus arsi,
+	
+ut nihil ulterius tulerim. nam protinus ambas
+	30
+diduxi5 tunicas et pectora nuda cecidi.
+	
+Alcippen irata petit dixitque: "relicto,
+	
+improbe, te, Lycida, Mopsum tua Phyllis amabit."
+	
+nunc penes Alcippen manet; ac ne forte negetur,6
+
+a! vereor; nec tam nobis ego Phyllida reddi
+	35
+exopto quam cum7 Mopso iurgetur anhelo.
+
+	
+I.
+
+a te coeperunt tua iurgia; tu prior illi
+	
+victas tende manus; decet indulgere puellae,
+	
+vel cum prima nocet. si quid mandare iuvabit,
+	
+sedulus iratae contingam nuntius aures.
+
+	40
+L.
+
+40
+iam dudum meditor, quo Phyllida carmine placem.
+	
+forsitan audito poterit mitescere cantu;
+	
+et solet illa meas ad sidera ferre Camenas.
+
+	
+I.
+
+dic age; nam cerasi tua cortice verba notabo
+	
+et decisa feram rutilanti carmina libro.
+
+
+	45
+L.
+
+"has tibi, Phylli, preces iam pallidus, hos tibi cantus
+	
+dat Lycidas, quos nocte miser modulatur acerba,
+	
+dum flet et excluso8 disperdit9 lumina somno.
+	
+non sic destricta marcescit turdus oliva,
+	
+non lepus, extremas legulus cum sustulit uvas,
+	50
+ut Lycidas domina sine Phyllide tabidus erro.
+	
+te sine, vae misero, mihi lilia nigra videntur
+	
+p240
+nec sapiunt fontes et acescunt vina bibenti.
+	
+at si tu venias, et candida lilia fient
+	
+et sapient fontes et dulcia vina bibentur.
+	55
+ille ego sum Lycidas, quo te cantante solebas
+	
+dicere felicem, cui dulcia saepe dedisti
+	
+oscula nec medios dubitasti rumpere cantus
+	
+atque inter calamos errantia labra petisti.
+	
+a dolor! et post haec placuit tibi torrida Mopsi
+	60
+vox et carmen iners et acerbae stridor avenae?
+	
+quem sequeris? quem, Phylli, fugis? formosior illo
+	
+dicor, et hoc ipsum mihi tu iurare solebas.
+	
+sum quoque divitior: certaverit ille tot haedos
+	
+pascere quot nostri numerantur vespere tauri.
+	65
+quid tibi quae nosti referam? scis, optima Phylli,
+	
+quam numerosa meis siccetur bucula mulctris
+	
+et quam multa suos suspendat ad ubera natos.
+	
+sed mihi nec gracilis10 sine te fiscella salicto
+	
+texitur et nullo tremuere coagula lacte.
+	70
+quod si dura times etiam nunc verbera, Phylli,
+	
+tradimus ecce manus: licet illae vimine torto,
+	
+si libet,11 et lenta post tergum vite domentur,
+	
+ut mala nocturni religavit bracchia Mopsi
+	
+Tityrus et furem medio suspendit ovili.
+	75
+accipe, ne dubites,12 meruit manus utraque poenas.
+	
+his tamen, his isdem manibus tibi saepe palumbes,
+	
+saepe etiam leporem decepta matre paventem
+	
+misimus in gremium; per me tibi lilia prima
+	
+contigerunt primaeque rosae: vixdum bene florem
+	80
+p242
+degustarat13 apis, tu cingebare coronis.
+	
+aurea sed forsan mendax tibit munera iactat,
+	
+qui metere occidua ferales nocte lupinos
+	
+dicitur et cocto pensare legumine panem:
+	
+qui sibi tunc felix, tunc fortunatus habetur,
+	85
+vilia cum subigit manualibus hordea saxis.
+	
+quod si turpis amor precibus, quod abominor, istis
+	
+obstiterit, laqueum miseri nectemus ab illa
+	
+ilice, quae nostros primum violavit amores.
+	
+hi tamen ante mala figentur in arbore versus:
+	90
+'credere, pastores, levibus nolite puellis;
+	
+Phyllida Mopsus habet, Lycidan habet ultima rerum.' "—
+	
+nunc age, si quicquam miseris succurris, Iolla,
+	
+perfer et exora modulato Phyllida cantu.
+	
+ipse procul stabo vel acuta carice tectus
+	95
+vel propius latitans vicina sepe sub horti.
+
+	
+I.
+
+ibimus: et veniet, nisi me praesagia fallunt.
+	
+nam bonus a! dextrum14 fecit mihi Tityrus omen,
+	
+qui redit inventa non irritus ecce iuvenca.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 nullus Heinsius: nullis codd.
 
 
+❦
 
 2
 quavis NG: quamvis PG.
 
 
+❦
 
 3
 contemptus P: contentus NG V nonnulli.
 
 
+❦
 
 4
 vos tam PV: nos tam G: noxam Baehrens.
 
 
+❦
 
 5
 deduxi V.
 
 
+❦
 
 6
 negetur NGP: vagetur V.
 
 
+❦
 
 7
 cum G: quod NPHV.
 
 
+❦
 
 8
 excluso NGP: excusso V.
 
 
+❦
 
 9
 disperdit NGPH: dispergit V: distergit Scaliger.
 
 
+❦
 
 10
 gracili edd. ant.
 
 
+❦
 
 11
 scilicet codd.: si libet Burman: seu licet H. Schenkl: sic licet Giarratano.
 
 
+❦
 
 12
 dubita PV.
 
 
+❦
 
 13
 degustabat codd.: degustarat Heinsius.
 
 
+❦
 
 14
 a dextrum Baehrens: a dextro GP V plerique: a dextra H V nonnulli.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Id. Feb. 09

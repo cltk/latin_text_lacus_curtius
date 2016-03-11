@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars I
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars III
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p222
+Aurelianus
+		
+(Pars II)
+	
+
 16
 His igitur tot ac talibus praeiudiciis muneribusque fultus Claudianis temporibus tantus enituit, ut post eum Quintillo quoque eius fratre interempto solus teneret imperium Aureolo interfecto, cum quo Gallienus fecerat pacem. 2 hoc loco tanta est diversitas historicorum, et quidem Graecorum, ut alii dicant invito Claudio ab Aureliano Aureolum interfectum,
 
@@ -239,116 +349,143 @@ p268significant, ubi et in columnis divo Aureliano statuae constitutaeº sunt. 3
 
 
 	
+
+Apparatus Criticus:
+	
+
 28
 inseruiendum . . . praeceptis ins. from Σ by Hohl; om. in P and by Peter.
 
 
+❦
 
 29
 deorum . . . est ins. from Σ by Hohl; dei, the rest om. in P and by Peter.
 
 
+❦
 
 30
 construite Σ; constuite P; constituite editors.
 
 
+❦
 
 31
 uelatis Salm.; uetanis P1; ueteranis P corr.
+❦
 
 32
 patrimis . . . indicemus ins. from Σ by von Winterfeld and Hohl; om. in P and by Peter.
 
 
+❦
 
 33
 libri; si Baehrens, Peter2; libris P.
 
 
+❦
 
 34
 perodiendum Salm, Hirschfeld, Hohl; perfodiendum P, Peter.
 
 
+❦
 
 35
 nomini sunt Salm., Peter; nominis P, Σ.
 
 
+❦
 
 36
 factum Gruter, Peter; uocatum P.
 
 
+❦
 
 37
 uerum editors; uir P1; uirum P corr.
+❦
 
 38
 et Σ; om. in P.
 
 
+❦
 
 39
 fauori usque quaque placuerit P corr.; favoriuscueritº P1; favor nos iuverit Peter.
 
 
+❦
 
 40
 illa Editor; in P, Peter.
 
 
+❦
 
 41
 uere Petschenig; uir P; ueros Salm., Peter.
 
 
+❦
 
 42
 superbior Salm., editors; superior P.
 
 
+❦
 
 43
 illatae illae Purser; illae P; allatae Peter; illatae Eyssenhardt, Hohl.
 
 
+❦
 
 44
 tunc Peter; tum P.
 
 
+❦
 
 45
 sed . . . fuit Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 46
 ioco Cornelissen, Hohl; loco P; e loco Peter.
 
 
+❦
 
 47
 diceretur Σ; disceretur P.
 
 
+❦
 
 48
 de ins. by Salm.; om. in P.
 
 
+❦
 
 49
 regiones P, Σ.
 
 
+❦
 
 50
 so Peter; orientem P.
 
 
+❦
 
 51
 So Helm in Hohl's ed.; terrori uicto P, after which P has eripe me his, invicte, malis, evidently a repetition from
@@ -356,34 +493,140 @@ So Helm in Hohl's ed.; terrori uicto P, after which P has eripe me his, invict
 Tyr. Trig. xxiv.3.
 
 
+❦
 
 52
 poterae cesserunt P.
 
 
+❦
 
 53
 So Peter; et unusquisque P, Hohl.
 
 
+❦
 
 54
 pontifices P, Σ, def. by Purser; porticibus Scaliger, foll. by Peter and Hohl.
 
 
+❦
 
 55
 eo Peter, Hohl; quo P, Σ, def. by Purser.
 
 
+❦
 
 56
 hi Σ, Hohl; hic P, Peter.
 
 
+❦
 
 57
 quod ins. by Salm. and Hohl; om. in P and by Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Non. Feb. 08

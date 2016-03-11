@@ -1,5 +1,389 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+De Consulatu Stilichonis
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II
+				
+
+
+
+
+
+C. Claudiani
+	
+De Consulatu Stilichonis
+	
+p364
+Liber Primus
+	
+
+
+
+
+   
+5
+    
+10
+    
+15
+    
+20
+    
+			 
+25
+    
+30
+    
+35
+			 
+    
+40
+    
+45
+    
+50
+    
+55
+    
+60
+    
+65
+    
+70
+    
+75
+    
+80
+    
+85
+    
+90
+    
+95
+    
+100
+    
+105
+    
+110
+    
+115
+    
+120
+    
+125
+    
+130
+    
+135
+    
+140
+    
+145
+    
+150
+    
+155
+    
+160
+    
+165
+    
+170
+    
+175
+    
+180
+    
+185
+    
+190
+    
+195
+    
+200
+    
+205
+    
+210
+    
+215
+    
+220
+    
+225
+    
+230
+    
+235
+    
+240
+    
+245
+    
+250
+    
+255
+    
+260
+    
+265
+    
+			 
+270
+    
+275
+    
+280
+    
+			 
+285
+    
+290
+    
+295
+    
+300
+    
+305
+    
+310
+    
+315
+    
+320
+    
+325
+    
+330
+    
+335
+    
+340
+    
+345
+    
+350
+    
+355
+    
+360
+    
+365
+    
+			 
+370
+    
+375
+    
+380
+    
+385
+
+  
+
+Continuant superi pleno Romana favore
+	
+gaudia successusque novis successibus augent:
+	
+conubii necdum festivos regia cantus
+	
+sopierat, cecinit fuso Gildone triumphos,
+	
+et calidis thalami successit laurea sertis,
+	
+sumeret ut pariter princeps nomenque mariti
+	
+victorisque decus; Libyae post proelia crimen
+	
+concidit Eoum, rursusque Oriente subacto
+	
+consule defensae surgunt Stilichone secures.
+	
+ordine vota meant. equidem si carmen in unum
+	
+tantarum sperem cumulos advolvere rerum,
+	
+promptius imponam glaciali Pelion Ossae.
+	
+si partem tacuisse velim, quodcumque relinquam
+	
+maius erit. veteres actus primamque iuventam
+	
+prosequar? ad sese mentem praesentia ducunt.
+	
+narrem iustitiam? resplendet gloria Martis.
+	
+armati referam vires? plus egit inermis.
+	
+quod floret Latium, Latio quod reddita servit
+	
+Africa, vicinum quod nescit Hiberia Maurum,
+	p366
+tuta quod imbellem miratur Gallia Rhenum,
+	
+aut gelidam Thracen decertatosque labores
+	
+Hebro teste canam? magnum mihi panditur aequor,
+	
+ipsaque Pierios lassant proclivia currus
+	
+laudibus innumeris.
+	
+                                   
+
+Etenim mortalibus ex quo
+	
+tellus coepta coli, numquam sincera bonorum
+	
+sors ulli concessa viro. quem vultus honestat,
+	
+dedecorant mores; animus quem pulchrior ornat,
+	
+corpus destituit. bellis insignior ille,
+	
+sed pacem foedat vitiis. hic publica felix,
+	
+sed privata minus. partitum; singula quemque
+	
+nobilitant: hunc forma decens, hunc robur in armis,
+	
+hunc rigor, hunc pietas, illum sollertia iuris,
+	
+hunc suboles castique tori. sparguntur in omnes,
+	
+in te mixta fluunt; et quae divisa beatos
+	
+efficiunt, collecta tenes.
+	
+                                         
+
+Ne facta revolvam
+	
+militiamque patris, cuius producere famam,
+	
+si nihil egisset clarum nec fida Valenti
+	
+dextera duxisset rutilantes crinibus alas,
+	
+sufficeret natus Stilicho: mens ardua semper
+	
+a puero, tenerisque etiam fulgebat in annis
+	
+fortunae maioris honos. erectus et acer
+	
+nil breve moliri, nullis haerere potentum
+	
+liminibus fatisque loqui iam digna futuris.
+	
+iam tum conspicuus, iam tum venerabilis ibas
+	
+spondebatque ducem celsi nitor igneus oris
+	p368
+membrorumque modus, qualem nec carmina fingunt
+	
+semideis. quacumque alte gradereris in urbe,
+	
+cedentes spatiis adsurgentesque videbas
+	
+quamvis miles adhuc. taciti suffragi vulgi
+	
+iam tibi detulerant, quidquid mox debuit aula.
+	
+
 Vix primaevus eras, pacis cum mitteris auctor
 	
 Assyriae; tanta foedus cum gente ferire
@@ -697,5 +1081,130 @@ haec omnes veterum revocavit adorea lauros;
 	
 restituit Stilicho cunctos tibi, Roma, triumphos.
 		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 AΠ nullum: other MSS. nullis, which Birt prints. But deterrebat needs an object (as A and Π indicate). Possibly, then, nullas
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+Divus Angelus
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber III
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber V
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber IV
+	
+
+Praefatio
+	
+
+
 1. Cum animadvertissem, imperator, plures de architectura praecepta voluminaque commentariorum non ordinata sed incepta uti particulas errabundas reliquisse, dignam et utilissimam rem putavi tantae disciplinae corpus ad perfectam ordinationem perducere et praescriptas in singulis voluminibus singulorum generum qualitates explicare. itaque, Caesar, primo volumine tibi de officio eius et quibus eruditum esse rebus architectum oporteat exposui. secundo de copies materiae, e quibus aedificia constituuntur, disputavi. tertio autem de aedium sacrarum dispositionibus et de earum generum varietate quasque et quot habeant species earumque quae sint in singulis generibus distributiones,
 
 	
@@ -10,6 +105,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Columnae corinthiae praeter capitula omnes symmetrias habent uti ionicae, sed capitulorum altitudines efficiunt eas pro rata excelsiores et graciliores, quod ionici capituli altitudo tertia pars est crassitudinis columnae, corinthii tota crassitudo scapi. igitur quod duae partes e crassitudine <in altitudine> corinthiorum adiciuntur, efficiunt excelsitate speciem earum graciliorem.
 
@@ -61,6 +159,9 @@
 
 
 	
+Caput 2
+	
+
 
 1. Quoniam autem de generibus columnarum origines et inventiones supra sunt scriptae, non alienum mihi videtur isdem rationibus de ornamentis eorum quemadmodum sunt prognata et quibus principiis et originibus inventa dicere. in aedificiis omnibus insuper conlocatur materiatio variis vocabulis nominata. ea autem uti in nominationibus, ita in re varias habet utilitates. trabes enim supra columnas et parastaticas et antas ponuntur, in contignationibus tigna et axes. sub tectis, si maiora spatia sunt, et transtra et capreoli, si commoda, columen et cantherii prominentes ad extremam suggrundationem. supra cantherios templa, deinde insuper sub tegulas asseres ita prominentes uti parietes proiecturis eorum tegantur.
 
@@ -88,6 +189,9 @@
 
 
 	
+Caput 3
+	
+
 
 1. Nonnulli antiqui architecti negaverunt dorico genere aedes sacras oportere fieri, quod mendosae et disconvenientes in his symmetriae conficiebantur. itaque negavit Arcesius, item Pytheos, non minus Hermogenes. nam is cum paratam habuisset marmoris copiam in doricae aedis perfectionem, <rationem> commutavit et eadem copia aedem ionicam Libero Patri fecit. sed tamen non quod invenusta est species aut genus aut formae dignitas, sed quod inpedita est et incommoda in opere triglyphorum et lacunariorum distributio.
 
@@ -131,6 +235,9 @@
 
 
 	
+Caput 4
+	
+
 
 1. distribuitur autem longitudo aedis uti latitudo sit longitudinis dimidiae partis, ipsaque cella parte quarta longior sit, quam est latitudo, cum pariete, qui paries valvarum habuerit conlocationem. reliquae tres partes pronai ad antas parietum procurrant, quae antae columnarum crassitudinem habere debent. et si aedis erit latitudine maior quam pedes XX, duae columnae inter duas antas interponantur, quae disiungant pteromatos et pronai spatium. item intercolumnia tria, quae erunt inter antas et columnas, pluteis marmoreis sive ex intestino opere factis intercludantur ita uti fores habeant, per quas itinera pronao fiant.
 
@@ -150,6 +257,9 @@
 
 
 	
+Caput 5
+	
+
 
 1. Regiones autem quas debent spectare aedes sacrae deorum inmortalium, sic erunt constituendae uti si nulla ratio inpedierit liberaque fuerit potestas, aedis signumque quod erit in cella conlocatum spectet ad vespertinam caeli regionem, uti qui adierint ad aram immolantes aut sacrifica facientes spectent ad partem caeli orientis ad simulacrum quod erit in aede, et ita vota suscipientes contueantur eadem exorientem caelum ipsaque simulacra videantur exorientia contueri supplicantes et sacrificantes.
 
@@ -161,6 +271,9 @@
 
 
 	
+Caput 6
+	
+
 
 1. Ostiorum autem et eorum antepagmentorum in aedibus hae sunt rationes uti primum constituantur quo genere sint futura. genera sunt enim thyromaton haec, doricum, ionicum, atticurges. Dorici symmetriae conspiciuntur his rationibus uti corona summa, quae supra antepagmentum superius inponitur, aeque librata sit capitulis summis columnarum quae in pronao fuerint. lumen autem thyretri constituatur sic uti quae altitudo aedis a pavimento ad lacunaria fuerit, dividatur in partes tres semis et ex eis duae partes <semis> lumini valvarum altitudine constituantur. haec autem dividatur in partes 12 et ex eis quinque et dimidia latitudo luminis fiat in imo. et in summo contrahatur si erit lumen ab imo ad sedecim pedes, antepagmenti III parte, si XVI pedum ad XXV, superior pars luminis contrahatur antepagmenti parte IIII, si ab pedibus XXV ad XXX, summa pars contrahatur antepagmenti parte VII. reliqua quo altiora erunt, ad perpendiculum videntur oportere conlocari.
 
@@ -189,6 +302,9 @@
 
 
 	
+Caput 7
+	
+
 
 1. locus, in quo aedis constituetur, cum habuerit in longitudine sex partes, una adempta reliquum quod erit latitudini detur. longitudo autem dividatur bipertito et quae pars erit interior, cellarum spatiis designetur, quae erit proxima fronti, columnarum dispositioni relinquatur.
 
@@ -209,6 +325,9 @@
 
 
 	
+Caput 8
+	
+
 
 1. Fiunt autem aedes rotundae, e quibus aliae monopteroe sine cella carumtae constituuntur, aliae peripteroe dicuntur. quae sine cella fiunt, tribunal habent et ascensum ex sua diametro tertiae partis. insuper stylobatas columnae constituuntur terram altae quanta ab extremis parietibus est diametros stylobatarum, crassae altitudinis suae cum capitulis et spiris decumae partis. epistylium altum columnae crassitudinis dimidia parte. zophorus et reliqua quae insuper inponuntur, ita uti in III volumine de symmetriis scripsi.
 
@@ -244,8 +363,139 @@ Veiovis, item argutius Nemori Dianae columnis adiectis dextra ac sinistra ad ume
 
 
 	
+Caput 9
+	
+
 
 1. arae spectent ad orientem et semper inferiores sint conlocatae quam simulacra quae fuerint in aede, uti suspiciant divinitatem qui supplicant et sacrificant. <eae> disparibus altitudinibus ad sui cuiusque dei decorem componantur. altitudines autem earum sic sunt explicandae uti Iovi omnibusque caelestibus quam excelsissimae constituantur, Vestae Terrae Matrique humiles conlocentur. ita idoneae his institutionibus explicabuntur in meditationibus ararum deformationes. Explicatis aedium sacrarum compositionibus in hoc libro, insequenti de communium operum reddemus distributionibus explicationes.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+V Kal. Iun. 00

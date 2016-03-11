@@ -1,131 +1,638 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p226
+Calpurnius Siculus
+	
+II
+	
+
+
+Idas: Astacus: Thyrsis
+	
+
+
+
+
+
+
+Intactam Crocalen1 puer Astacus et puer Idas,
+	
+Idas lanigeri dominus gregis, Astacus horti,
+	
+dilexere diu, formosus uterque nec impar
+	
+voce sonans. hi cum terras gravis ureret aestas,
+	5
+ad gelidos fontes et easdem forte sub umbras2
+
+conveniunt dulcique simul contendere cantu
+	
+pignoribusque parant: placet, hic ne3 vellera septem,
+	
+ille sui victus ne messem vindicet horti;
+	
+et magnum certamen erat sub iudice Thyrsi.
+	10
+adfuit omne genus pecudum, genus omne ferarum
+	
+et quodcumque4 vagis altum5 ferit aera pennis.
+	
+convenit umbrosa quicumque sub ilice lentas
+	
+pascit oves, Faunusque pater Satyrique bicornes;
+	
+adfuerunt sicco Dryades pede, Naides udo,
+	15
+p228
+et tenuere suos properantia flumina cursus;
+	
+desistunt tremulis incurrere frondibus Euri
+	
+altaque per totos fecere silentia montes:
+	
+omnia cessabant, neglectaque pascua tauri
+	
+calcabant, illis etiam certantibus ausa est
+	20
+daedala nectareos apis intermittere flores.
+	
+iamque sub annosa medius consederat umbra
+	
+Thyrsis et "o pueri me iudice pignora" dixit
+	
+"irrita sint moneo: satis hoc mercedis habeto,6
+
+si laudem victor, si fert opprobria victus.
+	25
+et nunc alternos magis ut distinguere cantus
+	
+possitis, ter quisque manus iactate micantes."
+	
+nec mora: decernunt digitis, prior incipit Idas.
+
+	
+I.
+
+me Silvanus amat, dociles mihi donat avenas
+	
+et mea frondenti circumdat tempora taeda.
+	30
+ille etiam parvo dixit mihi non leve carmen:
+	
+"iam levis obliqua crescit7 tibi fistula canna."
+
+	
+A.
+
+at8 mihi Flora comas pallenti9 gramine pingit10
+
+et matura mihi Pomona sub arbore ludit.11
+
+"accipe" dixerunt Nymphae "puer, accipe fontes:
+	35
+iam potes irriguos nutrire canalibus hortos."
+
+	
+I.
+
+me docet ipsa Pales cultum gregis, ut niger albae
+	
+terga maritus ovis nascenti mutet in agna,
+	
+p230
+quae neque diversi speciem servare parentis
+	
+possit et ambiguo testetur utrumque colore.
+
+	
+A.
+
+non minus arte mea mutabilis induit arbos
+	
+ignotas frondes et non gentilia12 poma:
+	
+ars mea nunc malo pira temperat et modo cogit
+	
+insita praecoquibus subrepere persica prunis.
+
+	
+I.
+
+me teneras salices iuvat aut oleastra putare
+	45
+et gregibus portare novis, ut carpere frondes
+	
+condiscant primoque recidere gramina morsu,
+	
+ne depulsa vagas13 quaerat fetura parentes.
+
+	
+A.
+
+at14 mihi cum fulvis15 radicibus arida16 tellus
+	
+pangitur,17 irriguo perfunditur area fonte
+	50
+et satiatur aqua, sucos ne forte priores
+	
+languida mutata quaerant plantaria terra.
+
+	
+I.
+
+o si quis Crocalen deus afferat! hunc ego terris,
+	
+hunc ego sideribus solum regnare fatebor;
+	
+secernamque18 nemus dicamque: "sub arbore numen
+	55
+hac erit;19 ite procul — sacer est locus — ite profani."
+
+	
+A.
+
+urimur in Crocalen: si quis mea vota deorum
+	
+audiat, huic soli, virides qua gemmeus undas
+	
+fons agit et tremulo percurrit lilia rivo,
+	
+inter pampineas ponetur faginus ulmos.
+
+	60
+I.
+
+ne contemne casas et pastoralia tecta:
+	
+rusticus est, fateor, sed non et barbarus Idas.
+	
+saepe vaporato mihi cespite palpitat agnus,
+	
+saepe cadit festis devota Parilibus20 agna.
+
+	
+A.
+
+p232
+non quoque pomiferi laribus consuevimus horti
+	65
+mittere primitias et fingere21 liba Priapo,
+	
+rorantesque favos damus et liquentia mella;
+	
+nec fore22 grata minus, quam si caper imbuat aras.
+
+	
+I.
+
+mille sub uberibus balantes pascimus agnas,
+	
+totque Tarentinae praestant mihi vellera matres;
+	70
+per totum niveus premitur mihi caseus annum:
+	
+si venias, Crocale, totus tibi serviet hornus.23
+
+A.
+
+qui numerare velit quam multa sub arbore nostra
+	
+poma legam, tenues citius numerabit harenas.
+	
+semper holus metimus, nec bruma nec impedit aestas:
+	75
+si venias, Crocale, totus tibi serviet hortus.
+
+	
+I.
+
+quamvis siccus ager languentes excoquat herbas,
+	
+sume tamen calathos nutanti lacte coactos:
+	
+vellera tunc dabimus, cum primum tempus apricum
+	
+surget et a tepidis fiet tonsura Kalendis.
+
+	80
+A.
+
+at nos, quos etiam praetorrida munerat aestas,
+	
+mille renidenti dabimus tibi cortice Chias,
+	
+castaneasque nuces totidem, cum sole Decembri
+	
+maturis nucibus virides rumpentur echinni.
+
+	
+I.
+
+p234
+num, precor, informis videor tibi? num gravis annis?
+	85
+decipiorque miser, quotiens mollissima tango
+	
+ora manu primique sequor vestigia floris
+	
+nescius et gracili digitos lanugine fallo?
+
+	
+A.
+
+fontibus in liquidis quotiens me conspicor, ipse
+	
+admiror totiens. etenim sic flore iuventae
+	90
+induimur vultus, ut in arbore saepe notavi
+	
+cerea sub tenui lucere cydonia lana.
+
+	
+I.
+
+carmina poscit amor, nec fistula cedit amori.
+	
+sed fugit ecce dies revocatque crepuscula vesper.
+	
+hinc tu, Daphni, greges, illinc agat Alphesiboeus.
+
+	95
+A.
+
+iam resonant frondes, iam cantibus obstrepit arbos:
+	
+i procul,24 o Doryla, plenumque25 reclude canalem,26
+
+et sine iam dudum sitientes irriget hortos.—
+
+	
+
+vix ea finierant, senior cum talia Thyrsis:
+	
+"este pares et ob hoc concordes vivite; nam vos
+	100
+et decor et cantus et amor sociavit et aetas."
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 Crotalem N.
 
 
+❦
 
 2
 ulmos PV: umbras NG.
 
 
+❦
 
 3
 hic ne Baehrens: hic ut codd.
 
 
+❦
 
 4
 quaecumque codd.: quodcumque Ulitius.
 
 
+❦
 
 5
 altum codd.: avium Barth.
 
 
+❦
 
 6
 habete Kempfer, Baehrens.
 
 
+❦
 
 7
 crescat NGP: crescit V, Keene: crescet Maehly.
 
 
+❦
 
 8
 et APV: at NG.
 
 
+❦
 
 9
 pallenti De Rooy: parienti codd.
 
 
+❦
 
 10
 pingit NGP: cingit Haupt.
 
 
+❦
 
 11
 matura mihi codd. et mihi matura Pomona sub arbore plaudit Haupt: alii alia.
 
 
+❦
 
 12
 genitalia vulgo: gentilia w.
 
 
+❦
 
 13
 vagos codd.: vagas Scaliger.
 
 
+❦
 
 14
 at NG: et PV.
 
 
+❦
 
 15
 fulvis codd.: vulsis (vel furvis) Burman.
 
 
+❦
 
 16
 arida NGA: altera PV.
 
 
+❦
 
 17
 panditur V.
 
 
+❦
 
 18
 decernamque NGPH: dicam namque V: discernamque Glaeser: secernamque Gronov.
 
 
+❦
 
 19
 hoc erit codd.: hac erit Ulitius: incolit Giarratano.
 
 
+❦
 
 20
 parilibus P: paliribus NG: palilibus V.
 
 
+❦
 
 21
 figere NGPA: fundere V: fingere edd. ant.
 
 
+❦
 
 22
 sunt NGP: fore vel fere V.
 
 
+❦
 
 23
 annus vulgo: hornus cod. Titii., edd. ant.
 
 
+❦
 
 24
 hic procul P. o GV: y N: et P: i Haupt.
 
 
+❦
 
 25
 primumque codd.: plenumque Haupt, H. Schenkl: rivumque Baehrens: pronumque C. Schenkl.
 
 
+❦
 
 26
 canalem PV: canale NG: canali Baehrens.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Id. Feb. 09

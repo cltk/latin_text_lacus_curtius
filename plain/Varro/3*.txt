@@ -1,7 +1,141 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Liber II
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+M. Terenti Varronis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+				
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+M. Terenti Varronis
+	
+
+Rerum Rusticarum
+	
+
+Liber Tertius
+	
 p422
 1
 
 Cum duae vitae traditae sint hominum, rustica et urbana, quidni, Pinni, dubium non est quin hae non solum loco discretae sint, sed etiam tempore diversam originem habeant. Antiquior enim multo rustica, quod fuit tempus, cum rura colerent homines neque urbem haberent. 2 Etenim vetustissimum oppidum cum sit traditum Graecum Boeotiae Thebae, quod rex Ogygosº aedificarit, in agro Romano Roma, quam Romulus rex; nam in hoc nunc denique est ut dici possit, non cum Ennius scripsit:
+
+
+
+
+
+septingenti sunt paulo plus aut minus anni,
+			
+augusto augurio postquam inclita condita Roma est.
+		
+
 
 
 3 Thebae, quae ante cataclysmon Ogygi conditae dicuntur, eae tamen circiter duo milia annorum et centum sunt. Quod tempus si referas ad illud principium, quo agri coli sunt1 coepti atque in casis et tuguriis habitabant nec murus et porta quid esset sciebant, immani numero annorum urbanos agricolae praestant. 4 Nec mirum, quod divina natura dedit agros, ars humana aedificavit urbes, cum artes omnes dicantur in Graecia intra mille annorum repertae,
@@ -255,7 +389,23 @@ p500audi. Merula, ut cetera fecit, historicos quae sequi melitturgoe soleant dem
 4 Primum apes nascuntur partim ex apibus, partim ex bubulo corpore putrefacto. Itaque Archelaus in epigrammate ait eas esse
 
 
+
+
+
+βοὸς φθιμένης πεπλανημένα τέκνα,
+		
+
+
+
 idem
+
+
+
+
+
+ἵππων μὲν σφῆκες γενεά, μόσχων δὲ μέλισσαι.
+		
+
 
 
 Apes non sunt solitaria natura, ut aquilae, sed ut homines. Quod si in hoc faciunt etiam graculi, at non idem, quod hic societas operis et aedificiorum, quod illic non est, hic ratio atque ars, ab his opus facere discunt, ab his aedificare, ab his cibaria condere. 5 Tria enim harum: cibus, domus, opus, neque idem quod cera cibus, nec quod mel, nec quod domus. Non in favo sex angulis cella, totidem quot habet ipsa pedes? Quod geometrae hexagonon fieri in orbi rutundo ostendunt, ut plurimum loci includatur. Foris pascuntur, intus opus faciunt, quod dulcissimum quod est, et deis et hominibus est acceptum, quod favus venit in altaria et mel ad principia convivi et in secundam mensam administratur. 6 Haec ut hominum civitates, quod hic est et rex et imperium et societas. Secuntur omnia pura. Itaque nulla harum adsidit in loco inquinato aut eo qui male oleat, neque etiam in eo qui bona olet unguenta. Itaque iis
@@ -332,101 +482,121 @@ p528perduceret specus e piscinis in mare obiecta mole, qua aestus bis cotidie a
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 agri coli sunt Iucundus: agricolae sint.
 
 
 
+❦
 
 2
 allevabantur Ellis: alebantur.
 
 
 
+❦
 
 3
 peculia Iucundus: pecunia.
 
 
 
+❦
 
 4
 non added by Goetz.
 
 
 
+❦
 
 5
 Quin Schneider: qui.
 
 
 
+❦
 
 6
 item tria genera added by Keil.
 
 
 
+❦
 
 7
 minthon Keil: mithon or rhynton.
 
 
 
+❦
 
 8
 i.e. me excandefecerunt.
 
 
 
+❦
 
 9
 aut Schneider; all other editors ut.
 
 
 
+❦
 
 10
 ad perticarum Schneider: adportat.
 
 
 
+❦
 
 11
 hic aviarius Storr-Best: hoc (hic Politian) aviarium, MSS. and most editors. Lacuna indicated by Keil and Goetz before quae suspected by Iucundus, whose conjectured reading (est aliud minus, in quo) was accepted by early editors. Storr-Best rightly defends the reading without lacuna.
 
 
 
+❦
 
 12
 arboribus Keil: arboribus tecta.
 
 
 
+❦
 
 13
 arcuata Keil: acuitum.
 
 
 
+❦
 
 14
 In added by Keil.
 
 
 
+❦
 
 15
 evolare Ursinus: evocare.
 
 
 
+❦
 
 16
 et misissem Iucundus: emissem.
 
 
 
+❦
 
 17
 multi an tibe (antibe) columbaria MSS. and later editions: multi columbaria q. i. t. h.
@@ -435,153 +605,282 @@ An tibi non videntur old editions following Iucundus.
 
 
 
+❦
 
 18
 The text is confused. Ursinus reads quod animadvertunt, from "an old codex"; Gesner proposes animadvertuntur. Both these, and Schneider, would understand eligat oportet from the preceding sentence.
 
 
 
+❦
 
 19
 in utraque . . . tripedalis Keil: utraque . . . tripedali.
 
 
 
+❦
 
 20
 The text is suspected. Earlier editors substituted posita for plena ("all around are placed nests for hens").
 
 
 
+❦
 
 21
 cenantium Keil: genanium.
 
 
 
+❦
 
 22
 sint pares Schneider: sit pari.
 
 
 
+❦
 
 23
 ad supplied by Keil, from Cod. Sang. of Columella, VIII.14.4.
 
 
 
+❦
 
 24
 a . . . Martiis supplied by Keil from Columella, VIII.14.4.
 
 
 
+❦
 
 25
 seris Iucundus: heris.
 
 
 
+❦
 
 26
 sesquimensem Keil: sesquimense AB, sexquimense P.
 
 
 
+❦
 
 27
 Keil's emendation for magis tragicos of the first edition. The MSS. have magistracicos and magistraicos.
 
 
 
+❦
 
 28
 Numerous emendations have been proposed for the manuscript ex gruminantes ad propalam. The reading here followed is that conjectured by Keil (et ruminantes) and Scaliger (propolam).
 
 
 
+❦
 
 29
 operculum impositum Keil: cumularim positum.
 
 
 
+❦
 
 30
 daretur Keil, following Ursinus; darem.
 
 
 
+❦
 
 31
 Ursinus would change to sestertium.
 
 
 
+❦
 
 32
 protelum Scaliger: procerum. Scaliger's conjecture is here followed as the most plausible emendation that has been suggested for the impossible procerum.
 
 
 
+❦
 
 33
 extremam Keil: extrema.
 
 
 
+❦
 
 34
 leniter Keil: leviter.
 
 
 
+❦
 
 35
 ne cum] nec cum Scaliger.
 
 
 
+❦
 
 36
 aut] haud Scaliger, cibi Ursinus.
 
 
 
+❦
 
 37
 esse] escae early editors.
 
 
 
+❦
 
 38
 Lacuna suspected by Gesner.
 
 
 
+❦
 
 39
 habuisse] abivisse Scaliger.
 
 
 
+❦
 
 40
 habuisse dicit. Is ait] h. dicatur (dicantur) aut early editors, abeant. Menecrates ait Ursinus.
 
 
 
+❦
 
 41
 This is perhaps the most corrupt passage in the whole work, and editors have struggled with it in vain.
 
 
 
+❦
 
 42
 proximo die Keil: promum e die.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information. The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Re Rustica
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+Id. Nov. 07

@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+L. Junii Columellae
+				
+
+
+
+a
+H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXLI
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+p104
+L. Junii Columellae
+	
+
+De Re Rustica
+	
+
+Liber II
+	
+
 1
 Quaeris ex me, P. Silvine, quod ego sine cunctatione non recuso docere, cur priore libro veterem1 opinionem fere omnium, qui de cultu agrorum locati sunt, a principio confestim reppulerim, falsamque sententiam repudiaverim censentium longo aevi situ longique iam temporis exercitatione fatigatam et effetam humum consenuisse. 2 Nec te ignoro cum et aliorum inlustrium scriptorum tum praecipue Tremeli auctoritatem revereri, qui, cum plurima rusticarum rerum praecepta simul eleganter et scite memoriae prodiderit, videlicet inlectus nimio favore priscorum de simili materia disserentium falso credidit parentem omnium terram, sicut muliebrem sexum aetate anili iam confectam, progenerandis esse fetibus inhabilem. Quod ipse quoque confiterer, si in totum nullae fruges provenirent.2 3 Nam et hominis tum demum declaratur sterile senium, non cum desinit mulier trigeminos aut geminos parere, sed cum omnino nullum conceptum edere valet. Itaque transactis iuventae temporibus, etiam si longe vita superest, partus tamen annis denegatus non restituitur.
 
@@ -20,11 +141,27 @@ Callidissimi rusticarum rerum, Silvine, genera terreni tria esse dixerunt, campe
 p110coniunctiones, quas Graeci συζυγίας ἐναντιοτήτων,13 nos "discordantium comparationes" tolerabiliter dixerimus. Atque etiam significandum est ex omnibus, quae terra progeneret, plura campo magis quam colle, plura pingui solo quam macro laetari. 4 De siccandis et riguis non comperimus, utra numero vincant, quoniam utrimque paene infinita sunt,14 quae siccis quaeque umidis locis gaudent; sed ex his nihil non melius resoluta humo quam densa provenit. Quod noster quoque Vergilius, cum et alias fecundi arvi laudes rettulisset, adiecit,
 
 
+
+
+
+et cui putre solum namque hoc imitamur arando.
+		
+
+
+
 Neque enim aliud est colere quam resolvere et fermentare terram; 5 ideoque maximos quaestus ager praebet idem pinguis ac putris, et quod postulat exiguo labore atque impensa conficitur. Praestantissimum igitur tale solum iure dicatur. Proximum deinde huic pinguiter densum, quod impensam coloni laboremque magno fetu remuneratur. 6 Tertia est ratio loci rigui, quia sine impensa fructum reddere potest. Hanc primam Cato esse dicebat, qui maxime reditum pratorum ceteris anteponebat; sed nos de agitatione terrae nunc loquimur, non de situ. 7 Nullum deterius habetur genus quam quod est pariter siccum et densum et macrum, quia cum difficulter
 
 
 
 p112tractetur, tum ne tractatum quidem gratiam refert nec relictum pratis vel pascuis abunde sufficit. Itaque hic ager sive exercetur seu cessat, colono est paenitendus ac tamquam pestilens refugiendus. Nam ille mortem facit, hic taeterrimam comitem mortis famem, si tamen Graecis camenis habemus fidem clamitantibus:
+
+
+
+
+
+λιμῷ δε᾽ οἴκτιστον θανέειν.
+		
+
 
 
 8 Sed nunc potius uberioris soli meminerimus, cuius demonstranda est duplex tractatio, culti et silvestris. De silvestri regione in arvorum formam redigenda15 prius dicemus, quoniam est antiquius facere agrum quam colere. Incultum igitur locum consideremus, siccus an umidus, nemorosus arboribus an lapidibus confragosus, iuncone sit et16 gramine vestitus an17 filictis18 aliisve frutectis impeditus. 9 Si umidus erit, abundantia uliginis ante siccetur fossis. Earum duo genera cognovimus, caecarum et patentium. Spissis atque cretosis regionibus apertae relinquuntur; at ubi solutior humus est, aliquae fiunt patentes, quaedam etiam occaecantur, ita ut in ora19 hiantium
@@ -46,6 +183,14 @@ Plurimos antiquorum, qui de rusticis rebus scripserunt, memoria repeto quasi con
 
 
 p118prudentem virum, sic et sententia et visu deerrasse, ut oculis eius tot paludes, tot etiam campi salinarum non occurrerent, quibus fere contribuuntur praedicti colores. 16 Nullum enim temere videmus locum, qui modo pigrum contineat umorem, non eundem vel nigri vel cinerei coloris, nisi forte in eo fallor ipse, quod non putem aut in solo limosae paludis et uliginis amarae aut in maritimis areis salinarum gigni posse laeta frumenta. Sed est manifestior hic antiquorum error, quam ut pluribus argumentis convincendus sit. Non ergo color tamquam certus auctor testis est bonitatis arvorum; 17 et ideo frumentarius ager, id est pinguis, magis aliis qualitatibus aestimandus est. Nam ut fortissimae pecudes diversos et paene innumerabiles, sic etiam robustissimae terrae plurimos et varios colores sortitae sunt. Itaque considerandum erit, ut solum quod excolere destinamus, pingue sit. 18 Per se tamen id parum est, si dulcedine caret; quod utrumque satis expedita nobis ratione contingit discere. Nam perexigua conspargitur30 aqua glaeba manuque subigitur, ac si glutinosa est, quamvis levissimo tactu pressa inhaerescit et
+
+
+
+
+
+picis in morem ad digitos lentescit habendo,
+		
+
 
 
 ut ait Vergilius, eademque inlisa humo non dissipatur, quae res nos admonet inesse tali materiae naturalem sucum et pinguitudinem. 19 Sed si velis scrobibus
@@ -134,11 +279,31 @@ p140ut frigidis novissime, tepidis celerius, calidis ocissime68 metamus.69 Nunc 
 Placet nostro poetae adoreum atque etiam triticum non ante seminare quam occiderint Vergiliae. Quod ipsum numeris sic edisserit:
 
 
+
+
+
+At si triticeam in messem robustaque farra
+			
+Exercebis humum solisque instabis aristis,
+			
+Ante tibi eoae Atlantides abscondantur.
+		
+
+
+
 2 Abscondantur autem altero et tricesimo die post autumnale aequinoctium, quod fere conficitur VIIII Kal. Octobris; propter quod intellegi debet tritici satio dierum sex et quadraginta ab occasu Vergiliarum, qui fit ante diem nonum Kalendas Novembris ad brumae tempora. Sic enim servant prudentes agricolae, ut quindecim diebus prius quam conficiatur bruma, totidemque post eam confectam neque arent neque vitem aut arborem putent. Nos quoque
 
 
 
 p142non abnuimus in agro temperato et minime umido sementem sic fieri debere; 3 ceu locis uliginosis atque exilibus aut frigidis aut etiam opacis plerumque citra70 Kalendas Octobris seminare convenire,
+
+
+
+
+
+dum sicca tellure licet, dum nubila pendent,
+		
+
 
 
 ut prius convalescant radices frumentorum quam hibernis imbribus aut gelicidiis71 pruinisve infestentur. Sed quamvis tempestive sementis confecta erit, cavebitur tamen ut patentes liras crebrosque sulcos aquarios, quos non nulli elices vocant, faciamus et omnem umorem in colliquias72 atque inde extra segetes derivemus.73 4 Nec ignoro quosdam veteres auctores praecepisse ne seminarentur agri, nisi cum terra pluviis permaduisset; quod ego, si tempestive competat, magis conducere agricolae non dubito. Sed si, quod evenit non numquam, seri sunt imbres, quamvis sitienti solo recte semen committitur; idque etiam in quibusdam provinciis, ubi status talis caeli est, usurpatur. Nam quod sicco solo ingestum et inoccatum est, proinde74 ac si repositum in horreo non corrumpitur; atque ubi venit imber, multorum dierum sementis uno die surgit. 5 Tremelius quidem adseverat, prius quam impluverit, ab avibus aut formicis sata non infestari, dum aestivis serenitatibus ager aret; idque etiam saepius nos experti verum adhuc esse75 comperimus. Magis apte76 tamen in eius modi agris adoreum
@@ -173,6 +338,20 @@ p150et eiusdem tritam radicem diluunt aqua, similique ratione madefacta semina t
 	
 Illud deinceps praecipiendum habeo,87 ut demessis segetibus iam in area futuro semini consulamus. 11 Nam quod ait Celsus, ubi mediocris est fructus, optimam quamque spicam legere oportet separatimque ex ea semen reponere; cum rursus amplior messis provenerit, quicquid exteretur, capisterio expurgandum erit, et semper, quod propter magnitudinem ac pondus in imo subsederit, ad semen reservandum. Nam id plurimum prodest, quia quamvis celerius locis umidis, tamen etiam siccis frumenta degenerant, nisi cura talis adhibetur.88 12 Neque enim dubium est ex robusto semine posse fieri non robustum; quod vero protinus ex levi89 natum sit, numquam robur accipere manifestum est, ideoque Vergilius cum et alia tum et hoc de seminibus praeclare sic disseruit:
 
+
+
+
+
+Vidi lecta diu et multo spectata labore
+			
+Degenerare tamen, ni vis humana quotannis
+			
+Maxima quaeque manu legeret; sic omnia fatis
+			
+In peius ruere ac retro sublapsa referri.
+		
+
+
 p152
 13 Granum autem rutilum si, cum est diffusum,90 eundem colorem interiorem habet, integrum esse non dubitamus; quod extrinsecus albidum, intus etiam candidum conspicitur,91 leve ac vanum intellegi debet. Nec nos tamquam optabilis agricolis fallat siligo, nam hoc tritici vitium est et, quamvis candore praestet, pondere tamen vincitur. Verum in umido statu caeli recte provenit et ideo locis manantibus magis apta est. Nec tamen ea92 longe nobis aut magna difficultate requirenda est, nam omne triticum solo uliginoso post tertiam sationem convertitur in siliginem.
 
@@ -205,6 +384,16 @@ p160et viginti vehes stercoris in iugerum disponemus dissipabimusque121 et simil
 
 
 p162exiguas paleas nec multam siliquam facit. Veteres itaque rusticos plerumque dicentes audio malle se maturae126 fabalia quam fructum trimestris. 10 Sed quocumque tempore anni seretur, opera danda erit, ut quantum destinaverimus in sationem, tantum quinta decima luna, si tamen ea non transcurret eo die solis radios, quod Graeci ἀπόκρουσιν127 vocant, si minus, quarta decima utique adhuc lunae crescente lumine spargatur, etiam si confestim totum semen operiri non poterit. Nihil enim nocebitur ei nocturnis roribus aliisve ex causis, dum a pecore et avibus vindicetur. 11 Priscis autem rusticis nec minus Vergilio prius amurca vel nitro macerari eam et ita seri placuit,
+
+
+
+
+
+laetior128 ut fetus siliquis fallacibus esset
+			
+et quamvis igni exiguo properata maderent.129
+
+
 
 
 Nos quoque sic medicatam comperimus, cum ad maturitatem perducta sit, minus a curculione infestari. Sed et illud, quod deinceps dicturi sumus, experti praecipimus.130 12 Silente luna fabam vellito ante lucem; deinde cum in area exaruerit, confestim, prius quam luna incrementum capiat, excussam refrigeratamque in granarium conferto. Sic condita a curculionibus erit innoxia, maximeque ex leguminibus ea sine iumentis teri, sine vento purgari expeditissime
@@ -318,6 +507,16 @@ p192triginta Sic in asse fiunt octo menses et dies decem. Supersunt tamen de ann
 
 Sed ex iis, quae rettuli, seminibus idem Saserna putat aliis stercorari et iuvari agros, aliis rursus peruri et emaciari; stercorari lupino, faba, vicia, ervilia, lenti, cicercula, piso. De lupino nihil dubito atque etiam de pabulari vicia, si tamen eam viridem desectam confestim aratrum subsequatur et, quod falx requierit, prius quam inarescat,209 vomis rescindat atque obruat; id etiam cedit pro stercore. 2 Nam si radices eius desecto pabulo relictae inaruerunt,210 sucum omnem solo auferent vique terrae absument; quod etiam in faba ceterisque leguminibus, quibus terra gliscere videtur, verisimile est accidere, ut nisi protinus sublata messe211 eorum proscinditur,212 nihil iis segetibus, quae deinceps in eo loco seminari debent, profuturum sit. 3 Ac de iis quoque leguminibus, quae velluntur, Tremelius obesse ait maxime213 solo virus214 ciceris et lini, alterum quia sit salsae,215 alterum quia sit216 fervidae naturae, quod etiam Vergilius significat dicendo:
 
+
+
+
+
+Urit enim lini campum seges, urit avenae,
+			
+Urunt Lethaeo perfusa papavera somno.
+		
+
+
 p194
 Neque enim dubium, quin et his seminibus infestetur ager sicut et217 milio et panico. Sed omni solo, quod praedictorum leguminum segetibus fatiscit, una praesens medicina est, ut stercore adiuves et absumptas vires hoc velut pabulo refoveas, 4 nec tantum propter semina, quae sulcis aratri committuntur, verum etiam propter arbores ac virgulta, quae maiorem in modum laetantur eius modi alimento. Quare si est, ut videtur, agricolis utilissimum, diligentius de eo dicendum existimo, cum priscis auctoribus, quamvis non omissa res,218 levi tamen admodum cura sit prodita.
 
@@ -406,6 +605,22 @@ p218quia saepe,301 dum expectatur, saeva nos hiems deprendit. Itaque in area det
 
 Sed cum tam otii quam negotii rationem reddere maiores nostri censuerunt, nos quoque monendos esse agricolas existimamus, quae feris facere quaeque non facere debeant. Sunt enim, ut ait poeta, quae
 
+
+
+
+
+festis exercere diebus306
+
+Fas et iura sinunt: rivos deducere nulla
+		
+Religio vetuit, segeti praetendere saepem,
+		
+Insidias avibus moliri, incendere vepres
+		
+Balantumque gregem fluvio mersare salubri.
+		
+
+
 p220
 2 Quamquam pontifices negant segetem feriis saepiri debere; vetant quoque lanarum causa lavari307 oves nisi si308 propter medicinam. Vergilius quod309 liceat feriis flumine abluere gregem praecipit et idcirco adicit "fluvio mersare salubri," id est salutari;310 sunt enim vitia, quorum causa pecus utile sit lavar. 3 Feriis autem ritus maiorum etiam illa permittit: far pinsere,311 faces incidere, candelas sebare, vineam conductam colere, piscinas, lacus, fossas veteres tergere et purgare, prata sicilire, stercora aequare, faenum in tabulata componere, fructus oliveti conductos cogere, mala, pira, ficos pandere, caseum facere, arbores serendi causa collos vel mulo clitellario adferre; sed iuncto advehere non permittitur nec adportatas312 serere neque terram aperire neque arborem conculcare, 4 sed ne sementem quidem administrare, nisi prius catulo feceris, nec faenum secare aut vincire aut vehere; ac ne vindemiam quidem cogi per religiones pontificum feriis licet nec ovis tondere, nisi si catulo feceris. Defrutum quoque facere et vinum defrutare licet. Uvas itemque olivas conditu313 legere licet. Pellibus oves vestiri
 
@@ -420,340 +635,411 @@ Hoc loco certum habeo quosdam, cum solemnis festorum percensuerim,316 desideratu
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 veterum R, edd. ante Schn.
 
 
+❦
 
 2
 convenirent SA.
 
 
+❦
 
 3
 destituta R nonnulli deteriores, Ald., Gesn., Schn.
 
 
+❦
 
 4
 cessationis M, Ald., Gesn., Schn.
 
 
+❦
 
 5
 reviviscere R aliquot.
 
 
+❦
 
 6
 nimia . . . exercitatione R nonnulli, Ald., Gesn.
 
 
+❦
 
 7
 ponderi Schn. Lundström: ponderis SA1a: pondere R plerique, edd. ante Schn.
 
 
+❦
 
 8
 ceperint Lundström: coeperint SA et R aliquot, plerique edd.; deinde cultu Ald., Gesn.
 
 
+❦
 
 9
 sterceratione SAa, Lundström.
 
 
+❦
 
 10
 montem non sublimem Ald., Gesn., Schn.
 
 
+❦
 
 11
 et SAa, vett. edd., Lundström.
 
 
+❦
 
 12
 qualitatium SA et R aliquot, Lundström.
 
 
+❦
 
 13
 Graec. om., spat. relict. R plerique.
 
 
+❦
 
 14
 cum (R) utique p. i. sint (R aliquot) Ald., Gesn.
 
 
+❦
 
 15
 derigenda S: dirigenda A et R aliquot, vett. edd.
 
 
+❦
 
 16
 sic Lundström cum codd. plerisque ut videtur: an vel de R nonnulli, cett. edd.
 
 
+❦
 
 17
 sic Lundström cum Laurentiano 53.27: ac SAR, cett. edd.
 
 
+❦
 
 18
 filictis R plerique, Ald., Gesn., Schn.: felictis SA, Lundström: filicibus vett. edd.: salictis R pauci.
 
 
+❦
 
 19
 in ora Sobel: in eas ora R, vett. edd, Lundström: in ea hora (h expunct.) S: in ea ora A. in patentes ora hiantia caecarum competant habent Ald., Gesn., Schn.
 
 
+❦
 
 20
 sed patentes latius Schn.: sed et petentes latius Ald., Gesn.
 
 
+❦
 
 21
 humum M.
 
 
+❦
 
 22
 utilitas R aliquot.
 
 
+❦
 
 23
 pernities S, Lundström.
 
 
+❦
 
 24
 felicis SA, Lundström.
 
 
+❦
 
 25
 sic Lundström, praeeunte Madvig: convulsae moritur vel moriuntur codd. et edd. vulgo, sed convulsa Schneider, Corrigenda.
 
 
+❦
 
 26
 interemi S1A, Lundström.
 
 
+❦
 
 27
 ruris agricolationem R plerique, vett. edd.
 
 
+❦
 
 28
 colorem om. AR, vett. edd.
 
 
+❦
 
 29
 etiam om. R, edd. ante Schn.
 
 
+❦
 
 30
 conspergitur S2 et R aliquot, edd. ante Lundström.
 
 
+❦
 
 31
 possunt M, Ald., Gesn., Schn.
 
 
+❦
 
 32
 Sapore Ald., Gesn., Schn.
 
 
+❦
 
 33
 sic om. Gesn., Schn.
 
 
+❦
 
 34
 dignoscemus, si ex Ald., Gesn., Schn.
 
 
+❦
 
 35
 humi M.
 
 
+❦
 
 36
 non tamen nisi AR, vett. edd.
 
 
+❦
 
 37
 conscripsere A et R plerique.
 
 
+❦
 
 38
 quia S, Lundström: qui AR, et vulgo.
 
 
+❦
 
 39
 terra AR.
 
 
+❦
 
 40
 confert Ald., Gesn., Schn.
 
 
+❦
 
 41
 armentis edd.: argumentis SAR: iugamentis M.
 
 
+❦
 
 42
 quae res taetricum scripsi, praeeunte ex parte Lundström (q. r. taetratum): quae rescae tratum SA: q; reste (vel recte) tractum R: iuvencumque reste (vel recte) tractum vett. edd.: quod retrectantem Gesn., Schn., praeeunte Ursino (q. retractantem).
 
 
+❦
 
 43
 si . . . stringuntur scripsi: nisi (ex -nt si?) . . . stringantur (astringantur M) codd., vett. edd., Lundström: refrigerentur Ald., Gesn., Schn.
 
 
+❦
 
 44
 et SAR: id edd. ante Schn.
 
 
+❦
 
 45
 binos Ald., Gesn., Schn.
 
 
+❦
 
 46
 occasionem SA, et R plerique.
 
 
+❦
 
 47
 seminabimus S, vett. edd.: seminaverimus vulgo ante Lundström.
 
 
+❦
 
 48
 offensione Ald., Gesn., Schn.
 
 
+❦
 
 49
 viginti om. AR, edd. ante Schn.
 
 
+❦
 
 50
 quandocumque M, edd. ante Gesn.
 
 
+❦
 
 51
 sarritioni Schn., praeeuntibus Ursino et Pontedera.
 
 
+❦
 
 52
 solis codd.
 
 
+❦
 
 53
 aliquibus R pauci, edd. ante Lundström.
 
 
+❦
 
 54
 statim R pauci, edd. ante Gesn.
 
 
+❦
 
 55
 trimestri Ald., Gesn., Schn.
 
 
+❦
 
 56
 iugerum. Sed tali agro Schn.
 
 
+❦
 
 57
 quotienscumque edd. ante Lundström.
 
 
+❦
 
 58
 ad sementim Lundström: ac sementi SA et R plerique: sementi vulgo.
 
 
+❦
 
 59
 sic Lundström cum codd., ut videtur: eo quod M, et vulgo.
 
 
+❦
 
 60
 obrui R pauci, et vulgo: adrui codd. plerique, Lundström.
 
 
+❦
 
 61
 dissupari SA, Lundström.
 
 
+❦
 
 62
 persequemur edd. ante Lundström.
 
 
+❦
 
 63
 trimenstre S
 , Lundström.
 
+❦
 
 64
 porro om. AR, edd. ante Lundström.
 
 
+❦
 
 65
 sic distinxit Lundström: candidioris SR (ex candidioris corr. A), vett. edd.: candoris Ald., Gesn., Schn.: candidioris grani et nitidi Pontedera.
 
 
+❦
 
 66
 panicium SA et R pauci.
 
 
+❦
 
 67
 tisana SR plerique, Lundström: tisanana A: ptisana R pauci, Ald., Gesn., Schn.: ptissana vett. edd.
 
 
+❦
 
 68
 frigidis ocissime t. c. calidis novissime Schneider ex
@@ -761,376 +1047,451 @@ frigidis ocissime t. c. calidis novissime Schneider ex
 Catone 34, praeeunte Pontedera.
 
 
+❦
 
 69
 metamus SA et R pauci, vett. edd.: metamur R nonnulli: metemur vel metantur vel metam alii: sereremus (alt. re expunct. M) M et Cod. Bononiensis 2523: seramus Ald., Gesn., Schn.: iaciamus Lundström.
 
 
+❦
 
 70
 circa R aliquot.
 
 
+❦
 
 71
 gelidis SA et R aliquot, Lundström.
 
 
+❦
 
 72
 colloquias R: cloacas M.
 
 
+❦
 
 73
 dirivemus R aliquot, Lundström: diruemus SA.
 
 
+❦
 
 74
 perinde M, et vulgo ante Lundström.
 
 
+❦
 
 75
 non post esse add. Schn.
 
 
+❦
 
 76
 pate omnes post ed. Reg. 1496: alte vel alter vel alitur codd.
 
 
+❦
 
 77
 tritici quinque, et Ald., Gesn., Schn.
 
 
+❦
 
 78
 fruticavit R aliquot, Ald., Gesn., Schn.
 
 
+❦
 
 79
 quintam partem (AR) . . . occupare (R pauci) edd. ante Schn.
 
 
+❦
 
 80
 semestrem S et R aliquot, vett. edd.: semenstrem A et R aliquot, Lundström: triticum semestrem (semenstrem) vel t. semestre (semenstre) R cett.: trimestrem Ald., Gesn., Schn.
 
 
+❦
 
 81
 tanto commodius Ald., Gesn.; tanto inclusit Schn.
 
 
+❦
 
 82
 Sed om. SA, Schn.
 
 
+❦
 
 83
 glabrentibus R pauci, et vulgo ante Schn.
 
 
+❦
 
 84
 ea (eam, ea in) glabreta R plerique, et vulgo: eam glaeba SA: eam (ea in a) gleba ad: eam glaebam Lundström.
 
 
+❦
 
 85
 alia quae S, Lundström: aliquae A: aliqua R, et vulgo.
 
 
+❦
 
 86
 negat SA.
 
 
+❦
 
 87
 habeto R plerique.
 
 
+❦
 
 88
 sic SA1, Lundström: adhibeatur R, et vulgo.
 
 
+❦
 
 89
 exile R, et vulgo ante Schn.
 
 
+❦
 
 90
 diffusum AR.
 
 
+❦
 
 91
 sic Lundström cum codd.: conspicitur candidum vulgo.
 
 
+❦
 
 92
 ea om. SA.
 
 
+❦
 
 93
 alt. pascit (cibat M) post triticum add. R.
 
 
+❦
 
 94
 marcescere A2R pauci, Lundström: manascere A1: manescere S.
 
 
+❦
 
 95
 nimis SAa, Schn., Lundström.
 
 
+❦
 
 96
 modii occupabunt Ald., Gesn., Schn.; sed modiis occupabit maluit Schn. in not., ex Pallad., Sept. 4.
 
 
+❦
 
 97
 hisdemque vel his denique R plerique.
 
 
+❦
 
 98
 de oms. Sa.
 
 
+❦
 
 99
 sustinerentur A.
 
 
+❦
 
 100
 versari A2R, vett. edd.
 
 
+❦
 
 101
 sationem vel sartionem R.
 
 
+❦
 
 102
 sarritionem plerique edd. ante Lundström.
 
 
+❦
 
 103
 aestibus om. SA.
 
 
+❦
 
 104
 sic SAM, Lundström: ad(as)siccaverunt vel ad(as)siccaverint R plerique: assiccaverint vett. edd.: assiccata fuerint Ald., Gesn., Schn.
 
 
+❦
 
 105
 pinsatum R plerique.
 
 
+❦
 
 106
 sed et milium Ald., Gesn., Schn.
 
 
+❦
 
 107
 quavis in copia Schn., praeeunte Pontedera: quavis inopia Ald., Gesn.
 
 
+❦
 
 108
 maxime cum lacte om. S (in marg. man. alt.) A.
 
 
+❦
 
 109
 sic S, Lundström: disseramus AR, et vulgo.
 
 
+❦
 
 110
 iam om. SA.
 
 
+❦
 
 111
 in horreo om. SA.
 
 
+❦
 
 112
 convaluerit R plerique, edd. ante Lundström; sed convaluit maluit Schn.
 
 
+❦
 
 113
 reponis Ald., Gesn., Schn.
 
 
+❦
 
 114
 aediderunt A: edederunt vel ediderunt (vett. edd.) R plerique: ederunt R pauci, Ald, Gesn.
 
 
+❦
 
 115
 modios (modios X M) R pauci, vett. edd.: modis S1A: modiis R plerique, Lundström: modii occupant Ald., Gesn., Schn.
 
 
+❦
 
 116
 veterio sam: vervacto Ald., Gesn.
 
 
+❦
 
 117
 observetur A: obseritur R, edd. ante Schn.
 
 
+❦
 
 118
 autumni SA1.
 
 
+❦
 
 119
 destinatur AR, edd. ante Lundström.
 
 
+❦
 
 120
 iactemus R plerique: alemus SA.
 
 
+❦
 
 121
 dissipavimusque SAa.
 
 
+❦
 
 122
 inporcitumque A1, Lundström: im(in)porcatumq; vel importatunq; R: imporcatumque edd. vulgo.
 
 
+❦
 
 123
 occupabimus A.
 
 
+❦
 
 124
 siliquam Ald., Gesn., Schn.
 
 
+❦
 
 125
 modiis SA: modiis vel modii si R pauci: modios vel modios si R plerique.
 
 
+❦
 
 126
 matura R, edd. ante Schn.
 
 
+❦
 
 127
 Graec. om., spat. relict., R plerique.
 
 
+❦
 
 128
 laetior SAR: grandior M, codd. Verg.
 
 
+❦
 
 129
 maderet S, Schn.
 
 
+❦
 
 130
 praecepimus vel praecipiemus R plerique.
 
 
+❦
 
 131
 modius SA.
 
 
+❦
 
 132
 collocetur R aliquot, edd. ante Lundström.
 
 
+❦
 
 133
 furcillisve R aliquot, Ald., Gesn., Schn.
 
 
+❦
 
 134
 contundat SA.
 
 
+❦
 
 135
 iacebant SA.
 
 
+❦
 
 136
 resederunt R, edd. ante Schn.
 
 
+❦
 
 137
 facto Gesn., schn., praeeunte Ursino.
 
 
+❦
 
 138
 sic Lundström: lenti modo semediata SA: Lentem semente (Lentis sementem M) media crescente R, et vulgo: Lentim modo a dimidiata Schn.
 
 
+❦
 
 139
 sic Lundström: pingiusº et SA: pinguis sed a: pingui et R, et vulgo.
 
 
+❦
 
 140
 seratur Ald., Gesn., Schn.
 
 
+❦
 
 141
 quattuor vel quatuor vel IIII R plerique: quatuor Ald., Gesn.
 
 
+❦
 
 142
 extercorandum R editur curandum M.
 
 
+❦
 
 143
 oleo post defricetur add. Schn. ex
@@ -1138,869 +1499,1154 @@ oleo post defricetur add. Schn. ex
 Catone 116.
 
 
+❦
 
 144
 lentem R aliquot, edd. ante Lundström.
 
 
+❦
 
 145
 si om. R, edd. ante Schn.
 
 
+❦
 
 146
 tenuius Schn., Lundström: tenui ut SA1: tenue A2R, et vulgo.
 
 
+❦
 
 147
 colligi M: et per . . . tolli om. SA.
 
 
+❦
 
 148
 Cicer aut om. R plerique, Ald., Gesn., Schn.
 
 
+❦
 
 149
 tamen om. SA.
 
 
+❦
 
 150
 arietillum Lundström cum codd.: arietinum vulgo.
 
 
+❦
 
 151
 naporum R, edd. ante Schn., qui naporum legit, napi defendit in not.
 
 
+❦
 
 152
 raparumque Lundström, cum SA et R aliquot ut videtur.
 
 
+❦
 
 153
 meliorescit M.
 
 
+❦
 
 154
 etiam om. edd. ante Lundström.
 
 
+❦
 
 155
 napis AR, omnes ante Gesn.
 
 
+❦
 
 156
 qui AR, vett. edd.
 
 
+❦
 
 157
 diximus M.
 
 
+❦
 
 158
 Medica. quod cum semel seritur, decem annis durat; quod per annum deinde recte quater Ald., Gesn., Schn.
 
 
+❦
 
 159
 eligito SAR, vett. edd., Schn.: elegito Lundström: egerito Ald., Gesn.
 
 
+❦
 
 160
 peremat S1A, Lundström: perveniat M.
 
 
+❦
 
 161
 messem R aliquot, edd. ante Lundström.
 
 
+❦
 
 162
 fructificare AR.
 
 
+❦
 
 163
 sexies in anno R aliquot, edd. ante Lundström.
 
 
+❦
 
 164
 qua omnes post Ursinum: quam codd.
 
 
+❦
 
 165
 satio R, edd. ante Schn.
 
 
+❦
 
 166
 quae autumno sata partim (sed qua autumno sata partim in marg. A man. alt.) om. et post viret inserunt SA.
 
 
+❦
 
 167
 partim semini custoditur om. SA.
 
 
+❦
 
 168
 semen SAR, Lundström: messem R duo dett., et vulgo.
 
 
+❦
 
 169
 adruunt S, Lundström: adfruunt A.
 
 
+❦
 
 170
 inlentescat Ald., Lundström, cum codd. ut videtur.
 
 
+❦
 
 171
 sic Lundström, cum codd. ut videtur: subtritis vulgo.
 
 
+❦
 
 172
 eam om. SA.
 
 
+❦
 
 173
 fructificare AR.
 
 
+❦
 
 174
 agricolatio R.
 
 
+❦
 
 175
 permittat S, Lundström: permittit AR, et vulgo.
 
 
+❦
 
 176
 esset ac, Ursinus, Gesn., Schn.: erat SA, Lundström: erit R, vett. edd.
 
 
+❦
 
 177
 At quae Lundström: atque codd., Schn.: at aliae segetes, quae vulgo.
 
 
+❦
 
 178
 runca SA1, Lundström.
 
 
+❦
 
 179
 eius om. R, edd. ante Schn.
 
 
+❦
 
 180
 runca SA, Lundström.
 
 
+❦
 
 181
 neque enim R, edd. ante Lundström.
 
 
+❦
 
 182
 et om. AR, edd. ante Schn.
 
 
+❦
 
 183
 exaggerantur codd.
 
 
+❦
 
 184
 humi R, edd. ante Lundström.
 
 
+❦
 
 185
 paululum SA: paulum a.
 
 
+❦
 
 186
 desit SA, Lundström.
 
 
+❦
 
 187
 adrutum SA, Lundström.
 
 
+❦
 
 188
 sic Schn.: remoliri Lundström, et vulgo.
 
 
+❦
 
 189
 antea R plerique, edd. ante Lundström.
 
 
+❦
 
 190
 Seminis S: si seminis AR: Sesamii vel Sesami vulgo ante Schn.; sed Pontedera adorei proposuit.
 
 
+❦
 
 191
 sariuntur s. e. u. opera Lundström: sariuntur sex una opera R plerique; om. SA: sarriuntur sesquiopera, iterum sarriuntur una opera, et tertio una vulgo.
 
 
+❦
 
 192
 tertium add. Lundström.
 
 
+❦
 
 193
 sic codd., Lundström: vel trium add. Ald., Gesn., Schn.
 
 
+❦
 
 194
 operas R, edd. ante Lundström.
 
 
+❦
 
 195
 obruitur add. Madvig, Lundström; om. SA, vett. edd.: desiderat R, Ald., Gesn., Schn.
 
 
+❦
 
 196
 operis tribus Ald., Gesn., Schn.
 
 
+❦
 
 197
 coluntur R, edd.: tolluntur SA, Lundström.
 
 
+❦
 
 198
 post occantur verba tribus runcantur una velluntur tribus summa fit e sententia antecedente repetunt SA, teste Lundström: occantur operis tribus, s. q., e. s. i. d., runcantur una, velluntur duabus. Summa fit Schn. praeeunte Pontedera.
 
 
+❦
 
 199
 occantur duabus R: occatur duabus M, Ald., Gesn.
 
 
+❦
 
 200
 sarit una metit una R: sarritur una, metitur una M, Ald., Gesn.
 
 
+❦
 
 201
 sic SA, Lundström: boum R, et vulgo.
 
 
+❦
 
 202
 si Ald., Gesn., Schn.
 
 
+❦
 
 203
 tamen om. SA, edd. ante Lundström.
 
 
+❦
 
 204
 asse Ursinus, Schn.
 
 
+❦
 
 205
 conseram S: conserant A et R plerique: conserat Ald., Gesn., Schn.
 
 
+❦
 
 206
 modios Ald., Gesn., Schn.
 
 
+❦
 
 207
 Cetera om. Schn.
 
 
+❦
 
 208
 absumimus R plerique.
 
 
+❦
 
 209
 macrescat vel marcescat R plerique.
 
 
+❦
 
 210
 inaruerunt SA, Lundström: inaruerunt R, et vulgo.
 
 
+❦
 
 211
 messes SA.
 
 
+❦
 
 212
 proscinditur codd., Lundström: proscindatur vulgo.
 
 
+❦
 
 213
 maxime ait R.
 
 
+❦
 
 214
 virtus A.
 
 
+❦
 
 215
 densae S: dens (e suprascr. man. rec.) A.
 
 
+❦
 
 216
 sit om. S.
 
 
+❦
 
 217
 etiam Ald., Gesn., Schn.
 
 
+❦
 
 218
 non omnes sares a.
 
 
+❦
 
 219
 stercoris genera R.
 
 
+❦
 
 220
 praecipua R pauci, et vulgo ante Schn.
 
 
+❦
 
 221
 anetis SA, Lundström.
 
 
+❦
 
 222
 autem S.
 
 
+❦
 
 223
 per se vulgo additur; om. codd. et Schn.
 
 
+❦
 
 224
 veterescere Lundström cum codd. ut videtur.
 
 
+❦
 
 225
 facit R aliquot, Ald., Gesn., Schn.
 
 
+❦
 
 226
 vitis SA.
 
 
+❦
 
 227
 aestiuus tempores A.
 
 
+❦
 
 228
 mandat A.
 
 
+❦
 
 229
 quae diximus . . . caprinum om. SA.
 
 
+❦
 
 230
 ceterum dum in iumentorum SA.
 
 
+❦
 
 231
 proficit Lundström: profuit R, edd. plerique: prodicitur S: prodicit A.
 
 
+❦
 
 232
 cineris usus et favillae Ursinus, Gesn., Schn.
 
 
+❦
 
 233
 et e viis om. R.
 
 
+❦
 
 234
 compitisque Ald.: conpitique S1A: compitibusque R.
 
 
+❦
 
 235
 felicem S1Aa, Lundström.
 
 
+❦
 
 236
 serpentum noxam Ald., Gesn.
 
 
+❦
 
 237
 separari R, Ald., Gesn., Schn.
 
 
+❦
 
 238
 quodque Ursinus, Schn.
 
 
+❦
 
 239
 egerenda R, Lundström: erigenda SA, vett. edd.: congerenda vulgo.
 
 
+❦
 
 240
 adsiboum mores (more A) SA1.
 
 
+❦
 
 241
 repositum . . . esse om. SA.
 
 
+❦
 
 242
 res om. SA.
 
 
+❦
 
 243
 disputat SA.
 
 
+❦
 
 244
 duo et viginti R: duodecim Gesn.
 
 
+❦
 
 245
 arturus SA: araturus Schn., praeeunte Pontedera.
 
 
+❦
 
 246
 eum om. R, edd. plerique.
 
 
+❦
 
 247
 sarias R: seras Schn.
 
 
+❦
 
 248
 oportere (reor s. re scr. man. alt. S) SAR: oportet edd. ante Lundström.
 
 
+❦
 
 249
 ad hoc SA.
 
 
+❦
 
 250
 largiore R, et vulgo ante Lundström.
 
 
+❦
 
 251
 tolleretur SA.
 
 
+❦
 
 252
 pabulosis SA.
 
 
+❦
 
 253
 sola SA: solo Schn.
 
 
+❦
 
 254
 lubricosis SA, Lundström: rubricosis R, et vulgo.
 
 
+❦
 
 255
 minimique vulgo ante Lundström.
 
 
+❦
 
 256
 desideretur SA.
 
 
+❦
 
 257
 suapte (suate A) natur aquis et eligitur (cetera verba om.) SA.
 
 
+❦
 
 258
 sed dut] aut si R, edd. ante Schn.
 
 
+❦
 
 259
 proripit SR, Lundström.
 
 
+❦
 
 260
 qui et SA.
 
 
+❦
 
 261
 cineras SA.
 
 
+❦
 
 262
 validiorisque R, edd. ante Lundström.
 
 
+❦
 
 263
 sic vellamus ut Lundström: sigilla /// mus u (t suprascr. man. rec.) S: sigillam usu A: si vellamus ut R: per ver evellanums Ald., Gesn., Schn.
 
 
+❦
 
 264
 intuba solstitialis ac (cett. verba om.) SA.
 
 
+❦
 
 265
 demergunt ungulas R, et vulgo ante Lundström.
 
 
+❦
 
 266
 asperiora R pauci: aspriora SA, Lundström: macriora R aliquot, et vulgo.
 
 
+❦
 
 267
 veteres Lundström: veteri codd., et vulgo.
 
 
+❦
 
 268
 adcessimus SA, Lundström: cepimus R plerique: accepimus Gesn., Schn.: coepimus vel cepimus vett. edd.
 
 
+❦
 
 269
 protinus SA, Lundström: sepius R: saepius cett. edd.
 
 
+❦
 
 270
 interveniunt radicibus SA, Schn.
 
 
+❦
 
 271
 si om. SA.
 
 
+❦
 
 272
 disiciamus Lundström, praeeunte Pontedera: assiccamus vel adsiccamus codd. plerique: dispiciemus R duo dett.: despiciemus vett. edd.: dissipabimus vulgo.
 
 
+❦
 
 273
 faenisecas e. o. r. a. d. rigari Lundström: alii alia.
 
 
+❦
 
 274
 fuerit om. SA, edd. ante Lundström.
 
 
+❦
 
 275
 sic Lundström: conspissatum et herbis colligatum sit solum vulgo.
 
 
+❦
 
 276
 herbarum om. SA.
 
 
+❦
 
 277
 conducio S: conductio A.
 
 
+❦
 
 278
 rivos SA et R plerique, Lundström.
 
 
+❦
 
 279
 arescat SA.
 
 
+❦
 
 280
 caluit SAc.
 
 
+❦
 
 281
 siccari . . . utrimque om. SA: utrimque Ursinus: utrunque R.
 
 
+❦
 
 282
 aut om. Schn.
 
 
+❦
 
 283
 manipulos colligatum Schn.
 
 
+❦
 
 284
 quo Ald., Gesn., Schn.
 
 
+❦
 
 285
 defenditur R, edd. ante Lundström.
 
 
+❦
 
 286
 exsudet atque om. SA.
 
 
+❦
 
 287
 conficiatur SA.
 
 
+❦
 
 288
 et rigetur SA et R aliquot: extricetur Lundström: extringetur R plerique, vett. edd.: aspergatur Ursinus: irrigetur Schoettgen, et maluit Gesn.: extergatur vulgo.
 
 
+❦
 
 289
 prati subiacentem Favonio Lundström, praeeunte Schn. in not.: pratis obiacentem fabonio (b in v must. S) SA: pratis obiacente favonio R: potius adiacentium fabalium vulgo.
 
 
+❦
 
 290
 lecta R, et vulgo ante Schn.
 
 
+❦
 
 291
 trituris Ald., Gesn., Schn.
 
 
+❦
 
 292
 ortum R, et vulgo ante Lundström.
 
 
+❦
 
 293
 demetur SA.
 
 
+❦
 
 294
 incesserint R, edd. ante Lundström.
 
 
+❦
 
 295
 propter om. SA.
 
 
+❦
 
 296
 rostratis ac: nostratibus SAR, vett. ede.
 
 
+❦
 
 297
 nubilarium Ald., Gesn., Schn.
 
 
+❦
 
 298
 solidibus SA.
 
 
+❦
 
 299
 traheam Lundström: trahere SAR: traham vulgo.
 
 
+❦
 
 300
 cuduntur SA, Schn.: tunduntur R, Lundström, et vulgo.
 
 
+❦
 
 301
 saepe om. R et edd. ante Schn.
 
 
+❦
 
 302
 manibus SA.
 
 
+❦
 
 303
 reter R, Lundström: reperiri S: repperiri A: repurgari Ald., Gesn., Schn.: repoliri Pontedera.
 
 
+❦
 
 304
 Post vel verba manifeste exciderunt SAR: absumuntur statim vel inserit Bononiensis 2523: statim absumuntur vel Ald., et deinceps omnes praeter Lundström, qui lacunam indicat.
 
 
+❦
 
 305
 crediderit Lundström: ceciderit SA: crediderat R, cett. edd.
 
 
+❦
 
 306
 exercere festis diebus SA.
 
 
+❦
 
 307
 lavare SA.
 
 
+❦
 
 308
 si om. R, edd. ante Lundström.
 
 
+❦
 
 309
 qui Gesn., Schn.
 
 
+❦
 
 310
 id est salutari om. R aliquot, Ald., Gesn., Schn.
 
 
+❦
 
 311
 faro (farao A) instare SA.
 
 
+❦
 
 312
 adportatas Warmington: adportata vel apportata R, edd.; adportare SA.
 
 
+❦
 
 313
 conditui R plerique, Ald., Gesn., Schn.
 
 
+❦
 
 314
 sepelire vel sepellire R plerique.
 
 
+❦
 
 315
 denicalibus R pauci dett.: dentalibus M: devivalibus S: denibalibus A: dominicalibus R plerique.
 
 
+❦
 
 316
 percensuerint SA.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Columella
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VI Kal. Apr. 05

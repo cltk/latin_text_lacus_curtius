@@ -1,9 +1,128 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+Rerum Gestarum
+				
+
+
+
+Ammiani Marcellini
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV (recensiti MCML)
+				
+cuius textus in dominio publico est.
+
+				
+
+Textus nondum perscrutatus est —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p108
+Ammiani Marcellini
+	
+Rerum Gestarum libri qui supersunt
+	
+
+Liber XV
+	
+
+1
+
+zzz
+
+	
 1 Utcumque potuimus veritatem scrutari, ea quae videre licuit per aetatem, vel perplexe interrogando versatos in medio scire, narravimus ordine casuum exposito diversorum: residua quae secuturus aperiet textus, pro virium captu limatius absolvemus, nihil obtrectatores longi, ut putant, operis formidantes. Tunc enim laudanda est brevitas cum moras rumpens intempestivas nihil subtrahit cognitioni gestorum.
 
 	
 2 Nondum apud Noricum exuto penitus Gallo Apodemius quoad vixerat igneus turbarum incentor raptos eius calceos vehens equorum permutatione veloci, ut nimietate cogendi quosdam extingueret, praecursorius index Mediolanum advenit ingressusque regiam ante pedes proiecit Constantii velut spolia regis occisi Parthorum et perlato nuntio repentino, docente rem insperatam et arduam ad sententiam totam facilitate completam, hi qui summam aulam tenebant, omni placendi studio in adulationem ex more conlato virtutem felicitatemque imperatoris extollebant in Caelum, cuius nutu in modum gregariorum militum licet diversis temporibus duo exauctorati sunt principes, Veteranio nimirum et Gallus. 3 Quo ille studio blanditiarum exquisito sublatus inmunemque se deinde fore ab omni mortalitatis incommodo fidenter existimans confestim a iustitia declinavit ita intemperanter, ut "Aeternitatem meam" aliquotiens subsereret ipse dictando scribendoque propria manu orbis totius se dominum appellaret, quod dicentibus aliis indignanter admodum ferre deberet is qui ad aemulationem civilium principum formare vitam moresque suos, ut praedicabat, diligentia laborabat enixa. 4 Namque etiam si mundorum infinitates Democriti regeret, quos Anaxarcho incitante magnus somniabat Alexander, id reputasset legens vel audiens quod (ut docent mathematici concinentes), ambitus terrae totius, quae nobis videtur inmensa, ad magnitudinem universitatis instar brevis optinet puncti.
 
+
+II
+
+	
 1 Iamque post miserandam deleti Caesaris cladem sonante periculorum iudicialium tuba in crimen laesae maiestatis arcessebatur Ursicinus adulescente magis magisque contra eius salutem livore omnibus bonis infesto. 2 Hac enim superabatur difficultate quod ad suscipiendas defensiones aequas et probabilis imperatoris aures occlusae patebant susurris insidiantium clandestinis, qui Constantii nomine per orientis tractus omnes abolito ante dictum ducem domi forisque desiderari ut formidolosum Persicae genti fingebant. 3 Sed contra accidentia vir magnanimus stabat immobilis, ne se proiceret abiectus cavens, parum tuto loco innocentiam stare medullitus gemens, hocque uno tristior quod amici ante haec frequentes ad potiores desciverant ut ad successores officiorum more poscente solent transire lictores. 4 Inpugnabat autem eum per fictae benignitatis inlecebras collega et virum fortem propalam saepe appellans Arbetio ad innectendas letales insidias vitae simplici perquam callens et ea tempestate nimium potens. Ut enim subterraneus serpens foramen subsidens occultum adsultu subito singulos transitores observans incessit, ita ille ab ima sorte etiam post adeptum  summum militiae munus, nec laesus aliquando nec lacessitus inexplebili quodam laedendi proposito conscientiam polluebat. 5 Igitur paucis arcanorum praefectis consciis latenter cum imperatore sententia  diu digesta id sederat, ut nocte ventura procul a conspectu militarium raptus Ursicinus indemnatus occideretur, ut quondam Domitius Corbulo dicitur caesus in conluvione illa Neroniani saeculi, provinciarum fidus defensor et cautus. 6 Quibus ita conpositis cum ad hoc destinati praedictum tempus opperirentur, consilio in lenitudinem flexo facinus impium ad deliberationem secundam differri praeceptum est.
 
 	
@@ -12,10 +131,18 @@
 	
 10 Perductus est isdem diebus et Gorgonius, cui erat thalami Caesariani cura commissa, cumque eum ausorum fuisse participem concitoremque interdum ex confesso pateret, conspiratione spadonum iustitia concinnatis mendaciis obumbrata, periculo evolutus abscessit.
 
+
+III
+
+	
 1 Haec dum Mediolani aguntur, militarium catervae ab oriente perductae sunt Aquileiam cum aulicis pluribus, membris inter catenas fluentibus spiritum trahentes exiguum vivendique moras per aerumnas detestati multiplices. Arcessebantur enim ministri fuisse Galli ferocientis perque eos Domitianus discerptus credebatur et Montius, et alii post eos acti in exitium praeceps. 2 Ad quos audiendos Arboreus missus est et Eusebius cubiculi tunc praepositus, ambo inconsideratae iactantiae, iniusti pariter et cruenti. Qui nulla perspicacitate sine innocentium sontiumque differentia alios verberibus vel tormentis adflictos exulari poena damnarunt, quosdam ad infimam trusere militiam, residuos capitalibus addixere suppliciis. Impletisque funerum bustis reversi velut ovantes gesta rettulerunt ad principem erga haec et similia palam obstinatum et gravem. 3 Vehementius tunc et deinde Constantius quasi praescriptum fatorum ordinem convulsurus recluso pectore patebat insidiantibus multis. Unde rumorum aucupes subito extitere conplures, honorum vertices ipsos ferinis morsibus adpetentes posteaque pauperes et divites indiscrete: non ut Cibyratae illi Verrini, tribunal unius legati lambentes, sed rei publicae membra totius per incidentia mala vexantes. 4 Inter quos facile Paulus et Mercurius eminebant: hic origine Persa, ille natus in Dacia: notarius ille, hic a ministro triclinii rationalis. Et Paulo quidem, ut relatum est supra, Catenae inditum est cognomentum, eo quod in conplicandis calumniarum nexibus erat indissolubili ira, inventorum sese varietate dispendens, ut in conluctationibus callere nimis quidam solent artifices palaestritae. 5 Mercurius somniorum appellatus comes, quod ut clam mordax canis interna saevitia submissius agitans caudam, epulis coetibusque se crebris inserens si per quietem quisquam, ubi fusius natura vagatur, vidisse aliquid amico narrasset, id venenatis artibus coloratum in peius patulis imperatoris auribus infundebat et ob hoc homo tamquam inexpiabili obnoxius culpae, gravi mole criminis pulsabatur. 6 Haec augente vulgatius fama tantum aberat, ut proderet quisquam visa nocturna, ut aegre homines dormisse sese praesentibus faterentur externis, maerebantque docti quidam, quod apud Atlanteos nati non essent, ubi memorantur somnia non videri, quod unde eveniat rerum scientissimis relinquamus.
 
 	
 7 Inter has quaestionum suppliciorumque species diras in Illyrico exoritur alia clades ad multorum pericula ex verborum inanitate progressa. In convivio Africani Pannoniae secundae rectoris apud Sirmium poculis amplioribus madefacti quidam arbitrum adesse nullum existimantes licenter imperium praesens ut molestissimum incusabant: quibus alii optatam permutationem temporum adventare veluti e praesagiis adfirmabant, non nulli maiorum auguria sibi portendi incogitabili dementia promittebant. 8 E quorum numero Gaudentius agens in rebus, mente praecipiti stolidus rem ut seriam detulerat ad Rufinum, apparitionis praefecturae praetorianae tunc principem, ultimorum semper avidum hominem et coalita pravitate famosum. 9 Qui confestim quasi pinnis elatus ad comitatum principis advolavit eumque ad suspiciones huius modi mollem et penetrabilem ita acriter inflammavit, ut sine deliberatione ulla Africanus et omnes letalis mensae participes iuberentur rapi sublimes. Quo facto delator funestus vetita ex more humano validius cupiens biennio id quod agebat, ut postularat, continuare praeceptus est. 10 Missus igitur ad eos corripiendos Teutomeres protector domesticus cum collega onustos omnes catenis, ut mandatum est, perducebat. Sed ubi ventum est Aquileiam, Marinus tribunus ex campidoctore eo tempore vacans, auctor perniciosi sermonis, et alioqui naturae ferventis in taberna relictus dum parantur itineri necessaria, lateri cultrum . . . . . . Casu repertum inpegit statimque extractis vitalibus interiit. 11 Residui ducti Mediolanum excruciatique tormentis et confessi inter epulas petulanter se quaedam locutos iussi sunt attineri poenalibus claustris sub absolutionis aliqua spe licet incerta protectores vero pronuntiati vertere solum exilio, ut Marino isdem consciis mori permisso, veniam Arbetione meruere precante. 
+
+IV
+
+	
 1 Re hoc modo finita . . . . . . . . . Et Lentiensibus, Alamannicis pagis indictum est bellum conlimitia saepe Romana latius inrumpentibus, ad quem procinctum imperator egressus in Raetias camposque venit Caninos, et digestis diu consiliis id visum est honestum et utile, ut eo cum militis parte Arbetio magister equitum, cum validiore exercitus manu relegens margines lacus Brigantiae pergeret protinus barbaris congressurus. Cuius loci figuram breviter, quantum ratio patitur, designabo.
 
 	
@@ -24,6 +151,10 @@
 	
 7 Arbetio qui adventus barbarorum nuntiaret non exspectans dum adessent, licet sciret orta bellorum, in occultas delatus insidias stetit immobilis malo repentino perculsus. 8 Namque improvisi e latebris hostes exiliunt et sine parsimonia quicquid offendi poterat, telorum genere multiplici configebant: nec enim resistere nostrorum quisquam potuit nec aliud vitae subsidium nisi discessu sperare veloci. Quocirca vulneribus declinandis intenti inconposito agmine milites huc et illuc dispalantes terga ferienda dederunt. Plerique tamen per angustas semitas sparsi periculoque praesidio tenebrosae noctis extracti revoluta iam luce redintegratis viribus agmini quisque proprio sese consociavit. In quo casu ita tristi et inopino abundans numerus armatorum et tribuni desiderati sunt decem. 9 Ob quae Alamanni sublatis animis ferocius incedentes secuto die prope munimenta Romana adimente matutina nebula lucem strictis mucronibus discurrebant frendendo minas tumidas intentantes. Egressique repente Scutarii cum obiectu turmarum hostilium repercussi stetissent, omnes suos conspiratis mentibus ciebant ad pugnam. 10 Verum cum plerosque recentis aerumnae documenta terrerent et intuta fore residua credens haereret Arbetio, tres simul exsiluere tribuni, Arintheus agens vicem armaturarum rectoris et Seniachus qui equestrem turmam comitum tuebatur et Bappo ducens Promotos. 11 Qui cum commissis sibi militibus pro causa communi velut propria Deciorum veterum exemplo instarque fluminis hostibus superfusi non iusto proelio sed discursionibus rapidis universos in fugam coegere foedissimam. Qui dispersi laxatis ordinibus dumque elabi properant impediti corpora nudantes intecta gladiorum hastarumque densis ictibus truncabantur. 12 Multique cum equis interfecti iacentes etiam tum eorum dorsis videbantur innexi: quo viso omnes e castris effusi, qui prodire in proelium cum sociis ambigebant, cavendi inmemores proterebant barbaram plebem, nisi quos fuga exemerat morti, calcantes cadaverum strues et perfusi sanie peremptorum. 13 Hocque exitu proelio terminato imperator Mediolanum ad hiberna ovans revertit et laetus.
 
+
+V
+
+	
 1 Exoritur iam hinc rebus adflictis haut dispari provinciarum malo calamitatum turbo novarum extincturus omnia simul, ni fortuna moderatrix humanorum casuum motum eventu celeri consummavit inpendio formidatum. 2 Cum diuturna incuria Galliae caedes acerbas rapinasque et incendia barbaris licenter grassantibus nullo iuvante perferrent, Silvanus pedestris militiae rector ut efficax ad haec corrigenda principis iussu perrexit Arbetione id maturari modis quibus poterat adigente, ut absenti aemulo quem superesse adhuc gravabatur periculosae molis onus impingeret.
 
 	
@@ -53,13 +184,25 @@
 	
 35 Igitur Silvano Agrippinae, ut relatum est, interfecto inaestimabili gaudio re cognita princeps insolentia coalitus et tumore, hoc quoque felicitatis suae prosperis cursibus adsignabat eo more, quo semper oderat fortiter facientes, ut quondam Domitianus, superare tamen quacumque arte contraria cupiebat. 36 Tantumque abfuit laudare industrie gesta, ut etiam quaedam scriberet de Gallicanis intercepta thesauris, quos nemo attigerat. Idque scrutari iusserat artius interrogato Remigio etiam tum rationario apparitionis armorum magistri, cui multo postea Valentiniani temporibus laqueus vitam in causa Tripolitanae legationis eripuit. 37 Post quae ita completa Constantius ut iam caelo contiguus casibusque imperaturus humanis magniloquentia sufflabatur adulatorum, quos augebat ipse spernendo proiciendoque id genus parum callentes ut Croesum legimus ideo regno suo Solonem expulisse praecipitem quia blandiri nesciebat, et Dionysium intentasse poetae Philoxeno mortem cum eum recitantem proprios versus absurdos et inconcinnos laudantibus cunctis solus audiret immobilis. 38 Quae res perniciosa vitiorum est altrix. Ea demum enim laus grata esse potestati debet excelsae, cum interdum et vituperationi secus gestorum pateat locus.
 
+
+VI
+
+	
 1 Iamque per securitatem quaestiones agitabantur ex more et vinculis catenisque plures ut noxii plectebantur. Exurgebat enim effervens laetitia Paulus, tartareus ille delator, ad venenatas artes suas licentius exercendas, et inquirentibus in negotium consistorianis atque militaribus, et praeceptum est, Proculus admovetur eculeo, Silvani domesticus, homo gracilis et morbosus, metuentibus cunctis, ne vi nimia tormentorum levi corpore fatigato reos atrocium criminum promiscue citari faceret multos. Verum contra quam speratum est contigit. 2 Memor enim somnii, quo vetitus erat per quietem, ut ipse firmavit, pulsare quendam insontem, usque ad confinia mortis vexatus nec nominavit nec prodidit aliquem sed adserebat factum Silvani constanter, id eum cogitasse quod iniit non cupiditate sed necessitate conpulsum, argumento evidenti demonstrans 3 Causam enim probabilem ponebat in medio multorum testimoniis claram, quod die quinto antequam infulas susciperet principatus, donatum stipendio militem Constanti nomine adlocutus est, fortis esset et fidus. Unde apparebat quod, si praesumere fortunae superioris insignia conaretur, auri tam grave pondus largiretur ut suum. 4 Post hunc damnatorum sorte Poemenius raptus ad supplicium interiit, qui, ut supra rettulimus, cum Treveri civitatem Caesari clausissent Decentio, ad defendendam plebem electus est. Tum Asclepiodotus et Lutto et Maudio Comites interempti sunt aliique plures, haec et similia perplexe temporis obstinatione scrutante.
 
+
+VII
+
+	
 1 Dum has exitiorum communium clades suscitat turbo feralis, urbem aeternam Leontius regens multa spectati iudicis documenta praebebat in audiendo celer, in disceptando iustissimus, natura benivolus, licet auctoritatis causa servandae acer quibusdam videbatur et inclinatior ad damnandum. 2 Prima igitur causa seditionis in eum concitandae vilissima fuit et levis. Philoromum enim aurigam rapi praeceptum secuta plebs omnis velut defensura proprium pignus terribili impetu praefectum incessebat ut timidum, sed ille stabilis et erectus inmissis apparitoribus correptos aliquos vexatosque tormentis nec strepente ullo nec obsistente insulari poena multavit. 3 Diebusque paucis secutis cum itidem plebs excita calore quo consuevit vini causando inopiam, ad Septemzodium convenisset, celebrem locum, ubi operis ambitiosi Nymphaeum Marcus condidit imperator, illuc de industria pergens praefectus ab omni toga apparitioneque rogabatur enixius, ne in multitudinem se adrogantem inmitteret et minacem, ex commotione pristina saevientem: difficilis ad pavorem recte tetendit adeo, ut eum obsequentium pars desereret licet in periculum festinantem abruptum. 4 Insidens itaque vehiculo cum speciosa fiducia contuebatur acribus oculis tumultuantium undique cuneorum veluti serpentium vultus perpessusque multa dici probrosa agnitum quendam inter alios eminentem vasti corporis rutilique capilli, interrogavit, an ipse esset Petrus Valvomeres, ut audierat, cognomento: eumque cum esse sonu respondisset obiurgatorio, ut seditiosorum antesignanum olim sibi conpertum, reclamantibus multis post terga manibus vinctis suspendi praecepit. 5 Quo viso sublimi tribuliumque adiumentum nequicquam implorante vulgus omne paulo ante confertum per varia urbis membra diffusum ita evanuit ut turbarum acerrimus concitor tamquam in iudiciali secreto exaratis lateribus ad Picenum eiceretur, ubi postea ausus eripere virginis non obscurae pudorem Patruini consularis sententia supplicio est capitali addictus.
 
 	
 6 Hoc administrante Leontio Liberius Christianae legis antistes a Constantio ad comitatum mitti praeceptus est tamquam imperatoriis iussis et plurimorum sui consortium decretis obsistens in re, quam brevi textu percurram. 7 Athanasium episcopum eo tempore apud Alexandriam ultra professionem altius se efferentem scitarique conatum externa, ut prodidere rumores adsidui, coetus in unum quaesitus eiusdem loci multorum (synodus ut appellant) removit a sacramento quod optinebat. 8 Dicebatur enim fatidicarum sortium fidem, quaeve augurales portenderent alites scientissime callens, aliquotiens praedixisse futura: super his intendebantur ei alia quoque a proposito legis abhorrentia, cui praesidebat. 9 Hunc per subscriptionem abicere sede sacerdotali paria sentiens ceteris iubente principe Liberius monitus, perseveranter renitebatur nec visum hominem nec auditum damnare nefas ultimum saepe exclamans, aperte scilicet recalcitrans imperatoris arbitrio. 10 Id enim ille, Athanasio semper infestus licet sciret impletum, tamen auctoritate quoque potiore aeternae urbis episcopi firmari desiderio nitebatur ardenti: quo non impetrato Liberius aegre populi metu, qui eius amore flagrabat, cum magna difficultate noctis medio potuit asportari.
 
+
+VIII
+
+	
 1 Et haec quidem Romae, ut ostendit textus superior, agebantur. Constantium vero exagitabant adsidui nuntii deploratas iam Gallias indicantes nullo renitente ad internecionem barbaris vastantibus universa: aestuansque diu, qua vi propulsaret aerumnas ipse in Italia residens ut cupiebat — periculosum enim existimabat se in partem contrudere longe dimotam — repperit tandem consilium rectum et Iulianum patruelem fratrem haut ita dudum ab Achaico tractu accitum, etiam tum palliatum in societatem imperii adsciscere cogitabat. 2 Id ubi urgente malorum inpendentium mole confessus est proximis succumbere tot necessitatibus tamque crebris unum se, quod numquam fecerat, aperte demonstrans: illi in adsentationem nimiam eruditi infatuabant hominem, nihil esse ita asperum dictitantes quod praepotens eius virtus fortunaque tam vicina sideribus non superaret ex more. Addebantque noxarum conscientia stimulante conplures deinceps caveri debere Caesaris nomen, replicantes gesta sub Gallo. 3 Quis adnitentibus obstinate opponebat se sola regina, incertum, migrationem ad longinqua pertimescens, an pro nativa prudentia consulens in commune omnibusque memorans anteponi debere propinquum. Post multaque per deliberationes ambiguas actitata stetit fixa sententia abiectisque disputationibus inritis ad imperium placuit Iulianum adsumere. 4 Cum venisset accitus praedicto die, advocato omni quod aderat commilitio, tribunali ad altiorem suggestum erecto, quod aquilae circumdederunt et signa, Augustus insistens eumque manu retinens dextera, haec sermone placido peroravit:
 
 	
@@ -76,19 +219,48 @@
 
 	
 15 Nemo post haec finita reticuit sed militares omnes horrendo fragore scuta genibus illidentes (quod est prosperitatis indicium plenum: nam contra cum hastis clipei feriuntur, irae documentum est et doloris) immane quo quantoque gaudio praeter paucos Augusti probavere iudicium Caesaremque admiratione digna suscipiebant imperatorii muricis fulgore flagrantem. 16 Cuius oculos cum venustate terribiles vultumque excitatius gratum diu multumque contuentes, qui futurus sit colligebant velut scrutatis veteribus libris, quorum lectio per corporum signa pandit animorum interna. Eumque ut potiori reverentia servaretur, nec supra modum laudabant nec infra quam decebat, atque ideo censorum voces sunt aestimatae, non militum. 17 Susceptus denique ad consessum vehiculi receptusque in regiam hunc versum ex Homerico carmine susurrabat.
+
+
+
+
+ἔλλαβε πορφύρεος θάνατος καὶ μοῖρα κραταιή.
+		
+
+
+
 Haec diem octavum iduum Novembrium gesta sunt cum Arbetionem consulem annus haberet et Lollianum. 18 Deinde diebus paucis Helena virgine Constanti sorore eidem Caesari iugali foedere copulata paratisque universis, quae maturitas proficiscendi poscebat, comitatu parvo suscepto kalendis Decembribus egressus est deductusque ab Augusto ad usque locum duabus columnis insignem, qui Laumellum interiacet et Ticinum, itineribus rectis Taurinos pervenit, ubi nuntio percellitur gravi, qui nuper in comitatum Augusti perlatus de industria silebatur ne parata diffluerent. 19 Indicabat autem Coloniam Agrippinam, ampli nominis urbem in secunda Germania, pertinaci barbarorum obsidione reseratam magnis viribus et deletam. 20 Quo maerore perculsus velut primo adventantium malorum auspicio murmurans querulis vocibus saepe audiebatur: nihil se plus adsecutum quam ut occupatior interiret. 21 Cumque Viennam venisset, ingredientem optatum quidem et impetrabilem honorifice susceptura omnis aetas concurrebat et dignitas proculque visum plebs universa cum vicinitate finitima, imperatorem clementem appellans et faustum, praevia consonis laudibus celebrabat, avidius pompam regiam in principe legitimo cernens: communiumque remedium aerumnarum in eius locabat adventu, salutarem quendam genium adfulsisse conclamatis negotiis arbitrata. 22 Tunc anus quaedam orba luminibus cum percontando quinam esset ingressus, Iulianum Caesarem conperisset, exclamavit hunc deorum templa reparaturum.
 
+
+IX
+
+	
 1 Proinde quoniam — ut Mantuanus vates praedixit excelsus — "maius opus moveo" maiorque mihi rerum nascitur ordo, Galliarum tractus et situm ostendere puto nunc tempestivum, ne inter procinctus ardentes proeliorumque varios casus ignota quibusdam expediens imitari videar desides nauticos, adtrita lintea cum rudentibus, quae licuit parari securius, inter fluctus resarcire coactos et tempestates. 2 Ambigentes super origine prima Gallorum scriptores veteres notitiam reliquere negotii semiplenam, sed postea Timagenes et diligentia Graecus et lingua haec quae diu sunt ignorata collegit ex multiplicibus libris. Cuius fidem secuti obscuritate dimota eadem distincte docebimus et aperte. 3 Aborigines primos in his regionibus quidam visos esse firmarunt, Celtis nomine regis amabilis et matris eius vocabulo Galatas dictos — ita enim Gallos sermo Graecus appellat — alii Dorienses antiquiorem secutos Herculem oceani locos inhabitasse confines. 4 Drasidae memorant re vera fuisse populi partem indigenam, sed alios quoque ab insulis extimis confluxisse et tractibus transrhenanis, crebritate bellorum et adluvione fervidi maris sedibus suis expulsos. 5 Aiunt quidam paucos post excidium Troiae fugitantes Graecos ubique dispersos loca haec occupasse tunc vacua. 6 Regionum autem incolae id magis omnibus adseverant, quod etiam nos legimus in monumentis eorum incisum, Amphitryonis filium Herculem ad Geryonis et Taurisci saevium tyrannorum perniciem festinasse, quorum alter Hispanias, alter Gallias infestabat: superatisque ambobus coisse cum generosis feminis suscepisseque liberos plures et eos partes quibus imperitabant suis nominibus appellasse. 7 A Phocaea vero Asiaticus populus Harpali inclementiam vitans, Cyri regis praefecti, Italiam navigio petit. Cuius pars in Lucania Veliam, alia condidit in Viennensi Massiliam: dein secutis aetatibus oppida aucta virium copia instituere non pauca. Sed declinanda varietas saepe satietati coniuncta 8 Per haec loca hominibus paulatim excultis viguere studia laudabilium doctrinarum, inchoata per bardos et euhagis et drasidas. Et bardi quidem fortia virorum illustrium facta heroicis conposita versibus cum dulcibus lyrae modulis cantitarunt, euhages vero scrutantes seriem et sublimia naturae pandere conabantur. Inter eos drasidae ingeniis celsiores, ut auctoritas Pythagorae decrevit, sodaliciis adstricti consortiis, quaestionibus occultarum rerum altarumque erecti sunt et despectantes humana pronuntiarunt animas inmortales.
 
+
+X
+
+	
 1 Hanc Galliarum plagam ob suggestus montium arduos et horrore nivali semper obductos orbis residui incolis antehac paene ignotam, nisi qua litoribus est vicina, munimina claudunt undique natura velut arte circumdata. 2 Et a latere quidem australi Tyrreno adluitur et Gallico mari: qua caeleste suspicit plaustrum, a feris gentibus fluentis distinguitur Rheni: ubi occidentali subiecta est sideri, oceano et altitudine Pyrenaei cingitur; unde ad solis ortus adtollitur, aggeribus cedit Alpium Cottiarum: quas rex Cottius, perdomitis Galliis solus in angustiis latens inviaque locorum asperitate confisus, lenito tandem tumore in amicitiam Octaviani receptus principis, molibus magnis exstruxit ad vicem memorabilis muneris, conpendiarias et viantibus oportunas, medias inter alias Alpes vetustas super quibus conperta paulo postea referemus. 3 In his Alpibus Cottiis, quarum initium a Segusione est oppido, praecelsum erigitur iugum, nulli fere sine discrimine penetrabile 4 Est enim e Galliis venientibus prona humilitate devexum pendentium saxorum altrinsecus visu terribile praesertim verno tempore, cum liquente gelu nivibusque solutis flatu calidiore ventorum per diruptas utrimque angustias et lacunas pruinarum congerie latebrosas descendentes cunctantibus plantis homines et iumenta procidunt et carpenta; idque remedium ad arcendum exitium repertum est solum, quod pleraque vehicula vastis funibus inligata pone cohibente virorum vel boum nisu valido vix gressu reptante paulo tutius devolvuntur. Et haec, ut diximus, anni verno contingunt. 5 Hieme vero humus crustata frigoribus et tamquam levigata ideoque labilis incessum praecipitantem inpellit et patulae valles per spatia plana glacie perfidae vorant non numquam transeuntes. Ob quae locorum callidi eminentes ligneos stilos per cautiora loca defigunt, ut eorum series viatorem ducat innoxium: qui si nivibus operti latuerint, montanisve defluentibus rivis eversi, gnaris agrestibus praeviis difficile pervadunt. 6 A summitate autem huius Italici clivi planities ad usque stationem nomine Martis per septem extenditur milia, et hinc alia celsitudo erectior aegreque superabilis ad Matronae porrigitur verticem, cuius vocabulum casus feminae nobilis dedit. Unde declive quidem iter sed expeditius ad usque castellum Brigantiam patet. 7 Huius sepulcrum reguli, quem itinera struxisse rettulimus, Segusione est moenibus proximum manesque eius ratione gemina religiose coluntur, quod iusto moderamine rexerat suos et adscitus in societatem rei Romanae quietem genti praestitit sempiternam. 8 Et licet haec, quam diximus viam, media sit et conpendiaria magisque celebris, tamen etiam aliae multo antea temporibus sunt constructae diversis. 9 Et primam Thebaeus Hercules ad Geryonem extinguendum, ut relatum est, et Tauriscum lenius gradiens prope maritimas conposuit Alpes, hisque Graiarum indidit nomen; Monoeci similiter arcem et portum ad perennem sui memoriam consecravit. Deinde emensis postea saeculis multis hac ex causa sunt Alpes excogitatae Poeninae. 10 Superioris Africani pater Publius Cornelius Scipio Saguntinis memorabilibus aerumnis et fide, pertinaci destinatione Afrorum obsessis iturus auxilio in Hispaniam traduxit onustam manu valida classem, sed civitate potiore Marte deleta Hannibalem sequi nequiens triduo ante transito Rhodano ad partes Italiae contendentem navigatione veloci intercurso spatio maris haut longo degressurum montibus apud Genuam observabat Liguriae oppidum, ut cum eo, si copiam fors dedisset, viarum asperitate fatigato decerneret in planitie. 11 Consulens tamen rei communi Cn. Scipionem fratrem ire monuit in Hispanias, ut Hasdrubalem exinde similiter erupturum arceret. Quae Hannibal doctus a perfugis, ut erat expeditae mentis et callidae, Taurinis ducentibus accolis per Tricasinos et oram Vocontiorum extremam ad saltus Tricorios venit. Indeque exorsus aliud iter antehac insuperabile fecit: excisaque rupe in inmensum elata, quam cremando vi magna flammarum acetoque infuso in solidam solvit, per Druentiam flumen gurgitibus vagis intutum regiones occupavit Etruscas. Hactenus super Alpibus. Nunc ad restantia veniamus.
 
+
+XI
+
+	
 1 Temporibus priscis cum laterent hae partes ut barbarae tripertitae fuisse creduntur in Celtas eosdemque Gallos divisae et Aquitanos et Belgas, lingua institutis legibusque discrepantes. 2 Et Gallos quidem, qui Celtae sunt, ab Aquitanis Garumna disterminat flumen, a Pyrenaeis oriens collibus postque oppida multa transcursa in oceano delitescens. 3 A Belgis vera eandem gentem Matrona discindit et Sequana, amnes magnitudinis geminae: qui fluentes per Lugdunensem post circumclausum ambitu insulari Parisiorum castellum, Lutetiam nomine, consociatim meantes protinus prope castra Constantia funduntur in mare. 4 Horum omnium apud veteres Belgae dicebantur esse fortissimi ea propter, quod ab humaniore cultu longe discreti nec adventiciis effeminati deliciis, diu cum transrhenanis certavere Germanis. 5 Aquitani enim, ad quorum litora ut proxima placidaque merces adventiciae convehuntur, moribus ad mollitiem lapsis facile in dicionem venere Romanam. 6 Regebantur autem Galliae omnes iam inde, uti crebritate bellorum urgenti cessere Iulio dictatori, potestate in partes divisa quattuor, quarum Narbonensis una Viennensem intra se continebat et Lugdunensem: altera Aquitanis praeerat universis: superiorem et inferiorem Germaniam Belgasque duae iurisdictiones isdem rexere temporibus. 7 At nunc numerantur provinciae per omnem ambitum Galliarum: secunda Germania, prima ab occidentali exordiens cardine, Agrippina et Tungris munita, civitatibus amplis et copiosis. 8 Dein prima Germania, ubi praeter alia municipia Mogontiacus est et Vangiones et Nemetae et Argentoratus barbaricis cladibus nota. 9 Post has Belgica prima Mediomatricos praetendit et Treviros domicilium principum clarum. 10 Huic adnexa secunda est Belgica, qua Ambiani sunt urbs inter alias eminens et Catelauni et Remi 11 Apud Sequanos Bisontios videmus et Rauracos aliis potiores oppidis multis. Lugdunensem primam Lugdunum ornat et Cabillona et Senones et Biturigae et moenium Augustuduni magnitudo vetusta. 12 Secundam enim Lugdunensem Rotomagi et Turini Mediolanum ostendunt et Tricasini: Alpes Graiae et Poeninae exceptis obscurioribus . . . . Habent et Aventicum, desertam quidem civitatem sed non ignobilem quondam ut aedificia semiruta nunc quoque demonstrant. Haec provinciae urbesque sunt splendidae Galliarum. 13 In Aquitania quae Pyrenaeos montes et eam partem spectat oceani, quae pertinet ad Hispanos, prima provincia est Aquitanica, amplitudine civitatum admodum culta: omissis aliis multis Burdigala et Arverni excellunt et Santones et Pictavi. 14 Novem populos Ausci commendant et Vasatae, in Narbonensi Elusa et Narbona et Tolosa principatum urbium tenent. Viennensis civitatum exsultat decore multarum, quibus potiores sunt Vienna ipsa et Arelate et Valentia: quibus Massilia iungitur, cuius societate et viribus in discriminibus arduis fultam aliquotiens legimus Romam. 15 His prope Salluvii sunt et Nicaea et Antipolis insulaeque Stoechades, 16 Et quoniam ad has partes opere contexto pervenimus, silere super Rhodano maximi nominis flumine incongruum est et absurdum. A Poeninis Alpibus effusiore copia fontium Rhodanus fluens et proclivi impetu ad planiora degrediens proprio agmine ripas occultat et paludi sese ingurgitat nomine Lemanno eamque intermeans nusquam aquis miscetur externis sed altrinsecus summitates undae praeterlabens segnioris quaeritans exitus viam sibi impetu veloci molitur. 17 Unde sine iactura rerum per Sapaudiam fertur et Sequanos longeque progressus Viennensem latere sinistro perstringit, dextro Lugdunensem et emensus spatia flexuosa Ararim, quem Sauconnam appellant, [inter Germaniam primam fluentem] suum in nomen adsciscit, qui locus exordium est Galliarum. Exindeque non millenis passibus sed leugis itinera metiuntur. 18 Hinc Rhodanus aquis advenis locupletior vehit grandissimas naves, ventorum difflatu iactari saepius adsuetas finitisque intervallis, quae ei natura praescripsit, spumeus Gallico mari concorporatur per patulum sinum, quem vocant Ad gradus, ab Arelate octavo decimo ferme lapide disparatum. Sit satis de situ locorum. Nunc figuras et mores hominum designabo.
 
+
+XII
+
+	
 1 Celsioris staturae et candidi paene Galli sunt omnes et rutili luminumque torvitate terribiles, avidi iurgiorum et sublatius insolentes. Nec enim eorum quemquam adhibita uxore rixantem, multo fortiore et glauca, peregrinorum ferre poterit globus, tum maxime cum illa inflata cervice suffrendens ponderansque niveas ulnas et vastas admixtis calcibus emittere coeperit pugnos ut catapultas tortilibus nervis excussas. 2 Metuendae voces conplurium et minaces placatorum iuxta et irascentium, tersi tamen pari diligentia cuncti et mundi, nec in tractibus illis maximeque apud Aquitanos poterit aliquis videri vel femina licet perquam pauper ut alibi frustis squalere pannorum. 3 Ad militandum omnis aetas aptissima et pari pectoris robore senex ad procinctum ducitur et adultus gelu duratis artubus et labore adsiduo multa contempturus et formidanda. Nec eorum aliquando quisquam ut in Italia munus Martium pertimescens pollicem sibi praecidit, quos localiter murcos appellant. 4 Vini avidum genus, adfectans ad vini similitudinem multiplices potus et inter eos humiles quidam obtunsis ebrietate continua sensibus, quam furoris voluntariam speciem esse Catoniana sententia definivit, raptantur discursibus vagis, ut verum illud videatur quod ait defendens Fonteium Tullius: "Gallos post haec dilutius esse poturos quod illi venenum esse arbitrabantur."
 
 	
 5 Hae regiones, praecipue quae confines Italicis, paulatim levi sudore sub imperium venere Romanum primo temptatae per Fulvium, deinde proeliis parvis quassatae per Sextium, ad ultimum per Fabium Maximum domitae. Cui negotii plenus effectus asperiore Allobrogum gente devicta hoc indidit cognomentum. 6 Nam omnes Gallias, nisi qua paludibus inviae fuere, ut Sallustio docetur auctore, post decennalis belli mutuas clades Sulpicio, Marcello coss. Caesar societati nostrae foederibus iunxit aeternis. Evectus sum longius sed remeabo tandem ad coepta.
 
+
+XIII
+
+	
 1 Domitiano crudeli morte consumpto Musonianus eius successor orientem praetoriani regebat potestate praefecti, facundia sermonis utriusque clarus. Unde sublimius quam sperabatur eluxit. 2 Constantinus enim cum limatius superstitionum quaereret sectas, Manichaeorum et similium, nec interpres inveniretur idoneus, hunc sibi commendatum ut sufficientem elegit: quem officio functum perite Musonianum voluit appellari, ante Strategium dictitatum, et ex eo percursis honorum gradibus multis ascendit ad praefecturam, prudens alia tolerabilisque provinciis et mitis et blandus sed ex qualibet occasione maximeque ex controversis litibus, quod nefandum est, et in totum lucrandi aviditate sordescens, ut inter alia multa evidenter apparuit in quaestionibus agitatis super morte Theophili Syriae consularis, proditione Caesaris Galli, impetu plebis promiscuae discerpti, ubi damnatis pauperibus, quos cum haec agerentur, peregre fuisse constabat, auctores diri facinoris exutis patrimoniis absoluti sunt divites.
 
 	
@@ -96,3 +268,131 @@ Haec diem octavum iduum Novembrium gesta sunt cum Arbetionem consulem annus habe
 
 
 
+
+
+
+◂ previous
+		
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Ammianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Oct. 07

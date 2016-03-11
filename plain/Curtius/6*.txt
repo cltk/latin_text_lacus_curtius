@@ -1,3 +1,93 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber V
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VII
+				
+
+
+
+
+ 
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber VI
+	
+
 p113
 Dum ea per Asiam geruntur, ne in Graecia quidem Macedoniaque tranquillae res fuere. Regnabat apud Lacedaemonios Agis, Archidami filius, qui Tarentinis opem ferens ceciderat, eodem die quo Philippus Athenienses ad Chaeroneam vicit. Is Alexandri per virtutem aemulus cives suos stimulabat, ne Graeciam servitute Macedonum diutius premi paterentur: nisi in tempore providerent, idem iugum ad ipsos transiturum esse. Adnitendum igitur, dum aliquae adhuc Persis ad resistendum vires essent: illis oppressis adversus inmanem potentiam frustra avitae libertatis memores futuros. Sic instinctis animis occasionem belli ex commodo coeptandi circumspiciebant. Igitur felicitate Memnonis invitati consilia cum ipso miscere adgressi sunt et, postquam ille rerum laetarum initia intempestiva morte destituit, nihilo remissius agebant. Sed ad Pharnabazum et Autophradaten profectus Agis triginta argenti talenta decemque triremes inpetravit, quas Agesilao fratri misit, ut in Cretam navigaret, cuius insulae cultores inter Lacedaemonios et Macedonas diversis studiis distrahebantur. Legati quoque ad Dareum missi sunt, qui in usum belli ampliorem vim pecuniae pluresque naves peterent. Atque haec eorum coepta clades ad Issum — nam ea intervenerat — adeo non interpellavit, ut etiam adiuverit.
 
@@ -11,6 +101,9 @@ p115congressi victores extiterant: et rei bene gestae fama etiam, qui suspensis 
 
 
 	
+Caput I
+	
+
 1 . . . pugnae discrimen inmisit obtruncatisque, qui promptius resistebant, magnam partem hostium propulit.
 2 Coeperant fugere victores et,º
 donec avidius sequentes in planum deduxere, inulti cadebant: sed ut primum locus, in quo stare possent, fuit, aequis viribus dimicatum est.
@@ -57,6 +150,9 @@ centum XX talenta dare iussi sunt.
 
 
 	
+Caput II
+	
+
 1 Sed ut primum instantibus curis laxatus est animus militarium rerum quam quietis otiique patientior, excepere eum voluptates, et, quem arma Persarum non fregerant, vitia vicerunt:
 2 tempestivaº
 convivia et perpotandi pervigilandique insana dulcedo ludique et greges pelicum. Omnia in externum lapsa morem: quemº
@@ -106,6 +202,9 @@ quoque finem militiae adesse credebant.
 
 
 	
+Caput III
+	
+
 1 'Magnitudinem rerum, quas gessimus, milites, intuentibus vobis minime mirum est et desiderium quietis et satietatem gloriae occurrere.
 2 Ut omittam Illyrios, Triballos, Boeotiam, Thraciam, Spartam, Achaeos, Peloponnesum,
 3 quorum alia ductu meo, alia imperio auspicioque perdomui, ecce, orsiº
@@ -146,6 +245,9 @@ finito post mortem illius odio parricidas esse vos ultos, neminem inpium effugis
 
 
 	
+Caput IV
+	
+
 1 Summa militum alacritate iubentium,º
 quocumque vellet duceret,º
 oratio excepta est.
@@ -206,6 +308,9 @@ quoque gentem Phradati reddidit.
 
 
 	
+Caput V
+	
+
 1 Iamque ultima Hyrcaniae intraverat, cum Artabazus, quem Dareo fidissimum fuisse supra diximus, cum propinquis Darei ac suis liberis modicaque Graecorum militum manu occurrit.
 2 Dextram venienti obtulit rex: quippe et hospes Philippi fuerat, cum Ocho regnante exularet, et hospitii pignora in regem suum ad ultimum fides conservata vincebat. Comiter igitur exceptus,
 3 'Tu quidem', inquit, 'rex, deos quaeso, perpetua felicitate floreas: ego ceteris laetus hoc uno torqueor, quod praecipiti senectute diu frui tua bonitate non possum.' Nonagesimum et quintum annum agebat.
@@ -268,6 +373,10 @@ paucos dies subsisteret, perpulit. XIII dies in obsequium desiderii eius absumpt
 
 
 	
+p128
+Caput VI
+	
+
 6 
 1 Hic vero palam cupiditates suas solvit continentiamque et moderationem, in altissima quaque fortuna eminentia bona, in superbiam ac lasciviam vertit.
 2 Patrios mores disciplinamque Macedonum regum salubriter temperatam et civilem habitum velut leviora magnitudine sua ducens Persicae regiae par deorum potentiae fastigium aemulabatur:
@@ -338,6 +447,9 @@ Bellicosa natio est. Satrapes erat Barzaentes, sceleris in regem suum particeps 
 
 
 	
+Caput VII
+	
+
 1 Iam nonum diem stativa erat, cum, externa vi non invictus modo sed tutus,º
 rex intestino facinore petebatur.º
 2 Dymnus, modicae apud regem auctoritatis et gratiae, exoleti, cui Nicomacho erat nomen, amore flagrabat, obsequio uni sibi dediti corporis vinctus.
@@ -396,6 +508,9 @@ potest'.
 
 
 	
+Caput VIII
+	
+
 1 Advocato tumº
 consilio amicorum, cui tamen Philotas adhibitus non est, Nicomachum introduci iubet.
 2 Is eadem, quae detulerat fraterº
@@ -443,6 +558,9 @@ praetorium excubabant, armati vigilarent.
 
 
 	
+Caput IX
+	
+
 1 Rex deinde in contionem procedit vultu praeferens dolorem animi. Amicorum quoque maestitia expectationem haud parvam reiº
 fecerat.
 2 Diu rex demisso in terram vultu attonito stupentique similis stetit. Tandem recepto animo, 'Paene', inquit, 'milites, hominum scelere
@@ -513,6 +631,9 @@ p140sceleris sive periculi magnitudine amens et attonitus, non attollere oculos,
 
 
 	
+Caput X
+	
+
 1 Tum Philotas, 'Verba', inquit, 'innocenti reperire facile est, modum verborum misero tenere difficile.
 2 Itaque inter optimam conscientiam et iniquissimam fortunam destitutus ignoro, quomodo etº
 animo meo et tempori paream.
@@ -576,6 +697,9 @@ Num creditum est patri meo? num ullam auctoritatem eius litterae habuerunt?
 
 
 p144
+Caput XI
+	
+
 1 Erat inter duces manu strenuus Bolon quidam, pacis artium et civilis habitus rudis, vetus miles, ab humili ordine ad eum gradum, in quo tunc erat, promotus:
 2 qui tacentibus ceteris stolida audacia ferox admonere eos coepit, quotiens suis quisque deversoriis, quae occupassent, proturbatus esset, ut purgamenta servorum Philotae reciperentur eo, unde commilitones expulissent.
 3 Auro argentoque vehicula eius onusta totis vicis stetisse ac ne in viciniam quidem deversorii quemquam commilitonum receptum esse, sed per dispositos, quos supra somnum habebat, omnes procul relegatos, ne femina illa murmurantium inter se silentio verius quam sono excitaretur.
@@ -652,9 +776,16 @@ misericordiam meruit.
 
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 quae opus fuisset, quam quae optasset:
 	
 quae opus fuisset quam quae optasset scripsi]quae optasset; Vindel.: quae coegisset necessitas quam q. opt.; Zumpt: quae optasse nullis vocabulis interpositis
+❦
 
 
 tutus - invictus:
@@ -662,8 +793,125 @@ tutus - invictus:
 transposui vocabula. Cf. 6.10.14. Voculam rex collocavi post tutus. Alii: intritus, interritus, intactus pro invictus
 
 
+❦
 
 
 iam neque amicorum Philotas:
 	
 etiam (neque C) Philotas amicorum. Videtur Philotae nomen e proximo versu, ubi commodum locum habebat post facinus, casu aliquo extrusum esse. Similiter de hoc loco iudicat A. Hug (mus. Rhen. XX. p128); longe aliter J. Jeep (ann. phil. 1874. p751).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+28 May 08

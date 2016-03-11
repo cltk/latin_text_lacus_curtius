@@ -1,4 +1,164 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars II
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+p2
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (initium)
+	
+
+
+
+
+Capita Libri I1
+
+
+
+
+I.
+		
+
+A Romulo tempora regum VII.
+		
+
+
+
+II.
+		
+
+Anaceφalaeosis eorum temporum.
+		
+
+
+
+III.
+		
+
+De mutatione rei publicae.
+		
+
+
+
+p4
+
+I. A Romvlo Tempora Regvm Septem
+	
+
 Prooemium
 Populus Romanus a rege Romulo in Caesarem Augustum septingentos per annos tantum operum pace belloque gessit, ut, si quis magnitudinem imperii cum annis conferat, aetatem ultra putet. 2 Ita late per orbem terrarum arma circumtulit, ut qui res illius legunt non unius populi, sed generis humani facta condiscant. Tot in laboribus periculisque iactatus est, ut ad constituendum eius imperium
 
@@ -91,12 +251,20 @@ p24ceteris dis mira res dicitur extitisse: restitere Iuventas et Terminus. 9 Pl
 
 
 	
+
+II. Anaceφalaeosis de Septem Regibvs
+	
+
 I, 8
 Haec est prima aetas populi Romani et quasi infantia, quam habuit sub regibus septem, quadam fatorum industria tam variis ingenio, ut rei publicae ratio et utilitas postulabat. 2 Nam quid Romulo ardentius? tali opus fuit, ut invaderet regnum. 3 Quid Numa religiosius? Ita res poposcit, ut ferox populus deorum metu mitigaretur. 4 Quid? ille
 
 
 
 p26militiae artifex Tullus bellatoribus viris quam necessarius, ut acueret ratione virtutem. Quid? aedificator Ancus, ut urbem colonia27 extenderet, ponte iungeret, muro tueretur. 5 Iam vero ornamenta Tarquinii et insignia quantam principi populo addiderunt ex ipso habitu dignitatem. 6 Actus a Servio census quid effecit, nisi ut ipsa se nosset Romana res publica? 7 Postremo Superbi illius inportuna dominatio non nihil, immo vel plurimum profuit. Sic enim effectum est, ut agitatus iniuriis populus cupiditate libertatis incenderetur.28
+
+
+III. De Mvtatione Rei Pvblicae
+	
 
 I, 9
 Igitur Bruto Collatinoque ducibus et auctoribus, quibus ultionem sui moriens matrona mandaverat, populus Romanus ad vindicandum libertatis ac pudicitiae decus quodam quasi instinctu deorum concitatus regem repente destituit, bona diripit, agrum Marti suo consecrat, imperium in eosdem libertatis suae vindices transfert, mutato tamen et iure et nomine. 2 Quippe ex perpetuo annuum29 placuit, ex singulari duplex, ne potestas solitudine vel mora corrumperetur, consulesque appellavit pro
@@ -116,8 +284,15 @@ p30incurreret; 8 donec quasi contagio quodam per singulos itum est et proximis 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Epithoma Iuli Flori de Tito Liuio • bellorum omnium • annorum septingentorum • libri • N • duo • feliciter B: L • Annei • Flori • epitoma de Tito Liuio • incipit liber primus • lege feliciter N: Incjpit liber primus epitomarum Annei Flori • detitoliuio L.
+
+
+
 
 
 
@@ -128,8 +303,14 @@ gradus — aetas NL: quattuor gradibus romae aetas B.
 
 
 
+
+
+
 3
 increpat saltu dubium NL: increpat saltu transiluit dubium B.
+
+
+
 
 
 
@@ -140,8 +321,14 @@ rex Iordanis cod. Rehd.: res BINL.
 
 
 
+
+
+
 5
 haec dolose Rossbachius: non dolo sed puella BI: nec dolos sed puella N.
+
+
+
 
 
 
@@ -152,8 +339,14 @@ vocabantur: vocabatur BI.
 
 
 
+
+
+
 7
 discripsit NI: descripsit BL.
+
+
+
 
 
 
@@ -164,8 +357,14 @@ exercitata Iordanis cod. Emmeranus: exercitate B: exercita N.
 
 
 
+
+
+
 9
 parricidium Iordanis cod.  Emmeranus: parricidam BINL.
+
+
+
 
 
 
@@ -176,8 +375,14 @@ nec diu in fide LI: nec desit deinde B.
 
 
 
+
+
+
 11
 missi L: misit BNI.
+
+
+
 
 
 
@@ -188,8 +393,14 @@ pari avo F. E. Koehlerus: pravo N: raro B.
 
 
 
+
+
+
 13
 petens: potens B.
+
+
+
 
 
 
@@ -200,8 +411,14 @@ equites add. Iahnius.
 
 
 
+
+
+
 15
 augeri LI: augure B.
+
+
+
 
 
 
@@ -212,8 +429,14 @@ an om. BI.
 
 
 
+
+
+
 17
 possem: posse BI.
+
+
+
 
 
 
@@ -224,8 +447,14 @@ ea ante sumpta add. B: del. Iahnius.
 
 
 
+
+
+
 19
 dignitatis: dignitas B.
+
+
+
 
 
 
@@ -236,8 +465,14 @@ sic: si B.
 
 
 
+
+
+
 21
 Gabii N: gravii B.
+
+
+
 
 
 
@@ -248,11 +483,20 @@ quasi Titzius: qua BI: quae NL.
 
 
 
+
+
+
 23
 sileret Hauptius: sic codd.
 
+
+
+
 24
 contumacia: contumatiam B.
+
+
+
 
 
 
@@ -263,8 +507,14 @@ molientibus: moventibus B.
 
 
 
+
+
+
 26
 aberat: aderat B.
+
+
+
 
 
 
@@ -275,8 +525,14 @@ colonia: coloniam B.
 
 
 
+
+
+
 28
 incenderetur: incendetur B.
+
+
+
 
 
 
@@ -287,8 +543,14 @@ annuum LI: annum B.
 
 
 
+
+
+
 30
 se add. Halmius.
+
+
+
 
 
 
@@ -299,8 +561,14 @@ libertatis: libertati B.
 
 
 
+
+
+
 32
 incesserat: incenserat B.
+
+
+
 
 
 
@@ -311,8 +579,14 @@ caperent: caperet B.
 
 
 
+
+
+
 34
 urbe: urbem BIN.
+
+
+
 
 
 
@@ -323,8 +597,14 @@ augendam: augendum B.
 
 
 
+
+
+
 36
 eminentis N: aeminenti B.
+
+
+
 
 
 
@@ -335,8 +615,14 @@ plana: planas B.
 
 
 
+
+
+
 38
 urbem: urbe B.
+
+
+
 
 
 
@@ -346,3 +632,109 @@ imperio, lacessentibus: imperium lacescentibus B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

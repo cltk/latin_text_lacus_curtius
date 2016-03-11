@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Caracalla
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Macrinus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p32
+Antoninus Geta
+	
+
 11 Scio, Constantine Auguste, et multos et Clementiam tuam quaestionem movere posse cur etiam Geta Antoninus a me tradatur. de cuius priusquam vel vita vel nece dicam, disseram cur et ipsi Antonino a Severo patre sit nomen adpositum. 2 neque enim multa in eius vita dici possunt, qui prius rebus humanis exemptus est quam cum fratre teneret imperium.
 
 	
@@ -72,73 +180,190 @@ p46necem destinabat, ut eius magis blandimentum timeretur quam iracundia. 5 mir
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 quod fecisset P.
 
 
+❦
 
 2
 uel Jordan, Peter1; et P.
 
 
+❦
 
 3
 et quidem Editor; atque P; idque Salm., Peter.
 
 
+❦
 
 4
 quem fratrem suum semper Jordan; uel f. s. sem P.
 
 
+❦
 
 5
 cum om. in P.
 
 
+❦
 
 6
 idque quod ioco dictum est Editor; idque ioco quod dictum P; [idque ioco] quod dictum Peter.
 
 
+❦
 
 7
 so Peter; ut postea ingens P.
 
 
+❦
 
 8
 amorum tractator Editor; anarbore tractator P; †anarbo retractator Peter.
 
 
+❦
 
 9
 so Peter; haberet complures P.
 
 
+❦
 
 10
 pater ins. by Peter; om. in P.
 
 
+❦
 
 11
 rudiunt Peter; ragiunt P.
 
 
+❦
 
 12
 fuerant P.
 
 
+❦
 
 13
 faustum P.
 
 
+❦
 
 14
 immota P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

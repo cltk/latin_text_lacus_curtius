@@ -1,41 +1,331 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hic textus
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editus
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p512
+Nemesiani
+	
+Versus de Aucupio
+	
+
+
+
+
+
+
+
+
+I
+		
+
+. . . et tetracem, Romae quem nunc vocitare taracem
+	
+coeperunt. avium est multo stultissima; namque
+	
+cum pedicas necti sibi contemplaverit adstans,
+	
+immemor ipse sui tamen in dispendia currit.
+	5
+tu vero adductos laquei cum senseris orbes
+	
+appropera et praedam pennis crepitantibus aufer.
+	
+nam celer oppressi fallacia vincula colli
+	
+excutit et rauca subsannat voce magistri
+	
+p514
+consilium et laeta fruitur iam pace solutus.
+	10
+hic prope † Peltinum1 ad radices2 Apennini
+	
+nidificat, patulis qua se sol obicit agris,
+	
+persimilis cineri collum,3 maculosasque terga
+	
+inficiunt pullae cacabantis imagine guttae.4
+
+Tarpeiae est custos arcis non corpore maior
+	15
+nec qui te volucres docuit, Palamede, figuras.
+	
+saepe ego nutantem sub iniquo pondere vidi
+	
+mazonomi5 puerum, portat cum prandia, circo6
+
+quae consul praetorve novus construxit ovanti.
+
+		
+
+
+II
+		
+
+cum nemus omne suo viridi spoliatur honore,
+	20
+fultus equi niveis silvas pete protinus altas
+	
+exuviis: praeda est facilis et amoena7 scolopax.
+	
+corpore non Paphiis avibus maiore videbis.
+	
+illa sub aggeribus primis, qua proluit umor,
+	
+pascitur, exiguos sectans obsonia vermes.
+	25
+at non illa oculis, quibus est obtusior, etsi
+	
+sint nimium grandes, sed acutis naribus instat:
+	
+impresso in terram rostri mucrone sequaces
+	
+vermiculos trahit et vili dat praemia gulae.8
+
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 Pelt(u)inum Buecheler: Pentinum Longolius: Pontinum Ulitius.
 
 
+❦
 
 2
 in radicibus Burman: et radices Haupt: ad radices Baehrens.
 
 
+❦
 
 3
 dorsum Longolius: collum Gesner.
 
 
+❦
 
 4
 notae Longolius: guttae Ulitius.
 
 
+❦
 
 5
 mazonomi Gesner: mazonoim Longolius.
 
 
+❦
 
 6
 circo Burman: cirro Longolius.
 
 
+❦
 
 7
 facilis praeda est et amoena Riese.
 
 
+❦
 
 8
 atque gulae d. pr. vili Wernsdorf.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVI Kal. Oct. 07

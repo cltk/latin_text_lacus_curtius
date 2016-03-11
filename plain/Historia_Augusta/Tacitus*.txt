@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Aurelianus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Probus
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p294
+Tacitus
+	
+
 11 Quod post excessum Romuli novello adhuc Romanae urbis imperio factum pontifices, penes quos scribendae historiae potestas fuit, in litteras rettulerunt, ut interregnum, dum post bonum principem bonus alius quaeritur, iniretur, hoc post Aurelianum habito inter senatum exercitumque Romanum non invido non tristi sed grato religiosoque certamine sex totis mensibus factum est. 2 multis tamen modis haec ab illo negotio causa separata est. iam primum enim,
 
 
@@ -183,208 +291,352 @@ p330praefecturae urbanae appellatio universa decreta est."
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 fuit Draeger, Peter; fuerit P.
 
 
+❦
 
 2
 et om. in P.
 
 
+❦
 
 3
 eadem posteris Jordan, Ellis, Hohl; eadem posteros P; etiam ad posteros Peter2.
 
 
+❦
 
 4
 expertes Jordan; expertis P, Peter.
 
 
+❦
 
 5
 cum om. in P.
 
 
+❦
 
 6
 incertam . . . diceret P.
 
 
+❦
 
 7
 interrogati Σ, Peter; interrogatis P.
 
 
+❦
 
 8
 potes P.
 
 
+❦
 
 9
 uirgarum Peter, Hohl; magnarum P1.
 
 
+❦
 
 10
 quo Salm., Peter; quod P.
 
 
+❦
 
 11
 et ins. by Salm.; om. in P.
 
 
+❦
 
 12
 ubi . . . ibi Peter; ibi . . . ubi P, Hohl.
 
 
+❦
 
 13
 adiuuet Peter, Hohl; diuet P.
 
 
+❦
 
 14
 uoluntati Σ; uoluptati P.
 
 
+❦
 
 15
 at saltem Σ; ad salutem P.
 
 
+❦
 
 16
 sic Σ; sit P.
 
 
+❦
 
 17
 uestrum Σ; uerum P.
 
 
+❦
 
 18
 in Σ; ut P.
 
 
+❦
 
 19
 ne Hohl; nec P; neue Peter2.
 
 
+❦
 
 20
 So P; no successful emendations have been proposed.
 
 
+❦
 
 21
 habuerat Σ; habuerit P.
 
 
+❦
 
 22
 intimandum Salm.; imitandum P.
 
 
+❦
 
 23
 gesserit quam quemadmodum rest. by Salm. from Cicero; om. in P.
 
 
+❦
 
 24
 in re Σ, Peter, Hohl; intere P.
 
 
+❦
 
 25
 post . . . nuncupati P, retained by von Winterfeld; del. by Salm., Peter, Hohl.
 
 
+❦
 
 26
 Iuvernam Purser, Hohl; Romanam P, Peter.
 
 
+❦
 
 27
 post Σ; per P.
 
 
+❦
 
 28
 pollicentes . . . historia transp. by Salm.; after mendacia in P.
 
 
+❦
 
 29
 scripta sunt Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 30
 quibus Hohl; quo P, Peter; queis Cas.
 
 
+❦
 
 31
 So Peter; nisi quia P, Hohl.
 
 
+❦
 
 32
 iuncta Baehrens, Peter2; tunc P.
 
 
+❦
 
 33
 dignum esse ins. by Cas., Peter2; om. in P.
 
 
+❦
 
 34
 satisfeci . . . uolumen Σ, Hohl; om. in P and by Peter.
 
 
+❦
 
 35
 So Salm.; purascere P; purpurascere . . . Peter, Hohl.
 
 
+❦
 
 36
 reseruemus Σ, Petschenig, Hohl; reseruemur P; reuertemur Peter.
 
 
+❦
 
 37
 praefecti Σ; quae P.
 
 
+❦
 
 38
 So Peter; reuera . . . rei P.
 
 
+❦
 
 39
 optinuimus Σ; optimus P.
 
 
+❦
 
 40
 aperirent Σ; aperient P.
 
 
+❦
 
 41
 praeberent Cas., Peter; praeuenerent P1.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Jan. 05

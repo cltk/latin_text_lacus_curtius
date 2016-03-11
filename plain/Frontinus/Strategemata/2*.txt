@@ -1,12 +1,202 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Home
+			
+
+
+
+
+Sextus Julius Frontinus:
+	
+Strategemata
+	
+
+p88
+Liber Secundus
+	
+
 Dispositis primo libro exemplis instructuris, ut mea fert opinio, ducem in his, quae ante commissum proelium agenda sunt, deinceps reddemus pertinentia ad ea, quae in ipso proelio agi solent, et deinde ea, quae post proelium.
 
 	
 Eorum, quae ad proelium pertinent, species sunt:
 
 
+
+
+I.
+		
+
+
+De tempore ad pugnam eligendo.
+		
+
+
+
+II.
+		
+
+
+De loco ad pugnam eligendo.
+		
+
+
+
+III.
+		
+
+
+De acie ordinanda.
+		
+
+
+
+IV.
+		
+
+
+De acie hostium turbanda.
+		
+
+
+
+V.
+		
+
+
+De insidiis.
+		
+
+
+
+VI.
+		
+
+
+De emittendo hoste, ne clausus proelium ex desperatione redintegret.
+		
+
+
+
+VII.
+		
+
+
+De dissimulandis adversis.
+		
+
+
+
+VIII.
+		
+
+
+De restituenda per constantiam acie.
+		
+
+
+
 Eorum deinde, quae post proelium agenda sunt, has esse species existimaverim:
 
+
+
+
+IX.
+		
+
+
+Si res prospere cesserit, de consummandis reliquiis belli.
+		
+
+
+
+X.
+		
+
+
+Si res durius cesserit, de adversis emendandis.
+		
+
+
+
+XI.
+		
+
+
+De dubiorum animis in fide retinendis.
+		
+
+
+
+XII.
+		
+
+
+Quae facienda sint pro castris, si satis fiduciae in praesentibus copiis non habemus.
+		
+
+
+
+XIII.
+		
+
+
+De effugiendo.
+		
+
+
+p90
+
+
+I. De Tempore ad Pugnam Eligendo
+	
 
 1 
 P. Scipio in Hispania, cum comperisset Hasdrubalem Poenorum ducem ieiuno exercitu mane processisse in aciem, continuit in horam septimam suos, quibus praeceperat, ut quiescerent et cibum caperent; cumque hostes inedia, siti, mora sub armis fatigati repetere castra coepissent, subito copias eduxit et commisso proelio vicit.
@@ -89,6 +279,10 @@ Lysander Lacedaemonius adversus Athenienses apud Aegospotamos instituit certo te
 
 
 	
+
+II. De Loco ad Pugnam Eligendo
+	
+
 1 
 M'. Curius, quia phalangi regis Pyrrhi explicitae resisti non posse animadvertebat, dedit operam, ut in angustiis confligeret, ubi conferta sibi ipsa esset impedimento.
 
@@ -158,6 +352,10 @@ Themistocles dux Atheniensium, cum videret utilissimum Graeciae adversus multitu
 
 
 	
+
+III. De Acie Ordinanda
+	
+
 1 
 Cn. Scipio in Hispania adversus Hannonem ad oppidum Indibile, cum animadvertisset Punicam aciem ita directam, ut in dextro cornu Hispani constituerentur, robustus quidem miles, sed qui alienum negotium ageret, in sinistro autem Afri, minus viribus firmi, sed animi constantiores, reducto sinistro latere suorum, dextro cornu, quod validissimis militibus exstruxerat, obliqua acie cum hoste conflixit. Deinde fusis fugatisque Afris Hispanos, qui in recessu spectantium more steterant, facile in deditionem compulit.
 
@@ -266,6 +464,10 @@ C. Duellius, cum videret graves suas naves mobilitate Punicae classis eludi irr
 
 
 	
+
+IV. De Acie Hostium Turbanda
+	
+
 1 
 Papirius Cursor filius consul, cum aequo Marte adversus obstinatos Samnites concurreret, ignorantibus suis praecepit Spurio Nautio, ut pauci alares et agasones mulis insidentes ramosque per terram trahentes a colle transverso magno tumultu decurrerent. Quibus prospectis proclamavit victorem adesse collegam, occuparent ipsi praesentis proelii gloriam. Quo facto et Romani fiducia concitati proruere et hostes pulvere perculsi terga verterunt.
 
@@ -347,6 +549,10 @@ Atheas, rex Scytharum, cum adversus ampliorem Triballorum exercitum confligeret,
 
 
 	
+
+V. De Insidiis
+	
+
 1 
 Romulus, per latebras copiarum parte disposita, cum ad Fidenas accessisset, simulata fuga temere hostes insecutos eo perduxit, ubi occultos milites habebat, qui undique adorti effusos et incautos ceciderunt.
 
@@ -536,6 +742,10 @@ Timotheus, dux Atheniensium, adversus Lacedaemonios navali acie decertaturus, cu
 
 
 	
+
+VI. De Emittendo Hoste, ne Clausus Proelium ex
+	
+
 1 
 Gallos eo proelio, quod Camilli ductu gestum est, desiderantes navigia, quibus Tiberim transirent, senatus censuit transvehendos et commeatibus quoque prosequendos.
 	
@@ -579,6 +789,10 @@ Idem inter praecepta imperatoria memoriae tradidit, non esse pertinaciter instan
 
 
 	
+
+VII. De Dissimulandis Adversis
+	
+
 1 
 Tullus Hostilius, rex Romanorum, commisso adversus Veientes proelio, cum Albani deserto exercitu Romanorum proximos peterent tumulos eaque res turbasset nostrorum animos, clare pronuntiavit iussu suo Albanos id fecisse, ut hostem circumveniret. Quae res et terrorem Veientibus et Romanis fiduciam attulit remque inclinatam consilio restituit.
 
@@ -636,6 +850,10 @@ M. Cato, cum Ambraciam eo tempore, quo sociae naves ab Aetolis oppugnabantur, i
 
 
 	
+
+VIII. De Restituenda per Constantiam Acie
+	
+
 1 
 Servius Tullius adulescens proelio, quo rex Tarquinius adversus Sabinos conflixit, signiferis segnius dimicantibus raptum signum in hostem misit; cuius recuperandi gratia Romani ita ardenter pugnaverunt, ut et signum et victoriam rettulerint.
 
@@ -693,6 +911,10 @@ Philippus veritus, ne impetum Scytharum sui non sustinerent, fidelissimos equitu
 
 De His Quae Post Proelium Fiunt
 
+
+IX. Si Res Prospere Cesserit, de Consummandis
+	
+
 1 
 C. Marius, victis proelio Teutonis, reliquias eorum, quia nox intervenerat, circumsedens, sublatis subinde clamoribus per paucos suorum territavit insomnemque hostem detinuit, ex eo assecutus, ut postero die irrequietum facilius debellaret.
 
@@ -734,6 +956,10 @@ Cimon, dux Atheniensium, victa classe Persarum apud insulam Cypron, milites suos
 
 
 	
+
+X. Si Res Durius Cesserit, de Adversis Emendandis
+	
+
 1 
 T. Didius in Hispania, cum acerrimo proelio conflixisset, quod nox diremerat, magno numero utrimque caeso complura suorum corpora intra noctem sepelienda curavit. Hispani postero die ad simile officium progressi, quia plures ex ipsorum numero quam ex Romanis caesos reppererant, victos se esse secundum eam dinumerationem argumentati, ad condiciones imperatoris descenderunt.
 
@@ -743,6 +969,10 @@ T. Marcius, eques Romanus, qui reliquiis exercitus praefuit, cum in propinquo b
 
 
 	
+
+XI. De Dubiorum Animis in Fide Retinendis
+	
+
 1 
 P. Valerius Epidauri timens oppidanorum perfidiam, quia parum praesidii habebat, gymnicos ludos procul ab urbe apparavit. Quo cum omnis fere multitudo spectandi causa exisset, clausit portas nec ante admisit Epidaurios, quam obsides a principibus acciperet.
 
@@ -772,6 +1002,10 @@ Imperator Caesar Augustus Germanicus eo bello, quo victis hostibus cognomen Germ
 
 
 	
+
+XII. Quae Facienda Sint pro Castrorum Defensione, si Satis Fiduciae in Praesentibus Copiis non Habeamus
+	
+
 1 
 T. Quintius consul, cum Volsci castra eius adgressuri forent, cohortem tantummodo in statione detinuit, reliquum exercitum ad quiescendum dimisit. Aeneatoribus praecepit, ut vallum insidentes equis circumirent concinerentque. Qua facie et simulatione cum et propulsasset et detinuisset per totam noctem hostes, ad lucis exortum fessos vigilia repente facta eruptione facile superavit.
 
@@ -789,6 +1023,10 @@ Iphicrates Atheniensis, cum campestribus locis castra haberet explorassetque Thr
 
 
 	
+
+XIII. De Effugiendo
+	
+
 1 
 Galli pugnaturi cum Attalo aurum omne et argentum certis custodibus tradiderunt, a quibus, si acie fusi essent, spargeretur, quo facilius colligenda praeda hostem impeditum effugerent.
 
@@ -834,3 +1072,97 @@ Commius Atrabas, cum victus a Divo Iulio ex Gallia in Brittanniam fugeret et fo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Frontini
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Jun. 02

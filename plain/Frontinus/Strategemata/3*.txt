@@ -1,13 +1,249 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Home
+			
+
+
+
+
+Sextus Julius Frontinus:
+	
+Strategemata
+	
+
+p204
+Liber Tertius
+	
+
 Si priores libri responderunt titulis suis et lectorem hucusque cum attentione perduxerunt, edam nunc circa oppugnationes urbium defensionesque στρατηγήματα. Nec morabor ulla praelocutione, prius traditurus quae oppugnandis urbibus usui sunt, tum quae obsessos instruere possint.
 
 	
 Depositis autem operibus et machinamentis, quorum expleta iam pridem inventione nullam video ultra artium materiam, has circa expugnationem species στρατηγημάτων fecimus:
 
+
+
+
+
+I.
+		
+
+
+De repentino impetu.
+		
+
+
+
+II.
+		
+
+
+De fallendis his, qui obsidebuntur.
+		
+
+
+
+III.
+		
+
+
+De eliciendis ad proditionem.
+		
+
+
+
+IV.
+		
+
+
+Per quae hostes ad inopiam redigantur.
+		
+
+
+
+V.
+		
+
+
+Quemadmodum persuadeatur, obsidionem permansuram.
+		
+
+
+
+VI.
+		
+
+
+De districtione praesidiorum hostilium.
+		
+
+
+
+VII.
+		
+
+
+De fluminum derivatione et vitiatione aquarum.
+		
+
+
+
+VIII.
+		
+
+
+De iniciendo obsessis pavore.
+		
+
+
+
+IX.
+		
+
+
+De irruptione ex diversa parte, quam exspectabimur.
+		
+
+
+
+X.
+		
+
+
+De insidiis, per quas eliciantur obsessi.
+		
+
+
+
+XI.
+		
+
+
+De simulatione regressus.
+		
+
+
 p206
 Ex contrario circa tutelam obsessorum:
 
 
+
+
+
+
+XII.
+		
+
+
+De excitanda cura suorum.
+		
+
+
+
+XIII.
+		
+
+
+De emittendo et recipiendo nuntio.
+		
+
+
+
+XIV.
+		
+
+
+De introducendis auxiliis et commeatibus suggerendis.
+		
+
+
+
+XV.
+		
+
+
+Quemadmodum efficiatur, ut abundare videantur, quae deerunt.
+		
+
+
+
+XVI.
+		
+
+
+Qua ratione proditoribus et transfugis occurratur.
+		
+
+
+
+XVII.
+		
+
+
+De eruptionibus.
+		
+
+
+
+XVIII.
+		
+
+
+De constantia obsessorum.
+		
+
+
+
+
+I. De Repentino Impetu
+	
 
 1 
 T. Quintius consul, victis acie Aequis et Volscis, cum Antium oppidum expugnare statuisset, ad contionem vocato exercitu exposuit, quam id necessarium et facile esset, si non differretur; eoque impetu, quem exhortatio concitaverat, adgressus urbem.
@@ -18,6 +254,11 @@ M. Cato in Hispania animadvertit potiri se quodam oppido posse, si inopinatos i
 
 
 	
+p208
+
+II. De Fallendis His Qui Obsidebuntur
+	
+
 1 
 Domitius Calvinus, cum obsideret Lueriam, oppidum Ligurum, non tantum situ et operibus, verum etiam propugnatorum praestantia tutum, circumire muros frequenter omnibus copiis instituit easdemque reducere in castra. Qua consuetudine inductis ita oppidanis, ut crederent exercitationis id gratia facere Romanum, et ob hoc nihil ab eo conatu caventibus, morem illum obambulandi in subitum direxit impetum occupatisque moenibus expressit, ut se ipsos dederent oppidani.
 
@@ -71,6 +312,10 @@ Timarchus Aetolus, occiso Charmade Ptolomaei regis praefecto, clamide interempti
 
 
 	
+
+III. De Eliciendis ad Proditionem
+	
+
 1 
 Papirius Cursor consul apud Tarentum Miloni, qui cum praesidio Epirotarum urbem obtinebat, salutem ipsi et popularibus, si per illum oppido poteretur, pollicitus est. Quibus praemiis ille corruptus persuasit Tarentinis, ut se legatum ad consulem mitterent, a quo plena promissa ex pacto referens in securitatem
 
@@ -108,6 +353,11 @@ Lysimachus, rex Macedonum, cum Ephesios oppugnaret et illi in auxilio haberent M
 
 
 	
+p218
+
+IV. Per quae Hostes ad Inopiam Redigantur
+	
+
 1 
 Fabius Maximus vastatis Campanorum agris, ne quid eis ad fiduciam obsidionis superesset, recessit sementis tempore, ut frumentum, quod reliquum habebant, in sationes conferrent; reversus deinde renata protrivit et ad famem redactis potitus est.
 
@@ -137,6 +387,10 @@ p220in quibus id conferebatur, rescissae pluviam reciperent, [id] fiducia condit
 
 
 	
+
+V. Quemadmodum Persuadeatur Obsidionem Permansuram
+	
+
 1 
 Clearchus Lacedaemonius, exploratum habens Thracas omnia victui necessaria in montes comportasse unaque spe sustentari, quod crederent eum commeatus inopia recessurum, per id tempus, quo legatos eorum venturos opinabatur, aliquem ex captivis in conspectu iussit occidi et membratim tamquam alimenti causa in contubernia distribui. Thraces nihil non facturum perseverantiae causa eum credentes, qui tam detestabiles epulas sustinuisset experiri, in deditionem venerunt.
 
@@ -150,6 +404,11 @@ A. Torquato Graecam urbem oppugnanti cum diceretur iuventutem ibi studiose iacu
 
 
 	
+p222
+
+VI. De Districtione Praesidiorum Hostium
+	
+
 2 
 Scipio, Hannibale in Africam reverso, cum plura oppida, quae ratio illi in potestatem redigenda dictabat, firmis praesidiis diversae partis obtinerentur, subinde aliquam manum submittebat ad infestanda ea. Novissime etiam tamquam direpturus civitates aderat, deinde simulato metu refugiebat. Hannibal, ratus veram esse eius trepidationem, deductis undique praesidiis, tamquam de summa rerum decertaturus insequi coepit. Ita consecutus Scipio, quod petierat, nudatas propugnatoribus urbis per Masinissam et Numidas cepit.
 
@@ -187,6 +446,10 @@ p226Crateri tenebantur, adgressus tela quaedam, in quibus scriptum erat venisse 
 
 
 	
+
+VII. De Fluminum Derivatione et Vitiatione Aquarum
+	
+
 1 
 P. Servilius Isauram oppidum, flumine ex quo hostes aquabantur averso, ad deditionem siti compulit.
 
@@ -216,6 +479,10 @@ Clisthenes Sicyonius ductum aquarum in oppidum Crisaeorum ferentem rupit; mox ad
 
 
 	
+
+VIII. De Iniciendo Obsessis Pavore
+	
+
 1 
 Philippus, cum Prinassum castellum nulla vi capere posset, terram ante ipsos muros egessit simulavitque agi cuniculum; castellani, quia subrutos se existimarant, dediderunt.
 
@@ -233,6 +500,10 @@ Cyrus, Persarum rex, incluso Sardibus Croeso, qua praeruptus mons nullum aditum 
 
 
 	
+
+IX. De Irruptione ex Diversa Parte quam Exspectabimur
+	
+
 1 
 Scipio apud Carthaginem sub discessum aestus maritimi, secutus deum, ut dicebat, ducem, ad muros urbis accessit et cedente stagno, qua non exspectabatur, irrupit.
 
@@ -286,6 +557,10 @@ Antiochus adversus Ephesios Rhodiis, quos in auxilio habebat, praecepit, ut noct
 
 
 	
+
+X. De Disponendis Insidiis, in quas Eliciantur Obsessi
+	
+
 1 
 Cato in conspectu Lacetanorum, quos obsidebat, reliquis suorum summotis, Suessetanos quosdam ex auxiliaribus maxime imbelles adgredi moenia iussit; hos cum facta eruptione Lacetani facile avertissent et fugientes avide insecuti essent, illis quos occultaverat coortis oppidum cepit.
 
@@ -331,6 +606,11 @@ Barca, dux Poenorum, in Sicilia Lilybaeum nostris terra marique obsidentibus par
 
 
 	
+p242
+
+XI. De Simulatione Regressus
+	
+
 1 
 Phormion, dux Atheniensium, cum depopulatus esset agros Chalcidensium, legatis eorum de ea re querentibus benigne respondit et nocte, qua dimissurus illos erat, finxit litteras sibi supervenisse civium suorum, propter quas redeundum haberet. Ac paulum regressus dimisit legatos. His omnia tuta et abisse Phormionem renuntiantibus, Chalcidenses spe et oblatae humanitatis et abducti exercitus remissa urbis custodia, cum confestim Phormion revertisset, prohibere inexspectatam vim non potuerunt.
 
@@ -356,6 +636,10 @@ p244Lacedaemonem occupari, si clam illo profectus esset, nocte crebros ignes fie
 
 Ex Contrario circa Tutelam Obsessorum
 
+
+XII. De Excitanda Cura Suorum
+	
+
 1 
 Alcibiades, dux Atheniensium, civitate sua a Lacedaemoniis obsessa, veritus neglegentiam vigilum denuntiavit his qui in stationibus erant, observarent lumen, quod nocte ostenturus esset ex arce, et ad conspectum eius ipsi quoque lumina attollerent; in quo munere qui cessasset, poenam passurum. Dum sollicite exspectatur signum ducis, pervigilatum ab omnibus et suspectae noctis periculum evitatum est.
 
@@ -373,6 +657,10 @@ Epaminondas Thebanus idem fecisse dicitur.
 
 
 	
+
+XIII. De Emittendo et Recipiendo Nuntio
+	
+
 1 
 Romani, obsessi in Capitolio, ad Camillum ab exilio implorandum miserunt Pontium Cominium, qui, ut stationes Gallorum falleret, per saxa Tarpeia demissus tranato Tiberi Veios pervenit et perpetrata legatione similiter ad suos rediit.
 
@@ -410,6 +698,10 @@ Idem columbis, quas inclusas ante tenebris et fame affecerat, epistulas saeta ad
 
 
 	
+
+XIV. De Introducendis Auxiliis et Commeatibus Suggerendis
+	
+
 1 
 Bello civili, cum Ategua urbs in Hispania Pompeianarum partium obsideretur, Maurus inter noctem tamquam Caesarianus tribuni cornicularius vigiles quosdam excitavit; ex quibus cum tesseram accepisset, ali[qu]os excitans constantia fallaciae suae per medias Caesaris copias praesidium Pompei transduxit.
 
@@ -427,6 +719,10 @@ Idem pecora secunda aqua demisit, quae excepta sustentaverunt necessariorum inop
 
 
 	
+
+XV. Quemadmodum Efficiatur ut Abundare Videantur quae Deerunt
+	
+
 1 
 Romani, cum a Gallis Capitolium obsideretur, in extrema iam fame panem in hostem iactaverunt consecutique, ut abundare commeatibus viderentur, obsidionem, donec Camillus subveniret, toleraverunt.
 
@@ -452,6 +748,10 @@ Thrasybulus, dux Milesiorum, cum longa obsidione milites sui angerentur ab Halya
 
 
 	
+
+XVI. Qua Ratione Proditoribus et Transfugis Occurratur
+	
+
 1 
 Claudius Marcellus, cognito consilio L. Bantii Nolani, qui corrumpere ad defectionem populares
 
@@ -481,6 +781,10 @@ Diodotus, cum praesidio Amphipolim tueretur et duo milia Thracum suspecta habere
 
 
 	
+
+XVII. De Eruptionibus
+	
+
 1 
 Romani, qui in praesidio Panhormitanorum erant, veniente ad obsidionem Hasdrubale raros ex industria
 
@@ -526,6 +830,10 @@ p262aciem adeoque se continuerunt, ut Popilio Laenati fiducia fieret scalis oppi
 
 
 	
+
+XVIII. De Constantia Obsessorum
+	
+
 1 
 Romani, assidente moenibus Hannibale, ostentandae fiduciae gratia supplementum exercitibus, quos in Hispania habebant, diversa porta miserunt.
 
@@ -539,3 +847,97 @@ Idem, cum ab Hannibale obsiderentur et ipsi obsiderent Capuam, decreverunt, ne n
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Frontini
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Kal. Iul. 12

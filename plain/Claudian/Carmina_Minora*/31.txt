@@ -1,0 +1,356 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p256
+C. Claudiani
+	
+Epistula ad Serenam
+	
+
+
+
+
+
+
+XXXI (XL)
+	
+
+
+
+Orphea cum primae sociarent numina taedae
+	
+ruraque conpleret Thracia festus Hymen,
+	
+certavere ferae picturataeque volucres,
+	
+dona suo vati quae potiora darent,
+	5
+quippe antri memores, cautes ubi saepe sonorae
+	
+praebuerant dulci mira theatra lyrae.
+	
+Caucasio crystalla ferunt de vertice lynces,
+	
+grypes Hyperborei pondera fulva soli.
+	
+furatae Veneris prato per inane columbae
+	10
+florea conexis serta tulere rosis,
+	
+fractaque nobilium ramis electra sororum
+	
+cycnus oloriferi vexit ab amne Padi,
+	
+et Nilo Pygmaea grues post bella remenso
+	
+ore gerunt Rubri germina cara maris.
+	15
+venit et extremo Phoenix longaevus ab Euro
+	
+adportans unco cinnama rara pede.
+	
+nulla avium pecudumque fuit, quae ferre negaret
+	
+vectigal meritae conubiale lyrae.
+
+	
+
+Tunc opibus totoque Heliconis sedula regno
+	20
+ornabat propriam Calliopea nurum.
+	
+p258
+ipsam praeterea dominam stellantis Olympi
+	
+ad nati thalamos ausa rogare parens.
+	
+nec sprevit regina deum vel matris honore
+	
+vel iusto vatis ducta favore pii,
+	25
+qui sibi carminibus totiens lustraverat aras
+	
+Iunonis blanda numina voce canens
+	
+proeliaque altisoni referens Phlegraea mariti,
+	
+Titanum fractas Enceladique minas.
+	
+ilicet adventu noctem dignata iugalem
+	30
+addidit augendis munera sacra toris,
+	
+munera mortales non admittentia cultus,
+	
+munera, quae solos fas habuisse deos.
+	
+sed quod Threicio Iuno placabilis Orphei,
+	
+hoc poteris votis esse, Serena, meis.
+	35
+illius expectent famulantia sidera nutum;
+	
+sub pedibus regitur terra fretumque tuis.
+	
+non ego, cum peterem, sollemni more procorum
+	
+promisi gregibus pascua plena meis,
+	
+nec, quod mille mihi lateant sub palmite colles
+	40
+fluctuet et glauca pinguis oliva coma,
+	
+nec, quod nostra Ceres numerosa falce laboret
+	
+aurataeque ferant culmina celsa trabes.
+	
+suffecit mandasse deam: tua littera nobis
+	
+et pecus et segetes et domus ampla fuit.
+	45
+inflexit soceros et maiestate petendi
+	
+texit pauperiem nominis umbra tui.
+	
+quid non perficeret scribentis voce Serenae
+	
+vel genius regni vel pietatis amor?
+
+	
+
+Atque utinam sub luce tui contingeret oris
+	50
+coniugis et castris et solio generi
+	
+p260
+optatum celebrare diem! me iungeret auspex
+	
+purpura, me sancto cingeret aula choro.
+	
+et mihi quam scriptis desponderat ante puellam,
+	
+coniugiis eadem pronuba dextra daret.
+	55
+nunc medium quoniam votis maioribus aequor
+	
+invidet et Libycae dissidet ora plagae,
+	
+saltem absens, regina, fave reditusque secundos
+	
+adnue sidereo laeta supercilio.
+	
+terrarum tu pande vias, tu mitibus Euris
+	60
+aequora pacari prosperiora iube,
+	
+ut tibi Pierides doctumque fluens Aganippe
+	
+debita servato vota cliente canant.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Aug. 07

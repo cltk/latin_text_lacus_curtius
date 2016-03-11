@@ -1,10 +1,156 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+Pagina tota depicta, ite ad capita recte:
+	
+
+I
+	
+	•
+	
+II
+	
+	•
+	
+III
+	
+	•
+	
+IV
+	
+	•
+	
+V
+	
+	•
+	
+VI
+	
+	•
+	
+VII
+	
+	•
+	
+VIII
+	
+
+
+
+Macrobii
+	
+Saturnalia
+	
+
+
+Liber II
+	
+p215
+
+
+I.
+	
+
 1 Hic ubi modestus edendi modus cessare fecit castimoniam ferculorum et convivalis laetitia minusculis poculis oriebatur, Avienus ait: Bene ac sapienter Maro noster tumultuosum et sobrium uno eodemque versu descripsit sub paucorum verborum inmutatione convivium. Nam ubi sub adparatu regio procedere solet luxus ad strepitum,
 
 
 	
+Postquam prima, inquit, quies epulis
+	
+
 at, cum heroes castigatis dapibus adsidunt, non reducit quietem, quia nec praecessit tumultus, sed:
 p216
+
+Postquam exempta fames epulis.
+	
 
 2 Nostrum hoc convivium, quod et heroici seculi pudicitiam et nostri conduxit elegantiam, in quo splendor sobrius et diligens parsimonia, Agathonis convivio vel post magniloquentiam Platonis non conponere tantum sed nec praeferre dubitaverim. 3 Nam ipse rex mensae nec in moribus Socrate minor et in re publica philosopho efficacior: ceteri qui adestis eminentiores estis ad studia virtutum quam ut poetis comicis et Alcibiadi, qui tantum fuit fortis ad crimina, aliisque quibus frequens illud convivium fuit vos quisquam aestimet conparandos. 4 Bona verba quaeso, Praetextatus ait, circa reverentiam tantum Socraticae maiestatis: nam reliquis qui in illo fuere symposio haec lumina quis non praeponenda consentiat? Sed quorsum tibi, Aviene, hoc tendit exemplum? 5 Quia sub illorum, inquit, supercilio non defuit qui psaltriam intromitti peteret, ut puella ex industria supra naturam mollior canora dulcedine et saltationis lubrico exerceret inlecebris philosophantes. 6 Illic hoc fieri temptatum est, ut Agathonis victoria celebraretur: nos honorem dei cuius hoc festum est nullo admixtu voluptatis augemus. Neque ego sum nescius vos nec tristitiam
 
@@ -14,6 +160,9 @@ p217nec nubilum vultum in bonis ducere, nec Crassum illum quem Cicero auctore Lu
 
 
 	
+Saturnalibus optimo dierum,
+	
+
 ut ait Veronensis poeta, nec voluptas nobis ut Stoicis tamquam hostis repudianda est, nec ut Epicureis summum bonum in voluptate ponendum, excogitemus alacritatem lascivia carentem: et, ni fallor, inveni, ut iocos veterum ac nobilium virorum edecumatos ex multiiugis libris relatione mutua proferamus. 9 Haec nobis sit litterata laetitia et docta cavillatio vicem planipedis et sabulonis
 
 
@@ -27,6 +176,10 @@ p220nominant. 15 Marcus etiam Cato ille Censorius argute iocari solitus est. Ho
 
 
 	
+
+II.
+	
+
 1 Tum ille: Dictum volo hostis referre, sed victi et cuius memoria instaurat Romanorum triumphos. Hannibal Carthaginiensis apud regem Antiochum profugus facetissime cavillatus est. 2 Ea cavillatio huiuscemodi fuit. Ostendebat Antiochus in campo copias ingentes quas bellum populo Romano facturus conparaverat, convertebatque exercitum insignibus argenteis et aureis florentem: inducebat etiam currus cum falcibus et elephantos cum turribus equitatumque frenis et ephippiis, monilibus ac faleris praefulgentem. Atque ibi rex contemplatione tanti et tam ornati exercitus gloriabundus Hannibalem aspicit et: Putasne, inquit, satis esse Romanis haec omnia? 3 Tunc Poenus eludens ignaviam inbelliamque militum eius pretiose armatorum: Plane, inquit, satis
 
 
@@ -41,11 +194,58 @@ p223Faustus Syllae filius, cum soror eius eodem tempore duos moechos haberet, Fu
 
 
 p224Otacilius Pitholaus, cum Caninius Revilus uno tantum die consul fuisset, dixit: Ante flamines, nunc consules diales fiunt. 14 Nec Disarius ultra exprobrationem taciturnitatis expectans ait:
+*****
 15 Post hunc Horus quoque: Adfero ad vos, inquit, δίστιχον Platonis, quo ille adulescens luserit, cum tragoediis quoque eadem aetate praeluderet:
 
 p225
 
+
+Τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν ἒσχον·
+	
+ἦλθε γὰρ ἡ τλήμων ὡς διαβησομύνη.
+
+
 16 Orta ex his laetitia et omnibus in censorium risum remissis ac retractantibus quae a singulis antiquae festivitatis sapore prolata sunt, Symmachus ait: Hos Platonis versiculos, quorum magis venustatem an brevitatem mireris incertum est, legisse me memini in Latinum tanto latius versos quanto solet nostra quam Graecorum lingua brevior et angustior aestimari: 17 et, ut opinor, haec verba sunt:
+
+Dum semiulco savio
+	p226
+Meum puellum savior,
+	
+Dulcemque florem spiritus
+	
+Duco ex aperto tramite:
+	
+Anima aegra et saucia
+	
+Cucurrit ad labias mihi
+	
+Rictumque in oris pervium,
+	
+Et labra pueri mollia
+	
+Rimata itiner transitus
+	
+Ut transire nititur!
+	
+Tum si morae quid plusculae
+	
+Fuisset in coetu osculi,
+	
+Amoris igne percita
+	
+Transisset et me linqueret:
+	
+Et mira prosum res fieret,
+	
+Ut ad me fierem mortuus,
+	
+Ad puerum intus viverem.
+
+p227
+
+
+III.
+	
 
 1 Sed miror omnes vos ioca tacuisse Ciceronis, in quibus facundissimus, ut in omnibus, fuit: et, si videtur, ut aedituus responsa numinis sui praedicat ita ego quae memoria suggesserit refero dicta Ciceronis. Tum omnibus ad audiendum erectis ille sic incipit: 2 M. Cicero, cum apud Damasippum coenaret et ille mediocri vino posito diceret: Bibite Falernum hoc, annorum quadraginta est: Bene, inquit, aetatem fert. 3 Idem cum Lentulum generum suum, exiguae naturae hominem, longo gladio adcinctum vidisset: Quis, inquit, generum meum ad gladium alligavit? 4 Nec Q. Ciceroni fratri circa similem mordacitatem pepercit. Nam cum in ea provincia quam ille rexerat vidisset clypeatam imaginem eius ingentibus lineamentis usque ad pectus ex more pictam (erat autem Quintus ipse staturae parvae), ait: Frater meus dimidius maior est quam totus. 5 In consulatu Vatinii, quem paucis diebus gessit, notabilis Ciceronis urbanitas circumferebatur. Magnum ostentum, inquit, anno Vatinii factum est, quod illo consule nec bruma nec ver nec aestas nec autumnus fuit. Querenti deinde Vatinio, quod gravatus esset domum ad se infirmatum venire,
 
@@ -69,6 +269,10 @@ p231suo P. Mallio rogaretur ut decurionatum privigno eius expediret, adsistente
 14 Dicente adhuc Symmacho et, ut videbatur, plura dicturo intercedens Avienus, ut fieri in sermonibus convivalibus solet: Nec Augustus, inquit, Caesar in huiusmodi dicacitate quoquam minor, et fortasse nec Tullio: et, si volentibus vobis erit, aliqua eius quae memoria suggesserit relaturus sum. 15 Et Horus: Permitte, Aviene, Symmachus explicet de his quos iam nominaverat dicta Ciceronis: et oportunius quae de Augusto vis referre succedent. 16 Reticente Avieno Symmachus: Cicero, inquam, cum Piso gener eius mollius incederet, filia autem concitatius, ait filiae: Ambula tamquam vir. Et cum M. Lepidus in senatu dixisset, patribus conscriptis Tullius ait: Ego non tanti fecissem ὁμοιοποίητον. Sed perge, Aviene: ne ultra te dicturientem retardem.
 
 	p233
+
+
+IV.
+	
 
 1 Et ille: Augustus, inquam, Caesar adfectavit iocos, salvo tamen maiestatis pudorisque respectu, nec ut caderet in scurram. 2 Aiacem tragoediam scripserat, eandemque, quod sibi displicuisset, deleverat. Postea L. Varius tragoediarum scriptor interrogabat eum, quid ageret Aiax suus. Et ille: In spongiam, inquit, incubuit. 3 Idem Augustus, cum ei quidam libellum trepidus
 
@@ -111,6 +315,10 @@ p244aliquod epigramma porrigere Graeculus. Id cum frustra saepe fecisset, rursum
 
 	p245
 
+
+V.
+	
+
 1 Vultis aliqua et filiae eius Iuliae dicta referamus? Sed si garrulus non putabor, volo de moribus feminae pauca praemittere, ni quisquam vestrum habeat seria et discenda quae proferat. Hortantibusque omnibus, ut coepto insisteret, ita de Iulia orsus est. 2 Annum agebat tricesimum et octavum, tempus aetatis, si mens sana superesset, vergentis in senium: sed indulgentia tam fortunae quam patris abutebatur, cum alioquin litterarum amor multaque eruditio, quod in illa domo facile erat, praeterea mitis humanitas minimeque saevus animus ingentem feminae gratiam conciliarent, mirantibus qui vitia noscebant tantam pariter diversitatem. 3 Non semel praeceperat pater, temperato tamen inter indulgentiam gravitatemque sermone, moderaretur profusos cultus perspicuosque comitatus. Idem cum ad nepotum turbam similitudinemque respexerat qua repraesentabatur Agrippa, dubitare de pudicitia filiae erubescebat. 4 Inde blandiebatur sibi Augustus laetum
 
 
@@ -122,6 +330,10 @@ p246in filia animum usque ad speciem procacitatis, sed reatu liberum: et talem f
 p247Ammonuit pater scripto: Videret, quantum inter duas principes feminas interesset. Eleganter illa rescripsit: Et hi mecum senes fient. 7 Eadem Iulia mature habere coeperat canos, quos legere secrete solebat. Subitus interventus patris aliquando oppressit ornatrices. Dissimulavit Augustus deprehensis super vestem earum canis: et aliis sermonibus tempore extracto induxit aetatis mentionem, interrogavitque filiam, utrum post aliquot annos cana esse mallet an calva: et cum illa respondisset: Ego, pater, cana esse malo, sic illi mendacium obiecit: Quid ergo istae te calvam tam cito faciunt? 8 Item cum gravem amicum audisset Iulia suadentem melius facturam si se conposuisset ad exemplar paternae frugalitatis, ait: Ille obliviscitur Caesarem se esse: ego memini me Caesaris filiam. 9 Cumque conscii flagitiorum mirarentur quomodo similes Agrippae filios pareret quae tam vulgo potestatem corporis sui faceret, ait: Numquam enim nisi navi plena tollo vectorem. 10 Simile dictum Populiae Marci filiae, quae miranti cuidam, quid esset quapropter aliae bestiae numquam marem desiderabant nisi cum praegnantes vellent fieri, respondit: Bestiae enim sunt.
 p248
 
+
+VI.
+	
+
 1 Sed, ut a feminis ad viros et a lascivis iocis ad honestos revertar, Cascellius iuris consultus urbanitatis mirae libertatisque habebatur, praecipue tamen is iocus eius innotuit. Lapidatus a populo Vatinius, cum gladiatorium munus ederet, optinuerat ut aediles edicerent, ne quis in arenam nisi pomum misisse vellet. Forte his diebus Cascellius consultus a quodam, an nux pinea pomum esset, respondit: Si in Vatinium missurus es, pomum est. 2 Mercatori deinde, quemadmodum cum socio navem divideret, interroganti, respondisse traditur: Navem si dividis, nec tu nec socius habebitis. 3 In Galbam eloquentia clarum, sed quem habitus, ut supra dixi, corporis destruebat, M. Lollii vox circumferebatur:
 
 
@@ -130,11 +342,70 @@ p249Ingenium Galbae male habitat. 4 In eundem Galbam Orbilius grammaticus acerb
 
 
 	
+
+VII.
+	
+
 1 Sed quia et paulo ante Aurelius Symmachus et ego nunc Laberii fecimus mentionem, si aliqua huius atque Publii dicta referemus, videbimur et adhibendi convivio mimos vitasse lasciviam et tamen celebritatem, quam, cum adsunt, illi excitare pollicentur, imitari. 2 Laberium asperae libertatis equitem Romanum Caesar quingentis milibus invitavit ut prodiret in scenam et
 
 
 
 p250ipse ageret mimos quos scriptitabat. Sed potestas non solum si invitet, sed etiam si supplicet, cogit: unde se et Laberius a Caesare coactum in prologo testatur his versibus:
+
+3 Necessitas, cuius cursus transversi impetum
+	
+Voluerunt multi effugere, pauci potuerunt,
+	
+Quo me detrusit paene extremis sensibus?
+	
+Quem nulla ambitio, nulla umquam largitio,
+	
+Nullus timor, vis nulla, nulla auctoritas,
+	
+Movere potuit in iuventa de statu,
+	
+Ecce in senecta ut facile labefecit loco
+	
+Viri excellentis mente clemente edita
+	
+Summissa placide blandiloquens oratio?
+	
+Etenim ipsi di negare cui nihil potuerunt,
+	
+Hominem me denegare quis posset pati?
+	
+Ego bis tricenis annis actis sine nota
+	
+Eques Romanus e Lare egressus meo
+	
+Domum revertar mimus: nimirum hoc die
+	
+Uno plus vixi mihi quam vivendum fuit.
+	
+Fortuna inmoderata in bono aeque atque in malo
+	
+p251Si tibi erat libitum litterarum laudibus
+	
+Floris cacumen nostrae famae frangere,
+	
+Cur, cum vigebam membris praeviridantibus,
+	
+Satisfacere populo et tali cum poteram viro,
+	
+Non flexibilem me concurvasti ut carperes?
+	
+Nuncine me deiecis? quo? Quid ad scenam adfero?
+	
+Decorem formae an dignitatem corporis,
+	
+Animi virtutem an vocis iocundae sonum?
+	
+Ut hedera serpens vires arboreas necat,
+	
+Ita me vetustas amplexu annorum enecat.
+	
+Sepulchri similis nihil nisi nomen retineo.
+
 
 4 In ipsa quoque actione subinde se, qua poterat, ulciscebatur inducto
 
@@ -144,13 +415,67 @@ p252habitu Syri, qui velut flagris caesus praeripientique se similis exclamabat:
 
 
 	
+Porro Quirites! libertatem perdimus
+	
+et paulo post adiecit:
+
+
+	
+Necesse est multos timeat quem multi timent.
+	
+
 5 Quo dicto universitas populi ad solum Caesarem oculos et ora convertit, notantes inpotentiam eius hac dicacitate lapidatam. Ob haec in Publium vertit favorem. 6 Is Publius, natione Syrus, cum puer ad patronum domini esset adductus, promeruit eum non minus salibus et ingenio quam forma. Nam forte cum ille servum suum hydropicum iacentem in area vidisset increpuissetque, quid in sole faceret, respondit: Aquam calefacit. Ioculari deinde super coena exorta quaestione, quodnam esset molestum otium, aliud alio opinante ille: Podagrici pedes, dixit. 7 Ob haec et alia manu missus et maiore cura eruditus, cum mimos conponeret ingentique adsensu in Italiae oppidis agere coepisset, productus Romae per Caesaris ludos, omnes qui tunc scripta et operas suas in scenam locaverant provocavit, ut singuli secum posita invicem materia pro tempore contenderent. Nec ullo recusante superavit omnes, in quis et Laberium. 8 Unde Caesar adridens hoc modo pronuntiavit:
 	p253
 
+Favente tibi me victus es, Laberi, a Syro
+	
+statimque Publico palmam et Laberio anulum aureum cum quingentis sestertiis dedit. Tunc Publius ad Laberium recedentem ait:
+
+
+	
+Quicum contendisti scriptor, hunc spectator subleva.
+	
+
 9 Sed et Laberius sequenti statim commissione mimo novo interiecit hos versus:
+
+Non possunt primi esse omnes omni in tempore.
+	
+Summum ad gradum cum claritatis veneris,
+	
+Consistes aegre, *ne me citius decidas.
+	
+Cecidi ego, cadet qui sequitur: laus est publica.
+
 
 10 Publii autem sententiae feruntur lepidae et ad communem usum adcommodatissimae, ex quibus has fere memini singulis versibus circumscriptas:
 	p254
+
+11 Beneficium dando accepit qui digno dedit.
+	
+Feras, non culpes, quod mutari non potest.
+	
+Cui plus licet quam par est plus vult quam licet.
+	
+Comes facundus in via pro vehiculo est.
+	
+Frugalitas miseria est rumoris boni.
+	
+Heredis fletus sub persona risus est.
+	
+Furor fit laesa saepius patientia.
+	
+Inprobe Neptunum accusat qui iterum naufragium facit.
+	
+Nimium altercando veritas amittitur.
+	
+Pars beneficii est, quod petitur si cito neges.
+	
+Ita amicum habeas, posse ut fieri hunc inimicum putes.
+	
+Veterem ferendo iniuriam invites novam.
+	
+Numquam periclum sine periclo vincitur.
+
 
 12 Sed quia semel ingressus sum scenam loquendo, non Pylades histrio
 
@@ -163,7 +488,15 @@ p255nobis omittendus est, qui clarus in opere suo fuit temporibus Augusti et Hyl
 p256quae apud maiores viguit, et venustam induxisse novitatem, interrogatus ab Augusto, quae saltationi contulisset, respondit:
 
 
+
+Αὐλῶν συρίγγων τ᾽ ἑνοπὴν, ὁμαδόν τ᾽ ἀνθρώπων.
+
+
 19 Idem cum propter populi seditionem pro contentione inter se Hylamque habita concitatam indignationem excepisset Augusti, respondit: Καὶ ἀχαριστεῖς βασιλεῦ· ἔασον αὐτοὺς περὶ ἡμᾶς ἀσχολεῖσθαι.
+
+
+VIII.
+	
 
 1 His dictis et excitata laetitia cum in Avieno memoria florida et amoenitas laudaretur ingenii, mensas secundas minister admovit. 2 Et Flavianus: Multi, ut aestimo, in hoc a Varrone dissentiunt, qui in illa lepidissima satira Menippea, quae inscribitur Nescis quid vesper vehat, de secunda mensa placentas removit: sed quaeso dicas, Caecina, verba ipsa Varronis, si tibi beneficio memoriae tenacioris haeserunt. 3 Et Albinus: Locus, inquit, Varronis quem referri a me imperas in his fere verbis est: Bellaria ea maxime sunt mellita quae mellita non sunt: dulcibus enim
 
@@ -191,3 +524,123 @@ p260ἀκρατεῖς λέγονται· οἵ τε γὰρ περὶ τὰ �
 p261Οὐσῶν δὲ τῶν αἰσθήσεων πέντε τὰ ἄλλα ζῶα ἀπὸ δύο μόνων ἥδεται, κατὰ δὲ τὰς ἄλλας ἢ ὅλως οὐχ ἥδεται ἢ κατὰ συμβεβηκὸς τοῦτο πάσχει. 15 Quis igitur habens aliquid humani pudoris voluptatibus istis duabus, coeundi atque comedendi, quae homini cum sue atque asino communes sunt, gratuletur? 16 Socrates quidem dicebat multos homines propterea velle vivere ut ederent et biberent, se bibere atque esse ut viveret. Hippocrates autem, divina vir scientia, de coitu Venerio ita existimabat, partem esse quandam morbi taeterrimi quem nostri comitialem dixerunt. Namque ipsius verba haec traduntur: τὴν συνουσίαν εἶναι μικρὰν ἐπιληψίαν.
 
 	
+* * *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Saturnalia:
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+1 Feb 06

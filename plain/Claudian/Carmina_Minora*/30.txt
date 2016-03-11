@@ -1,8 +1,749 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p238
+C. Claudiani
+	
+Laus Serenae
+	
+
+
+
+
+
+
+XXX (XXXIX)
+	
+
+
+Dic, mea Calliope, tanto cur tempore differs
+	
+Pierio meritam serto redimire Serenam?
+	
+vile putas donum, solitam consurgere gemmis
+	
+et Rubro radiare mari si floribus ornes
+	5
+reginae regina comam? sed floribus illis,
+	
+quos neque frigoribus Boreas nec Sirius urit
+	
+aestibus, aeterno sed veris honore rubentes
+	
+p240
+fons Aganippea Permessius educat unda:
+	
+unde piae pascuntur apes et prata legentes
+	10
+transmittunt saeclis Heliconia mella futuris.
+
+	
+
+Dignius an vates alios exercuit unum
+	
+femineae virtutis opus? quod sponte redempto
+	
+casta maritali successit Thessala fato
+	
+inque suos migrare virum non abnuit annos,
+	15
+hoc Grai memorant. Latiis movet ora Camenis
+	
+praescia fatorum Tanaquil rediensque per undas
+	
+Cloelia Thybrinas et eodem flumine ducens
+	
+Claudia virgineo cunctantem crine Cybeben.
+	
+anne aliud toto molitur carminis actu
+	20
+Maeonii mens alta senis? quod stagna Charybdis
+	
+armavit, quod Scylla canes, quod pocula Circe,
+	
+Antiphatae vitata fames surdoque carina
+	
+remige Sirenum cantus transvecta tenaces,
+	
+lumine fraudatus Cyclops, contempta Calypso:
+	25
+Penelopae decus est atque uni tanta paratur
+	
+scaena pudicitiae. terrae pelagique labores
+	
+et saevi totidem bellis quot fluctibus anni
+	
+coniugii docuere fidem. sit Claudia felix
+	
+teste dea castosque probet sub numine mores
+	30
+absolvens puppisque moras crimenque pudoris:
+	
+Penelope trahat arte procos fallatque furentes
+	
+stamina nocturnae relegens Laërtia telae:
+	
+non tamen audebunt titulis certare Serenae.
+
+	
+p242
+
+Quodsi nobilitas cunctis exordia pandit
+	35
+laudibus atque omnes redeunt in semina causae,
+	
+quis venerabilior sanguis, quae maior origo
+	
+quam regalis erit? non hoc privata dedere
+	
+limina nec tantum poterat contingere nomen
+	
+angustis laribus; patruo te principe celsam
+	40
+bellipotens inlustrat avus, qui signa Britanno
+	
+intulit Oceano Gaetulaque reppulit arma.
+	
+claram Scipiadum taceat Cornelia gentem
+	
+seque minus iactet Libycis dotata trophaeis.
+	
+cardine tu gemino laurus praetendis avitas:
+	45
+inde Caledoniis, Australibus inde parentum
+	
+cingeris exuviis. necdum moderamina mundi
+	
+sumpserat illa domus, cum te Lucina beatis
+	
+adderet astrorum radiis, o maxima rerum
+	
+gloria: post genitam didicit regnare Serenam.
+
+	50
+
+Quid dignum memorare tuis, Hispania, terris
+	
+vox humana valet? primo levat aequore solem
+	
+India: tu fessos exacta luce iugales
+	
+proluis inque tuo respirant sidera fluctu.
+	
+dives equis, frugum facilis, pretiosa metallis,
+	55
+principibus fecunda piis, tibi saecula debent
+	
+Traianum; series his fontibus Aelia fluxit.
+	
+hinc senior pater, hinc iuvenum diademata fratrum.
+	
+namque aliae gentes, quas foedere Roma recepit
+	
+aut armis domuit, varios aptantur in usus
+	60
+imperii; Phariae segetes et Punica messis
+	
+castrorum devota cibo; dat Gallia robur
+	
+p244
+militis; Illyricis sudant equitatibus alae:
+	
+sola novum Latiis vectigal Hiberia rebus
+	
+contulit Augustos. fruges, aeraria, miles
+	65
+undique conveniunt totoque ex orbe leguntur:
+	
+haec generat qui cuncta regant. nec laude virorum
+	
+censeri contenta fuit, nisi matribus aeque
+	
+vinceret et gemino certatim splendida sexu
+	
+Flaccillam Mariamque daret pulchramque Serenam.
+
+	70
+
+Te nascente ferunt per pinguia culta tumentem
+	
+divitiis undasse Tagum; Callaecia risit
+	
+floribus et roseis formosus Duria ripis
+	
+vellere purpureo passim mutavit ovile.
+	
+Cantaber Oceanus vicino litore gemmas
+	75
+expuit; effossis nec pallidus Astur oberrat
+	
+montibus: oblatum sacris natalibus aurum
+	
+vulgo vena vomit, Pyrenaeisque sub antris
+	
+ignea flumineae legere ceraunia Nymphae;
+	
+quaeque relabentes undas aestumque secutae
+	80
+in refluos venere palam Nereides amnes
+	
+confessae plausu dominam cecinere futuris
+	
+auspicium thalamis. alio tum parvus in axe
+	
+crescebat Stilicho votique ignarus agebat,
+	
+debita cui longe coniunx, penitusque remoto
+	85
+orbe parabatur tanti concordia fati.
+
+	
+
+Nec tua mortalis meruit cunabula nutrix.
+	
+ubera prima dabant gremio redolente Napaeae
+	
+ternaque te nudis innectens Gratia membris
+	
+adflavit docuitque loqui. quacumque per herbam
+	90
+reptares, fluxere rosae, candentia nasci
+	
+p246
+lilia; si placido cessissent lumina somno,
+	
+purpura surgebat violae, factura cubile
+	
+gramineum, vernatque tori regalis imago.
+	
+omina non audet genetrix tam magna fateri
+	95
+successusque suos arcani conscia voti
+	
+spe trepidante tegit.
+	
+
+Gestabat Honorius arto
+	
+te pater amplexu. quotiens ad limina princeps
+	
+Theodosius privatus adhuc fraterna veniret,
+	
+oscula libabat teque ad sua tecta ferebat
+	100
+laetior; in matrem teneris conversa querellis:
+	
+"quid? me de propriis auferre penatibus?" inquis;
+	
+"imperat hic semper!" praesagia luserat error
+	
+et dedit augurium regnis infantia linguae.
+	
+defuncto genitore tuo sublimis adoptat
+	105
+te patruus magnique animo solacia luctus
+	
+restituens propius quam si genuisset amavit
+	
+defuncti fratris subolem; nec carior olim
+	
+mutua Ledaeos devinxit cura Lacones:
+	
+addidit et proprio germana vocabula nato
+	110
+quaque datur fratris speciem sibi reddit adempti.
+	
+denique cum rerum summas electus habenas
+	
+susciperet, non ante suis intendit amorem
+	
+pignoribus quam te pariter fidamque sororem
+	
+litus ad Eoum terris acciret Hiberis.
+
+	115
+
+Deseritur iam ripa Tagi Zephyrique relictis
+	
+sedibus Aurorae famulas properatur ad urbes.
+	
+incedunt geminae proles fraterna puellae:
+	
+inde Serena minor, prior hinc Thermantia natu,
+	
+expertes thalami, quarum Cythereia necdum
+	120
+p248
+sub iuga cervices niveas Hymenaeus adegit.
+	
+utraque luminibus timidum micat, utraque pulchro
+	
+excitat ore faces. quales Latonia virgo
+	
+et solo Iove nata soror cum forte revisunt
+	
+aequorei sortem patrui (spumantia cedunt
+	125
+aequora castarum gressus venerata dearum;
+	
+non ludit Galatea procax, non improbus audet
+	
+tangere Cymothoën Triton totoque severos
+	
+indicit mores pelago pudor ipsaque Proteus
+	
+arcet ab amplexu turpi Neptunia monstra):
+	130
+tales sceptriferi visurae tecta parentis
+	
+limen Honoriades penetrant regale sorores.
+	
+ambas ille quidem patrio complexus amore,
+	
+sed merito pietas in te proclivior ibat;
+	
+et quotiens, rerum moles ut publica cogit,
+	135
+tristior aut ira tumidus flagrante redibat,
+	
+cum patrem nati fugerent atque ipsa timeret
+	
+commotum Flaccilla virum, tu sola frementem
+	
+frangere, tu blando poteras sermone mederi.
+	
+adloquiis haerere tuis, secreta fateri.1
+140
+
+Prisca puellares reverentia transilit annos.
+	
+non talem Triviae confert laudator Homerus
+	
+Alcinoo genitam, quae dum per litora vestes
+	
+explicat et famulas exercet laeta choreis,
+	
+auratam iaculata pilam post naufraga somni
+	145
+otia progressum foliis expavit Ulixen.
+
+	
+
+Pierius labor et veterum tibi carmina vatum
+	
+ludus erat: quos Smyrna dedit, quos Mantua libros
+	
+p250
+percurrens damnas Helenam nec parcis Elissae.
+	
+nobiliora tenent animos exempla pudicos:
+	150
+Laodamia sequens remeantem rursus ad umbras
+	
+Phylaciden et prona ruens Capaneia coniunx
+	
+communes ardente viro mixtura favillas,
+	
+et gravis incumbens casto Lucretia ferro,
+	
+vulnere quae proprio facinus testata tyranni
+	155
+armavit patriae iustos in bella dolores
+	
+exule Tarquinio, memorandaque concidit uno
+	
+ulta pudicitiam libertatemque cruore.
+	
+talia facta libens non tu virtute minore,
+	
+sed fato meliore legis.
+	
+
+Iam nubilis aetas
+	160
+principe sollicito votis erexerat aulam
+	
+incertis, quem tanta tori fortuna maneret.
+
+	
+
+Antiquos loquitur Musarum pagina reges,
+	
+qui dura sub lege procos certare iuberent,
+	
+empturos thalamum dubii discrimine leti,
+	165
+et sua crudeles gauderent pignora mortis
+	
+ambitione peti. curru Pisaea marino
+	
+fugit praeda Pelops; nam perfidus obice regis
+	
+prodidit Oenomai deceptum Myrtilus axem.
+	
+Hippomenes trepidus cursu ferroque secutam
+	170
+aurato volucrem flexit Schoeneida pomo.
+	
+Herculeas vidit Fluvio luctante palaestras
+	
+moenibus ex altis Calydon pretiumque labori
+	
+Deianira fuit, cum pectore victor anhelo
+	
+Alcides fremeret retroque Acheloius iret
+	175
+decolor: attonitae stringebant vulnera Nymphae;
+	
+saucia truncato pallebant flumina cornu.
+	
+p252
+te non Hesperidum pomis, non amne subacto,
+	
+non socerum fallente rota, sed iudice dignus
+	
+Augusto variis Stilicho spectatus in armis
+	180
+accipit et regni dotes virtute paravit.
+	
+saepe duces meritis bello tribuere coronas:
+	
+hunc cingit muralis honos; hunc civica quercus
+	
+nexuit; hunc domitis ambit rostrata carinis.
+	
+solus, militiae mira mercede, iugalem
+	185
+promeruit Stilicho socero referente coronam.
+
+	
+
+Agnovit patrui similem Thermantia curam;
+	
+nupsit et illa duci; sed longe fata sororis
+	
+inferiora tuis. alio tibi lumine taedas
+	
+accendit Romana Salus magnisque coronis
+	190
+coniugium fit causa tuum. dilectus equorum,
+	
+quos Phrygiae matres Argeaque gramina pastae
+	
+semine Cappadocum sacris praesaepibus edunt,
+	
+primus honor. gemino mox inde e germine2 duxit
+	
+agmina commissosque labor sic gessit honores,
+	195
+ut semper merito princeps cum magna dedisset,
+	
+deberet maiora tamen. si bellica nubes
+	
+ingrueret, quamvis annis et iure minori
+	
+cedere grandaevos equitum peditumque magistros
+	
+aspiceres totumque palam permittere Martem,
+	200
+nec gradus aetatisque pudor senioribus obstat,
+	
+ne iuveni parere velint. ceu flamine molli
+	
+p254
+tranquillisque fretis clavum sibi quisque regendum
+	
+vindicat; incumbat si turbidus Auster et unda
+	
+pulset utrumque latus, posito certamine nautae
+	205
+contenti meliore manu seseque pavere
+	
+confessi (finem studiis fecere procellae):
+	
+haud aliter Stilicho, fremuit cum Thracia belli
+	
+tempestas, cunctis pariter cedentibus unus
+	
+eligitur ductor; suffragia quippe peregit
+	210
+index vera timor; victus ratione salutis
+	
+ambitus et pulsus iacuit formidine livor.
+
+	
+
+Quis tibi tunc per membra tremor quantaeque cadebant
+	
+ubertim lacrimae, cum saeva vocantibus arma
+	
+iam lituis madido respectans lumina vultu
+	215
+optares reducem galeaeque inserta minaci
+	
+oscula cristati raperes festina mariti!
+	
+gaudia quae rursus, cum post victricia tandem
+	
+classica sidereas ferratum pectus in ulnas
+	
+exciperes, castae tuto per dulcia noctis
+	220
+otia pugnarum seriem narrare iuberes!
+	
+non illo nitidos umquam bellante capillos
+	
+comere, non solitos gemmarum sumere cultus:
+	
+numinibus votisque vacas et supplice crine
+	
+verris humum: teritur neglectae gratia formae
+	225
+cum proprio reditura viro.
+	
+
+Nec deside cura
+	
+segnis marcet amor: laudem prudentia belli
+	
+feminea pro parte subit. dum gentibus ille
+	
+confligit, vigili tu prospicis omnia sensu,
+	
+ne quid in absentem virtutibus obvia semper
+	230
+audeat invidiae rabies neu fervor iniquus,
+	
+ne qua procul positis furto subsederit armis
+	
+p256
+calliditas nocitura domi. tu sedula quondam
+	
+Rufino meditante nefas, cum quaereret artes
+	
+in ducis exitium coniuratosque foveret
+	235
+contra pila Getas, motu rimata latentes
+	
+mandatis tremebunda virum scriptisque monebas.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 MSS. have fideli; P marks the passage as corrupt. I adopt Birt's fateri and, with Heinsius and Buecheler, suppose a line fallen out between 138 and 139.
 
 
+❦
 
 2
 germine is the reading adopted by the Aldine ed. The MSS. vary. Birt conjectures ex ordine
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Id. Aug. 07

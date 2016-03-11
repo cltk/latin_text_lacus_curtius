@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 1‑6
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 37‑66
+				
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p154
+[Capitula 7‑36]
+	
+
 7
 
 Kal. Ianuariis1 inde movit et pervenit ad oppidum Leptim, liberam civitatem et immunem. Legati ex oppido obviam veniunt, libenter se omnia facturos quae vellet pollicentur. Itaque centurionibus ad portas oppidi et custodiis impositis, ne quis miles in oppidum introiret aut iniuriam faceret cuipiam incolae, non longe ab oppido secundum litus facit castra. Eodemque naves onerariae et longae non
@@ -244,8 +362,16 @@ p202Afrorum, servorum denique et cuiusquemodi generis hominum, qui modo per aeta
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 I have followed Schneider in transferring this date from the foot of chapter 6. cf. Ch. 5, Note 1.
+
+
+
 
 
 
@@ -256,8 +382,14 @@ et . . . exsistunt MSS.: ut . . . exsistant Hoffmann; but the interpretatio
 
 
 
+
+
+
 3
 interim MSS.: Vatinium Schneider.
+
+
+
 
 
 
@@ -268,8 +400,14 @@ III MSS.: IIII Schneider.
 
 
 
+
+
+
 5
 hoc MSS.: huc Davies.
+
+
+
 
 
 
@@ -280,8 +418,14 @@ The MSS. vary between MC and CCC; but cf. ch. 19.
 
 
 
+
+
+
 7
 quippe quis (or quippe non or in) illorum sibi confideret is the general reading of the MSS.: I have adopted Forchhammer's conjecture.
+
+
+
 
 
 
@@ -292,8 +436,14 @@ Brundisio MSS.: Buthroto Frölich.
 
 
 
+
+
+
 9
 equitatusque innumerabilis MSS.: equitatuque innumerabili Hoffmann.
+
+
+
 
 
 
@@ -304,8 +454,14 @@ Caesar added by Dinter.
 
 
 
+
+
+
 11
 The words hieme gerere were conjectured by Woelfflin.
+
+
+
 
 
 
@@ -316,8 +472,14 @@ After solebant the MSS. read ab utrisque ducibus: I have followed Nipperdey in
 
 
 
+
+
+
 13
 After eius all MSS. read Iuba: most editors follow Aldus in deleting it.
+
+
+
 
 
 
@@ -328,7 +490,160 @@ quique pabulandi aut lignandi aut etiam muniendi gratia vallem petierant quique 
 
 
 
+
+
+
 15
 etiam undique MSS.: et immuni Rubens.
 
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XI Kal. Mar. 13

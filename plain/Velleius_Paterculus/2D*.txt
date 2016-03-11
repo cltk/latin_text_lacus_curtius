@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Liber II
+				
+Capp. 59‑93
+				
+
+
+
+Haec pagina telaris pars est operis
+				
+
+
+
+Historiae Romanae
+				
+
+
+C. Vellei Paterculi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXIIII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+Vellei Paterculi
+	
+Historia Romana
+	
+p246
+Liber II: Capitula 94‑131
+	
+
 94
 
 Hoc tractu temporum Ti. Claudius Nero, quo trimo,309 ut praediximus, Livia, Drusi Claudiani
@@ -398,772 +516,1064 @@ Voto finiendum volumen est.480 Iuppiter Capitoline, et auctor ac stator Romani n
 
 p328et quidquid numinum hanc Romani imperii molem in amplissimum terrarum orbis fastigium extulit, vos publica voce obtestor atque precor: custodite, servate, protegite hunc statum, hanc pacem, hunc principem,481 2 eique functo longissima statione mortali destinate successores quam serissimos, sed eos, quorum cervices tam fortiter sustinendo terrarum orbis imperio sufficiant, quam huius suffecisse sensimus, consiliaque omnium civium aut pia fovete aut impia opprimite.482
 
+
+Apparatus Criticus:
+	
+
 309
 trimo Aldus; primo AP.
 
 
+❦
 
 310
 despondente Gelenius; respondente AP.
 
 
+❦
 
 311
 ostiae atque Rhenanus; ostia eratque AP.
 
 
+❦
 
 312
 tractu Gelenius; tractatu AP.
 
 
+❦
 
 313
 quin Ruhnken; cuius AP.
 
 
+❦
 
 314
 mole Heinsius; molem P; morem A.
 
 
+❦
 
 315
 e diversis Stanger; divisis AP.
 
 
+❦
 
 316
 fuerat Orelli; foret AP.
 
 
+❦
 
 317
 Iulia filia Haase.
+❦
 
 318
 ab added by Lipsius.
+❦
 
 319
 consule Lipsius; COS. A; consulari Kritz followed by Halm.
+❦
 
 320
 perficit Lipsius; percipit AP.
 
 
+❦
 
 321
 diximus A; praediximus P.
 
 
+❦
 
 322
 viribus Bipont.; viris AP; curis Heinsius.
+❦
 
 323
 sunt added by Halm.
+❦
 
 324
 Rhodum deverterint add. Halm.
+❦
 
 325
 atque eum Halm; ad quem AP.
 
 
+❦
 
 326
 magnificentissimis Cuperus; magnificentissimi AP.
 
 
+❦
 
 327
 libidinive Halm; libidine AP.
 
 
+❦
 
 328
 Iulus Schegk; Iulius AP.
 
 
+❦
 
 329
 quas Orelli; quasi AP.
 
 
+❦
 
 330
 pependissent A; om. P.
 
 
+❦
 
 331
 voluntaria Lipsius; voluntarii AP.
 
 
+❦
 
 332
 ad visendum Lipsius; ad sidendum BA; ad sedandum A.º
+❦
 
 333
 excelsissimo in insula Gelenius; excelsissimae insulae AP.
 
 
+❦
 
 334
 Caesari fama vulgavit Lipsius; Caesaris iam avulgavit AP.
 
 
+❦
 
 335
 after dies Halm adds secuta.
 
 
+❦
 
 336
 Gaius added by Krause.
+❦
 
 337
 rem added by Heinsius.
+❦
 
 338
 diu deinde reluctatus Ruhnken; diu de reluctatus A; deinde reluctatus P.
 
 
+❦
 
 339
 L. Gelenius; quinquagesimum AP.
 
 
+❦
 
 340
 atque P; eoque (vel eo quod) B; quae eo A; adeoque Heinsius.
+❦
 
 341
 contenti added by Rhenanus; contenti simus Burer.
+❦
 
 342
 faustus added by Halm.
+❦
 
 343
 id Lipsius; et AP.
 
 
+❦
 
 344
 VIIII. P; VIII. A.
 
 
+❦
 
 345
 spectator tum Thomas; spectatum A; spectatus P; spectator et Gelenius followed by Halm.
+❦
 
 346
 virtutibus Lipsius; viribus AP.
 
 
+❦
 
 347
 gentis eius Arminius Fr. Jacob; gentis (-tes P) et inamninus (inamminus BA) AP.
 
 
+❦
 
 348
 sibi Cludius; in AP.
 
 
+❦
 
 349
 iam Gruner; tum AP.
 
 
+❦
 
 350
 multiplicem virtutibus Raphelengius; multiplicem in virtutibus AP.
 
 
+❦
 
 351
 obstructis Gelenius; extructis AP.
 
 
+❦
 
 352
 at tutela Lipsius; ad tutelam AP.
 
 
+❦
 
 353
 Lupiae Lipsius; Iuliae AP.
 
 
+❦
 
 354
 eadem Kritz; eodem AP.
 
 
+❦
 
 355
 parta added by Halm.
+❦
 
 356
 virtute A; iuventute P.
 
 
+❦
 
 357
 motum conatumque Halm; motumque BA; motum P.
 
 
+❦
 
 358
 cum after Caesar deleted by Herelius.
+❦
 
 359
 Hercinia silva Heinsius; Herciniae silvae AP.
 
 
+❦
 
 360
 quos P; quis BA.
 
 
+❦
 
 361
 custodientium Madvig; custodia tum AP.
 
 
+❦
 
 362
 lacesseret, at si added by Rhenanus.
+❦
 
 363
 ostenderet added by Burman.
+❦
 
 364
 in added by Acidalius.
+❦
 
 365
 eius P; cuius BA.
 
 
+❦
 
 366
 duceret supplied by Lipsius.
+❦
 
 367
 The second interdum added by Heinsius; iter dum AP.
 
 
+❦
 
 368
 aberat legionesque quas supplied by Haupt.
+❦
 
 369
 se added by Krause.
+❦
 
 370
 consilii Fröhlich; constitit AP.
 
 
+❦
 
 371
 se effuderat Ursinus; effugerat AP.
 
 
+❦
 
 372
 maxima Heinsius; proxima AP.
 
 
+❦
 
 373
 duobus Batonibus AP; Batoni Halm.
+❦
 
 374
 in after erat deleted by Heinsius.
+❦
 
 375
 animorum AP; armorum Bothe followed by Halm.
+❦
 
 376
 quin Vascosanus; quia AP.
 
 
+❦
 
 377
 firmatum Burer; formatum BA; fortunatum P.
 
 
+❦
 
 378
 Before pollicitati Halm supplies prompte.
 
 
+❦
 
 379
 ultimum Lipsius; militum AP.
 
 
+❦
 
 380
 ministerii Lipsius; ministri AP.
 
 
+❦
 
 381
 missus sum Halm; missum A; missus P.
 
 
+❦
 
 382
 furentes BAP; fruentes Orelli.
+❦
 
 383
 elusimus suggested by a reviewer in Bibl. phil. i.42, eius imus * * *º euasimus A; evasimus P.
 
 
+❦
 
 384
 fudimus added by Haase.
+❦
 
 385
 civilitatis Madvig after Ruhnken; utilitatis AP.
 
 
+❦
 
 386
 imperatoria Madvig; imperatoris AP.
 
 
+❦
 
 387
 que added by Heinsius.
+❦
 
 388
 hostium after milia deleted by Orelli.
+❦
 
 389
 cum Ruhnken; ut AP.
 
 
+❦
 
 390
 Rhoemetalces Rhenanus; Rhomo et Alces BAP.
 
 
+❦
 
 391
 fusa Voss.; fuga BA; fugata P.
 
 
+❦
 
 392
 e quibus Boecler; qui P; quibus BA.
 
 
+❦
 
 393
 ordinis Gelenius; ordines AP.
 
 
+❦
 
 394
 X alis et Laurent.; XIIII sed PA; XIIII alis et Lipsius.
+❦
 
 395
 distractissimus Rhenanus; distraximus AP.
 
 
+❦
 
 396
 negotio Gelenius; genitio BA, om. P.
 
 
+❦
 
 397
 usum added by Lipsius.
+❦
 
 398
 uni portatum A; after erasing um, importatum P; una portatum Orelli followed by Halm.
+❦
 
 399
 interdum an anonymous scholar; inerat AP.
 
 
+❦
 
 400
 tamen rarissima Halm; amarissima AP.
 
 
+❦
 
 401
 dissimulantis . . . inhibentis AP; dissimulans . . . inhibens Acidalius.
+❦
 
 402
 alterum alterum Rhenanus; alterum AP.
 
 
+❦
 
 403
 autumno Gelenius; autumni AP.
 
 
+❦
 
 404
 a Caesare Rhenanus; Caesarem AP.
 
 
+❦
 
 405
 nomini Acidlaius; nominis AP.
 
 
+❦
 
 406
 Caesarum Scheffer; eorum AP.
 
 
+❦
 
 407
 donatus added by Rhenanus.
+❦
 
 408
 gloriosissimum Halm gloriosum AP.
 
 
+❦
 
 409
 incultos Heinsius; multos AP.
 
 
+❦
 
 410
 quamquam Halm; quibusdem AP.
 
 
+❦
 
 411
 hoc Gelenius; loco AP.
 
 
+❦
 
 412
 Aelius Lamia Ruhnken; etiam AP.
 
 
+❦
 
 413
 in eo nihil . . . superesse Ellis; ne (me A) nihil (om. P) optimo civi (civis A) . . . perisset BAP.
 
 
+❦
 
 414
 morte added by Orelli.
+❦
 
 415
 nuntium attulere supplied here by Halm, by other editors after cohortium.
 
 
+❦
 
 416
 tanta clades inferretur supplied by Halm.
+❦
 
 417
 et causa et persona Orelli; et causa persona AP.
 
 
+❦
 
 418
 ita Acidalius; et AP.
 
 
+❦
 
 419
 credat Lipsius; credebat AP.
 
 
+❦
 
 420
 in iurgia Madvig; in iuria AP.
 
 
+❦
 
 421
 Romanae decus Burman; Romae eius (ius P) AP.
 
 
+❦
 
 422
 consecutus Heinsius; consequens AP.
 
 
+❦
 
 423
 vinciri socios. sed praevalebant iam supplied by Ellis from
 	
 Tac. An. i.58.
+❦
 
 424
 praestrinxerant Gelenius; praestrinxerat AP.
 
 
+❦
 
 425
 cuius fortunam mutaturus est ed. Bipont.; qui fortunam mutaturus (imitaturus A) AP.
 
 
+❦
 
 426
 speciemque Burman; spemque AP.
 
 
+❦
 
 427
 egrediendive Voss.; egrediẽ (egredie with ad written above the g A, egregie P) aut BAP.
 
 
+❦
 
 428
 occasio nisi inique, nec in quantum Ellis; occasionis in quantum APB.
 
 
+❦
 
 429
 equite peditem relinquens fuga cum alis Gelenius; equitem peditem relinquens fugatum (fuga cum P) aliis BAP.
 
 
+❦
 
 430
 hostilis Burer; hosti BA; hostium P.
 
 
+❦
 
 431
 hostis Haupt; hostium AP; om. B.
 
 
+❦
 
 432
 arma infert (hosti Voss.) quem arcuisse Lipsius; arma interfecti qui arguisse AP.
 
 
+❦
 
 433
 adulescens Ruhnken; ad AP.
 
 
+❦
 
 434
 effluvio Lipsius; influvio AP.
 
 
+❦
 
 435
 ingressi Germaniam Bardili; ingressi anima (animum P) BAP.
 
 
+❦
 
 436
 Rhenanus supplied et after mollisset.
 
 
+❦
 
 437
 aequum ei ius Rhenanus; equum eius AP.
 
 
+❦
 
 438
 est Ellis; esset AP.
 
 
+❦
 
 439
 mihi Burer; militi AP.
 
 
+❦
 
 440
 fuit Haase; fuerit AP.
 
 
+❦
 
 441
 praeposito ei Heinsius; praepositi (pro- P) BAP.
 
 
+❦
 
 442
 expectato added by Halm.
+❦
 
 443
 ocius P; totius BA.
 
 
+❦
 
 444
 satis added by Ruhnken.
+❦
 
 445
 pro added by Ellis; Halm suggests nec bonis votis.
 
 
+❦
 
 446
 sacerdotalibus Scheffer; sacerdotibus AP.
 
 
+❦
 
 447
 consecutis quidem Ellis; consecutisque A; consecutis P.
 
 
+❦
 
 448
 se added by Orelli.
+❦
 
 449
 ultima Voss.; ultimam BA; ultimum P.
 
 
+❦
 
 450
 et added by Krause.
+❦
 
 451
 noxiorum Gronovius; nostrorum AP.
 
 
+❦
 
 452
 non ignave Ellis; ignave P; ignovit Bipont. edition.
+❦
 
 453
 Drusus Gelenius; Brutus AP.
 
 
+❦
 
 454
 in id ipsum plurimo quidem AP; in diversum plurimoque idem Madvig.
+❦
 
 455
 in iis . . . cuius supplied by Madvig.
+❦
 
 456
 et added by Orelli.
+❦
 
 457
 ingerantur Ellis; insera BA; inserta sint P.
 
 
+❦
 
 458
 partibus Voss; in partibus AP.
 
 
+❦
 
 459
 obsitae Burer; oppositae BAP.
 
 
+❦
 
 460
 magistratibus Gelenius; militibus AP.
 
 
+❦
 
 461
 MSS. have per before omnis.
 
 
+❦
 
 462
 proxime Scheffer; maxime AP.
 
 
+❦
 
 463
 complura eveherentur Vascosanus; complura enumerentur (complurae numerentur A) BA; complura enumerarentur P.
 
 
+❦
 
 464
 after egent the words neque in parvo paucitas ministeria defecit are deleted by Halm after Vossius and Boecler.
+❦
 
 465
 est Ruhnken; e A; et P.
 
 
+❦
 
 466
 qui ante Ellis; antiqui ante P; primi ante A; antique qui ante Halm.
+❦
 
 467
 qui Fröhlich; eque A; om. P.
 
 
+❦
 
 468
 Tullio Lipsius; Fulvio AP.
 
 
+❦
 
 469
 propulit Acidalius; protulit AP.
 
 
+❦
 
 470
 forma added by Rhenanus.
+❦
 
 471
 Romam Ursinus; formam BAP.
 
 
+❦
 
 472
 numquam Orelli; quam AP.
 
 
+❦
 
 473
 causam Drusi Libonis audivit Madvig; et causas pressius audit AP.
 
 
+❦
 
 474
 consiliorum suorum after salubribus bracketed by Ruhnken.
+❦
 
 475
 sic Burman; nec AP.
 
 
+❦
 
 476
 quicquid enim umquam Haase; qui quidem quam AP.
 
 
+❦
 
 477
 audeo cum deis Heinsius; auro deo cum de his AP.
 
 
+❦
 
 478
 infestos haberet quorum supplied by Burman.
+❦
 
 479
 duxit Rhenanus; dixit AP.
 
 
+❦
 
 480
 est Orelli; sit AP.
 
 
+❦
 
 481
 hunc principem added by Lipsius.
+❦
 
 482
 fovete . . . opprimite supplied by Voss.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Suetonius:
+			
+Vita Tiberii
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Velleius Paterculus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+23 Dec 08

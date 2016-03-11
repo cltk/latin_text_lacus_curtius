@@ -1,3 +1,124 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+LXX‑LXXIII
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+Marci Catonis
+				
+
+
+
+a
+W. D. Hooper et H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+XCI‑CIII
+				
+
+
+
+
+
+Marci Catonis
+	
+
+De Re Rustica
+	
+
+Capitula LXXIV‑XC
+	
 p80
 74
 Panem depsticium sic facito. Manus mortariumque bene lavato. Farinam in mortarium indito, aquae paulatim addito subigitoque pulchre. Ubi bene subegeris, defingito coquitoque sub testu.
@@ -90,28 +211,148 @@ Palumbum recentem sic farcito. Ubi prensus erit, ei fabam coctam tostam primum d
 
 
 	
+
+Apparatus Criticus:
+	
+
 36
 pariter Turnebus.
 
 
+❦
 
 37
 Corrupt. Hörle suggests ornatoque; focum deverrito temperatoque; tunc, etc., Ph. W. 48.1389.
 
 
+❦
 
 38
 Corrupt, Keil.
 
 
+❦
 
 39
 pondo Iucundus.
 
 
+❦
 
 40
 sestarios Iucundus.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Agricultura
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Oct. 04

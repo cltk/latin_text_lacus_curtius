@@ -1,4 +1,96 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Pars
+				
+Prior
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+Anonymi Valesiani
+	
+p530
+Pars Posterior
+	
+
+Chronica Theodericiana
+	
+
 7
 36 Igitur imperante Zenone Augusto Constantinopoli, superveniens Nepos patricius ad Portum urbis Romae, deposuit de imperio Glycerium et factus est episcopus et Nepos factus imperator Romae. Mox veniens1 Ravennam; quem persequens Orestes patricius cum exercitu, metuens Nepos adventum Orestis, ascendens navem fugam petit ad Salonam et ibi mansit per annos quinque; postea vero a suis occiditur. Mox eo egresso factus2 imperator Augustulus. Augustulus imperavit annos X.
 
@@ -230,85 +322,105 @@ p568Arriani basilicas catholicas invaderent. 95 Sed qui non patitur fideles cul
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 ueniens] BP (see
 	
 § 42, note 5); uenit, P2.
 
 
+❦
 
 2
 factus] B; factus est, P.
 
 
+❦
 
 3
 tamen] MSS.; admodum or etiam (Hirschfeld), pref. by Momm.
 
 
+❦
 
 4
 donans ei reditum]; donauit et creditor, B.
 
 
+❦
 
 5
 Orestes Pannonius] Henr. Val.; oresti pannotos, B.
 
 
+❦
 
 6
 peruenerat]; peruerat, B.
 
 
+❦
 
 7
 Ariagne, Momm.; Ariadne, Henr. Val.; agriami, V.
 
 
+❦
 
 8
 mobiles]; nobiles, B.
 
 
+❦
 
 9
 cursum uelocissimum]; curso uelocissimo, B.
 
 
+❦
 
 10
 genti] Rühl; gentis, B.
 
 
+❦
 
 11
 est mox]; mox est, B.
 
 
+❦
 
 12
 cisternam siccam]; cisterna sicca, B.
+❦
 
 13
 amorem]; amore, B.
 
 
+❦
 
 14
 senatum . . . populum]; senato . . . populo, B.
 
 
+❦
 
 15
 Odoacar]; odoachar, P; oduacar, B3.
 
 
+❦
 
 16
 Edico]; Aedico, BP.
 
 
+❦
 
 17
 se ne,
@@ -316,6 +428,7 @@ se ne,
 Eugippiani libri]; BP omit.
 
 
+❦
 
 18
 humillimae tectum]
@@ -323,6 +436,7 @@ humillimae tectum]
 Eugippiani; humillimo tectum (tecte, B3), B; humillimum tectum, P.
 
 
+❦
 
 19
 After optionem
@@ -332,6 +446,7 @@ Eugippus
 inserts memor illius praesagii, quo eum quondam expresserat regnaturum.
 
 
+❦
 
 20
 cuius . . . imperatis,
@@ -339,317 +454,494 @@ cuius . . . imperatis,
 Eugippus]; cui, P; imperanti, B3P.
 
 
+❦
 
 21
 annos]; annos'; annos, Knoell ("probabiliter," Momm.).
 
 
+❦
 
 22
 et, B2] at uero odoacer (odoachar, P), B2P.
 
 
+❦
 
 23
 rauenna] B; in rauenna, P.
 
 
+❦
 
 24
 festum] BP; Faustum, edd.
 
 
+❦
 
 25
 Bedente] Gardt.; uecente, BP.
 
 
+❦
 
 26
 Thelanem] thelane, B.
 
 
+❦
 
 27
 ante, Momm.; conte, B; caute, Hadr. Val.
 
 
+❦
 
 28
 quiuis, Momm.; quis, B.
 
 
+❦
 
 29
 nihil . . . iudicaretur, tr. by Momm. from after opulentum fecit, following Rühl in part; militia(m) . . . opulentum fecit, after tamen, B.
 
 
+❦
 
 30
 quo ius, Momm.; quo eis ius, quem eius, B.
 
 
+❦
 
 31
 donum]; dono, B; dona, edd.
 
 
+❦
 
 32
 ea, BP]; eo, edd.
 
 
+❦
 
 33
 abscedo] Hadr. Val., Hirschfeld; abscede, Henr. Val.
 
 
+❦
 
 34
 ab] because of the prothetic vowel in sponsus, cf. Fr. épouse; a, P.
 
 
+❦
 
 35
 auribus] Henr. Val.; curibus, B; curia, P.
 
 
+❦
 
 36
 dum maritum, Momm.; dum alium, B2; dum aliud B3P.
+❦
 
 37
 alium non] BP; non alium, edd.
 
 
+❦
 
 38
 accepta uxore,] BP; accepit uxorem, edd.
 
 
+❦
 
 39
 et, Momm.; ei, BP; eo, edd.
 
 
+❦
 
 40
 successit in, added doubtfully by Momm. before administratione; transtuli in ad. praefecturae after itaque.
 
 
+❦
 
 41
 aliam germanam suam] alia g. s. B; filiam germanas suae, Henr. Val.
 
 
+❦
 
 42
 placauit omnes gentes, Momm.; placuit omnibus gentibus, B.
 
 
+❦
 
 43
 addidit, Momm.; reddedit, B3; reddidit, B3 (emended) P.
 
 
+❦
 
 44
 circuit] B; circuiuit, P.
 
 
+❦
 
 45
 tanto modo, Momm., doubtfully; totum modo, B2; B2º (emend.) P omit.
 
 
+❦
 
 46
 portam fecerit, Momm.; portas faeceret, B2 (emend.); portas faceret, P.
 
 
+❦
 
 47
 emerunt, Gardt.; fuerunt] B; Momm. thought frumenta might have fallen out.
 
 
+❦
 
 48
 capitem]; capite, B; caput, P.
 
 
+❦
 
 49
 regium insigne, Hirschfeld; regnum] BP; perhaps signum, Momm.
 
 
+❦
 
 50
 Cf. note 49,º above.
 
 
+❦
 
 51
 discens, Momm. doubtfully; dicere, BP.
 
 
+❦
 
 52
 renuntiaretur ipse ei primus]; renuntiaret ipse ei nuntiatus est primus, PB.
 
 
+❦
 
 53
 festinus Iustinus, Momm.; Iustinus, Wagner; festinus, BP.
 
 
+❦
 
 54
 uellens] B2; uolens, B2 (emend.) P.
 
 
+❦
 
 55
 mittes, scripsi; mittis] B.
 
 
+❦
 
 56
 obtuso, Zangermeister; obruto] BP; bruto, Henr. Val.
 
 
+❦
 
 57
 interrasilem] B3 (emended) P1; interra* silem, B3; interasilem, P2.
 
 
+❦
 
 58
 legi] B1 (ut coni. Reiske); regis, B1 (emend.) P.
 
 
+❦
 
 59
 ducebat]; duce**t, B1; duceret, B2P.
 
 
+❦
 
 60
 tantum]; tamen, Hirschfeld.
 
 
+❦
 
 61
 ludunt] P (coni. parum certe, Momm.); laudent, B3; ludent, B3 (emend.); lauant, Hirschfeld; ludibundi, coni. Warmington.
 
 
+❦
 
 62
 aquam, add. Warmington.
 
 
+❦
 
 63
 obseruantes, Momm.; reseruantes, BP.
 
 
+❦
 
 64
 re, Momm.; cena, BP.
 
 
+❦
 
 65
 et (after Romanus), sugg. by Momm.; BP omit.
 
 
+❦
 
 66
 et, Momm.; praeceipt et, BP.
 
 
+❦
 
 67
 id est]; idem situm, B; ibidem s., P; Momm. suggests that id est altarium is an interpolation, which seems probable.
 
 
+❦
 
 68
 praecipitari] P2 (conj.); praecipitati, B; praecipitati sunt, P1.
 
 
+❦
 
 69
 cometes splendens, Henr. Val.; comes pendens]; comis pendens BP.
 
 
+❦
 
 70
 reuocitus] B; reuocatus, P; euocatus, pref. by Momm.
 
 
+❦
 
 71
 tendebat, Henr. Val.]; tenebat, BP.
 
 
+❦
 
 72
 Ticini] B; Ticinum, pref. by Momm.
 
 
+❦
 
 73
 quem . . . occidi, Momm. qui (quem, P1) mox . . . misit rex et facit occidi, BP.
 
 
+❦
 
 74
 rex Rauennam] Hadr. Val.; ex Rauenna, BP.
 
 
+❦
 
 75
 item] preceded by a space in B.
 
 
+❦
 
 76
 reconciliatos]; reconciliatus, B2; reconciliatos hereticos, B2 (emend.).
 
 
+❦
 
 77
 facito citius]; fac cito, P2 (emend.) ("recte puto," Momm.); facito, BP1.
 
 
+❦
 
 78
 quas] B1 (?) P1 (script. emendata); quibus, BP1.
 
 
+❦
 
 79
 fabricari (fortasse forari), Momm.]; fa******, B2; preparari, B2 (emend.) P.
 
 
+❦
 
 80
 dolore] Henr. Val.; dolo, BP.
 
 
+❦
 
 81
 reuertens] B2; reuertens igitur, B2 (emend.) P.
 
 
+❦
 
 82
 latus, Momm.; lectus, BP.
 
 
+❦
 
 83
 saxum ingentem quem] B; ingens quod, P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Excerptorum
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VI Id. Oct. 04

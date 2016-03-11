@@ -1,4 +1,161 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars XI
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars XIII
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+XLI.
+		
+
+Bellum piraticum.
+		
+
+
+
+XLII.
+		
+
+Bellum Creticum.
+		
+
+
+
+XLIII.
+		
+
+Bellum Balearicum.
+		
+
+
+
+p190
+
+XLI. Bellvm Piraticvm
+	
+
 III, 6
 Interim cum populus Romanus per diversa terrarum districtus est, Cilices invaserant maria sublatisque commerciis, rupto foedere generis humani, sic maria bello quasi tempestate praecluserant. 2 Audaciam perditis furiosisque latronibus dabat inquieta Mithridaticis proeliis Asia, dum sub alieni belli tumultu exterique regis invidia inpune grassantur. 3 Ac primum duce Isidoro contenti proximo mari Cretam inter atque Cyrenas et Achaiam sinumque Maleum, quod ab spoliis aureum ipsi vocavere, latrocinabantur. 4 Missusque in eos Publius Servilius, quamvis leves et fugaces myoparonas gravi et Martia classe turbaret, non incruenta victoria superat. 5 Sed nec mari summovisse contentus, validissimas urbes eorum et diutina praeda abundantes, Phaselim et Olympum evertit Isaurosque ipsam arcem Ciliciae, unde conscius sibi magni laboris Isaurici cognomen adamavit. 6 Non ideo tamen tot cladibus domiti terra se continere potuerunt; sed ut quaedam animalia, quibus aquam terramque incolendi gemina natura est, sub ipso hostis recessu inpatientes soli
 
@@ -12,6 +169,10 @@ p194videbantur; sed nihil tamen amplius, quam ut ad primum ictum concurrerent. M
 
 
 	
+
+XLII. Bellvm Creticvm
+	
+
 III, 7
 Creticum bellum, si vera volumus, [nos fecimus]8 sola vincendi nobilem insulam cupiditas fecit. Favisse Mithridati videbatur: hoc placuit armis vindicare. 2 Primus invasit insulam Marcus Antonius cum ingenti quidem victoriae spe atque fiducia, adeo ut pluris catenas in navibus quam arma portaret. 3 Dedit itaque poenas vaecordiae. Nam plerasque naves intercepit hostis, captivaque corpora religantes velis ac funibus suspendere, ac sic velificantes
 
@@ -21,6 +182,10 @@ p196triumphantium in modum Cretes portibus suis adremigaverunt. 4 Metellus dein
 
 
 	
+
+XLIII. Bellvm Balearicvm
+	
+
 III, 8
 Quatenus Metelli Macedonici domus bellicis agnominibus12 adsueverat, altero ex liberis eius Cretico facto mora non fuit quin alter quoque Balearicus vocaretur. 2 Baleares per id tempus insulae piratica rabie maria corruperant. Homines feros atque silvestres mireris ausos a scopulis suis saltem maria prospicere. 3 Ascendere etiam inconditas rates et praeternavigantes subinde inopinato impetu terruere. 4 Sed cum venientem ab alto Romanam classem prospexissent,
 
@@ -30,14 +195,25 @@ p198praedam putantes, ausi etiam occurrere, et primo impetu ingenti lapidum saxo
 
 
 	
+
+XLIIII. Expeditio in Cyprvm
+	
+
 III, 9
 Aderat fatum insularum. Igitur et Cypros recepta sine bello. Insulam veteribus divitiis abundantem 2 et ob hoc Veneri sacram Ptolemaeus regebat. 3 Sed divitiarum tanta erat fama, nec falso, ut victor gentium populus et donare regna consuetus, P. Clodio tribuno plebis duce, socii vivique regis confiscationem mandaverit. 4 Et ille quidem ad rei famam veneno fata praecepit. 5 Ceterum Porcius Cato Cyprias opes Liburnis per Tiberium ostium invexit. Quae res latius aerarium populi Romani quam ullus triumphus implevit.
 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Atilius Gronovius: gratillus B: gratillius NL.
+
+
+
 
 
 
@@ -45,17 +221,32 @@ Atilius Gronovius: gratillus B: gratillius NL.
 2
 Pomponius Dukerus: Pompeius codd.
 
+
+
+
 3
 Marcellinus Libycum scripsi: Libycum Marcellinus codd.
+
+
+
 
 4
 Ionicum Oremerodius: Ponticum et codd.
 
+
+
+
 5
 porta Lipsius: portam codd.
 
+
+
+
 6
 viderunt: viderent B.
+
+
+
 
 
 
@@ -66,8 +257,14 @@ reperta gens ulla est om. B.
 
 
 
+
+
+
 8
 nos fecimus secl. Iahnius.
+
+
+
 
 
 
@@ -78,8 +275,14 @@ Eleuthernan: aetery threan B: et erythream N.
 
 
 
+
+
+
 10
 consulebatur: consolebatur B: consulabatur N.
+
+
+
 
 
 
@@ -90,8 +293,14 @@ alienam Mommsenus: aliam B.
 
 
 
+
+
+
 12
 agnominibus: hacnominibus B: nominibus NL.
+
+
+
 
 
 
@@ -101,3 +310,109 @@ accipit: accepit B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

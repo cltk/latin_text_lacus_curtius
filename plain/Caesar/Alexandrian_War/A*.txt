@@ -1,6 +1,137 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Alexandrian War
+				
+
+probably by Hirtius, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 34‑41
+				
+
+
+
+
+
+Caesar
+	
+de Bello Alexandrino
+	
+
+p10
+[Capitula 1‑33]
+	
+
+
+
+
+
+
+
+
+Forma Alexandriae
+		
+
+
+
+
 Thayer's Note: The map is from the end of the volume, where it is titled "Map 1". The topography is so changed today that adding a Google map would not have been useful.
 		
+
+
+
 1
 
 Bello Alexandrino conflato Caesar Rhodo atque ex Syria Ciliciaque omnem classem arcessit; Creta sagittarios, equites ab rege Nabataeorum Malcho evocat; tormenta undique conquiri et frumentum mitti, auxilia adduci iubet. Interim munitiones cotidie operibus augentur atque omnes oppidi partes, quae minus esse firmae videntur, testudinibus ac musculis aptantur;1 ex aedificiis autem per foramina in proxima aedificia arietes immittuntur, quantumque aut ruinis deicitur aut per vim recipitur loci, in tantum munitiones proferuntur. Nam incendio fere tuta est Alexandrea, quod sine contignatione ac materia sunt aedificia et structuris ac fornicibus continentur tectaque sunt rudere aut pavimentis. Caesar maxime studebat ut, quam angustissimam partem oppidi palus a meridie interiecta efficiebat, hanc operibus vineisque agendis ab reliqua parte urbis excluderet, illud spectans primum ut, cum in duas partis esset urbis divisa acies, uno consilio atque imperio administraretur, deinde ut laborantibus succurri atque ex altera oppidi parte
@@ -260,8 +391,16 @@ p64statuit, ne qua rursus nova dissensio, prius quam diuturnitate confirmarentur
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 So MSS.: temptantur Nipperdey, perhaps rightly.
+
+
+
 
 
 
@@ -270,8 +409,14 @@ The MSS. are divided between iuberent and iuberet.
 
 
 
+
+
+
 3
 ut mihi MSS.: at mihi si Madvig.
+
+
+
 
 
 
@@ -280,8 +425,14 @@ essent MSS.: esse Nipperdey.
 
 
 
+
+
+
 5
 This clause is faulty as it stands in the MSS., which read — quibus et superioribus locis sublevabantur, ut ex aedificiis defendi possent. I have adopted Dinter's conjecture.
+
+
+
 
 
 
@@ -290,11 +441,20 @@ Lycias or licias MSS.: <Syrias . . . Ci>licias Schneider.
 
 
 
+
+
+
 7
 Caesaris MSS.: cessare Caesarem Hoffmann.
 
+
+
+
 8
 fortiorem or certiorem MSS.: artiorem Vielhaber.
+
+
+
 
 
 
@@ -303,8 +463,14 @@ Alexandrinis manum comprehendi multum operibus et MSS. I have adopted Dinter's
 
 
 
+
+
+
 10
 adducit, the MSS. reading, is difficult. Davies proposed advenit: Hoffmann adductis, id oppidum . . . deleting cum before magnis copiis.
+
+
+
 
 
 
@@ -313,8 +479,14 @@ derivata inter se MSS. Duebner deleted inter se.
 
 
 
+
+
+
 12
 Some MSS. add the words constantiaque virtutum et Alexandrinorum imprudentia.
+
+
+
 
 
 
@@ -323,6 +495,167 @@ eis added by Nipperdey.
 
 
 
+
+
+
 14
 The MSS. add itinere terrestri, which Nipperdey deleted.
 
+
+
+
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+
+
+
+Historia Aegypti
+			
+
+
+
+
+
+
+de Bello
+			
+Alexandrino
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Id. Feb. 13

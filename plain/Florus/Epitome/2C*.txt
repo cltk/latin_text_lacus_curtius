@@ -1,4 +1,134 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+II: Pars II
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II: Pars IV
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber II (continuatio)
+	
+
+p246
+
+VIIII. Bellvm civile Marianvm
+	
+
 III, 21
 Hoc deerat unum populi Romani malis, ut iam ipse intra se parricidale telum domi stringeret, et in urbe media ac foro quasi harena cives cum civibus suis gladiatorio more concurrerent. 2 Aequiore animo utcumque ferrem, si plebei duces aut, si nobiles, mali saltem ducatum sceleri praebuissent. Tum vero — pro facinus — qui viri! qui imperatores! decora et ornamenta saeculi sui, Marius et Sulla, pessimo facinori suam etiam dignitatem praebuerunt.
 
@@ -34,11 +164,21 @@ p254Quattuor milia deditorum inermium civium in Villa Publica interfici iussit: 
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 magis scripsi: maiore codd.
 
+
+
+
 2
 peractum est post saevientibus add. B.
+
+
+
 
 
 
@@ -49,8 +189,14 @@ Mithridate Esquilina Rehd.: mithridates quilla B: mithridate escylia N.
 
 
 
+
+
+
 4
 quae add. Halmius.
+
+
+
 
 
 
@@ -61,8 +207,14 @@ tum L Voss. Palat.: cum BN.
 
 
 
+
+
+
 6
 quom: quam B.
+
+
+
 
 
 
@@ -73,8 +225,14 @@ urbis Ostia: urbs urbis hostia B.
 
 
 
+
+
+
 8
 Caesar et NL: caesare B.
+
+
+
 
 
 
@@ -85,8 +243,14 @@ domuum Iahnius: domus B.
 
 
 
+
+
+
 10
 inde post legiones add. BNL, del. Iahnius.
+
+
+
 
 
 
@@ -97,8 +261,14 @@ quantum Iahnius: quantum id B: quid NL.
 
 
 
+
+
+
 12
 penitis Rossbachius: penitentibus B: patentibus NL.
+
+
+
 
 
 
@@ -111,8 +281,14 @@ Plutarch, Sulla, 29): lucius amponius B: Iamponius L.
 
 
 
+
+
+
 14
 Fufidio Dukerus; forfidio B: furfidio NL.
+
+
+
 
 
 
@@ -123,8 +299,14 @@ ac — electi om. B.
 
 
 
+
+
+
 16
 fata . . . fata: facta . . . facta B.
+
+
+
 
 
 
@@ -134,3 +316,109 @@ Plaetorios atque Venuleios: plaetorios atque venuleius B.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

@@ -1,181 +1,1123 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur carmen
+				
+
+
+Cynegetica
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p484
+Nemesiani
+	
+Cynegetica
+	
+
+
+
+
+
+
+
+Venandi cano mille vias; hilaresque labores
+	
+discursuque citos, securi proelia ruris,
+	
+pandimus. Aonio iam nunc mihi pectus ab oestro
+	
+aestuat: ingentes Helicon iubet ire per agros,
+	5
+Castaliusque mihi nova pocula fontis alumno1
+
+ingerit et late campos metatus apertos
+	
+imponitque iugum vati retinetque corymbis
+	
+implicitum ducitque per avia, qua sola numquam
+	
+p486
+trita rotis. iuvat aurato procedere curru
+	10
+et parere deo: virides en ire per herbas
+	
+imperat: intacto premimus vestigia musco;
+	
+et, quamvis cursus ostendat tramite noto
+	
+obvia Calliope faciles,2 insistere prato
+	
+complacitum,3 rudibus qua luceat orbita sulcis.
+
+	15
+
+nam quis non Nioben numeroso funere maestam
+	
+iam cecinit? quis non Semelen ignemque iugalem
+	
+letalemque simul novit de paelicis aestu?
+	
+quis magno recreata tacet cunabula Baccho,
+	
+ut pater omnipotens maternos reddere menses
+	20
+dignatus iusti complerit4 tempora partus?
+	
+sunt qui sacrilego rorantes5 sanguine thyrsos
+	
+(nota nimis) dixisse velint, qui vincula Dirces
+	
+Pisaeique tori legem Danaique cruentum
+	
+imperium sponsasque truces sub foedere primo
+	25
+dulcia funereis mutantes gaudia taedis.
+	
+Biblidos indictum nulli scelus; impia Myrrhae
+	
+p488
+conubia et saevo6 violatum crimine patrem
+	
+novimus, utque Arabum fugiens cum carperet arva
+	
+ivit in arboreas frondes animamque virentem.
+	30
+sunt qui squamosi7 referant fera sibila Cadmi
+	
+stellatumque oculis custodem virginis Ius
+	
+Herculeosque velint semper numerare8 labores
+	
+miratumque rudes se tollere Terea pinnas9
+
+post epulas, Philomela, tuas; sunt ardua mundi
+	35
+qui male temptantem curru Phaethonta loquantur
+	
+exstinctasque canant emisso fulmine flammas
+	
+fumantemque Padum, Cycnum plumamque senilem
+	
+et flentes semper germani funere silvas.
+	
+Tantalidum casus et sparsas sanguine mensas
+	40
+condentemque caput visus Titana Mycenis
+	
+horrendasque vices generis dixere priores.
+	
+Colchidos iratae sacris imbuta venenis
+	
+munera non canimus pulchraeque incendia10 glauces,
+	
+non crinem Nisi, non saevae pocula Circes,
+	45
+p490
+nec nocturna pie curantem busta sororem:
+	
+haec iam magnorum praecepit copia vatum,
+	
+omnis et antiqui vulgata est fabula saecli.
+
+	
+
+nos saltus viridesque plagas camposque patentes
+	
+scrutamur totisque citi discurrimus arvis
+	50
+et varias cupimus facili cane sumere praedas;
+	
+nos timidos lepores, imbelles figere dammas
+	
+audacesque lupos, vulpem captare dolosam
+	
+gaudemus; nos flumineas errare per umbras
+	
+malumus et placidis ichneumona quaerere ripis
+	55
+inter harundineas segetes faelemque minacem
+	
+arboris in trunco longis praefigere telis
+	
+implicitumque sinu spinosi corporis erem
+	
+ferre domum; talique placet dare lintea curae,11
+
+dum non magna ratis, vicinis sueta moveri
+	60
+litoribus tutosque sinus percurrere remis,
+	
+nunc primum dat vela notis portusque fideles
+	
+linquit et Adriacas audet temptare procellas.
+
+	
+
+mox vestros meliore lyra memorare triumphos
+	
+accingar, divi fortissima pignora Cari,
+	65
+atque canam nostrum geminis12 sub finibus orbis
+	
+litus et edomitas fraterno numine gentes,
+	
+quae Rhenum Tigrimque bibunt Ararisque remotum
+	
+p492
+principium Nilique vident13 in origine fontem;
+	
+nec taceam, primum14 quae nuper bella sub Arcto
+	70
+felici, Carine, manu confeceris, ipso
+	
+paene prior genitore deo, utque intima frater
+	
+Persidos et veteres Babylonos ceperit arces,
+	
+ultus Romulei violata cacumina regni;
+	
+imbellemque fugam referam clausasque pharetras
+	75
+Parthorum laxosque arcus et spicula nulla.
+
+	
+
+haec vobis nostrae libabunt carmina Musae,
+	
+cum primum vultus sacros, bona numina terrae,
+	
+contigerit vidisse mihi: iam gaudia vota
+	
+temporis impatiens sensus spretorque morarum
+	80
+praesumit videorque mihi iam cernere fratrum
+	
+augustos habitus, Romam clarumque senatum
+	
+et fidos ad bella duces et milite multo
+	
+agmina, quis fortes animat devotio mentes:
+	
+aurea purpureo longe radiantia velo
+	85
+signa micant sinuatque truces levis aura dracones.
+
+	
+
+tu modo, quae saltus placidos silvasque pererras,
+	
+Latonae, Phoebe, magnum decus, heia age suetos
+	
+sume habitus arcumque manu pictamque pharetram
+	
+suspende ex umeris; sint aurea tela, sagittae;
+	90
+candida puniceis aptentur crura cothurnis;
+	
+p494
+sit chlamys aurato multum subtegmine lusa
+	
+corrugesque sinus gemmatis balteus artet
+	
+nexibus; implicitos cohibe diademate crines.
+	
+tecum Naiades faciles viridique iuventa
+	95
+pubentes Dryades Nymphaeque, unde amnibus umor,
+	
+adsint, et docilis decantet Oreadas15 Echo.
+	
+duc age, diva, tuum frondosa per avia vatem:
+	
+te sequimur, tu pande domos16 et lustra ferarum.
+	
+huc17 igitur mecum, quisquis percussus amore
+	100
+venandi damnas lites pavidos18que tumultus
+	
+civilesque fugis strepitus bellique fragores
+	
+nec praedas avido sectaris gurgite ponti.
+
+	
+
+principio tibi cura canum non segnis ab anno
+	
+incipiat primo, cum Ianus, temporis auctor,
+	105
+pandit inocciduum bis senis mensibus aevum.
+	
+elige tunc cursu facilem facilemque recursu,
+	
+seu Lacedaemonio natam seu rure Molosso,
+	
+non humili de gente canem. sit cruribus altis,
+	
+sit rigidis, multamque trahat sub pectore lato
+	110
+costarum sub fine decenter prona carinam,
+	
+quae sensim rursus sicca se colligat alvo,
+	
+renibus ampla satis validis diductaque coxas,
+	
+cuique nimis molles fluitent in cursibus aures.
+	
+huic parilem submitte marem, sic omnia magnum,
+	115
+dum superant vires, dum laeto flore iuventas
+	
+p496
+corporis et venis primaevis sanguis abundat.
+	
+namque graves morbi subeunt segnisque senectus,
+	
+invalidamque dabunt non firmo robore prolem.
+	
+sed diversa magis feturae convenit aetas:
+	120
+tu bis vicenis plenum iam mensibus acrem
+	
+in venerem permitte marem; sit femina, binos
+	
+quae tulerit soles. haec optima cura iugandis.
+	
+mox cum se bina formarit lampade Phoebe
+	
+ex quo passa marem genitalia viscera turgent,
+	125
+fecundos aperit partus matura gravedo,
+	
+continuo largaque vides strepere omnia prole.
+	
+sed, quamvis avidus, primos contemnere partus
+	
+malueris; mox non omnes nutrire minores.
+	
+nam tibi si placitum populosos pascere fetus,
+	130
+iam macie tenues sucique videbis inanes
+	
+pugnantesque diu, quisnam prior ubera lambat,
+	
+distrahere invalidam lassato viscere matrem.19
+
+sin vero haec cura est, melior ne forte necetur
+	
+abdaturve domo, catulosque probare voluntas,
+	135
+quis nondum gressus stabiles neque lumina passa
+	
+luciferum videre iubar, quae prodidit usus
+	
+percipe et intrepidus spectatis annue dictis.
+	
+pondere nam catuli poteris perpendere vires
+	
+corporibusque leves gravibus praenoscere cursu.
+	140
+quin et flammato ducatur linea longe
+	
+p498
+circuitu signetque habilem vapor igneus orbem,
+	
+impune ut20 medio possis consistere circo:
+	
+huc omnes catuli, huc indiscreta feratur
+	
+turba: dabit mater partus examen,21 honestos
+	145
+iudicio22 natos servant trepidoque23 periclo.
+	
+nam postquam conclusa videt sua germina flammis,
+	
+continuo saltu transcendens fervida zonae
+	
+vincla, rapit rictu primum portatque cubili,
+	
+mox alium, mox deinde alium. sic conscia mater
+	150
+segregat egregiam subolem virtutis amore.
+	
+hos igitur genetrice simul iam vere sereno
+	
+molli pasce sero (passim nam lactis abundans
+	
+tempus adest, albent plenis et ovilia mulctris),
+	
+interdumque cibo cererem cum lacte ministra,
+	155
+fortibus ut sucis teneras complere medullas
+	
+possint et validas iam tunc promittere vires.
+
+	
+
+sed postquam Phoebus candentem fervidus axem
+	
+contigerit tardasque vias Cancrique morantis
+	
+sidus init, tunc consuetam minuisse saginam
+	160
+profuerit tenuesque magis retinere cibatus,
+	
+ne gravis articulos depravet pondere moles.
+	
+nam tum membrorum nexus nodosque relaxant
+	
+infirmosque pedes et crura natantia ponunt,
+	
+tunc etiam niveis armantur dentibus ora.
+	165
+p500
+sed neque conclusos teneas neque vincula collo
+	
+impatiens circumdederis noceasque futuris
+	
+cursibus imprudens. catulis nam saepe remotis
+	
+aut vexare trabes, laceras aut mandere24 valvas
+	
+mens erit, et teneros torquent conatibus artus
+	170
+obtunduntve novos arroso robore dentes
+	
+aut teneros duris impingunt postibus ungues;
+	
+mox cum iam validis insistere cruribus aetas
+	
+passa, quater binos volvens ab origine menses,
+	
+illaesis catulos spectaverit undique membris,
+	175
+tunc rursus miscere sero Cerealia dona
+	
+conveniet fortemque dari de frugibus escam.
+	
+libera tunc primum consuescant colla ligari
+	
+concordes et ferre gradus clausique teneri.
+	
+iam cum bis denos Phoebe reparaverit ortus,
+	180
+incipe non longo catulos producere cursu,
+	
+sed parvae vallis spatio septove novali.
+	
+his leporem praemitte manu, non viribus aequis
+	
+nec cursus virtute parem, sed tarda trahentem
+	
+membra, queant iam nunc faciles ut sumere praedas.
+	185
+nec semel indulge catulis moderamina cursus,
+	
+sed donec validos etiam praevertere suescant
+	
+exerceto diu venandi munere,25 cogens
+	
+discere et emeritae laudem virtutis amare.
+	
+nec non consuetae norint hortamina vocis,
+	190
+seu cursus revocent, iubeant seu tendere cursus.
+	
+quin etiam docti victam contingere praedam
+	
+exanimare velint tantum, non carpere sumptam.
+	
+sic tibi veloces catulos reparare memento
+	
+p502
+semper et in parvos iterum protendere curas.
+	195
+nam tristes morbi, scabies et sordida venis
+	
+saepe venit multamque canes discrimine nullo
+	
+dant stragem: tu sollicitos impende labores
+	
+et sortire gregem suffecta prole quotannis.
+	
+quin acidos Bacchi latices Tritonide oliva26
+200
+admiscere decet catulosque canesque maritas
+	
+unguere profuerit tepidoque ostendere soli,
+	
+auribus et tineas candenti pellere cultro.
+
+	
+
+est etiam canibus rabies, letale periclum.
+	
+quod seu caelesti corrupto sidere manat,
+	205
+cum segnes radios tristi iaculatur ab aethra
+	
+Phoebus et attonito pallens caput exserit orbe;
+	
+seu27 magis, ignicomi candentia terga Leonis
+	
+cum quatit, hoc canibus blandis inviscerat aestus,
+	
+exhalat seu terra sinu, seu noxius aer
+	210
+causa mali, seu cum gelidus non sufficit umor
+	
+torrida per venas concrescunt semina flammae:
+	
+quicquid id est, imas agitat sub corde medullas
+	
+inque feros rictus nigro spumante veneno
+	
+prosilit, insanos cogens infigere morsus.
+	215
+disce igitur potus medicos curamque salubrem.
+	
+tunc virosa tibi sumes multumque domabis
+	
+castorea, attritu silicis lentescere cogens;
+	
+ex ebore huc trito pulvis sectove feratur,
+	
+admiscensque diu facies concrescere utrumque:
+	220
+mox lactis liquidos sensim superadde fluores,
+	
+p504
+ut non cunctantes haustus infundere cornu
+	
+inserto possis Furiasque repellere tristes
+	
+atque iterum blandas canibus componere mentes.
+
+	
+28sed non Spartanos tantum tantumve Molossos
+	225
+pascendum catulos: divisa Britannia mittit
+	
+veloces nostrique orbis venatibus aptos.
+	
+nec tibi Pannonicae stirpis temnatur origo,
+	
+nec quorum proles de sanguine manat Hibero.
+	
+quin etiam siccae Libyes in finibus acres
+	230
+gignuntur catuli, quorum non spreveris usum.
+	
+quin et Tuscorum non est externa29 voluptas
+	
+saepe canum. sit forma illis licet obsita villo
+	
+dissimilesque habeant catulis velocibus artus,
+	
+haud tamen iniucunda dabunt tibi munera praedae,
+	235
+namque et odorato noscunt vestigia prato
+	
+atque etiam leporum secreta cubilia monstrant.
+	
+horum animos moresque simul naresque sagaces
+	
+mox referam; nunc omnis adhuc narranda supellex
+	
+venandi cultusque mihi dicendus equorum.
+
+	240
+
+cornipedes igitur lectos det Graecia nobis
+	
+Cappadocumque notas referat generosa propago
+	
+† armata et palmas superet grex30 omnis avorum.
+	
+p506
+illis ampla satis levi sunt aequora dorso
+	
+immodicumque latus parvaeque ingentibus alvi,
+	245
+ardua frons auresque agiles capitisque decori31
+
+altus honos oculique vago splendore micantes;
+	
+plurima se validos cervix resupinat in armos;
+	
+fumant umentes calida de nare vapores,
+	
+nec pes officium standi tenet, ungula terram
+	250
+crebra ferit virtusque artus animosa fatigat.
+	
+quin etiam gens ampla iacet trans ardua Calpes
+	
+culmina, cornipedum late fecunda proborum.
+	
+namque valent longos pratis intendere cursus,
+	
+nec minor est illis Graio quam in corpore forma;
+	255
+nec non terribiles spirabile flumen anheli
+	
+provolvunt flatus et lumina vivida torquent
+	
+hinnitusque cient tremuli frenisque repugnant,
+	
+nec segnes mulcent aures, nec crure quiescunt.
+	
+sit tibi praeterea sonipes, Maurusia tellus
+	260
+quem mittit (modo sit gentili sanguine firmus)
+	
+quemque coloratus Mazax deserta per arva
+	
+pavit et adsiduos docuit tolerare labores.
+	
+nec pigeat, quod turpe caput, deformis et alvus
+	
+est ollis quodque infrenes, quod liber uterque,
+	265
+quodque iubis pronos cervis deverberet armos.
+	
+nam flecti facilis lascivaque colla secutus
+	
+paret in obsequium lentae moderamine virgae:
+	
+verbera sunt praecepta fugae, sunt verbera freni.
+	
+p508
+quin et promissi32 spatiosa per aequora campi
+	270
+cursibus acquirunt commoto sanguine vires
+	
+paulatimque avidos comites post terga relinquunt.
+	
+haud secus, effusis Nerei per caerula ventis,
+	
+cum se Threicius Boreas superextulit antro
+	
+stridentique sono vastas exterruit undas,
+	275
+omnia turbato cesserunt flamina ponto:
+	
+ipse super fluctus33 spumanti murmure34 fervens
+	
+conspicuum pelago caput eminet: omnis euntem
+	
+Nereidum mirata suo stupet aequore turba.
+
+	
+
+horum tarda venit longi fiducia cursus,
+	280
+his etiam emerito vigor est iuvenalis in aevo.
+	
+nam quaecumque suis virtus bene floruit annis,
+	
+non prius est animo quam corpore passa35 ruinam.
+	
+pasce igitur sub vere novo farragine molli
+	
+cornipedes venamque feri veteresque labores
+	285
+effluere adspecta nigri cum labe cruoris.
+	
+mox laetae redeunt in pectora fortia vires
+	
+et nitidos artus distento robore formant;
+	
+mox sanguis venis melior calet, ire viarum
+	
+longa volunt latumque fuga consumere campum.
+	290
+inde ubi pubentes calamos duraverit aestas
+	
+lactentesque urens herbas siccaverit omnem
+	
+messibus umorem culmisque aptarit36 aristas,
+	
+hordea tum paleasque leves praebere memento:
+	
+pulvere quin etiam puras secernere fruges
+	295
+p510
+cura sit atque toros manibus percurrere equorum,
+	
+gaudeat ut plausu sonipes laetumque relaxet
+	
+corpus et altores rapiat per viscera sucos.
+	
+id curent famuli comitumque animosa iuventus.
+
+	
+
+nec non et casses idem venatibus aptos
+	300
+atque plagas longoque meantia retia tractu
+	
+addiscant raris semper contexere nodis
+	
+et servare modum maculis linoque tenaci.
+	
+linea quin etiam, magnos circumdare saltus
+	
+quae possit volucresque metu concludere praedas,
+	305
+digerat innexas non una ex alite pinnas.
+	
+namque ursos magnosque sues cervosque fugaces
+	
+et vulpes acresque lupos ceu fulgura caeli
+	
+terrificant linique vetant transcendere septum.
+	
+has igitur vario semper fucare veneno
+	310
+curabis niveisque alios miscere colores
+	
+alternosque metus subtegmine tendere longo.
+	
+dat tibi pinnarum terrentia milia vultur,
+	
+dat Libye, magnarum avium fecunda creatrix,
+	
+dantque grues cycnique senes et candidus anser,
+	315
+dant quae fluminibus crassisque paludibus errant
+	
+pellitosque pedes stagnanti gurgite tingunt.
+	
+hinc mage puniceas nativo munere sumes:
+	
+namque illic sine fine greges florentibus alis
+	
+invenies avium suavique rubescere luto
+	320
+et sparsos passim tergo vernare colores.
+	
+his ita dispositis hiemis sub tempus aquosae
+	
+incipe veloces catulos immittere pratis,
+	
+incipe cornipedes latos agitare per agros.
+	
+p512
+venemur dum mane novum, dum mollia prata
+	325
+nocturnis calcata feris vestigia servant.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 alumnus Ulitius, Baehrens.
 
 
+❦
 
 2
 facilest Pithoeus, Baehrens.
 
 
+❦
 
 3
 non placito Baehrens: complacito AC: complacitum H. Schenkel.
 
 
+❦
 
 4
 complerit vulgo: compellere AC.
 
 
+❦
 
 5
 sacrilegos orantes A: sacrilego rorantes C.
 
 
+❦
 
 6
 foedo vel scaevo Ulitius.
 
 
+❦
 
 7
 quis quã osi A.
 
 
+❦
 
 8
 fort. memorare Postgate.
 
 
+❦
 
 9
 se tollere ad aera (sive aethera) Baehrens: s&oller&acerea A: sustollere Burman: rudi s. t. T. pinna Heinsius.
 
 
+❦
 
 10
 incendia Pithoeus: ingentia AC.
 
 
+❦
 
 11
 cursu (= cursui) Baehrens: curae AC: cymbae Heinsius.
 
 
+❦
 
 12
 gemini Heinsius.
 
 
+❦
 
 13
 vident Johnson: bibunt AC.
 
 
+❦
 
 14
 primum AC: prima Baehrens.
 
 
+❦
 
 15
 decantet Oreadas vulgo: dicant oreades A: decantet oreades C.
 
 
+❦
 
 16
 domos C: dolos A.
 
 
+❦
 
 17
 huc Ulitius: hinc AC.
 
 
+❦
 
 18
 avidos AC: pavidos vel rabidos Ulitius: rabidos Baehrens: rapidos Postgate.
 
 
+❦
 
 19
 hic in codicibus sequuntur 224‑230, quos traiecit Hauptius, Schradero viam praemonstrante.
 
 
+❦
 
 20
 ut Johnson: in AC.
 
 
+❦
 
 21
 examen AC: examine vulgo.
 
 
+❦
 
 22
 exitio Scaliger.
 
 
+❦
 
 23
 trepidosque Baehrens: fort. trepidansque Postgate.
 
 
+❦
 
 24
 mandere Heinsius: pandere AC.
 
 
+❦
 
 25
 munera Ulitius: munere AC. sic interpunxit Postgate.
 
 
+❦
 
 26
 olivo AC: oliva vulgo. Tritonide . . . Postgate qui cum Housmano olivo ut interpretamentum eiecit.
 
 
+❦
 
 27
 sed Baehrens: seu AC.
 
 
+❦
 
 28
 224‑230 post 122 in codicibus.
 
 
+❦
 
 29
 extrema AC: externa Wight Duff.
 
 
+❦
 
 30
 armata et palmas nuper grex AC: fortasse superet Postgate: "locus vexatissimus totius poematii" Wernsdorf, qui proponit harmataque (= ἅρματα) et palmas numeret: armenti et palmas numeret Gronov: Martius et palmas superans Burman.
 
 
+❦
 
 31
 decori Baehrens: decoris A: capitique decoro C.
 
 
+❦
 
 32
 permissi Heinsius.
 
 
+❦
 
 33
 pater fluctus (id est Neptunus) Baehrens: super fluctus AC.
 
 
+❦
 
 34
 marmore Heinsius.
 
 
+❦
 
 35
 passa vulgo: posse AC.
 
 
+❦
 
 36
 culmisque armarit Burman: culmusque Baehrens, Postgate: aptarit Wight Duff.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVIII Kal. Oct. 07

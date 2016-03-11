@@ -1,5 +1,361 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+C. Claudiani
+	
+
+ex Carminibus Minoribus
+	
+
+p272
+
+XLVI (LXXII)
+	
+De chlamyde et frenis.
+	
+
+
+
+
+
+
+Non semper clipei metuendum gentibus orbem
+			
+dilecto studiosa parens fabricabat Achilli,
+			
+Lemnia nec semper supplex ardentis adibat
+			
+antra dei nato galeam factura comantem,
+			5
+sed placidos etiam cinctus et mitia pacis
+			
+ornamenta dabat, bello quibus ille peracto
+			
+conspicuus reges inter fulgeret Achivos.
+			
+ipsa manu chlamydes ostro texebat et auro,
+			
+frenaque, quae volucrem Xanthum Baliumque decerent,
+			10
+aequore quaesitis onerabat sedula gemmis.
+			
+
+At tibi diversis, princeps altissime, certant
+			
+obsequiis soceri. Stilicho Mavortia confert
+			
+munera, barbaricas strages Rhenique triumphos.
+			
+reginae contenta modum servare Serena
+			15
+in tua sollicitas urget velamina telas.
+		
+
+
+
+p274
+
+XLVII (LXXIII)
+	
+De equo dono dato.
+	
+
+
+
+
+
+O felix sonipes, tanti cui frena mereri
+			
+numinis et sacris licuit servire lupatis,
+			
+seu tua per campos vento iuba lusit Hiberos,
+			
+seu te Cappadocum gelida sub valle natantem
+			5
+Argaeae lavere nives, seu laeta solebas
+			
+Thessaliae rapido perstringere pascua cursu:
+			
+accipe regales cultus et crine superbus
+			
+erecto virides spumis perfunde smaragdos.
+			
+luxurient tumido gemmata monilia collo,
+			10
+nobilis auratos iam purpura vestiat armos,
+			
+et medium te zona liget variata colorum
+			
+floribus et castae manibus sudata Serenae,
+			
+Persarum gentile decus. sic quippe laborat
+			
+maternis studiis nec dedignatur equestres
+			15
+moliri phaleras genero latura decorem.
+		
+
+
+
+
+XLVIII (LXX)
+	
+De zona equi regii missa Honorio Augusto a Serena.
+	
+
+
+
+
+
+Accipe parva tuae, princeps venerande, sororis
+			
+munera, quae manibus texuit ipsa suis,
+			
+dumque auro phalerae, gemmis dum frena renident,
+			
+hac uterum zona cinge frementis equi,
+			5
+sive illum Armeniis aluerunt gramina campis
+			
+turbidus Argaea seu nive lavit Halys,
+			
+sanguineo virides morsu vexare smaragdos
+			
+et Tyrio dignum terga rubere toro.
+			
+p276
+o quantum formae sibi conscius erigit armos
+			10
+spargit et excussis colla superba iubis!
+			
+augescit brevitas doni pietate Serenae,
+			
+quae volucres etiam fratribus ornat equos.
+		
+
+
+
+
 The Loeb edition has no critical notes to any of these poems. Slightly different texts of them, however, are available on Michael Hendry's site (see navigation bar below); they include a few variant readings.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Aug. 07

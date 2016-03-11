@@ -1,19 +1,1252 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Cynegeticon
+				
+
+
+
+Grattii
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXV
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p150
+Grattii
+	
+Cynegeticon
+	
+
+
+
+
+
+
+Dona cano divom, laetas venantibus artis,
+	
+auspicio, Diana, tuo. prius omnis in armis*
+
+spes fuit et nuda silvas virtute movebant
+	
+inconsulti homines vitaque erat error in omni.
+	5
+post alia propiore via meliusque profecti
+	
+te sociam, Ratio, rebus sumpsere gerendis.
+	
+hinc omne auxilium vitae rectusque reluxit
+	
+ordo et contiguas didicere ex artibus artes
+	
+proserere, hinc demens cecidit violentia retro.
+	10
+sed primum auspicium deus artibus altaque circa
+	
+firmamenta dedit; tum partes quisque secutus
+	
+exegere suas tetigitque industria finem.
+	
+p152
+tu trepidam bello, vitam, Diana, ferino,
+	
+qua primam quaerebat opem, dignata repertis
+	15
+protegere auxiliis orbemque hac solvere noxa.
+	
+adscivere tuo comites sub nomine divae
+	
+centum: omnes nemorum, umentes de fontibus omnes*
+
+Naides, et Latii satyri Faunusque subibant*
+
+Maenaliusque puer domitrixque Idaea leonum
+	20
+mater et inculto Silvanus termite gaudens.
+	
+his ego praesidibus nostram defendere sortem
+	
+contra mille feras et non sine carmine iussus,*
+
+carmine et arma dabo et venandi persequar artes.*
+
+armorum casses plagiique exordia restes.*
+25
+prima iubent tenui nascentem iungere filo
+	
+limbum et quadruplicis tormento adstringere limbos:
+	
+p154
+illa operum patiens, illa usus linea longi.
+	
+tunc ipsum e medio cassem quo nascitur ore
+	
+per senos circum usque sinus laqueabis, ut omni
+	30
+concipiat tergo, si quisquam est plurimus, hostem.
+	
+at bis vicenos spatium praetendere passus
+	
+rete velim plenisque decem consurgere nodis;
+	
+ingrati maiora sinus impendia sument.
+	
+optima Cinyphiae, ne quid cunctere, paludes
+	35
+lina dabunt; bonus Aeolia de valle Sibyllae
+	
+fetus et aprico Tuscorum stuppea campo
+	
+messis contiguum sorbens de flumine rorem,
+	
+qua cultor Latii per opaca silentia Thybris
+	
+labitur inque sinus magno venit ore marinos.
+	40
+at contra nostris imbellia lina Faliscis
+	
+Hispanique alio spectantur Saetabes usu.
+	
+vix operata suo sacra ad Bubastia lino
+	
+velatur sonipes aestivi turba Canopi:
+	
+ipse in materia damnosus candor inerti
+	45
+ostendit longe fraudem atque exterruit hostes.
+	
+at pauper rigui custos Alabandius horti
+	
+cannabinas nutrit silvas, quam commoda nostro
+	
+armamenta operi. gravis est tutela, sed illis
+	
+tu licet Haemonios includas retibus ursos.
+	50
+tantum ne subeat vitiorum pessimus umor
+	
+p156
+ante cave: non est umentibus usus in armis,
+	
+nulla fides. ergo seu pressa flumina valle
+	
+inter opus crassaeque malum fecere paludes*
+
+sive improvisus caelo perfuderit imber,
+	55
+illa vel ad flatus Helices oppande serenae
+	
+vel caligineo laxanda reponite fumo.
+	
+idcirco et primas linorum tangere messes
+	
+ante vetant quam maturis accenderit annum
+	
+ignibus et claro Plias se prompserit ortu.*
+60
+imbiberint: tanto respondet longior usus.*
+
+magnum opus et tangi, nisi cura vincitur, impar.
+	
+nonne vides veterum quos prodit fabula rerum
+	
+semideos — illi aggeribus temptare superbis
+	
+caeli iter et matres ausi attrectare deorum —*
+65
+quam magna mercede meo sine munere silvas
+	
+impulerint? flet adhuc et porro flebit Adonin
+	
+victa Venus ceciditque suis Ancaeus in armis
+	
+(et praedexter erat geminisque securibus ingens).
+	
+ipse deus cultorque feri Tirynthius orbis,
+	70
+p158
+quem mare, quem tellus, quem praeceps ianua Ditis
+	
+omnia temptantem, qua laus erat obvia, passa est,*
+
+hinc decus et famae primum impetravit honorem.
+	
+exige, si qua meis respondet ab artibus, ergo,
+	
+gratia quae vires fallat collata ferinas.
+	
+sunt quibus immundo decerptae vulture plumae
+	
+instrumentum operis fuit et non parva facultas.
+	
+tantum inter nivei iungantur vellera cygni,
+	
+et satis armorum est. haec clara luce coruscant
+	
+terribiles species, at vulture dirus ab atro
+	80
+turbat odor silvas meliusque alterna valet res.
+	
+sed quam clara tuis et pinguis pluma sub armis,
+	
+tam mollis tactu et non sit creberrima nexu,
+	
+ne reprensa suis properantem linea pennis
+	
+implicet atque ipso mendosa coarguat usu.
+	85
+hic magis in cervos valuit metus; ast ubi lentae
+	
+interdum Libyco fucantur sandyce pennae
+	
+linteaque expositis lucent anconibus arma,
+	
+rarum si qua metus eludet belua falsos.
+	
+nam fuit et laqueis aliquis curracibus usus:
+	90
+p160
+cervino iussere magis contexere nervo;
+	
+fraus teget insidias habitu mentita ferino.
+	
+quid qui dentatas iligno robore clausit
+	
+venator pedicas? quam dissimulantibus armis
+	
+saepe habet imprudens alieni lucra laboris!
+	
+o felix, tantis quem primum industria rebus
+	
+prodidit auctorem! deus ille an proxima divos
+	
+mens fuit, in caecas aciem quae magna tenebras
+	
+egit et ignarum perfudit lumine vulgus?
+	
+dic age Pierio, fas est, Diana, ministro.
+	100
+Arcadium stat fama senem, quem Maenalus auctor*
+
+et Lacedaemoniae primum vidistis Amyclae
+	
+per non adsuetas metantem retia valles
+	
+Dercylon. haut illo quisquam se iustior egit,*
+
+hau fuit in terris divum observantior alter:*
+105
+ergo illum primis nemorum dea finxit in arvis
+	
+auctoremque operi dignata inscribere magno
+	
+iussit adire suas et pandere gentibus artes.
+	
+ille etiam valido primus venabula dente
+	
+induit et proni moderatus vulneris iram
+	110
+omne moris excepit onus; tum stricta verutis
+	
+p162
+dentibus et gemina subiere hastilia furca
+	
+et quidam totis clauserunt ensibus hastas,*
+
+ne cessaret iners in vulnere massa ferino.
+	
+blandimenta vagae fugies novitatis: ibidem
+	115
+exiguo nimiove nocent. sed lubricus errat
+	
+mos et ab expertis festinant usibus omnes.
+	
+quid, Macetum immensos libeat si dicere contos?*
+
+quam longa exigui spicant hastilia dentes!
+	
+aut contra ut tenero destrictas cortice virgas
+	120
+praegravat ingenti pernix Lucania cultro!*
+
+omnia tela modi melius finxere salubres.
+	
+quocirca et iaculis habilem perpendimus usum,
+	
+ne leve vulnus eat neu sit brevis impetus illi.*
+
+ipsa arcu Lyciaque suos Diana pharetra
+	125
+armavit comites: ne tela relinquite divae:
+	
+magnum opus et volucres quondam fecere sagittae.
+	
+disce agedum et validis dilectum hastilibus omnem.
+	
+plurima Threiciis nutritur vallibus Hebri
+	
+cornus et umbrosae Veneris per litora myrtus
+	130
+taxique pinusque Altinatesque genestae
+	
+p164
+et magis incomptos opera iuturus agrestis*
+
+termes. ab Eois descendit virga Sabaeis
+	
+mater odorati multum pulcherrima turis:
+	
+illa suos usus intractatumque decorem
+	135
+(sic nemorum iussere deae) natalibus hausit
+	
+arbitriis; at enim multo sunt ficta labore
+	
+cetera quae silvis errant hastilia nostris:
+	
+numquam sponte sua procerus ad aera termes
+	
+exiit inque ipsa curvantur stirpe genestae.
+	140
+ergo age luxuriam primo fetusque nocentes
+	
+detrahe: frondosas gravat indulgentia silvas.
+	
+post ubi proceris generosam stirpibus arbor
+	
+se dederit teretisque ferent ad sidera virgae,
+	
+stringe notas circum et gemmantes exige versus.
+	145
+his, si quis vitium nociturus sufficit, umora
+
+ulceribus fluet et venas durabit inertes.
+	
+in quinos sublata pedes hastilia plena
+	
+caede manu, dum pomiferis advertitur annus*
+
+frondibus et tepidos autumnus continet imbres.
+	
+sed cur exiguis tantos in partibus orbes
+	
+lustramus? prima illa canum, non ulla per artis
+	
+cura prior, sive indomitos vehementior hostes
+	
+nudo marte premas seu bellum ex arte ministres.
+	
+p166
+mille canum patriae ductique ab origine mores
+	155
+quoique sua. magna indocilis dat proelia Medus
+	
+magnaque diversos extollit gloria Celtas.
+	
+arma negant contra martemque odere Geloni,
+	
+sed natura sagax: Perses in utroque paratus.
+	
+sunt qui Seras alant, genus intractabilis irae;
+	160
+at contra faciles magnique Lycaones armis.
+	
+sed non Hyrcano satis est vehementia gentis
+	
+tanta suae: petiere ultro fera semina silvis;
+	
+dat Venus accessus et blando foedere iungit.
+	
+tunc et mansuetis tuto ferus errat adulter
+	165
+in stabulis ultroque gravem succedere tigrin
+	
+ausa canis maiore tulit de sanguine fetum.
+	
+sed praeceps virtus: ipsa venabitur aula
+	
+ille tibi et pecudum multo cum sanguine crescet.
+	
+pasce tamen: quaecumque domi sibi crimina fecit,
+	170
+excutiet silva magnus pugnator adepta.
+	
+at fugit adversos idem quos repperit hostes
+	
+Umber: quanta fides utinam et sollertia naris,
+	
+tanta foret virtus et tantum vellet in armis!
+	
+quid, freta si Morinum dubio refluentia ponto
+175
+veneris atque ipsos libeat penetrare Britannos?
+	
+p168
+o quanta est merces et quantum impendia supra!
+	
+si non ad speciem mentiturosque decores
+	
+pronus es (haec una est catulis iactura Britannis),*
+
+at magnum cum venit opus promendaque virtus
+	180
+et vocat extremo praeceps discrimine Mavors:
+	
+non tunc egregios tantum admirere Molossos,
+	
+comparat his versuta suas Athamania gentes*
+
+Azorusque Pheraeque et clandestinus Acarnan:*
+
+sicut Acarnanes subierunt proelia furto,
+	185
+sic canis illa suos taciturna supervenit hostes.
+	
+at clangore citat quos nondum conspicit apros
+	
+Aetola quaecumque canis de stirpe: malignum
+	
+officium, sive illa metus convicia rupit
+	
+seu frustra nimius properat favor. et tamen illud*
+190
+ne vanum totas genus aspernere per artes:
+	
+mirum quam celeres et quantum nare merentur,
+	
+tum non est victi quoi concessere labori.
+	
+idcirco variis miscebo gentibus usum:
+	
+quondam inconsultis mater dabit Umbrica Gallis
+	195
+p170
+sensum agilem, traxere animos de patre Gelonae
+	
+Hyrcano et vanae tantum Calydonia linguae*
+
+exibit vitium patre emendata Molosso.
+	
+scilicet ex omni florem virtute capessunt
+	
+et sequitur natura favens. at te leve si qua
+	200
+tangit opus pavidosque iuvat compellere dorcas
+	
+aut versuta sequi leporis vestigia parvi,
+	
+Petronios (haec fama) canes volucresque Sycambros*
+
+et pictam macula Vertraham delige flava:*
+
+ocior adfectu mentis pennaque cucurrit,
+	205
+sed premit inventas, non inventura latentes
+	
+illa feras, quae Petroniis bene gloria constat.
+	
+quod si maturo pressantes gaudia lusu
+	
+dissimulare feras tacitique accedere possent,
+	
+illis omne decus, quod nunc, metagontes, habetis,
+	210
+constaret: silva sed virtus irrita damno est.*
+
+at vestrum non vile genus, non patria. vulgo
+	
+p172
+Sparta quos et Creta suos promittit alumnos:*
+
+sed primum celsa lorum cervice ferentem,
+	
+Glympice, te silvis egit Boeotius Hagnon,
+	215
+Hagnon Astylides, Hagnon, quem plurima semper
+	
+gratia per nostros unum testabitur usus.
+	
+hic trepidas artes et vix novitate sedentes
+	
+vidit qua propior peteret via nec sibi turbam*
+
+contraxit comitem nec vasa tenentia longe:
+	220
+unus praesidium atque operi spes magna petito
+	
+adsumptus metagon lustrat per nota ferarum
+	
+pascua, per fontes, per quas trivere latebras.
+	
+primae lucis opus: tum signa vapore ferino
+	
+intemerata legens si qua est qua fallitur eius
+	225
+turba loci, maiore secat spatia extera gyro;
+	
+atque hic egressu iam tum sine fraude reperto
+	
+incubuit, spatiis qualis permissa Lechaeis
+	
+Thessalium quadriga decus, quam gloria patrum
+	
+excitat et primae spes ambitiosa coronae.
+	230
+sed ne qua ex nimio redeat iactura favore,
+	
+p174
+lex dicta officiis: neu voce lacesseret hostem
+	
+neve levem praedam aut propioris pignora lucri
+	
+amplexus primos nequiquam effunderet actus;*
+
+iam vero impensum melior fortuna laborem
+	235
+cum sequitur iuxtaque domus quaesita ferarum,
+	
+et sciat occultos et signis arguat hostes:*
+
+aut effecta levi testatur gaudia cauda
+	
+aut ipsa infodiens uncis vestigia plantis
+	
+mandit humum celsisve apprensat naribus auras.
+	240
+et tamen, ut ne prima faventem pignora fallant,*
+
+circum omnem aspretis medius qua clauditur orbis*
+
+ferre pedem accessusque abitusque notare ferarum
+	
+admonet et, si forte loco spes prima fefellit,
+	
+rusum opus incubuit spatiis; at, prospera si res,
+	245
+intacto repetet prima ad vestigia gyro.
+	
+ergo ubi plena suo rediit victoria fine,
+	
+in partem praedae veniat comes et sua norit
+	
+praemia: sic operi iuvet inseruisse benigne.
+	
+hoc ingens meritum, haec ultima palma tropaei,
+	250
+Hagnon magne, tibi divom concessa favore:
+	
+p176
+ergo semper eris, dum carmina dumque manebunt
+	
+silvarum dotes atque arma Diania terris.
+	
+hic et semiferam thoum de sanguine prolem
+	
+finxit. non alio maior sub pectore virtus,
+	255
+sive in lora voces seu nudi ad pignora martis.*
+
+thoes commissos (clarissima fama) leones
+	
+et subiere astu et parvis domuere lacertis;
+	
+nam genus exiguum et pudeat, quam informe, fateri;
+	
+vulpina species: tamen huic exacta voluntas.
+	260
+at non est alius quem tanta ad munia fetus
+	
+exercere velis, aut te tua culpa refellet
+	
+inter opus, quo sera cadit prudentia damno.*
+
+iunge pares ergo et maiorum pignore signa
+	
+feturam prodantque tibi metagonta parentes,
+	265
+qui genuere sua pecus hoc immane iuventa.*
+
+et primum expertos animi, quae gratia prima est,
+	
+in venerem iungam. tum sortis cura secunda,
+	
+ne renuat species aut quem detractet honorem.*
+
+sint celsi vultus, sint hirtae frontibus aures,
+	270
+os magnum et patulis agitatos naribus ignes
+	
+spirent, adstricti succingant ilia ventres,
+	
+cauda brevis longumque latus discretaque collo
+	
+p178
+caesaries neu pexa nimis neu frigoris illa
+	
+impatiens; validis tum surgat pectus ab armis,
+	275
+quod magnos capiat motus magnisque supersit.
+	
+effuge qui lata pandit vestigia planta:
+	
+mollis in officio. siccis ego dura lacertis
+	
+crura velim et solidos haec in certamina calces.
+	
+sed frustra longus properat labor, abdita si non
+	280
+altas in latebras unique inclusa marito est*
+
+femina: nec patres veneris sub tempore magnos*
+
+illa neque emeritae servat fastigia laudis.
+	
+primi complexus, dulcissima prima voluptas:
+	
+hunc veneri dedit impatiens natura furorem.
+	285
+si tenuit custos et mater adultera non est,*
+
+da requiem gravidae solitosque remitte labores:
+	
+vix oneri super illa suo. tum deinde monebo,
+	
+ne matrem indocilis natorum turba fatiget,
+	
+percensere notis iamque inde excernere pravos.*
+290
+signa dabunt ipsi. teneris vix artibus haeret
+	
+ille tuos olim non defecturus honores,
+	
+iamque illum impatiens aequae vehementia sortis
+	
+extulit: adfectat materna regna sub alvo,
+	
+ubera tota tenet, a tergo liber aperto,*
+295
+p180
+dum tepida indulget terris clementia mundi;
+	
+verum ubi Caurino perstrinxit frigore vesper,
+	
+irreptat turbaque potens operitur inerti.*
+
+illius et manibus vires sit cura futuras*
+
+perpensare: levis deducet pondere fratres:*
+300
+nec me pignoribus, nec te mea carmina fallent.
+	
+protinus et cultus alios et debita fetae
+	
+blandimenta feres curaque sequere merentem:
+	
+illa perinde suos, ut erit †dilecta, minores*
+
+ad longam praestabit opem. tum denique, fetu*
+305
+cum desunt, operis fregitque industria matres,
+	
+transeat in catulos omnis tutela relictos.
+	
+lacte novam pubem facilique tuebere maza,
+	
+nec luxus alios avidaeque impendia vitae
+	
+noscant: haec magno redit indulgentia damno.
+	310
+nec mirum: humanos non est magis altera sensus,
+	
+tollit ni ratio et vitiis adeuntibus obstat.*
+
+haec illast Pharios quae fregit noxia reges,
+	
+dum servata cavis potant Mareotica gemmis
+	
+p182
+nardiferumque metunt Gangen vitiisque ministrant.
+	315
+sic et Achaemenio cecidisti, Lydia, Cyro:
+	
+atqui dives eras ac fluminis aurea venis.
+	
+scilicet ad summam ne quid restaret habendi,
+	
+tu quoque luxuriae fictas dum colligis artes
+	
+et sequeris demens alienam, Graecia, culpam,
+	320
+o quantum et quotiens decoris frustrata paterni!
+	
+at qualis nostris, quam simplex mensa Camillis!
+	
+qui tibi cultus erat post tot, Serrane, triumphos!
+	
+ergo illi ex habitu virtutisque indole priscae
+	
+imposuere orbi Romam caput, actaque ab illis
+	325
+ad caelum virtus summosque tetendit honores.
+	
+scilicet exiguis magna sub imagine rebus
+	
+prospicies, quae sit ratio, et quo fine regendae.
+	
+idcirco imperium catulis unusque magister
+	
+additur: ille dapes poenamque operamque moramque*
+330
+temperet, hunc spectet silvas domitura iuventus.
+	
+nec vile arbitrium est: quoicumque haec regna dicantur,
+	
+ille tibi egregia iuvenis de pube legendus,
+	
+p184
+utrumque et prudens et sumptis impiger armis.
+	
+quod nisi et accessus et agendi tempora belli
+	335
+noverit et socios tutabitur hoste minores,
+	
+aut cedent aut illa tamen victoria damno est.
+	
+ergo in opus vigila †factusque ades omnibus armis:*
+
+arma acuere viam; tegat imas fascia suras;*
+
+sit pellis vitulina, suis et tergore fulvo*
+340
+ire decet, niteant canaque e maele galeri,
+	
+ima Toletano praecingant ilia cultro
+	
+terribilemque manu vibrata falarica dextra
+	
+det sonitum et curvae rumpant non pervia falces.
+	
+haec tua militia est. quin et Mavortia bello
+	345
+vulnera et errantes per tot divertia morbos*
+
+causasque affectusque canum tua cura tueri est.
+	
+stat Fatum supra totumque avidissimus Orcus
+	
+pascitur et nigris orbem circumsonat alis.
+	
+scilicet ad magnum maior ducenda laborem
+	350
+cura, nec expertos fallet deus: huic quoque nostrae*
+
+p186
+est aliud, quod praestet opus, placabile numen.
+	
+nec longe auxilium, licet alti vulneris orae*
+
+abstiterint atroque cadant cum sanguine fibrae:*
+
+inde rape ex ipso qui vulnus fecerit hoste
+	355
+virosam eluviem lacerique per ulceris ora*
+
+sparge manu, venas dum sucus comprimat acer:
+	
+mortis enim patuere viae. tum pura monebo*
+
+circum labra sequi tenuique includere filo.
+	
+at si pernicies angusto pascitur ore,
+	360
+contra pande viam fallentesque argue causas*
+
+morborum: in vitio facilis medicina recenti;*
+
+sed tacta impositis mulcent pecuaria palmis*
+
+(id satis) aut nigrae circum picis unguine signant;
+	
+quodsi destricto levis est in vulnere noxa,
+	365
+ipse habet auxilium validae natale salivae.
+	
+illa gravis labes et curis altior illis,
+	
+cum vitium causae totis egere latentes
+	
+corporibus seraque aperitur noxia summa.
+	
+inde emissa lues et per contagia mortes*
+370
+venere in vulgum iuxtaque exercitus ingens*
+
+aequali sub labe ruit, nec viribus ullis
+	
+aut merito venia est aut spes exire precanti.
+	
+quod sive a Stygia letum Proserpina nocte
+	
+extulit et Furiis commissam ulciscitur iram,
+	375
+seu vitium ex alto spiratque vaporibus aether
+	
+p188
+pestiferis, seu terra suos populatur honores,*
+
+fontem averte mali. trans altas ducere calles
+	
+admoneo latumque fuga superabitis amnem.
+	
+hoc primum effugium leti: tunc ficta valebunt
+	380
+auxilia et nostra quidam redit usus ab arte.
+	
+sed varii motus nec in omnibus una potestas:
+	
+disce vices et quae tutela est proxima tempta.
+	
+plurima per catulos rabies invictaque tardis
+	
+praecipitat letale malum: sit tutius ergo*
+385
+antire auxiliis et primas vincere causas.
+	
+namque subit, nodis qua lingua tenacibus haeret,
+	
+(vermiculum dixere) mala atque incondita pestis.
+	
+ille ubi salsa siti praecepit viscera longe,*
+
+aestivos vibrans accensis febribus ignes,
+	390
+moliturque fugas et sedem spernit amaram.*
+
+scilicet hoc motu stimulisque potentibus acti
+	
+in furias vertere canes. ergo insita ferro
+	
+iam teneris elementa mali causasque recidunt.
+	
+nec longa in facto medicina est ulcere: purum
+	395
+sparge salem et tenui permulce vulnus olivo:
+	
+ante relata suas quam nox bene compleat umbras,
+	
+ecce aderit factique oblitus vulneris ultro
+	
+blanditur mensis cereremque efflagitat ore.
+	
+p190
+quid, priscas artes inventaque simplicis aevi
+	400
+si referam? non illa metus solacia falsi,
+	
+tam longam traxere fidem. collaribus ergo
+	
+sunt qui lucifugae cristas inducere maelis
+	
+iussere aut sacris conserta monilia conchis
+	
+et vivum lapidem et circa Melitensia nectunt
+	405
+curalia et magicis adiutas cantibus herbas.
+	
+ac sic offectus oculique venena maligni
+	
+vicit tutela pax impetrata deorum.
+	
+at si deformi lacerum dulcedine corpus*
+
+persequitur scabies, longi via pessima leti:
+	410
+in primo accessu tristis medicina, sed una
+	
+pernicies redimenda anima, quae prima sequaci
+	
+sparsa malo est, ne dira trahant contagia vulgus.
+	
+quodsi dat spatium clemens et promonet ortu*
+
+morbus, disce vias et qua sinit artibus exi.
+	415
+tunc et odorato medicata bitumina vino*
+
+p192
+Hipponiasque pices neglectaeque unguen amurcae*
+
+miscuit et summam complectitur ignis in unam.
+	
+inde lavant aegros: ast ira coercita morbi*
+
+laxatusque rigor. quae te ne cura timentem*
+420
+differat, et pluvias et Cauri frigora vitent;
+	
+duc magis, ut nudis incumbunt vallibus aestus,*
+
+a vento clarique faces ad solis, ut omne
+	
+exsudent vitium subeatque latentibus ultro
+	
+quae facta est medicina vadis. nec non tamen illum
+	425
+spumosi catulos mergentem litoris aestu
+	
+respicit et facilis Paean adiuvit in artes.*
+
+o rerum prudens quantam Experientia vulgo
+	
+materiem largita boni, si vincere curent
+	
+desidiam et gratos agitando prendere finis!
+	
+est in Trinacria specus ingens rupe cavique
+	
+introsum reditus, circum atrae moenia silvae
+	
+alta premunt ruptique ambustis faucibus amnes;
+	
+p194
+Vulcano condicta domus. quam supter eunti*
+
+stagna sedent venis oleoque madentia vivo.
+	435
+huc defecta mala vidi pecuaria tabe
+	
+saepe trahi victosque malo graviore magistros.
+	
+"te primum, Vulcane, loci, pacemque precamur,
+	
+incola sancte, tuam: da fessis ultima rebus*
+
+auxilia et, meriti si nulla est noxia tanti,*
+440
+tot miserare animas liceatque attingere fontes,*
+
+sancte, tuos" ter quisque vocant, ter pinguia libant*
+
+tura foco, struitur ramis felicibus ara.
+	
+hic (dictu mirum atque alias ignobile monstrum)
+	
+adversis specibus ruptoque e pectore montis
+	445
+venit ovans Austris et multo flumine flammae
+	
+emicat ipse: manu ramum pallente sacerdos
+	
+termiteum quatiens "procul hinc extorribus ire
+	
+edico praesente deo, praesentibus aris,
+	
+quis scelus aut manibus sumptum aut in pectore motum est"
+	450
+inclamat: cecidere animi et trepidantia membra.
+	
+o quisquis misero fas umquam in supplice fregit,
+	
+quis pretio fratrum meliorisque ausus amici
+	
+sollicitare caput patriosve lacessere divos,
+	
+illum agat infandae comes huc audacia culpae:
+	455
+discet commissa quantum deus ultor in ira
+	
+pone sequens valeat. sed cui bona pectore mens est
+	
+p196
+obsequiturque deo, deus illam molliter aram
+	
+lambit et ipse, suos ubi contigit ignis honores,
+	
+defugit a sacris rursumque reconditur antro:
+	460
+huic fas auxilium et Vulcania tangere dona.
+	
+nec mora, si medias exedit noxia fibras,
+	
+his lave praesidiis affectaque corpora mulce:
+	
+regnantem excuties morbum. deus auctor, et ipsa*
+
+artem aluit natura suam. quae robore pestis
+	465
+acrior aut leto propior via? sed tamen illi
+	
+hinc venit auxilium valida vehementius ira.*
+
+quod primam si fallet opem dimissa facultas,
+	
+at tu praecipitem qua spes est proxima labem*
+
+aggredere: in subito subita et medicina tumultu.
+	470
+stringendae nares et bina ligamina ferro*
+
+armorum, geminaque cruor ducendus ab aure:
+	
+hinc vitium, hinc illa est avidae vehementia pesti.
+	
+ilicet auxiliis fessum solabere corpus
+	
+subsiduasque fraces defusaque Massica prisco
+	475
+sparge cado: Liber tenuis e pectore curas
+	
+exigit, et morbo Liber medicina furenti.
+	
+quid dicam tusses, quid inertis damna veterni*
+
+p198
+aut incurvatae siqua est tutela podagrae?*
+
+mille tenent pestes curaque potentia maior.
+	480
+mitte age (non opibus tanta est fiducia nostris),
+	
+mitte, anime: ex alto ducendum numen Olympo,
+	
+supplicibusque vocanda sacris tutela deorum.
+	
+idcirco aeriis molimur compita lucis
+	
+spicatasque faces sacrum ad nemorale Dianae*
+485
+sistimus et solito catuli velantur honore,
+	
+ipsaque per flores medio in discrimine luci
+	
+stravere arma sacris et pace vacantia festa.
+	
+tum cadus et viridi fumantia liba feretro
+	
+praeveniunt teneraque extrudens cornua fronte
+	490
+haedus et ad ramos etiamnum haerentia poma,
+	
+lustralis de more sacri, quo tota iuventus
+	
+lustraturque deae proque anno reddit honorem.
+	
+ergo impetrato respondet multa favore
+	
+ad partes, qua poscis opem; seu vincere silvas
+	495
+seu tibi fatorum labes exire minasque
+	
+cura prior, tua magna fides tutelaque Virgo.
+	
+restat equos finire notis, quos arma Dianae
+	
+admittant: non omne meas genus audet in artes.
+	
+p200
+est vitium ex animo, sunt quos imbellia fallant
+	500
+corpora, praeveniens quondam est incommoda virtus.
+	
+consule, Penei qualis perfunditur amne
+	
+Thessalus aut patriae quem conspexere Mycenae
+	
+glaucum? nempe ingens, nempe ardua fundet in auras
+	
+crura. quis Eleas potior lustravit harenas?
+	505
+ne tamen hoc attingat opus: iactantior illi
+	
+virtus quam silvas durumque lacessere martem.
+	
+nec saevos miratur equos terrena Syene*
+
+scilicet, et Parthis inter sua mollia rura
+	
+mansit honor; veniat Caudini saxa Taburni
+	510
+Garganumve trucem aut Ligurinas desuper Alpes;
+	
+ante opus excussis cadet unguibus. et tamen illi
+	
+est animus fingetque meas se iussus in artes:
+	
+sed iuxta vitium posuit deus. at tibi contra
+	
+Callaecis lustratur equis scruposa Pyrene,
+	515
+non tamen Hispano martem temptare ministro*
+
+ausim: in muricibus vix ora tenacia ferro*
+
+concedunt. at tota levi Nasamonia virga*
+
+fingit equos: ipsis Numidae solvere capistris
+
+p202
+audax et patiens operum genus. ille vigebit*
+520
+centum actus spatiis atque eluctabitur iram.
+	
+nec magni cultus: sterilis quodcumque remisit
+	
+terra sui tenuesque satis producere rivi.
+	
+sic et Strymonio facilis tutela Bisaltae:
+	
+possent Aetnaeas utinam se ferre per arces,
+	525
+qui ludus Siculis. quid tum, si turpia colla
+	
+aut tenuis dorso curvatur spina? per illos
+	
+cantatus Graiis Acragas victaeque fragosum
+	
+Nebroden liquere ferae: o quantus in armis
+	
+ille meis quoius dociles pecuaria fetus*
+530
+sufficient! quis Chaonios contendere contra
+	
+ausit, vix merita quos signat Achaia palma?
+	
+spadices vix Pellaei valuere Cerauni;
+	
+at tibi devotae magnum pecuaria Cyrrhae,*
+
+Phoebe, decus meruere, levis seu iungere currus
+	535
+usus, seu nostras agere in sacraria tensas.
+	
+p204
+venanti melius pugnat color: optima nigra*
+
+crura illi badiosque legant et . . .*
+
+et quorum fessas imitantur terga favillas.*
+
+o quantum Italiae (sic di voluere) parentes*
+540
+praestant et terras omni praecepimus usu*
+
+nostraque quam pernix collustrat prata iuventus!*
+
+.    .    .    .    .    .    .
+
+
+
+
+
+Apparatus Criticus:
+	
+
 2
 inermis Barth (in not. "forte legend."): in armis A.
 
 
+❦
 
 17
 gentem Rademacher, Schenkl, Vollmer: centem A: mentem Haupt: centum B ex. corr., Postgate, Enk.
+❦
 
 18
 sic Enk: Faunusque subibat Vollmer in not.: iuvabant vel favebant Herter: Latii cultor qui Faunos amoeni Ald.
+❦
 
 22
 lusus A: nisus Ulitius: iussus Graevius.
 	
 post v. 23 videntur Vollmero restituendi vv. 61‑74.
+❦
 
 23
 et venandi A: venanti et Ulitius. cf. Ov. ex Ponto IV.XVI.34
@@ -21,25 +1254,31 @@ et venandi A: venanti et Ulitius. cf. Ov. ex Ponto IV.XVI.34
 cum . . . aptaque venanti Grattius arma daret.
 
 
+❦
 
 24
 plagii sic A (vocabulum a plaga formatum). exordia restes Vollmer: exordiar estis A: exordiar astus Ald. et vulgo.
+❦
 
 53
 clausaeque Barth: causaeque A: crassaeque Sann.2, Ald.
+❦
 
 59
 prompserit Sann.: promiserit A.
 
 
+❦
 
 60
 imbiberit A: -int Burman.
+❦
 
 64
 Jr& fr&a (sic = iret freta contra metrum) A: ire freta et Ulitius, Johnson, Stern et alii: aethera tum Heinsius: aethera et ad Haupt: sidera et ad (ad cum trectare per tmesin) Vollmer: caeli iter et Enk: ausi Heinsius: ausit A.
 	
 trectare A: tractare Sann.: attrectare Heinsius.
+❦
 
 71
 obvia Sann.: obula A.
@@ -47,33 +1286,41 @@ obvia Sann.: obula A.
 passi A, Vollmer: passa est Haupt.
 
 
+❦
 
 100
 auctor A: altor Turnebus, Postgate.
+❦
 
 103
 Haud Sann.: aut A.
 
 
+❦
 
 104
 hau fuit Baehrens: au fuit A: auṭ (t deleta) fuit Paris. 8071.
 
 
+❦
 
 112
 post ensibus nihil in A: orbes male add. Ald.: tortis . . . hastas H. Schenkl.
+❦
 
 117
 dicere A: ducere Baehrens.
+❦
 
 120
 praegravat Ald.: -av& A.
 
 
+❦
 
 123
 neu leve A: ne leve Sann.
+❦
 
 131
 in comptos A: in contos Johnson.
@@ -83,22 +1330,27 @@ opera A: superat Stern.
 lutores A: lotaster Johnson: iuturus Sudhaus.
 	
 agstis (-st- ex -rt- corr.) A: agrestis Sann.
+❦
 
 148
 avertitur Vollmer: advertitur A.
 
 
+❦
 
 178
 pronis (ut sit principium parenthesi) Vollmer: pronuis A, Postgate, ἅπαξ εἰρημένον: pronus es H. Schenkl: protinus Sann. et vulgo, extra parenthesin.
+❦
 
 182
 finis versus periit in A: fraudes add. Ald.: gentes Vollmer.
+❦
 
 183
 Azorusque Wernsdorf: Acirusque A.
 
 
+❦
 
 189
 furor A, Burm., Wernsdorf, Stern: favor Gronov, Johnson: cf. 230
@@ -108,101 +1360,125 @@ favore,
 240 faventem.
 
 
+❦
 
 196
 tantum A: natum Stern.
 
 
+❦
 
 202
 cani Haupt: cana A: Petroniost haec fama cani Vollmer.
+❦
 
 203
 vertraham sic A: cf. Mart. XIV.CC.
 	
 falsa A: flava vel fulva Johnson.
+❦
 
 210
 ante silva primus distinxit Baehrens.
+❦
 
 212
 Sparta suos A: Sparte vos Baehrens: Sparte quos H. Schenkl.
+❦
 
 218
 peteret viam A: patuit via Ald.: ferret via Baehrens.
+❦
 
 233
 offenderet A, Vollmer: effunderet Johnson, vulgo.
+❦
 
 236
 & sciat A: ut sciat Sann.
+❦
 
 240
 faventem (= studiosum, cf. v. 230).
+❦
 
 241
 orbis Sann.: orbi A: orbem Baehrens.
+❦
 
 255
 lora Ellis: ora A.
 
 
+❦
 
 262
 quom Gronov: quo A.
 
 
+❦
 
 265
 tenuere A: genuere Gesner.
+❦
 
 268
 aut quem Baehrens: atque A: aut quae Ald.: aut qua Barth.
 
 
+❦
 
 280
 in latebras Sann.: illecebras A.
 	
 est add. Lachmann.
+❦
 
 281
 patres Sann.: patre A.
 
 
+❦
 
 285
 custos A: castus Ellis: fastus Lachmann: renuit cunctos Pith., Burm.
+❦
 
 289
 pravos Burman: parvos A.
 
 
+❦
 
 294
 tenet, a tergo ς: ten& eatergo A: tenetque a tergo Baehrens.
 
 
+❦
 
 297
 ire plac& A: ira iacet Ulitius: irreptat Rademacher.
 
 
+❦
 
 298
 et Heinsius: e A.
 
 
+❦
 
 299
 leuis A.
 
 
+❦
 
 303
 de lacte Sann., Vollmer: delacta A: dilecta Stern: suo saturat de lacte Johnson 1699 ed.: delecta (particip. a delicere) Heinsius.
 
 
+❦
 
 304‑5
 fetu A: fetus cum desunt operi Ellis.
@@ -210,181 +1486,219 @@ fetu A: fetus cum desunt operi Ellis.
 operis Ulitius: operi A.
 
 
+❦
 
 311
 ni Graevius: se A.
 
 
+❦
 
 329
 in fine nullum lacunae signum in A: ministrans add. Ald.: peraeque Baehrens: moramque H. Schenkl.
 
 
+❦
 
 337
 vigil affectusque Vollmer.
 
 
+❦
 
 338
 arma hacuere uitā A: arma acuere viam (virum Johnson) Ald. versuum 339 et 340 initia perierunt in A praeter primam v. 340 litteram, quae tamen utrum j an p fuerit dubitandum (p legit Sann.).
 
 
+❦
 
 339
 ante inulina potest fuisse us vel is: inulina A: sit famulis vitulina tuis Ulitius, Burm., Wernsd. suĭs (genit., = suīs) A.
 
 
+❦
 
 345
 divertia A: divortia vulgo.
+❦
 
 350
 huic Baehrens: hinc A.
 
 
+❦
 
 352
 orae Barth: ora A.
 
 
+❦
 
 353
 atroque Sann.: utroque A.
 
 
+❦
 
 355
 ulceris Ald.: viceris A.
 
 
+❦
 
 357
 pura monebo Sann.: purmo bebo A.
 
 
+❦
 
 360
 pande Ald.: prande A.
 
 
+❦
 
 361
 medicina recenti Ald.: medicina reperto Baehrens.
 
 
+❦
 
 362
 sed A: seu Heinsius.
 	
 tacta A: tactu Sann. pecuaria palmis Ald.
+❦
 
 369
 morbi Sann., Vollmer: morbis A: mortes Stern.
 
 
+❦
 
 370
 fusaque Vollmer: Iusaque A: iuxtaque Sann.
+❦
 
 376
 seu terra suos Sann.: si litaeras vos A.
 
 
+❦
 
 384
 praecipitat Pithou: pręcipiat A.
 	
 sit tutius Sann., qui et securius coniecit: sicutius A: sic tutius Ald.
+❦
 
 388
 longae A: longa Sann.: longe Vollmer, Curcio.
 
 
+❦
 
 390
 amarã A: amatam Ulitius.
 
 
+❦
 
 408
 deformis Ios. Wassius, Vollmer: deformi A, Postgate.
 
 
+❦
 
 413
 promonet A: praemonet Titius.
 
 
+❦
 
 415
 vino Johnson: viro A. cf. v. 476
 	
 et Veget. mulom. 2.135.5.
+❦
 
 416
 Hippŏniasque primus agnovit Haupt: iponiasque A: impone atque pices, vel impositaque pices vel denique fraces Heinsius.
 
 neclectaeque Haupt: nec liceat quę A: immundaeque Ald.
+❦
 
 418
 ast A: est Ald.: atque Barth.
 
 
+❦
 
 419
 ne cura timentem Sann.: nec urat in mentem A.
 
 
+❦
 
 421
 duc H. Schenkl: sic A: stent Postgate.
 
 
+❦
 
 426
 paean adiuvit Sann.: paeana divint A.
 
 
+❦
 
 433
 supter Sann.: super A.
 
 
+❦
 
 438
 fessis Sann.: fissis A.
 
 
+❦
 
 439
 meriti Sann.: meritis A.
 
 
+❦
 
 440
 miserare A: -rere Ald.
+❦
 
 441
 vocant ter Sann.: vocanter A.
 
 
+❦
 
 463
 excuties Barth: -iens A.
 
 
+❦
 
 466
 hic A: hinc Ald.
+❦
 
 468
 at tu Sann.: ad tu A: actu Baehrens.
 
 
+❦
 
 470
 &na A: et bina Haupt: scindenda Burm. et alii.
+❦
 
 477
 inertis Sann.: maestis A: moesti Ald.
@@ -392,27 +1706,33 @@ inertis Sann.: maestis A: moesti Ald.
 veterni Sann.: -nis A.
 
 
+❦
 
 478
 incurvata ed. Gryph. 1537: incuratae A.
 
 
+❦
 
 484
 nemorale Turnebus, Postgate: nemora alta A, Burm., Wernsd., Stern, Curcio, Enk.
+❦
 
 507
 syenae A: Sidene Burm.: Cyrene Wesseling.
 
 
+❦
 
 515
 minacem Ald.: ministro H. Schenkl: maligno Birt.
 
 
+❦
 
 516
 ferro Sann.
+❦
 
 517
 at Ulitius: aut A: ast H. Schenkl.
@@ -420,17 +1740,21 @@ at Ulitius: aut A: ast H. Schenkl.
 virga Ulitius, cf. Lucan IV.683.
 
 
+❦
 
 519
 genus. ille vigebit Ald.
+❦
 
 529
 illa . . . coetus Vollmer: ille . . . coetus A: foetus Ald.
+❦
 
 533
 & A: at Vollmer.
 
 
+❦
 
 536
 melius A: mellis Graevius: vineus Burman: maelis Birt: medius H. Schenkl.
@@ -438,6 +1762,7 @@ melius A: mellis Graevius: vineus Burman: maelis Birt: medius H. Schenkl.
 nigr . . . A: nigri Ald.: nigra Enk.
 
 
+❦
 
 537
 crura Ulitius: ora Birt: cura Vollmer.
@@ -447,21 +1772,25 @@ legunt Ald.: legant Vollmer.
 & avedon videtur legi in A: in pectore crines edd.: glaucosque periti Birt.
 
 
+❦
 
 538
 et quorum Ald.
 
 terda A: terga Ald.
+❦
 
 539
 o quantum Ulitius.
 
 
+❦
 
 540
 praestant et Ulitius.
 
 
+❦
 
 541
 nostraque quam pernix Ulitius et post prata add. iuventus.
@@ -469,9 +1798,112 @@ nostraque quam pernix Ulitius et post prata add. iuventus.
 
 
 	
+
+Adnotatio Thayeri:
+	
+
 a
 
 Comma editionis Loeb, post umor, transposui ante.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Grattius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VIII Kal. Dec. 06

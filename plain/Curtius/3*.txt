@@ -1,4 +1,95 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber IV
+				
+
+
+
+
+ 
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber III
+	
+
+p1
+Caput I
+	
+
 1 Inter haec Alexander ad conducendum ex Peloponneso militem Cleandro cum pecunia misso Lyciae Pamphyliaeque rebus conpositis ad urbem Celaenas exercitum admovit.
 2 Media illa tempestate moenia interfluebat Marsyas amnis, fabulosis Graecorum carminibus inclitus.
 3 Fons eius ex summo montis cacumine excurrens in subiectam petram magno strepitu aquarum cadit: inde diffusus circumiectos rigat campos, liquidus et suas dumtaxat undas trahens.
@@ -37,6 +128,9 @@ diu luctatus cum latentibus nodis, 'Nihil', inquit, 'interest, quomodo solvantur
 
 
 	
+Caput II
+	
+
 1 At Dareus nuntiata Memnonis morte haud secus, quam par erat, motus omissa omni alia spe statuit ipse decernere: quippe quae per duces suos acta erant, cuncta damnabat, ratus pluribus curam, omnibus afuisse fortunam.
 2 Igitur castris ad Babylona positis, quo maiore animo capesserent bellum, universas vires in conspectum dedit et circumdato vallo, quod decem milium armatorum multitudinem caperet, Xerxis exemplo numerum copiarum iniit.
 3 Orto sole ad noctem agmina, sicut discripta erant, intravere vallum. Inde emissa occupaverant Mesopotamiae campos, equitum peditumque propemodum innumerabilis turba, maiorem quam pro numero speciem ferens.
@@ -65,6 +159,9 @@ satiat, tempora somni artiora, quam noctis sunt.
 
 
 	
+Caput III
+	
+
 1 Thymodes erat, Mentoris filius, impiger iuvenis: cui praeceptum est a rege, ut omnes peregrinos milites, in quis plurimum habebat spei, a Pharnabazo acciperet: opera eorum usurum seº
 in bello. Ipsi Pharnabazo tradit imperium, quod antea Memnoni dederat.
 
@@ -125,6 +222,9 @@ p8veste, sed ferro atque aere fulgentibus:
 
 
 	
+Caput IV
+	
+
 1 Interea Alexander Abistamene Cappadociae praeposito Ciliciam petens cum omnibus copiis in regionem,º
 quae castra Cyri appellatur, pervenerat. Stativa illic habuerat Cyrus, cum adversus Croesum in Lydiam duceret.
 2 Aberat ea regio quinquaginta stadia ab aditu, quo Ciliciam intramus:
@@ -157,6 +257,9 @@ erumperet. Sagittariorum quoque manus occupaverat iugum: intentos arcus habebant
 
 
 	
+Caput V
+	
+
 1 Mediam Cydnus amnis, de quo paulo ante dictum est, interfluit. Et tunc aestas erat, cuius calor non aliam magis quam Ciliciae oram vapore solis accendit, et diei fervidissimum tempus esse coeperat.º
 2 Pulvere simul ac sudore perfusum regem invitavit liquor fluminis, ut calidum adhuc corpus ablueret. Itaque veste
 
@@ -190,6 +293,9 @@ p11non expectant tempora mea: vel mori strenue quam tarde convalescere mihi meli
 
 
 	
+Caput VI
+	
+
 1 Erat inter nobiles medicos, ex Macedonia regem secutus, Philippus, natione Acarnan, fidus admodum regi: puero comes et custos salutis datus non ut regem modo, sed etiam ut alumnum eximia caritate diligebat.
 2 Is non praeceps se, sed strenuum remedium adferre tantamque vim morbi potione medicata levaturum esse promisit.
 3 Nulli promissum eius placebat praeter ipsum, cuius periculo pollicebatur. Omnia quippe facilius quam moram perpeti poterat: arma et acies in oculis erant et victoriam in eo positam esse arbitrabatur, si tantum ante signa stare potuisset, id ipsum, quod post diem tertium medicamentum sumpturus esset — ita enim medicus praedixerat — aegre ferens.
@@ -225,6 +331,9 @@ esset, effecerat.
 
 
 	
+Caput VII
+	
+
 1 At Dareus nuntio de adversa valitudine eius accepto celeritate, quantam capere tam grave agmen poterat, ad Euphraten contendit iunctoque eo pontibus quinque tamen diebus traiecit exercitum Ciliciam occupare festinans.
 2 Iam Alexander viribus corporis receptis ad urbem Solos pervenerat: cuius potitus ducentis talentis multae nomine exactis arci praesidium militum inposuit.
 3 Vota deinde pro salute suscepta per ludum atque otium reddens ostendit, quanta fiducia barbaros sperneret: quippe Aesculapio et Minervae ludos celebravit.
@@ -251,6 +360,9 @@ p15visus est suppressisse et in agmine a Cretensibus haud dubie iussu regis occ
 
 
 	
+Caput VIII
+	
+
 1 Iamque Graeci milites, quos Thymodes a Pharnabazo acceperat, praecipua spes et propemodum unica, ad Dareum pervenerant.
 2 Hi magnopere suadebant, ut retro abiret spatiososque Mesopotamiae campos repeteret: si id consilium damnaret, at ille divideret saltem copias innumerabiles neu sub unum fortunae ictum totas vires regni cadere pateretur.
 3 Minus hoc regi quam purpuratis eius displicebat: ancipitem fidem et mercede venalem proditioniº
@@ -306,6 +418,9 @@ p18alii prae metu imperium exequi non audebant, alii frustra exequebantur, quia,
 
 
 	
+Caput IX
+	
+
 1 Acies autem hoc modo stetit. Nabarzanes equitatu dextrum cornu tuebatur additis funditorum sagittariorumque viginti fere milibus.
 2 In eodem Thymodes erat, Graecis peditibus mercede conductis, triginta milibus, praepositus. Hoc erat haud dubieº
 robur exercitus, par Macedonicae phalangi acies.
@@ -330,6 +445,9 @@ sinus montium et maius spatium aperire coeperant, ita ut non pedes solum ordine 
 
 
 	
+Caput X
+	
+
 1 Iam in conspectu, sed extra teli iactum utraque acies erat, cum priores Persae inconditum et trucem sustulere clamorem.
 2 Redditur et a Macedonibus, maior exercitus numero, iugis montium vastisque saltibus repercussus: quippe semper circumiecta nemora petraeque, quantamcumque accepere vocem, multiplicato sono referunt.
 3 Alexander ante prima signa ibat, identidem manu suos inhibens, ne suspensi acrius ob nimiam festinationem concitato spiritu capesserent proelium.
@@ -350,6 +468,9 @@ templa ruinis et ignibus esse deleta, urbes eorum expugnatas, foedera divini hum
 
 
 	
+Caput XI
+	
+
 1 Iam ad teli iactum pervenerant, cum Persarum equites ferociter in laevum cornu hostium invecti sunt: quippe Dareus equestri proelio decernere optabat, phalangem Macedonici exercitus robur esse coniectans. Iamque etiam dextrum Alexandri cornu circumibatur.
 2 Quod ubi Macedo conspexit, duabus alis equitum ad iugum montis iussis subsistere, ceteros in medium belli discrimen strenue transfert.
 3 Subductis deinde ex acie Thessalis equitibus praefectum eorum occulte circumire tergum suorum iubet Parmenionique coniungi et, quod is imperasset, inpigre exequi.
@@ -410,6 +531,9 @@ omnino et duo desiderati sunt, equitum centum quinquaginta interfecti. Tantulo i
 
 
 	
+Caput XII
+	
+
 1 Rex quidem Dareum persequendo fatigatus, postquam et nox adpetebat et consequendi spes non erat, in castra paulo ante a suis capta pervenit.
 2 Invitari deinde amicos, quibus maxime adsueverat, iussit, quippe summa dumtaxat cutis in femine perstricta non prohibebat interesse convivio:
 3 cum repente e proximo tabernaculo lugubris clamor barbaro ululatu planctuque permixtus epulantes conterruit. Cohors
@@ -458,6 +582,9 @@ es, qui tantum regem non felicitate solum, sed etiam aequitate superaveris.
 
 
 	
+Caput XIII
+	
+
 1 Quiº
 cum processisset et Darei satrapam opperiri se conperisset,º
 veritus, ne paucitas suorum sperneretur, accersere maiorem manum statuit.
@@ -500,12 +627,135 @@ celeriter debita poena persecuti sunt. Namque unus e consciis eius, credo, regi
 
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 quodqueº
 vestem Persicam ac vulgarem habuisset, haud ambigue regnum Asiae:
 	
 scripsi] quodve regnum Asiae occupare habuisset haud ambiguae rei. Locum desperatum, in quo tot homines docti haeserint, a me recte correctum esse minime confido.
+❦
 
 
 ut fere fit:
 	
 scripsi] ut fere. Jeepii emendationem (1874) ut fere solet ne reciperem me prohibuit Antonii de eiusmodi formulis disputatio, stud. gramm. II.101
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Dec. 08

@@ -1,5 +1,340 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Carminum Minorum
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p230
+C. Claudiani
+	
+ex Carminibus Minoribus
+	
+
+
+XXVIII (XLVII)
+	
+Nilus.
+	
+
+
+
+
+
+
+Felix, qui Pharias proscindit vomere terras:
+			
+nubila non sperat tenebris condentia caelum
+			
+nec graviter flantes pluviali frigore Cauros
+			
+invocat aut arcum variata luce rubentem.
+
+			
+p232
+
+Aegyptos sine nube ferax imbresque serenos
+			
+sola tenet; secura poli, non indiga venti
+			
+gaudet aquis, quas ipsa vehit, Niloque redundat:
+			
+qui rapido tractu mediis elatus ab Austris,
+			
+flammiferae patiens zonae cancrique calentis,
+			
+fluctibus ignotis nostrum procurrit in orbem
+			
+secreto de fonte cadens, qui semper inani
+			
+quaerendus ratione latet, nec contigit ulli
+			
+hoc vidisse caput: fertur sine teste creatus
+			
+flumina profundens alieni conscia caeli.
+			
+inde vago lapsu Libyam dispersus in omnem
+			
+Aethiopum per mille ruit nigrantia regna
+			
+et loca continuo solis damnata vapore
+			
+inrorat populisque salus sitientibus errat
+			
+per Meroën Blemyasque feros atramque Syenem.
+			
+hunc bibit infrenis Garamans domitorque ferarum
+			
+Gyrraeus, qui vasta colit sub rupibus antra,
+			
+qui ramos ebeni, dentes qui vellit eburnos,
+			
+et gens compositis crinem vallata sagittis.
+
+			
+
+Nec vero similes causas crescentibus undis
+			
+aut tempus meruit. glacie non ille soluta
+			
+nec circumfuso scopulis exuberat imbre.
+			
+nam cum tristis hiems alias produxerit undas,
+			
+tum Nilum retinent ripae; cum languida cessant
+			
+flumina, tum Nilus mutato iure tumescit.
+			
+quippe quod ex omni fluvio spoliaverit aestas,
+			
+hoc Nilo natura refert, totumque per orbem
+			
+collectae partes unum revocantur in amnem;
+			
+p234
+quoque die Titana canis flagrantior armat
+			
+et rapit umores madidos venasque calore
+			
+compescit radiisque potentibus aestuat axis,
+			
+Nilo bruma venit, contraria tempora mundo:
+			
+defectis solitum referens cultoribus aequor
+			
+effluit Aegaeo stagnantior, acrior alto
+			
+Ionio seseque patentibus explicat arvis:
+			
+fluctuat omnis ager; remis sonuere novales;
+			
+saepius, aestivo iaceat cum forte sopore,
+			
+cernit cum stabulis armenta natantia pastor.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 The Loeb edition of this poem has no critical notes. A slightly different text, however, is available on Michael Hendry's site (see navigation bar below).
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

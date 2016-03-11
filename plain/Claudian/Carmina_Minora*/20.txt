@@ -1,5 +1,291 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p194
+C. Claudiani
+	
+De sene Veronensi
+	
+qui Suburbium numquam egressus est
+	
+
+
+
+
+
+
+XX (LII)
+	
+
+Felix, qui propriis aevum transegit in arvis,
+	
+ipsa domus puerum quem videt, ipsa senem;
+	
+qui baculo nitens in qua reptavit harena
+	
+unius numerat saecula longa casae.
+	5
+illum non vario traxit fortuna tumultu,
+	
+nec bibit ignotas mobilis hospes aquas.
+	
+non freta mercator tremuit, non classica miles,
+	
+non rauci lites pertulit ille fori.
+	
+indocilis rerum, vicinae nescius urbis
+	10
+adspectu fruitur liberiore poli.
+	
+frugibus alternis, non consule computat annum:
+	
+autumnum pomis, ver sibi flore notat.
+	
+idem condit ager soles idemque reducit,
+	
+metiturque suo rusticus orbe diem,
+	15
+ingentem meminit parvo qui gemine quercum
+	
+aequaevumque videt consenuisse nemus,
+	
+
+proxima cui nigris Verona remotior Indis
+	
+Benacumque putat litora Rubra lacum.
+	
+sed tamen indomitae vires firmisque lacertis
+	20
+aetas robustum tertia cernit avum.
+	
+erret et extremos alter scrutetur Hiberos:
+	
+plus habet hic vitae, plus habet ille viae.
+		
+
+
+
+
 The Loeb edition of this poem has no critical notes. A slightly different text of the poem, however, is available on Michael Hendry's site (see navigation bar below), with several variant readings.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Aug. 07

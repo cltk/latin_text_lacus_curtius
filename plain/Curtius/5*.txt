@@ -1,3 +1,97 @@
+
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IV
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VI
+				
+
+
+
+
+ 
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber V
+	
+
+p80
+Caput I
+	
 1 Quae interim ductu imperioque Alexandri vel in Graecis vel Illyriis ac Thracia gesta sunt, si suis quaeque temporibus reddere voluero,
 2 interrumpendae sunt res Asiae, quas utique ad fugam mortemque Darei universas in conspectum dari et, sicut inter se cohaerent, ita opere ipso coniungi haud paulo aptius videri potest. Igitur, quae proelio apud Arbela coniuncta sunt, ordiar dicere.
 
@@ -95,6 +189,9 @@ p85sunt regis ministri iidemque equos ineuntibus proelium admovent venantesque c
 43 Igitur rex arci Babylonis Agathone praesidere iusso cum septingentis Macedonum trecentisque mercede conductis praetores, qui regioni Babyloniae ac Ciliciae praeessent, Menetem et Apollodorum relinquit. II milia iis militum cum mille talentis data: utrique praeceptum, ut in supplementum milites legerent.
 44 Mazaeum transfugam satrapea Babyloniae donat, Bagophanem, qui arcem tradiderat, se sequi iussit, Armenia Mithreni, Sardium proditori, data est.
 45 Ex pecunia deinde Babylone tradita Macedonum equitibus sexceni denarii tributi: peregrinus eques quingenos accepit, ducenos pedes, ceteri stipendium duarum mensum.º
+
+Caput II
+	
 1 His ita conpositis in regionem, quae satrapea Sittaceneº
 vocatur, pervenit: fertilis terra, copia rerum et omni commeatu abundans.º
 2 Itaque diutius ibi substitit ac, ne desides otio demitterent animos, iudices dedit praemiaque proposuit de virtute militari certantibus nova:º
@@ -139,7 +236,10 @@ dare. Ad hanc vocem lacrimae obortae prodidere animum aspernantis id munus: quip
 22 Scio apud vos filio in conspectu matris nefas esse considere, nisi cum illa permisit: quotienscumque ad te veni, donec, ut considerem, adnueres, restiti. Procumbens venerari me saepe voluisti: inhibui. Dulcissimae matri Olympiadi nomen debitum tibi reddo.'
 
 
-	1 Mitigato animo eius rex quartis castris pervenit ad Tigrim fluvium. Pasitigrim incolae vocant: oritur in montibus Uxiorum et per L stadia silvestribus ripis praeceps inter saxa devolvitur.
+	
+Caput III
+	
+1 Mitigato animo eius rex quartis castris pervenit ad Tigrim fluvium. Pasitigrim incolae vocant: oritur in montibus Uxiorum et per L stadia silvestribus ripis praeceps inter saxa devolvitur.
 2 Accipiunt deinde eum campi, quos clementiore alveo praeterit, iamº
 navium patiens. DC sunt stadia mollioris soli, per quod
 
@@ -187,7 +287,10 @@ exercitus angebat.
 23 Itaque signo receptui dato densatis ordinibus scutisque super capita consertis retro evadere ex angustiis iubet. XXX fuere stadia, quae remensi sunt.
 
 
-	1 Tum castris undique aperto loco positis non consultare modo, quid agendum esset, sed vates quoque adhibere coepit a superstitione animi.
+	
+Caput IV
+	
+1 Tum castris undique aperto loco positis non consultare modo, quid agendum esset, sed vates quoque adhibere coepit a superstitione animi.
 2 Sed quid tunc praedicere Aristander, cui plurimum credebat ex vatibus, poterat? Itaque damnatis intempestivis sacrificiis peritos locorum convocari iubet: per Mediam iter ostendebant tutum apertumque.
 3 Sed rex deserere milites insepultos erubescebat itaº
 tradito more, ut vix ullum militiae tam sollemne esset munus quam humandi suos.
@@ -247,7 +350,10 @@ p93Ne aurium quidem usus supererat, silvas quatiente vento, qui concurrentibus r
 34 Sed a custodibus urbis exclusus consecutis strenue hostibus cum omnibus fugae comitibus renovato proelio cecidit. Craterus quoque raptim agmine acto supervenit.
 
 
-	1 Rex eodem loco, quo hostium copias fuderat, castra communit. Quamquam enim undique fugati hostes victoriam concesserant, tamen praealtae praecipitesque fossae pluribus locis obiectae abruperant iter, sensimque et caute progrediendum erat, iam non hostium, sed locorum fraude suspecta.
+	
+Caput V
+	
+1 Rex eodem loco, quo hostium copias fuderat, castra communit. Quamquam enim undique fugati hostes victoriam concesserant, tamen praealtae praecipitesque fossae pluribus locis obiectae abruperant iter, sensimque et caute progrediendum erat, iam non hostium, sed locorum fraude suspecta.
 2 Procedenti ei
 
 
@@ -299,7 +405,10 @@ sunt: quos Alexander ratus, quod ipse praestare cogitabat, petituros, 'Iumenta',
 terna milia denarium singulis dari iussit: denae vestes adiectae sunt et armenta cum pecoribus ac frumento data, ut coli serique attributus iis ager posset.
 
 
-	1 Postero die convocatos duces copiarum docet, nullam infestiorem urbem Graecis esse, quam regiam veterum Persidis regum. Hinc illa immensa agmina infusa: hinc Dareum prius, dein Xerxem Europae impium intulisse bellum. Excidio illius parentandum esse maioribus.
+	
+Caput VI
+	
+1 Postero die convocatos duces copiarum docet, nullam infestiorem urbem Graecis esse, quam regiam veterum Persidis regum. Hinc illa immensa agmina infusa: hinc Dareum prius, dein Xerxem Europae impium intulisse bellum. Excidio illius parentandum esse maioribus.
 2 Iamque barbari deserto oppido, qua quemque metus agebat, diffugerant, cum rex phalangem nihil cunctatus inducit. Multas urbes refertas opulentia regia partim expugnaverat, partim in fidem acceperat, sed urbis divitiae huius vicere praeterita.
 3 In hanc totius Persidis opes congesserant barbari: aurum argentumque cumulatum erat, vestis ingens modus, supellex non ad usum, sed ad ostentationem luxus conparata.
 4 Itaque inter ipsos victores ferro dimicabatur: pro hoste erat, qui pretiosiorem occupaverat praedam: et cum omnia, quae recipiebant, capere non possent, iam res non occupabantur, sed
@@ -346,7 +455,10 @@ et liberos condunt. Pecorum aut ferarum carne vescuntur.
 20 Itaque tricesimo die, postquam a Persepoli profectus erat, eodem rediit. Dona deinde amicis ceterisque pro cuiusque merito dedit: propemodum omnia, quae in ea urbe ceperat, distributa.
 
 
-	1 Ceterum ingentia animi bona, illam indolem, qua omnes reges antecessit, illam in subeundis periculis constantiam, in rebus moliendis efficiendisque velocitatem, in deditos fidem, in captivos clementiam, in voluptatibus permissis quoque et usitatis temperantiam, haud tolerabili vini cupiditate foedavit.
+	
+Caput VII
+	
+1 Ceterum ingentia animi bona, illam indolem, qua omnes reges antecessit, illam in subeundis periculis constantiam, in rebus moliendis efficiendisque velocitatem, in deditos fidem, in captivos clementiam, in voluptatibus permissis quoque et usitatis temperantiam, haud tolerabili vini cupiditate foedavit.
 2 Hoste
 
 
@@ -376,7 +488,10 @@ ebrietate mentem quies reddidit, paenituisse constat et dixisse, maiores poenas 
 Hinc in regionem Mediae transiit, ubi supplementum novorum e Cilicia militum occurrit. Peditum erant V milia, equites mille: utrisque Platon Atheniensis praeerat. His copiis auctus Dareum persequi statuit.
 
 
-	1 Ille iam Ecbatana pervenerat. Caput Mediae urbs haec: nunc tenent Parthi eaque aestiva agentibus sedes est. Adire deinde Bactra decreverat, sed veritus, ne celeritate Alexandri occuparetur, consilium iterque mutavit.
+	
+Caput VIII
+	
+1 Ille iam Ecbatana pervenerat. Caput Mediae urbs haec: nunc tenent Parthi eaque aestiva agentibus sedes est. Adire deinde Bactra decreverat, sed veritus, ne celeritate Alexandri occuparetur, consilium iterque mutavit.
 2 Aberat ab eo Alexander stadia MD, sed iam nullum intervallum adversus velocitatem eius satis longum videbatur. Itaque proelio magis quam fugae se praeparabat.
 3 XXX milia peditum sequebantur, in quibus Graecorum erant IIII milia, fide illiº
 erga regem ad ultimum invicta.
@@ -403,7 +518,10 @@ hoc imperium vivus amittam, idemque erit regni mei, qui spiritus, finis. Si hic 
 17 me certe in perpetuum aut victoria egregia nobilitabit aut pugna.'
 
 
-	1 Haec dicente Dareo praesentis periculi species omnium simul corda animosque horrore perstrinxerat,
+	
+Caput IX
+	
+1 Haec dicente Dareo praesentis periculi species omnium simul corda animosque horrore perstrinxerat,
 
 
 
@@ -442,7 +560,10 @@ paruit Artabazo et, quamquam movere castra statuerat, turbatis tamen omnium anim
 adverteret.
 
 
-	1 At Bessus et Nabarzanes olim agitatum scelus exequi statuunt regni cupiditate accensi: Dareo autem incolumi tantas opes sperare non poterant.
+	
+Caput X
+	
+1 At Bessus et Nabarzanes olim agitatum scelus exequi statuunt regni cupiditate accensi: Dareo autem incolumi tantas opes sperare non poterant.
 2 Quippe in illis gentibus regum eximia maiestas est: ad nomen quoque barbari conveniunt, et pristinae veneratio fortunae sequitur adversam.
 3 Inflabat impios animos regio, cui praeerant, armis virisque et spatio locorum nulli earum gentium secunda: tertiam partem Asiae tenet, multitudo iuniorum exercitus, quos amiserat Dareus, aequabat.
 4 Itaque non illum modo, sed etiam Alexandrum spernebant, inde vires imperii repetituri, si regni iisº
@@ -467,7 +588,10 @@ p105more conscendit.
 15 Ac ne tum quidem cogitati sceleris paenituit, cum intuerentur qualem et regem et virum fallerent. Ille quidem, securus periculi, quod instabat, Alexandri manus, quas solas timebat, effugere properabat.
 
 
-	1 Patron autem, Graecorum dux, praecipit suis, ut arma, quae in sarcinis antea ferebantur, induerent, ad omne imperium suum parati et intenti.
+	
+Caput XI
+	
+1 Patron autem, Graecorum dux, praecipit suis, ut arma, quae in sarcinis antea ferebantur, induerent, ad omne imperium suum parati et intenti.
 2 Ipse currum regis sequebatur occasioni imminens adloquendi eum, quippe Bessi facinus praesenserat. Sed Bessus id ipsum metuens, custos verius quam comes, a curru non recedebat.
 3 Diu ergo Patron cunctatus ac saepius sermone revocatus, inter fidem timoremque haesitans, regem intuebatur.
 4 Qui ut tandem advertit oculos, Bubacen spadonem inter proximos currum sequentem percontari iubet, numquid ipsi velit dicere. Patron, se vero, sed remotis arbitris loqui velle cum eo, respondit iussusque propius accedere sine interprete — nam haud rudis Graecae linguae Dareus erat, —
@@ -491,7 +615,10 @@ ante destinatarum suum quemque ordinem inmutabili lege percurrere.
 12 Patron desperata regis salute ad eos, quibus praeerat, rediit, omnia pro fide experiri paratus.
 
 
-	1 At Bessus occidendi protinus regis impetum ceperat. Sed veritus, ne gratiam Alexandri, nisi vivum eum tradidisset, inire non posset, dilato in proximam noctem sceleris consilio agere regiº
+	
+Caput XII
+	
+1 At Bessus occidendi protinus regis impetum ceperat. Sed veritus, ne gratiam Alexandri, nisi vivum eum tradidisset, inire non posset, dilato in proximam noctem sceleris consilio agere regiº
 gratias incipit, quod perfidi hominis insidias, iam Alexandri opes spectantis, prudenter cauteque vitasset. Donum eum hosti laturum fuisse regis caput.
 2 Nec mirari hominem mercede conductum omnia habere venalia: sine pignore, sine lare, terrarum orbis exulem, ancipitem hostem ad nutum licentium circumferri.
 3 Purgantiº
@@ -528,7 +655,10 @@ inponitur.
 ignoti iumenta agebant: ne percontantibus in agmine monstrari posset, custodes procul sequebantur.
 
 
-	1º
+	
+Caput XIII
+	
+1º
 Alexander audito, Dareum movisse ab Ecbatanis, omisso itinere, quod petebat [in Mediam],º
 fugientem insequi pergit strenue.
 2 Tabas — oppidum est in Paraetacene ultima — pervenit: ibi transfugae nuntiant praecipitem fuga Bactra petere Dareum.
@@ -580,18 +710,142 @@ p111ad quem monstratum a peritis Polystratus Macedo siti maceratus accessit: ac
 p112Polystrati manu animam efflavit. Alexander an spiranti adhuc supervenerit, incertum est: illud constat miserabili regis opulentissimi exitu conperto copiosas lacrimas profudisse statimque chlamyde sibi detracta corpus operuisse et magno cum honore ad suos deferri iussisse, ut regio Persarum more curatum monumentis maiorum inferretur. Ingratitudinem hominum, a quis pro summis beneficiis crudele exitium Dareus pertulit, quamquam suopte ingenio horrendam et execrabilem, insigniore ad posteritatem infamia damnavit canis cuiusdam mira fides, qui ab omnibus familiaribus derelicto solus adfuit et, quam in vivum prae se tulit benevolentiam, morienti quoque constanter praestitit. Hunc vitae finem sortitus est ille, quem modo contumelia adfici putabant, nisi regem regum et deorum consanguineum salutarent: magnoque iterum experimento adprobatum est: neminem magis patere fortunae, quam qui pluribus eiusdem blanditiis inretitus iugum illius tota cervice receperit.
 
 
+(the longer items of)
+	
+Vogel's Apparatus:
+	
+
+
 zzz:
 	
 zzz
 
 
+❦
 
 
 quidquid — vestiens:
 	
 Aegre a me impetravi, ne haec vocabula insererem post evehitur, ut ea medicina loco laboranti succurrerem: nam duriuscule dici κατὰ σύνεσιν non alium pro aliis nemo negabit. Nolui tamen quidquam mutare, praesertim cum scrupulos moveret herbarum post flores commemoratio.
+❦
 
 
 ac suis:
 	
 ego scripsisse Curtium puto nihil aliud nisi: 'et deorum a suis honoribus cultus'. Vocabulum 'auspiciis'  coniectura videtur ortum e verbis 'a suis' vel 'ac suis', vel per διττογραφίαν illis adscriptum esse
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XII Kal. Dec 03

@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 34‑41
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Alexandrian War
+				
+
+probably by Hirtius, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Capitula 48‑64
+				
+
+
+
+
+
+Caesar
+	
+de Bello Alexandrino
+	
+
+p76
+[Capitula 42‑47]
+	
+
 42
 
 Sub idem tempus in Illyrico est incommodum acceptum, quae provincia superioribus mensibus retenta non tantum sine ignominia sed etiam cum laude erat. Namque eo missus aestate cum duabus legionibus Q. Cornificius, Caesaris quaestor, pro praetore, quamquam erat provincia minime copiosa ad exercitus alendos et finitimo bello ac dissensionibus confecta et vastata, tamen prudentia ac diligentia sua, quod magnam curam suscipiebat ne quo temere progrederetur, et recepit et defendit. Namque et castella complura locis editis posita, quorum opportunitas castellanos impellebat ad decursiones faciendas et bellum inferendum, expugnavit
@@ -55,6 +173,161 @@ p88dediderunt, comperitque ipsum Octavium parvis paucisque navigiis vento secund
 
 
 	
+
+Adnotatio Editoris:
+	
+
+
 1
 The MSS. vary between eum and ea. Possibly some unfamiliar place name produced the present readings. Thus Larsen conjectured Ratineum.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Alexandrino
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Id. Feb. 13

@@ -1,9 +1,244 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber I
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p2
+Prooemium
+	
+
 Hominem sapientem et justum esse, liberisque suis prospicere, et parentum1 debitam curam gerere, sibique victum parare, insidias declinare, et reliqua in eo collocata naturae dona, non admodum forsan aliquis admiretur. Est enim oratione, re pretiosissima, et ratiocinatione praeditus, eaque plurimis in rebus ipsi prodest; insuper etiam deos reverentia et cultu prosequi novit. Quod vero brutis animalibus, quamvis non proprio arbitrio, virtutes quaedam a natura insitae sint, eademque multas et admirandas hominum proprietates possideant, id sane magni momenti est. Quibus autem singula eorum seorsum instructa sint, et quomodo brutis animalibus non minus quam hominibus prospectum sit, accurate nosse eruditae et multisciae mentis opus est. Quanquam igitur me non latet aliorum etiam in hoc genere lucubrationes exstare; tamen hoc quoque nostrae, quoad ejus fieri potuit, diligentiae opus a me in proprium usum collectum, et stylo familiari expositum, thesaurum haud contemnendum me elaborasse credidi. Si igitur alius quispiam haec sibi profutura censeat, iis fruatur; sin minus, suo parenti ea fovenda colendaque relinquat: neutiquam enim omnia omnibus placent, aut studio videntur digna omnibus omnia. Quamvis autem post multos, qui ante me vixerunt, et sapientia excelluerunt, in hoc argumento versatus fuerim, temporis sorte laudem non imminutum iri spero, si et ipse scientiam cognitione dignam accuratiore investigatione et eloquio ornatam in lucem protulerim.
 
 
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+VI Kal. Oct. 04

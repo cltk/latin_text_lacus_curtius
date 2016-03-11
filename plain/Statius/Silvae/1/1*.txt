@@ -1,41 +1,512 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari leguntur versus
+				
+
+
+Silvarum
+				
+
+
+
+P. Papinii Statii
+				
+
+
+
+a
+Loeb Classical Library
+editarum
+				
+MCMXXVIII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p6
+Statii
+	
+e Silvis
+	
+
+
+I
+	
+Equus Maximus Domitiani Imp.
+	
+
+
+
+
+
+
+Quae superimposito moles geminata colosso
+	
+stat Latium complexa forum? caelone peractum
+	
+fluxit opus? Siculis an conformata caminis
+	
+effigies lassum Steropem Brontemque reliquit?
+	5
+an te Palladiae talem, Germanice, nobis
+	
+effinxere manus, qualem modo frena tenentem
+	
+Rhenus et attoniti vidit domus ardua Daci?
+
+	
+
+Nunc age Fama prior notum per saecula nomen
+	
+Dardani miretur equi, cui vertice sacro
+	10
+Dindymon et caesis decrevit frondibus Ide:
+	
+hunc neque discissis cepissent Pergama muris
+	
+nec grege permixto pueri innuptaeque puellae
+	
+ipse nec Aeneas nec magnus duceret Hector!
+	
+adde, quod ille nocens saevosque amplexus Achivos,
+	15
+hunc mitis commendat eques: iuvat ora tueri
+	
+mixta notis belli placidamque gerentia pacem.
+	
+
+nec veris maiora putes: par forma decorque,
+	
+par honor. exhaustis Martem non altius armis
+	
+Bistonius portat sonipes magnoque superbit
+	20
+pondere nec tardo1 raptus prope flumina cursu
+	
+fumat et ingenti propellit Strymona flatu.
+
+	
+p8
+
+Par operi sedes. hinc obvia limina pandit,
+	
+qui fessus bellis adscitae2 munere prolis
+	
+primus iter nostris ostendit in aethera divis;
+	25
+discit et e vultu, quantum tu mitior armis,
+	
+qui nec in externos facilis saevire furores
+	
+das Cattis Dacisque fidem. te signa ferente
+	
+et minor in leges gener et Cato Caesaris iret.3
+
+at laterum passus hinc Iulia tecta tuentur,
+	30
+illinc belligeri sublimis regia Pauli,
+	
+terga Pater, blandoque videt Concordia vultu.
+
+	
+
+Ipse autem puro celsum caput aere saeptus
+	
+templa superfulges et prospectare videris,
+	
+an nova contemptis surgant Palatia flammis
+	35
+pulchrius, an tacita vigilet face troicus ignis
+	
+atque exploratas iam laudet Vesta ministras.
+	
+dextra vetat pugnas,4 laevam Tritonia virgo
+	
+non gravat et sectae praetendens colla Medusae
+	
+ceu stimulis accendit equum; ne dulcior usquam
+	40
+lecta deae sedes nec si, Pater, ipse teneres.
+	
+pectora, quae mundi valeant evolvere curas,
+	
+p10
+et quis5 se totis Temese dedit hausta metallis;
+	
+it tergo demissa chlamys; latus ense quieto
+	
+securum, magnus quanto mucrone minatur
+	45
+noctibus hibernis et sidera terret Orion.
+	
+at sonipes habitus animosque imitatus equestres
+	
+acrius attollit vultus cursumque minatur;
+	
+cui rigidis stant colla iubis vivusque per armos
+	
+impetus et tantis calcaribus illa late
+	50
+suffectura patent; vacuae pro caespite terrae
+	
+aerea captivi crinem terit ungula Rheni.
+	
+hunc et Adrasteus visum extimuisset Arion
+	
+et pavet aspiciens Ledaeus ab aede propinqua
+	
+Cyllarus. hic domini numquam mutabit habenas
+	55
+perpetuus frenis atque uni serviet astro!
+	
+vix sola sufficiunt insessaque pondere tanto6
+
+subter anhelat humus; nec ferro aut aere: laborant
+	
+sub genio, teneat quamvis aeterna crepido,
+	
+quae superingesti portaret culmina montis
+	60
+caeliferique attrita genu durasset Atlantis.
+
+	
+
+Nec longae traxere morae. iuvat ipsa labores
+	
+forma dei praesens operique intenta iuventus
+	
+miratur plus posse manus. strepit ardua pulsu
+	
+machina; continuus septem per culmina Martis7
+65
+it fragor et magnae vincit8 vaga murmura Romae.
+
+	
+p12
+
+Ipse loci custos, cuius sacrata vorago
+	
+famosique lacus nomen memorabile servant,
+	
+innumeros aeris sonitus et verbere crudo
+	
+ut sensit mugire forum, movet horrida sancto
+	70
+ora situ meritaque caput venerabile quercu.
+	
+ac primum ingentes habitus lucemque coruscam
+	
+expavit maioris equi terque ardua mersit
+	
+colla lacu trepidans, laetus mox praeside viso:
+	
+"salve, magnorum proles genitorque deorum,
+	75
+auditum longe numen mihi! nunc mea felix,
+	
+nunc veneranda palus, cum te prope nosse tuumque
+	
+immortale iubar vicina sede tueri
+	
+concessum. semel auctor ego inventorque salutis
+	
+Romuleae: tu bella Iovis, tu proelia Rheni,
+	80
+tu civile nefas, tu tardum in foedera montem
+	
+longo Marte domas. quod si te nostra tulissent
+	
+saecula, temptasses me non audente profundo
+	
+ire lacu, sed Roma tuas tenuisset habenas."
+
+	
+
+Cedat equus, Latiae qui contra templa Diones
+	85
+Caesarei stat sede fori — quem traderis ausus
+	
+Pellaeo, Lysippe, duci, mox Caesaris ora
+	
+mirata cervice tulit — vix lumine fesso
+	
+explores, quam longus in hunc despectus ab illo.
+	
+p14
+quis rudis usque adeo, qui non, ut viderit ambos,
+	90
+tantum dicat equos quantum distare regentes?
+
+	
+
+Non hoc imbriferas hiemes opus aut Iovis ignem
+	
+tergeminum, Aeolii non agmina carceris horret
+	
+annorumve moras: stabit, dum terra polusque,
+	
+dum Romana dies. huc et sub nocte silenti,
+	95
+cum superis terrena placent, tua turba relicto
+	
+labetur caelo miscebitque oscula iuxta.
+	
+ibit in amplexus natus fraterque paterque
+	
+et soror: una locum cervix dabit omnibus astris.
+
+	
+
+Utere perpetuum principi magnique senatus
+	100
+munere. Apelleae cuperent te scribere cerae
+	
+optassetque novo similem te ponere templo
+	
+Atticus Elei senior Iovis, et tua mitis
+	
+ora Tarans, tua sidereas imitantia flammas
+	
+lumina contempto mallet Rhodos aspera Phoebo.
+	105
+certus ames terras et quae tibi templa dicamus,
+	
+ipse colas; nec te caeli iuvet aula, tuosque
+	
+laetus huic dono videas dare tura nepotes.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 tardo M: tanto or -us Pol., tantum Phill.
 
 
+❦
 
 2
 adscitae M: adsertae ϛ.
 
 
+❦
 
 3
 gener et Cato Caesaris iret Scriverius and Housman (see Manilius, p. lxvii): iret gener et Cato castris M.
 
 
+❦
 
 4
 pugnas Pol.: pugnes M.
 
 
+❦
 
 5
 et quis ϛ: et qui M, et cui ϛ; it, cui Phill.
 
 
+❦
 
 6
 tanto ϛ: toto M.
 
 
+❦
 
 7
 Martis Gronovius: montis M (from 59).
 
 
+❦
 
 8
 vincit Heinsius: fingit M, frangit conj. Phill.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Silvae
+			
+
+
+
+
+Statius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Id. Oct. 07

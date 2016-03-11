@@ -1,4 +1,177 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars III
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars V
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+XIII.
+		
+
+Bellum Tarentinum.
+		
+
+
+
+XIIII.
+		
+
+Bellum Picens.
+		
+
+
+
+XV.
+		
+
+Bellum Sallentinum.
+		
+
+
+
+XVI.
+		
+
+Bellum Volsiniense.
+		
+
+
+
+XVII.
+		
+
+De Seditionibus.
+		
+
+
+
+p56
+
+XIII. Bellvm Tarentinvm
+	
+
 I, 18
 Sequitur bellum Tarentinum, unum quidem titulo et nomine, sed victoria multiplex. Hoc enim Campanos, Apulos atque Lucanos et caput belli Tarentinos, id est totam Italiam, et cum iis omnibus Pyrrhum, clarissimum Graeciae regem, una
 
@@ -28,21 +201,38 @@ p66lapide oculos trepidae civitatis fumo ac pulvere inplevit. 25 Eodem postea b
 
 
 	
+
+XIIII. Bellvm Picens8
+
+
 I, 19
 Omnis mox Italia pacem habuit — quid enim post Tarentum auderent? — nisi quod ultro persequi socios hostium placuit. 2 Domiti ergo Picentes et caput gentis Asculum Sempronio duce, qui tremente inter proelium campo Tellurem deam promissa aede placavit.
 
 
 	
+p68
+
+XV. Bellvm Sallentinvm
+	
+
 I, 20
 Sallentini Picentibus additi caputque regionis Brundisium inclito portu M. Atilio duce. In hoc certamine victoriae pretium templum sibi pastoria Pales ultro poposcit.
 
 
 	
+
+XVI. Bellvm Volsiniense
+	
+
 I, 21
 Postremi Italicorum in fidem venere Volsinii, opulentissimi Etruscorum, inplorantes opem adversus servos quondam suos, qui libertatem a dominis datam in ipsos erexerant translatasque in se re publica dominabantur. Sed hic quoque duce Fabio Gurgite poenas dederunt.
 
 
 	
+
+XVII. De Seditionibvs
+	
+
 I, 22
 Haec est secunda aetas populi Romani et quasi adulescentia, quae maximae viruit et quodam flore virtutis exarsit ac ferbuit. Itaque inerat quaedam adhuc ex pastoribus feritas, quiddam adhuc spirabat indomitum. 2 Inde est, quod exercitus Postumium imperatorem, infitiantem quas promiserat praedas, facta in castris seditione lapidavit; quod sub Appio Claudio noluit vincere hostem, cum posset; quod
 
@@ -85,8 +275,15 @@ p74sanguinis dederat, alteram plebeius Stolo sibi iunxit. 3 Qua10 quodam tempor
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 mirabilis N Iahnius: mirabili BI.
+
+
+
 
 
 
@@ -97,14 +294,23 @@ alias Salmasius: alius codd.: citius Sauppius: ante Aldus: prius Mommsenus.
 
 
 
+
+
+
 3
 intra urbem ante cum add. codd.: del. Iahnius.
 
 
 
 
+
+
+
 4
 video me L Voss. Rehd. Palat.: idem omne BN.
+
+
+
 
 
 
@@ -118,8 +324,14 @@ Liv. IX.17.14.
 
 
 
+
+
+
 6
 victorem NL: exercitum B.
+
+
+
 
 
 
@@ -130,8 +342,14 @@ populum romanum NL: populi romani B.
 
 
 
+
+
+
 8
 Picens N: Pycense B.
+
+
+
 
 
 
@@ -142,8 +360,14 @@ Veis Seebodius; vis B.
 
 
 
+
+
+
 10
 qua add. Halmius.
+
+
+
 
 
 
@@ -153,3 +377,109 @@ Spurium inseruit Salmasius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

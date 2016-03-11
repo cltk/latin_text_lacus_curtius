@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars I
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars III
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p234
+
+Severus Alexander
+		
+(Pars II)
+	
+
 29
 Antequam de bellis eius et expeditionibus et victoriis loquar, de vita cotidiana et domestica pauca disseram. 2 usus vivendi eidem hic fuit: primum,66 si facultas esset, id est si non cum uxore cubuisset, matutinis horis in larario suo, in quo et divos principes sed optimos electos et animas sanctiores, in quis Apollonium et, quantum scriptor suorum temporum dicit, Christum, Abraham et Orpheum et huiuscemodi67 ceteros habebat ac maiorum effigies, rem divinam faciebat. 3 si id non poterat, pro loci qualitate vel vectabatur vel piscabatur vel deambulabat vel venabatur.
 
@@ -86,16 +196,54 @@ Et quoniam de lepusculis facta est
 p252mentio, quod ille leporem cottidie haberet, iocus poeticus emersit, idcirco quod multi septem diebus pulchros esse dicunt eos qui leporem comederint, ut Martialis etiam epigramma significat, quod contra quandam Gelliam scripsit huiusmodi:
 
 
+
+
+
+2 "Cum leporem mittis, semper mihi, Gellia, mandas:
+			
 'septem formosus, Marce, diebus eris.'
 			
 si verum dicis, si verum, Gellia, mandas,
 			
 edisti numquam, Gellia, tu leporem."
 		
+
+
+
 3 sed hos versus Martialis in eam quae deformis esset composuit, poeta vero temporum Alexandri haec in eum dixit:
 
 
+
+
+4 "Pulchrum quod vides esse nostrum regem,
+			
+pulchrum79 quod Syra detulit propago,80
+
+venatus facit et lepus comesus,
+			
+de quo continuum capit leporem."
+		
+
+
+
 5 hos versus cum ad eum quidam ex amicis detulisset, respondisse ille dicitur Graecis versibus in hanc sententiam:
+
+
+
+
+6 "Pulchrum quod putas esse vestrum regem81
+
+vulgari, miserande, de fabella,
+			
+si verum putas esse, non irascor.
+			
+tantum tu82 comedas velim lepusclos,
+			
+ut fias animi malis repulsis,
+			
+pulchris ne invideas livore mentis.
+		
+
 
 p254
 39
@@ -163,6 +311,14 @@ In iocis dulcissimus fuit, in fabulis amabilis, in conviviis comis, ita ut quisq
 
 
 p2686 leges agonis97 firmavit easque etiam ipse diligentissime servavit. 7 theatralia spectacula saepe obiit. Theatrum Marcelli reficere voluit. 8 multis civitatibus, quae post terrae motus deformes erant, sumptus ad instaurationem operum et publicorum et privatorum ex vectigalibus98 dedit. 9 in templis sane numquam praeter quattuor aut quinque argenti libras auri ne guttulam quidem aut bratteolam posuit, susurrans versum Flacci Persii:
+
+
+
+
+
+"In sanctis quid facit aurum?"
+		
+
 
 
 45
@@ -251,151 +407,185 @@ p284umquam tribuni vel duces de stipendiis militum quicquam accepissent, dicens,
 
 
 	
+
+Apparatus Criticus:
+	
+
 66
 primum ut P; ut del. by Peter.
 
 
+❦
 
 67
 huius P.
 
 
+❦
 
 68
 permultam Krauss, Peter2; post multam P.
 
 
+❦
 
 69
 a ins. by Jordan and Peter2; om. in P.
 
 
+❦
 
 70
 atque Peter1; idque P; idemque Peter2.
 
 
+❦
 
 71
 pertinerent Jordan, Baehrens; pertineret P, Peter.
 
 
+❦
 
 72
 et purpureas non magnas editors; et purpureaque non magna P, susp. by Peter.
 
 
+❦
 
 73
 qui erant eminentes libenter Editor; quam netuli ueniter P; canentes libenter Salm., Peter.
 
 
+❦
 
 74
 praetorum P.
 
 
+❦
 
 75
 solos P1, Lessing, Lenze; solus Peter.
 
 
+❦
 
 76
 adligari Jordan, Peter; // legari P1; ligari P corr.
+❦
 
 77
 concubii P.
 
 
+❦
 
 78
 et mulsi Mommsen; et mulis P; amuli Scaliger, Peter.
 
 
+❦
 
 79
 pulchrum om. in P.
 
 
+❦
 
 80
 quod Syrum detulit propago P; quem Syrum tetulit propago, <pulchrum> Peiper, Peter2; <pulchrum> quod sua detulit propago Damsté.
 
 
+❦
 
 81
 putas esse <uestrum> regem Egnatius, Peter; putasse se regem P.
 
 
+❦
 
 82
 tu ins. by Egnatius and Peter; om. in P.
 
 
+❦
 
 83
 dieque P.
 
 
+❦
 
 84
 linteaminis Salm., Peter; linae P1; linaei P corr.
+❦
 
 85
 ut om. in P.
 
 
+❦
 
 86
 ad om. in P.
 
 
+❦
 
 87
 pistores Loisel, Peter; pictores P, Jordan.
 
 
+❦
 
 88
 et om. in P.
 
 
+❦
 
 89
 nec haec P.
 
 
+❦
 
 90
 ministros et stromata Editor; mistro mantea P; ministeria mutua Peter2.
 
 
+❦
 
 91
 ut aut Petschenig; aut P; ut Peter.
 
 
+❦
 
 92
 galbulae Salm., Peter1; gacplae P; auicolae Madvig, Peter2.
 
 
+❦
 
 93
 pistores Peter; picatores P.
 
 
+❦
 
 94
 uicena, mulas Salm., Peter; uicenam filas P.
 
 
+❦
 
 95
 instituit uel dies uel tempora P; uel . . . tempora del. by Cas. and Peter.
 
 
+❦
 
 96
 In P the portion of the vita which begins with fecisset and ends with de Isauria in
@@ -406,84 +596,200 @@ is transposed to the
 	
 Vita Maximinorum, v.3, where it is inserted after occiso Heliogabalo ubi primum; this portion is retained in its proper place in the Σ codices; see
 Intro. to Vol. I, p. xxxiii f.
+❦
 
 97
 agonis Mommsen; agnos P, susp. by Peter.
 
 
+❦
 
 98
 pecuniam ex uectigalibus P; pecuniam del. by Salm. and Peter.
 
 
+❦
 
 99
 et iam P.
 
 
+❦
 
 100
 operam dabant Editor; ambulabant P, susp. by Peter; et omnes amb. del. by Jordan.
 
 
+❦
 
 101
 propositos P, Peter.
 
 
+❦
 
 102
 et om. in P.
 
 
+❦
 
 103
 et om. in P.
 
 
+❦
 
 104
 honestioribus Salm., Peter; hominibus P.
 
 
+❦
 
 105
 quod et P, Peter.
 
 
+❦
 
 106
 et a militibus occisus esset P; del. by Peter2.
 
 
+❦
 
 107
 uitae scriptores ceterique P, Peter1; uitae scriptores del. by Peter2.
 
 
+❦
 
 108
 rapiant Madvig; pariant P, Peter.
 
 
+❦
 
 109
 sororis eiusdem matris Cas., Jordan; uxoris sororis eiusdem P, Peter.
 
 
+❦
 
 110
 in Peter1, Novák; inter P; in terra Petschenig, Peter2.
 
 
+❦
 
 111
 suae Jordan, Peter; summae P.
 
 
+❦
 
 112
 non timendus si sugg. by Peter in note; non timet nisi P, Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Id. Jan. 05

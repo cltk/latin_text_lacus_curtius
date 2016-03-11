@@ -1,4 +1,169 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+I: Pars VIII
+
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Epitomae Historiae Romanae
+				
+
+
+Flori
+				
+
+
+
+ab
+E. S. Forster
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXXIX
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+I: Pars X
+
+
+
+
+
+
+Lucius Annaeus Florus
+	
+
+Epitomae de Tito Livio
+	
+bellorvm omnivm
+	
+annorvm DCC libri II
+	
+
+Liber I (continuatio)
+	
+
+
+
+
+XXXI.
+		
+
+Bellum Punicum Tertium.
+		
+
+
+
+XXXII.
+		
+
+Bellum Achaicum.
+		
+
+
+
+XXXIII.
+		
+
+Res in Hispania gestae.
+		
+
+
+
+XXXIIII.
+		
+
+Bellum Numantinum.
+		
+
+
+
+p136
+
+XXXI. Bellvm Pvnicvm Tertivm
+	
+
 II, 15
 Tertium Punicum bellum et tempore exiguum (nam quadriennio patratum1 est) et in comparatione priorum minimum labore (non enim tam cum viris quam cum ipsa urbe pugnatum est) sed2 plane maximum eventu: quippe tandem Carthago finita est. 2 Atquin si quis trium temporum momenta consideret, primo commissum est Punicum bellum, profligatum secundo, tertio vero confectum est. 3 Sed huius causa belli, quod contra foederis legem adversus Numidas quidem, sed parassent classem et exercitum. 4 Frequens autem Massinissa3 finis territabat; sed huic ut bono socioque regi favebatur. Cum de bello sederet, de belli fine tractatum est. Cato inexpiabili odio delendam esse Carthaginem, et cum de alio consuleretur, pronuntiabat, 5 Scipio Nasica servandam, ne metu ablato aemulae urbis luxuriari felicitas4 inciperet; medium senatus elegit, ut urbs tantum loco moveretur. 6 Nihil enim speciosus videbatur quam esse Carthaginem, quae non timeretur. 7 Igitur Manilio Censorinoque consulibus populus Romanus adgressus Carthaginem spe pacis iniecta traditam a volentibus classem sub ipso ore urbis incendit. 8 Tum evocatis principibus,
 
@@ -12,6 +177,10 @@ p140Romanus obstruxerat. Illi alterum6 sibi portum ab alia urbis parte foderunt,
 
 
 	
+
+XXXII. Bellvm Achaicvm
+	
+
 II, 16
 Quasi saeculum illud eversionibus urbium curreret, Carthaginis ruinam statim Corinthos excepit, Achaiae caput, Graeciae decus, inter duo maria, Ionium et Aegaeum, quasi spectaculo exposita. Haec — facinus
 
@@ -21,6 +190,11 @@ p142indignum — ante oppressa est quam in numero certorum hostium referretur. 2
 
 
 	
+p144
+
+XXXIII. Res in Hispania Gestae
+	
+
 II, 17
 Ut Carthaginem Corinthus, ita Corinthum Numantia secuta est; nec deinde orbe toto quicquam intactum armis fuit. 2 Post illa duo clarissimarum14 urbium incendia late atque passim, nec per vices, sed simul pariter quasi unum undique bellum fuit; prorsus ut illae15 quasi agitantibus ventis diffudisse quaedam belli incendia orbe toto viderentur.
 
@@ -50,6 +224,10 @@ p150suis tropaea fixit.24 17 Tandem et eum25 Fabius Maximus consul oppresserat;
 
 
 	
+
+XXXIIII. Bellvm Nvmantinvm
+	
+
 II, 18
 Numantia quantum Carthaginis, Capuae, Corinthi opibus inferior, ita virtutis nomine et honore per omnibus, summumque, si viro aestimes, Hispaniae decus. 2 Quippe quae sine muro, sine turribus, modice edito in tumulo apud flumen sita, quattuor milibus Celtiberorum quadraginta exercitum per annos undecim sola sustinuit, nec sustinuit modo, sed saevius aliquando26 perculit pudendisque foederibus adfecit. Novissime, cum invictam esse constaret, opus fuit eo qui Carthaginem everterat.
 
@@ -81,8 +259,15 @@ p158simul et ne scelera virtutibus obstrepant, separatim referentur,36 priusque,
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 patratum: raptum B.
+
+
+
 
 
 
@@ -93,8 +278,14 @@ sed: et B.
 
 
 
+
+
+
 3
 Massinissa Iahnius: massinissae BNL.
+
+
+
 
 
 
@@ -105,8 +296,14 @@ urbis post felicitas BNL.
 
 
 
+
+
+
 5
 in om. B.
+
+
+
 
 
 
@@ -117,8 +314,14 @@ alterum NL: autem B.
 
 
 
+
+
+
 7
 nata: nota B.
+
+
+
 
 
 
@@ -126,11 +329,20 @@ nata: nota B.
 8
 tum: cum codd.
 
+
+
+
 9
 Macedoniam: Macedoniae codd.
 
+
+
+
 10
 intervenit Woelfflinus: inuenit B.
+
+
+
 
 
 
@@ -141,8 +353,14 @@ Diaei Pighius: dinei B: dignitate NL.
 
 
 
+
+
+
 12
 tuba L Voss. Palat.: turba BN.
+
+
+
 
 
 
@@ -153,11 +371,20 @@ iniuria: syniuria B: ruina Hauptius.
 
 
 
+
+
+
 14
 clarissimarum Freinshemius: clarissima codd.
 
+
+
+
 15
 illae: ille BN: favillae Iahnius scintillae Woelfflinus.
+
+
+
 
 
 
@@ -168,8 +395,14 @@ serpens Mommsenus: ad series B: et series NL.
 
 
 
+
+
+
 17
 Contrebiam: cantabriam B: cum | trebiam L.
+
+
+
 
 
 
@@ -180,8 +413,14 @@ Nertobrigae: nectobricae B: nersobrigis L.
 
 
 
+
+
+
 19
 vi Iahnius: ut B.
+
+
+
 
 
 
@@ -192,8 +431,14 @@ summi vir astus et audaciae scripsi: summae uir audaciae B: summus uir astutus 
 
 
 
+
+
+
 21
 quattuordecim: quattuor B: XIIII NL.
+
+
+
 
 
 
@@ -201,20 +446,38 @@ quattuordecim: quattuor B: XIIII NL.
 22
 praesidia Halmius: praesidium codd.
 
+
+
+
 23
 cecidit et Freinshemius: cecidisset codd.
+
+
+
 
 24
 fixit Freinshemius: fixisset codd.
 
+
+
+
 25
 et eum scripsi: etiam codd.
+
+
+
 
 26
 aliquando Lipsius: aliquanto codd.
 
+
+
+
 27
 exceperant: susceperant B.
+
+
+
 
 
 
@@ -225,8 +488,14 @@ caeliae NL: praellae B.
 
 
 
+
+
+
 29
 vixerunt: vicerunt B.
+
+
+
 
 
 
@@ -237,8 +506,14 @@ cingulis: singuli B.
 
 
 
+
+
+
 31
 esse post macte add. codd. del. Aldus.
+
+
+
 
 
 
@@ -249,8 +524,14 @@ tantum: tantus B.
 
 
 
+
+
+
 33
 Siciliam om. B: Syriam Iahnius.
+
+
+
 
 
 
@@ -261,11 +542,123 @@ Sullanis: Sillanis B.
 
 
 
+
+
+
 35
 quae etsi L. Voss: quasi B: quaesi N.
 
 
 
 
+
+
+
 36
 referentur Halmius: perferentur codd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Epitoma Flori
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+IV Kal. Nov. 08

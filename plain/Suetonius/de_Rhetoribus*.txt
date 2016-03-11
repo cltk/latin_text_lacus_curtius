@@ -1,4 +1,105 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p434
+Suetonius,
+	
+De Rhetoribus
+	
+
+
 1
 
 1 Rhetorica quoque apud nos perinde atque grammatica fere1 recepta est, paululo2 etiam difficilius, quippe quam constet nonnunquam etiam prohibitam exerceri. Quod ne cui dubium sit, vetus S. C.3 item censorium edictum subiciam: "C.4 Fannio Strabone M. Valerio Messala coss. M. Pomponius praetor senatum consuluit. Quod verba facta sunt de philosophis et rhetoribus, de ea re ita censuerunt, ut M. Pomponius praetor animadverteret curaretque, ut ei5 e re p. fideque sua videretur, uti Romae ne essent." De eisdem interiecto tempore Cn. Domitius Aenobarbus, L. Licinius Crassus censores ita edixerunt: "Renuntiatum est nobis, esse homines qui novum genus disciplinae instituerunt, ad quos iuventus in ludum conveniat; eos sibi nomen imposuisse Latinos rhetoras; ibi homines adolescentulos dies totos desidere. Maiores nostri, quae liberos suos
@@ -68,6 +169,12 @@ p448et vindicem, paene poenas luit. Iam autem senior ob vitium vomicae Novariam 
 
 
 
+
+
+
+Textus qui sequitur de editione Loeb non provenit, sed de editione Roth (typis Teubner, MCMIV):
+	
+
 Reliqua desiderantur. Supersunt tamen in indice praemisso nomina rhetorum undecim, et post stellulam posuimus quae Hieronymus in Chronico hinc decerpsit.
 
 	
@@ -126,20 +233,28 @@ Verginius Flavus
 1 Iulius Tiro
 
 
+
+
+Apparatus Criticus:
+	
+
 1
 fere, VLNGI; sero, O, Beroaldus.
 
 
+❦
 
 2
 paululo, VLGO; paullo, I; paulo, N.
 
 
+❦
 
 3
 S. C., omitted by the MSS.; inserted by Stephanus after, and by Lachmann before, item; O omits item also, marking a lacuna.
 
 
+❦
 
 4
 C. added by Stephanus from
@@ -147,109 +262,235 @@ C. added by Stephanus from
 Gell. 15.11.1.
 
 
+❦
 
 5
 ut ei, OW (see Ihm, Rh. Mus. 61.552 and cf. Gell. 15.11.1); ut ei si, edd.
 
 
+❦
 
 6a
 6b
 tum . . . tum, Stephanus, Vinetus; dum . . . dum, MSS.
+❦
 
 7
 exoleverunt, Beroaldus; exoluerunt, L (Pontanus); exoluerint, VOGI; exsoluerint, N.
 
 
+❦
 
 8
 libertatem, Vinetus; libertate, MSS.
+❦
 
 9
 appellatione Graeca, OI; appellationes Graece, VLW; appellationes Graeci, NG.
 
 
+❦
 
 10
 synthesis, L (Pontanus); syntaxis, VNG; sintaxis, I syntasis, O.
 
 
+❦
 
 11
 significat, Muretus; significabat, MSS.
+❦
 
 12
 Voltacilius, Roth, from the Indices and Hieronymus; Oltacilius, VO; Octacilius, NGI; Otacilius, L.
 
 
+❦
 
 13
 Plotus, Reiff. from Hieron.; Pilutus, MSS.
+❦
 
 14
 M., added by Roth.
 
 
+❦
 
 15
 Nucerino, OW, Beroaldus; Nuncino, VNG; nuntino, I; mancino, L.
 
 
+❦
 
 16
 taureis, O. Jahn; aureis, NO; omitted by VLGI.
 
 
+❦
 
 17
 extrisse, Statius; extricte, MSS.
+❦
 
 18
 adhibes, Beroaldus from Cic.; tibi et, MSS. except O, which omits, marking a lacuna.
 
 
+❦
 
 19
 compotorum, Stephanus from Cic.; competitorum, MSS. (compett‑, I).
 
 
+❦
 
 20
 salsum, L (Pontanus), Beroaldus from Cic.; the other MSS. have falsum.
 
 
+❦
 
 21
 in te, omitted by VLNG.
 
 
+❦
 
 22
 dicta, omitted by VLOGI.
 
 
+❦
 
 23
 cum, MSS. (quom, N; eum, V); cumque, Oudendorp, Reiff.
 
 
+❦
 
 24
 demittere, J. Gronov; dimittere, MSS.
+❦
 
 25
 incipere, Faernus; in opere, MSS.
+❦
 
 26
 autem genere, Stephanus; aut gemere, MSS.
+❦
 
 27
 tantum non, VO; tamen non, L; tantum modo, NGI.
 
 
+❦
 
 28
 et, added by Roth.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08

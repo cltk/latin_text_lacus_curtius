@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Praefatio
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber I
+				
+
+
+
+
+
+Vol. Ip. v
+Firmici Materni
+	
+ad
+	
+Mathesin
+	
+
+Praefatio Editorum
+	
+
 Priori huic fasciculo pauca praemittimus, quoniam praefatio cum altero edetur, cui etiam indices locupletes subiungemus.1
 
 Codicibus igitur usi sumus hisce:
@@ -58,8 +181,140 @@ Consentaneum est res amicorum communes esse; sed tamen commemorandum est hunc fa
 Gratiarum agendarum occasionem habemus haud exiguam. Ac primum quidem Franciscus Buecheler epistolicas quasdam nostras quaestiones tam benivole quam egregie solvit. Theodorus Mommsen autem et C. F. W. Mueller ne corrigendarum quidem plagularum taedium detrectantes de multis huius scriptoris locis insigniter meruerunt; quorum quod nomina hic illic detruncavimus (Mo. et Mue.) ignoscent speramus. De capitibus II 8.9 a nobis interrogatus Carolus Manitius respondit. In codicibus conferendis qui suam nobis operam praestiterint, antea dictum est; adiungendus tamen iis cum debita gratia non Maximilianus Bonnet tantum quem non semel per litteras adiimus et Gottholdus Gundermann qui de codicibus quibusdam exteris nos certiores fecit, verum etiam praefecti bibliothecarum et huius urbis et exterarum.
 
 	
+W. K. F. S.
+
+	
+Vratislaviae.
+
+
+
+
+	
+
+Adnotatio Editorum:
+	
+
 1
 Qui antequam prodierint, opera nostra coniecturalis vix recte aestimari poterit; nam haud raro quidem neque tamen ubique coniecturis nostris adscripsimus, quibus locis Firmicianis collatis confirmentur. Id quod eos monitos volumus, qui forte de editione nostra sententiam laturi sunt.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

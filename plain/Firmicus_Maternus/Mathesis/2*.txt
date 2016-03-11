@@ -1,4 +1,129 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber III
+				
+
+
+
+
+
+Vol. Ip40
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Secundus
+	
+
+<Praefatio>
+
+
 Matheseos scripturi libros eos, qui eandem discere volunt, primum instituere debemus, ut rectis initiis formati facilius pronuntiandi scientiam consequantur; non enim potest veram eius scientiam consequi, nisi fuerit primis institutionibus eruditus. 2 Fronto enim noster Hipparchi secutus antiscia ita apotelesmatum sententias protulit, tamquam cum perfectis iam et cum peritis loqueretur, nihil de institutione, nihil de magisterio praescribens. Sed nec aliquis paene Latinorum de hac arte institutionis libros scripsit nisi paucos versus Iulius Caesar et ipsos tamen de alieno opere mutuatos, Marcus vero Tullius, princeps ac decus Romanae eloquentiae, ne quid intemptatum relinqueret, quod fuisset divinum eius ingenium assecutum, versibus heroicis etiam ipse de institutione pauca respondit. 3 Unde nos omnia, quae de ista arte Aegyptii Babyloniique dixerunt, docilis sermonis institutione transferemus, ut hi, qui ad explicanda hominum fata formantur, pedetemptim
 
 
@@ -11,6 +136,9 @@ Sed quia mentionem antisciorum fecimus, hunc locum non debemus cum dissimulation
 
 
 	
+De Signis XII
+
+
 1 Zodiacus orbis, in quo duodecim signa infixa sunt, per quem quinque planetae, Sol etiam et Luna cursus suos dirigunt, obliqua semper agitatione torquetur. 2 Signa autem ipsa duodecim his nominibus nominantur: Aries Taurus Gemini Cancer Leo Virgo Libra Scorpius Sagittarius Capricornus Aquarius et Pisces. 3 Horum signorum diversa sunt genera, nam alia sunt ex his masculina, alia feminina; masculina itaque sunt Aries Gemini Leo Libra Sagittarius Aquarius,
 
 
@@ -19,6 +147,9 @@ p42feminina vero Taurus Cancer Virgo Scorpius Capricornus Pisces.
 
 
 	
+II. De Domibus Stellarum
+	
+
 1 Ex his duodecim signis Sol quidem et Luna singula sunt signa sortiti, ceteri vero quinque planetae idest Saturnus Iuppiter Mars Venus Mercurius bina, in quibus singuli imperium habent ac domicilium constitutum. 2 Sed has stellas non eodem nomine quo nos aut quo Graeci Aegyptii nominant; nam qui a nobis Saturnus dicitur, ab Aegyptiis Faenon vocatur; quem nos Iovem vocamus, Aegyptii Faethontem vocant; qui a nobis Mars, ab illis Pyrois dicitur; quae a nobis Venus, ab illis Fosforos vocatur; quem nos Mercurium dicimus, illi Stilbontem vocant. 3 Est itaque Sol †et Leo et in hoc signo habet domicilium et potestatem, Lunae Cancer. Vide, quam apte quam secundum, ut masculini quidem signi dominus Sol esset, feminini vero Luna, ut pro qualitate generis sui similia sibi sexus sui domicilia vendicarent. 4 Ceteri vero quinque planetae bina, sicut superius diximus, habent signa, in quibus imperii sui exerunt potestatem; sed ex ipsis duobus signis, quae singuli possident, unum masculinum
 
 
@@ -27,6 +158,9 @@ p43est, aliud femininum; quod ut manifestius intellegi possit, omnia specialiter
 
 
 	
+III. De Altitudinibus et Deiectionibus Stellarum
+	
+
 1 Scire etiam altitudinem et humiliationem debemus, quae sint stellarum altitudines singularum, in quibus naturali quadam sublimitate magnitudinis eriguntur, et quae sint earum deiectiones, in quibus constitutae oppressa auctoritatis suae potestate minuuntur. 2 In altitudinibus itaque suis gaudent constitutae, et tunc maximae felicitatis decernuntur insignia, quotiens in genituris hominum maxima stellarum pars partiliter altitudinum suarum signa possederint. Tunc vero homines infelicitatum infortuniis opprimuntur, quotiens stellarum pars maxima in his partiliter constituta fuerit, in quibus humili deiectione multum de sua potestate dimittunt. 3 Altitudines autem dictae sunt ob hoc, quod, cum in ipsa parte fuerint stellae, in qua exaltantur, in oportunis scilicet geniturae locis
 
 
@@ -35,6 +169,9 @@ p44faciunt . . . . . . . . . miseros pauperes ignobiles et in quos se in
 
 
 	
+IV. De Decanis
+	
+
 1 Singula signa in tres partes dividuntur, singulae autem partes habent singulos decanos, ut sint in singulis signis terni decani, quorum singuli ex triginta partibus denas possident partes et dominium suum ac potestatem in X partes exerunt. Sunt autem
 
 
@@ -55,10 +192,16 @@ p46ternis munificibus decani singuli praeferantur. 5 Rursus novem munifices, qu
 
 
 	
+V. De Partibus Signorum
+	
+
 Singula signa triginta habent partes; pars est autem in signo tantus locus, quantum Solis aut Lunae orbis in circuitu complectitur; sed una pars in minuta dividitur sexaginta.
 
 
 	
+VI. De Finibus
+	
+
 1 Licet ipsum signum alienae sit potestatis et alterius <stellae> habeat domicilium, tamen partes eius quasi propriae stellis singulis dividuntur, quae partes fines stellarum nominantur; hos fines Graeci oria vocant. Sed et hoc suptili debemus inquisitione colligere; nam cum <in> finibus suis stella fuerit inventa, sic est tamquam in suo domicilio constituta; quod totum, ut manifestius intellegi possit, debemus specialiter explicare, ut ex istis finibus geniturarum secreta
 
 
@@ -75,6 +218,9 @@ p4913 Piscium dominus est Iuppiter; sed eius signi fines hactenus dividuntur: A
 
 
 	
+VII. De Stellarum Conditione
+	
+
 1 Expositis finibus atque monstratis explicare debemus, quae stellae per diem gaudeant et cuius conditionem sequantur, quae vero per noctem gaudentes cuius pari modo conditionem sequantur. 2 Per diem gaudent Sol Iuppiter <Saturnus>; [non] ideo in diurnis genituris in oportunis locis positi . . . . . . . . . .
 
 	
@@ -90,6 +236,9 @@ Haec nos in hoc institutionis libro summatim dixisse sufficiat. Omnia enim pleni
 
 
 	
+VIII. De stellis quando sint matutinae vel quando vespertinae
+	
+
 1 Stellae quinque idest Saturnus Iuppiter Mars Venus Mercurius matutinae sunt aut vespertinae aut occiduales aut absconsae, quae a Graecis afaneis et synodicae dicuntur, aut acronyctae. Qua autem ratione tales fiant vel qua ex causa haec accipiant nomina, explicemus. Matutinae sunt in ortu, quae praecedentes orbem Solis oriuntur; vespertinae vero in ortu, quae orientem Solem sequuntur; absconsae vero, quas <Solis> orbis tegit; acronyctae, quae tunc oriuntur, cum Sol occidit. 2 Hae figurae stellarum quando prosint, quando noceant, in libris posterioribus explicabimus; neque enim hoc a nobis sine causa dictum est. In summa
 
 
@@ -98,10 +247,16 @@ p51autem dicendum est, quod omnibus stellis noceat vicinitas Solis. Quidam vero 
 
 
 	
+IX. Quibus partibus matutinae stellae vel vespertinae fiant
+	
+
 Explicabimus enim, qua ratione vespertinae, qua vero matutinae fiant. Saturni stella cum a Sole XV p52recesserit partibus idest cum praecedens orta fuerit, matutina est. Simili modo etiam Iovis XII partibus recedens <ortum> matutinum facit [praecedentem], Venus VIII. Mars etiam praecedens et in XVIII. parte constitutus matutinus efficitur. Mercurius praecedens et in XVIII. parte constitutus matutinus est. Vespertinae vero sunt, cum in isto partium numero constitutae Solem fuerint subsecutae.
 
 
 	
+X. <De moribus signorum et natura>
+
+
 1 Nunc de XII signorum natura formis qualitate substantiis anaforis explicare debemus, ut totam plenissime huius artis scientiam manifestis expositionibus intimemus.
 
 	
@@ -116,6 +271,9 @@ p53diei aequata moderatione componit, quod a Graecis tropicon isemerinon appell
 
 
 	
+XI. <De anaforis signorum>
+
+
 1 Explicatis signorum generibus ac formis et natura eorum diligenti ratione perscripta, sicut nobis prudentissimis Graecorum magisteriis traditum est, illud
 
 
@@ -132,10 +290,16 @@ Hi sunt signorum ortus, quibus stellae singulae ad sui efficaciam promoventur.
 
 
 	
+XII. Quae signa quibus ventis subiacent
+	
+
 Illud etiam nos scire convenit, quae signa quibus sint subiecta ventis; haec enim nobis scientia maxime in apotelesmatibus necessaria est. Aquiloni subiacent signa Aries Leo Sagittarius, Austro Taurus Virgo Capricornus, Afelioti, quem nos Solanum dicimus, Gemini Libra Aquarius, Africo, qui a Graecis Libs dicitur, Cancer Scorpius Pisces.
 
 
 	
+XIII. De Duodecatemoriis.
+	
+
 1 Nunc, de duodecatemoriis [a] qua ratione perquiras, breviter ostendam; quidam enim ex his putant totam se posse geniturae substantiam invenire et, quicquid in decreto celatur, ex duodecatemoriis
 
 
@@ -148,6 +312,9 @@ p57hominum Iovis benignitas vinceretur. Sed quia sic artifex deus hominem fecit,
 
 
 	
+XIV. De octo locis.
+	
+
 1 Nunc ad expositionem cardinum locorumque omnium transferatur intentio; nam cum haec omnia a nobis fuerint diligenter inventa, debemus singula †hominis, per quae omnis vitae hominum substantia dividitur, invenire; sed interim platice. Nam paulo post cum ad libros apotelesmatum venerimus, partiliter ostendemus rationem, qua possint loca singula secretis inquisitionibus colligi; debet enim is qui instituitur primum platice institui, ut compositus atque formatus secretiora geniturae confidentius consequatur. 2 Cum enim locus ipse partiliter fuerit inventus, considerandum est, qualis sit, in quo signo et in cuius sit finibus et quae illi stellae quatenus testimonium perhibeant. Illud etiam maxime considerandum est, dominus loci ipsius, id est signi, quo in loco sit positus vel in quali signo vel in qualibus finibus, quae res diligentissime requirenda est; et an benivolarum stellarum testimoniis adornetur an vero malivolarum inpugnatione pulsetur. Nunc ad platicam locorum definitionem revertamur, ut sic ordinem cardinum et ceterorum locorum explicare possimus.
 
 	
@@ -160,6 +327,9 @@ p58eo signo, in quo est horoscopus constitutus, spei vel pecuniae in secundo hor
 
 
 	
+XV. De cardinibus geniturarum.
+	
+
 1 In genituris cardines sunt quattuor, ortus occasus IMC. IMC., quae loca a Graecis solent appellari his nominibus: anatole dysis mesuranima ypogeon. 2 Ortus est pars horoscopi . . . . . . posita, quod a Graecis diametrum dyticon dicitur; 3 quod ut facilius intellegas, a parte horoscopi computa per cetera signa partes CLXXX, et in quocumque signo CLXXXI. pars fuerit inventa, 4 in ipso signo vel parte geniturae constituitur occasus. Medium vero caelum est ab horoscopo X. signum, sed interdum medium caelum etiam in XI. ab horoscopo signo partiliter invenitur; quod ut manifestius intellegas,
 
 
@@ -168,6 +338,9 @@ p59a parte horoscopi computa per cetera signa, quae sequentur, partes CCLXX; et
 
 
 	
+XVI. De quattuor secundis locis.
+	
+
 1 Post hos quattuor cardines, idest post ortum occasum medium caelum imum caelum, alia sunt in generis quattuor loca, quae sequentem et secundam habent potestatem, id est Dea Deus Bona fortuna ac Bonus daemon, quae a Graecis hactenus nominantur: thea, theos, agathe tyche, agathos daemon. 2 Dea est tertius ab horoscopo locus id est tertium ab horoscopo signum; hic locus a Graecis, sicut diximus, theasº dicitur. Deus vero illud signum dicitur, quod contra hoc signum in diametro fuerit constitutum, idest IX. ab horoscopo signum; hic locus a Graecis theos dicitur. Bona fortuna in quinto ab horoscopo signo collocatur; qui locus a Graecis agathe tyche dicitur. Bonus vero daemon in diametro huius signi
 
 
@@ -176,10 +349,16 @@ p60collocatur id est in XI. ab horoscopo loco; hic locus a Graecis agathos daem
 
 
 	
+XVII. De pigris et deiectis locis.
+	
+
 Residua quattuor loca pigra et deiecta esse dicuntur ob hoc, quod nulla cum horoscopo societate iunguntur. Est autem ex his residuis quattuor locis primus, qui in secundo ab horoscopo signo constituitur, qui locus inferna porta dicitur vel anafora; in diametro huius signi locus qui fuerit id est in VIII. ab horoscopo signo, epicatafora appellatur. Novissima vero sunt Malae fortunae et Mali daemonis; et Mala fortuna in VI. ab horoscopo <signo> constituitur, Malus vero daemon in XII. ab horoscopo signo ponitur, sed Malam fortunam Graeci cacen tychen appellant, Malum daemonem id est [in] XII. ab horoscopo signum cacodaemonem Graeci vocant.
 
 
 	
+XVIII. De omnium locorum ordine.
+	
+
 1 Nunc scire debemus, ex his XII locis quae praecedant, quae sequantur, id est quae loca prima sint, quae secunda, ut omnia diligenti possimus ratione colligere. 2 Horoscopus praecedit occasum, medium caelum imo caelo praeponitur, XI. locus id est Bonus daemon Bonae fortunae praefertur, IX. locus id est Deus tertio loco id est Deae praeponitur, anafora id est <II. locus epicataforae id est> VIII. ab horoscopo loco praeponitur, Mala fortuna id est VI. ab horoscopo
 
 
@@ -188,6 +367,9 @@ p61locus Malo daemoni id est XII. ab horoscopo loco praeponitur. 3 Scienda sunt
 
 
 	
+XIX. De duodecim locorum potestatibus.
+	
+
 1 Specialiter nunc duodecim locorum significationes explicare debemus ab horoscopo incipientes, ut expositis per ordinem omnibus confusionis obscuritas luminetur.
 
 	
@@ -243,6 +425,9 @@ Sane patrem et in viri et in mulieris genitura Sol ostendit, matrem Luna, uxorem
 
 
 	
+XX. De nominibus duodecim locorum et quid sint <stellae> sortitae et apotelesmata ipsarum.
+	
+
 1 Nunc, quia duodecim locorum qualitates nomina substantiam diximus, brevi debemus haec eadem loca significatione monstrare. Initium itaque sit nobis horoscopus, cuius principium loca cetera subsecuntur. 2 His itaque nominibus haec loca appellari conveniet: vita, spes, Dea vel fratres, parentes, filii, valitudo, coniunx, mors, Deus, medium caelum, Bonus daemon, Malus daemon. Per haec nomina et per haec loca totius geniturae substantia quaeritur; quae cum diligenter inspexeris animoque conceperis et omnia commixta societate coniunxeris, animadverte, quae stellae loca ipsa possideant. 3 Conditiones etiam diurnarum ac nocturnarum stellarum diligenter inspicies, sed et qualia singulis locis benivola stellae testimonia perhibeant,
 
 
@@ -262,10 +447,17 @@ p68et si benivolarum stellarum malivolarumque mixturas, locorum vim et signorum 
 
 
 	
+XXI. De qualitatibus geniturarum.
+	
+
 Illud etiam scire nos convenit, quod mediocris <est> genitura, quae unam stellam in domicilio suo constitutam in principalibus geniturae locis habuerit collocatam; mediis etiam felicitatibus sublevatur, qui duas stellas in domiciliis suis in oportunis geniturae locis habuerit positas; ultra modum felix ac potens erit, qui tres habuerit; prope ad deorum accedit felicitatem, qui quattuor stellas in domiciliis suis habuerit constitutas. Ultra hunc numerum humani generis substantia non patitur. Qui vero nullam stellam in domicilio suo habuerit constitutam, ignotus ignobilis et miseris erit semper actibus implicatus.
 
 
 	
+p69
+XXII. De diametris trigonis quadratis exagonis deiunctis sive ableptis.
+	
+
 1 Instituendum mathematicum etiam illud in primis docere debemus, quid sit diametrum, quid trigonum, quid quadratum, quid exagonum, quid ableptum, quod sit etiam trigonum dextrum, quod sinistrum, quod exagonum dextrum, quod sinistrum. 2 Arietis diametrum est Libra et Librae Aries; Tauri diametrum est Scorpius et Scorpii Taurus, et cetera omnia signa simili modo; sed ut non solum oculis hoc, sed et computatione invenias, brevi docemus exemplo: a signo ad aliud signum septimum quod fuerit, hoc est diametrum; sed haec semper maligna ac minax radiatio est. 3 Trigonum <est> a signo, a quo initiamus, V. signum, quod hoc docetur exemplo: ab Ariete usque ad Leonem trigonum, a Tauro usque ad Virginem; sic per omnia signa quodcumque [in] signum V. fuerit, hoc est trigonum. 4 Scire etiam debemus, quod sit dextrum trigonum, quod sinistrum. Dextrum trigonum est, quod ab eo signo, a quo incipimus, retro est, sinistrum vero, quod abante; utputa Arietis dextrum trigonum est Sagittarius, sinistrum vero Leo, et simili modo Leonis dextrum trigonum est Aries, sinistrum Sagittarius; Sagittarii dextrum trigonum est Aries, sinistrum est Aries. Sic et in ceteris omnibus signis trigona quaeris; haec est prospera felixque radiatio. 5 Quadratum est ab eo signo, a quo inchoamus, quod
 
 
@@ -274,6 +466,9 @@ p70quartum fuerit signum; quod hoc docetur exemplo: Arietis quadratum est signum
 
 
 	
+XXIII. Quae ratio coniungit horoscopo trigona quadrata diametra exagona.
+	
+
 1 Nunc illud breviter explicandum est, cum quaedam loca cum horoscopo diximus radiationis societate coniungi, quaedam vero aversa esse ab horoscopo et quodam modo aliena, quae non inmerito pigra diximus; omnia enim explicare debemus, ut iste institutionis
 
 
@@ -301,6 +496,9 @@ p72horoscopi profecti in XC. parte hunc locum constituimus; quadruplicantes itaq
 
 
 	
+XXIV. De signis quibus partibus corporis sint attributa.
+	
+
 Explicare debemus, signa XII quas partes humani corporis teneant; hoc enim et ad apotelesmata vehementissime
 
 
@@ -309,6 +507,9 @@ p73proficit, praesertim cum locum valitudinis vel vitii volueris invenire. Caput
 
 
 	
+XXV. Quis deorum quot annos decernat.
+	
+
 1 Nunc illud explicare debemus, quae stella quot horas dies menses annos bene collocata plures, pauciores vero male collocata decernat. 2 Cum datorem vitae diligenter inspexeris, id est dominum geniturae, et videris, quo sit in loco positus et in quali signo et in qualibus <partibus>, sed et dominus signi ipsius, in quo est vitae dator constitutus, simili ratione perspexeris, quo sit in loco et in quo signo et in quibus partibus constitutus, <Solem> quoque et Lunam quatenus dator vitae et benivolae stellae respiciant, facile totius vitae poteris definire substantiam. Nam si et ipse dator vitae bono in loco sit positus <et in bono signo> et in bonis partibus, integer annorum decernitur numerus, praesertim si datorem vitae Iuppiter in diurna <genitura>, Venus in nocturna prospera radiatione sustentent. 3 Saturnus si dator vitae fuerit et [in] integrum decreverit annorum numerum, LVII
 p74annos decernit; si vero male decreverit, XXX annos aut menses XXX et horas XII decernit. 4 Si Iuppiter dator vitae fuerit et bene decreverit, LXXIX annos decernit; si male, annos XII aut menses XII et dies XII horas XII. 5 Mars si dator vitae fuerit, si bene decreverit, LXIII annos decernit; si male, <annos> XV aut menses XV dies XV horas XII. 6 Sol si bene decreverit, CXX annos decernit, si male, XVIII annos, si medie, XLV. 7 Venus si bene decreverit, LXXXIV annos decernit, si male, annos VIII dies VIII horas XII. 8 Mercurius si bene decreverit, CVIII annos decernit, si medie, LXXIX, si male, annos XX aut menses XX dies XX horas XX. 9 Luna si bene decreverit, LXXXIV annos decernit, si male, XXV.
 
@@ -317,14 +518,25 @@ p74annos decernit; si vero male decreverit, XXX annos aut menses XXX et horas XI
 
 
 	
+p75
+XXVI. De temporum domino.
+	
+
 1 Chronocratorem dixerunt Graeci temporum dominum; sed initium temporum in diurnis genituris Sol accipit et ceteris dividit, in nocturnis Luna; nec aliam rationem admittas, quia haec ab omnibus probatur. 2 Cum itaque Sol dominus temporum fuerit, tenet dominatum annos decem menses novem; simili modo et Luna, cum domina temporis fuerit, tenebit annos decem menses novem. In diurna itaque genitura primum decennium Sol accipit, secundum, qui in genitura per signorum cursum in secundo loco fuerit inventus, tertium, qui post secundum fuerit, et simili modo ceteri; quod ut manifestius intellegas, hoc docemus exemplo. 3 Si in diurna genitura Sol in Ariete fuerit inventus, ipse erit decennii dominus, sed et in quocumque alio signo fuerit. Quicumque itaque in Tauro fuerit, ipse erit secundo loco; qui post Taurum fuerit, ipse enim est tertius; sic et in ceteris. Hoc modo et in nocturnis genituris a Luna inchoantes faciemus. 4 Sed quicumque decennium sortitus fuerit, licet sit totius temporis dominus, omnibus tamen stellis totam decennii substantiam dividit a se incipiens et postea illis tradens, qui sunt per ordinem positi, primo illi tradens de his qui sunt per ordinem positi, quicumque in themate secundus fuerit inventus.
 
 
 	
+p76
+XXVII. De distributione temporum.
+	
+
 1 Quanta autem sit temporum distributio, breviter ostendemus: Sol accipit menses XIX, Luna menses XXV, Saturnus menses XXX, Iuppiter menses XII, Mars menses XV, Venus menses VIII, Mercurius menses XX. 2 Quid autem ista temporum distributione fiat, in libris apotelesmatum dicemus ostendemusque, quid quae stella suscipiens tempus ab alia stella decernat; omnia enim, quae nobis proveniunt bona vel mala, ista temporum ratione colligimus. Fines etiam vitae sic invenientur et omnis geniturae substantia et totum, quod stellarum ordo decreverit. 3 Annum autem facillimis rationibus invenimus; nam ab horoscopo semper sumit exordium, et primus annus erit, in quo est horoscopus constitutus, secundus in secundo signo, tertium in tertio, et sic ceteri per ordinem. 4 Alii in diurna genitura a Sole hoc idem faciunt, in nocturna <a> Luna; et habet rationem.
 
 
 	
+XXVIII. <De anni divisione>
+
+
 1 Dies etiam totius anni stellis singulis dividuntur; quatenus autem dividantur vel unde initium accipiant, etiam hoc monstrare curae habebo . . . . 2 quando aegritudines, quando inbecillitates, quando lucra, quando damna proveniant, quando gaudia, quando dolores. Nam cum benivolae stellae dies acceperint, ab omni malo liberamur; cum malivolae, tunc nos repentini
 
 
@@ -333,6 +545,9 @@ p77infortuniorum casus inpugnant. 3 In quocumque itaque signo anni <principium>
 
 
 	
+XXIX. De antisciis.
+	
+
 1 Ex istis institutis omnibus, quia tractatum antisciorum paulo ante distulimus, hunc locum nunc explicare debemus, ne quid a nobis in ista institutione praetermissum esse videatur. 2 Antiscia Graecorum sunt nobis magisterio tradita; nam nolo aliquis suspicetur, quod non sit apud Graecos ipse tractatus; nam et Ptolomaeus nullam aliam rationem sequitur nisi antisciorum, et Antiochus, cum dicit, quod enim
 
 
@@ -346,6 +561,249 @@ p79mittit; II. in XXVIII., XXVIII. in II.; III. in XXVII., XXVII. in III.; I
 
 
 p80itaque pars prima antiscium miserit, ab ea suscipit ipsa rursus antiscium, sic secunda, sic ceterae. Geminorum itaque et Cancri scripsimus partes, quod exemplum etiam in ceteris signorum partibus servari convenit, et eorum scilicet signorum quaeque invicem in se dicimus antiscium mittere.
+
+
+
+
+
+I
+		
+
+XXVIIII
+		
+
+ 
+
+
+ 
+
+
+XV
+		
+
+XV
+		
+
+
+
+II
+		
+
+XXVIII
+		
+
+
+
+XVI
+		
+
+XIIII
+		
+
+
+
+III
+		
+
+XXVII
+		
+
+
+
+XVII
+		
+
+XIII
+		
+
+
+
+IIII
+		
+
+XXVI
+		
+
+
+
+XVIII
+		
+
+XII
+		
+
+
+
+V
+		
+
+XXV
+		
+
+
+
+XVIIII
+		
+
+XI
+		
+
+
+
+VI
+		
+
+XXIIII
+		
+
+
+
+XX
+		
+
+X
+		
+
+
+
+VII
+		
+
+XXIII
+		
+
+
+
+XXI
+		
+
+VIIII
+		
+
+
+
+VIII
+		
+
+XXII
+		
+
+
+
+XXII
+		
+
+VIII
+		
+
+
+
+VIIII
+		
+
+XXI
+		
+
+
+
+XXIII
+		
+
+VII
+		
+
+
+
+X
+		
+
+XX
+		
+
+
+
+XXIIII
+		
+
+VI
+		
+
+
+
+XI
+		
+
+XVIIII
+		
+
+
+
+XXV
+		
+
+V
+		
+
+
+
+XII
+		
+
+XVIII
+		
+
+
+
+XXVI
+		
+
+IIII
+		
+
+
+
+XIII
+		
+
+XVII
+		
+
+
+
+XXVII
+		
+
+III
+		
+
+
+
+XIIII
+		
+
+XVI
+		
+
+
+
+XXVIII
+		
+
+II
+		
+
+
+
+
+XXVIIII
+		
+
+
+
+I
+		
+
+
 
 
 8 Sic Taurus in Leonem, sic Leo rursus in Taurum; sic Aries in Virginem, sic Virgo rursus in Arietem; sic Pisces in Libram, sic Libra rursus in Pisces; sic Scorpius in Aquarium, sic Aquarius in Scorpium; sic Sagittarius in Capricornum, sic Capricornus rursus in Sagittarium. 9 Si quae se itaque stellae in ordinatione geniturae non viderint, quaerendum est, an sibi per antiscium sociata radiatione iungantur. Cum enim antiscium sic miserint, ut trigonica se per antiscium vel quadrata vel diametra vel exagona radiatione coniungant, sic decernunt quasi sic sint simplici ordinatione
@@ -379,6 +837,9 @@ p85consecutus, numquam eum tractantem fata hominum coniecturae fallit intentio.
 
 
 	
+XXX. Quales vita et quale institutum esse debet mathematicis.
+	
+
 1 Nunc tu, quicumque hos libros legere conaris, cum omnem divinitatis scientiam acceperis et cum naturae sacris imbutus atque initiatus sacrati operis disciplinam . . . ad imaginem te divinitatis similitudinemque forma, ut sis semper praeconio bonitatis ornatus. Oportet enim eum, qui cotidie de diis vel cum diis loquitur, animum suum ita formare atque instruere, ut ad imitationem divinitatis semper accedat. 2 Quare et disce et exequere omnia ornamenta virtutis et, cum te his instruxeris, esto facilis accessu, ut, si qui voluerit aliquid sciscitari, ad te cum nullo terrore trepidationis accedat. Esto pudicus integer sobrius, parvo victu, parvis opibus contentus, ne istius divinae scientiae gloriam ignobilis pecuniae cupiditas infamet. Dato operam, ut instituto ac proposito tuo bonorum institutum ac propositum vincas sacerdotum; antistitem enim Solis ac Lunae et ceterorum deorum, per quos terrena omnia gubernantur, sic oportet animum suum semper instruere, ut dignus esse tantis caerimoniis omnium hominum testimoniis comprobetur. 3 Dabis sane responsa publice et hoc interrogaturis ante praedicito, <quod> omnia quidem illis, de quibus interrogant, clara sis voce dicturus, ne quid a te tale forte quaeratur, quod non liceat nec
 
 
@@ -400,8 +861,131 @@ p89scientiam consecutus in definiendis fatis hominum et in explicando vitae curs
 
 
 	
+
+Adnotatio Thayeri:
+	
+
 a
 Ancona in 43°37N sita est, ad septentrionem Urbis (41°54N) quod certe non ignoscebant antiqui — quae tamen postponitur. Censeo aut alium esse locum, aut Anconis et Urbis transpositas; in MSS. hanconis legitur.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

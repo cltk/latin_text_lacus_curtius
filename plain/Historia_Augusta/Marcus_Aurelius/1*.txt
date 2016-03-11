@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Antoninus Pius
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pars II
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+p132
+
+Marcus Aurelius
+		
+(Pars I)
+	
+
 11 Marco Antonino, in omni vita philosophanti viro et qui sanctitate vitae omnibus principibus antecellit, 2 pater Annius Verus, qui in praetura decessit, avus Annius Verus, iterum1 consul et praefectus urbi, adscitus in patricios2 a Vespasiano et Tito censoribus, 3 patruus Annius Libo consul, amita Galeria Faustina Augusta, mater Domitia Lucilla,3 Calvisii Tulli bis consulis filia, 4 proavus paternus Annius Verus praetorius ex Succubitano municipio ex Hispania4 factus senator, proavus maternus Catilius Severus bis consul et praefectus urbi, avia paterna Rupilia Faustina, Rupilii Boni consularis filia, fuere.
 
 	p134
@@ -141,209 +251,356 @@ p170ad senatum litteris Lucius Romam rediret. 8 via quoque,44 postquam iter ing
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 iterum P; tertium Petschenig.
 
 
+❦
 
 2
 a principibus, following patricios in P, removed by Salm.
 
 
+❦
 
 3
 Lucilla Borghesi; Caluilla P, Peter.
 
 
+❦
 
 4
 spania P1, Peter; yspania P corr.
+❦
 
 5
 et, after habuit in P, deleted by Petrarch.
 
 
+❦
 
 6
 cotidianis P; Cotiaensi Uhlig, Peter.
 
 
+❦
 
 7
 polono P; Polione Peter.
 
 
+❦
 
 8
 graeco P.
 
 
+❦
 
 9
 So P corr.; animo P1.
 
 
+❦
 
 10
 oneribus Turnebus; honoribus P.
 
 
+❦
 
 11
 So Obrecht; commodo P.
 
 
+❦
 
 12
 usus est et, repeated before Apoll. Chal. in P, removed by Obrecht.
 
 
+❦
 
 13
 in om. in P1; in imperatoriam dignitatem P corr.
+❦
 
 14
 So Peter; studiosos P; studiosus Cas., Jordan.
 
 
+❦
 
 15
 om. by P1; ex P corr.
+❦
 
 16
 est P corr.; esset P1.
 
 
+❦
 
 17
 equi publici sexenni Salm.; et qui publicis exenni (exenniis) P.
 
 
+❦
 
 18
 fuit autem uitae indulgentia, P, Peter; tanta uitae indulgentia Novak.
 
 
+❦
 
 19
 Diogeneto P, Peter.
 
 
+❦
 
 20
 et eum P; utrum A. Jaekel, Klio XII, p124, n1.
 
 
+❦
 
 21
 Cas. saw a lacuna after Commodi (cf. Marc. iv.5, and
 	
 Ver. ii.3) and supplied: filia contrahere illum Hadrianus voluerat, Faustina illi offeretur, quod Verus, cui eam Hadrianus (reading et quum, and esset after aetate); Mommsen supplied: sorore fecerat filiam Faustinam cum hortata esset ut duceret, quam Hadrianus eidem Commodo; Ellis I, p400, et eum, diss. spons. L. Ceionii Commodi (i.e. Veri) quae cum filia fecerat, quam ei desponderi uol., etc.; see also Jaekel, loc. cit.
+❦
 
 22
 ut P corr., om. by P1.
 
 
+❦
 
 23
 participatum P; principatu Peter, following B principatum.
 
 
+❦
 
 24
 Ummidio Borghesi; Mummio P, Peter.
 
 
+❦
 
 25
 So Mommsen; habere coepit lictum P; habere coepit . . . lictum (lictum cum alio participasset perhaps a fragment of a marginal comment) Peter.
 
 
+❦
 
 26
 This sentence Peter removed, as introduced from the margin of vii.10.
+❦
 
 27
 Suggested by Peter in note; et prope inuitus ac uolens (nolens P corr.) P, Peter; et prope non inuitus ac uolens Novak.
 
 
+❦
 
 28
 hoc P corr., om. by P1.
 
 
+❦
 
 29
 This sentence Peter1, following Dirksen, transposed to precede senatum . . . dedit.
 
 
+❦
 
 30
 So Novak; senatibus uel pauperibus s. c. senatoribus P; equitibus uel pauperibus . . . senatoribus Peter2, incorrectly (cf. Mommsen, RSt. II3, p941, 2).
 
 
+❦
 
 31
 prodiret P.
 
 
+❦
 
 32
 Plaetoria Jordan (cf. Savigny, Opp. Misc. II, 330); Laetoria P, Peter.
 
 
+❦
 
 33
 uineas P1; al' uias P corr.
+❦
 
 34
 itinera Jordan, Novak; itinerum P, Peter.
 
 
+❦
 
 35
 exhausit P.
 
 
+❦
 
 36
 Thus Ellis; contra tranique p. P1; Traianique P corr.; contra iniqua p. Petschenig; Peter assumes a lacuna after contra.
 
 
+❦
 
 37
 cum om. in P.
 
 
+❦
 
 38
 recte P1; al' rete P corr.
+❦
 
 39
 fuit P corr., om. by P1.
 
 
+❦
 
 40
 a om. in P.
 
 
+❦
 
 41
 Thus Madvig and Petschenig; uelle abfricaretur P; ne quis ubi uellet fabricaretur s. Novak.
 
 
+❦
 
 42
 efferi Jordan; et eo ferri P1; ferri et eo ferri P1 corr.
+❦
 
 43
 utque P.
 
 
+❦
 
 44
 Thus Bitschofsky; bia quoque P; uiaque Salm., Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Kal. Dec. 07

@@ -1,69 +1,396 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XI
+				
+
+
+
+Textus non recensitus est —
+				
+
+si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XIII
+				
+
+
+
+
+
+Liber XII
+	
+
+
+
+
+i
+		
+
+1
+		
 Animalium omnium quae nosci potuere naturae generatim membratimque ita se habent. restat ut neque ipsa anima carentia — quandoquidem nihil sine ea vivit —, terra edita et inde eruta, dicantur ac nullum sileatur rerum naturae opus. diu fuere occulta eius beneficia, summumque munusque homini datum arbores silvaeque intellegebantur. hinc primum alimenta, harum fronde mollior specus, libro vestis.
+		
+
+
+
+2
 		
 quo magis ac magis admirari subit his a principiis caedi montes in marmora, vestes ad Seras peti, unionem in Rubri maris profunda, zmaragdum in ima tellure quaeri. ad hoc excogitata sunt aurium vulnera, nimirum quoniam parum erat collo, crinibus, manibus gestari, nisi infoderentur etiam corpori. quam ob rem sequi par est ordinem vitae et arbores ante alia dicere ac moribus primordia ingerere nostris.
 		
+
+
+
+
+
+ii
+		
+
+3
+		
 Haec fuere numinum templa, priscoque ritu simplicia rura etiam nunc deo praecellentem arborem dicant. nec magis auro fulgentia atque ebore simulacra quam lucos et in iis silentia ipsa adoramus. arborum genera numinibus suis dicata perpetuo servantur, ut Iovi aesculus, Apollini laurus, Minervae olea, Veneri myrtus, Herculi populus. quin et Silvanos Faunosque et dearum genera silvis ac sua numina tamquam e caelo attributa credimus.
+		
+
+
+
+4
 		
 arbores postea blandioribus fruge sucis hominem mitigavere. ex his recreans membra olei liquor viresque potus vini, tot denique sapores anni sponte venientes et mensae, depugnetur licet earum causa cum feris et pasti naufragorum corporibus pisces expetantur, etiam nunc tamen secundae.
 		
+
+
+
+5
+		
 mille praeterea sunt usus earum, sine quis vita degi non possit. arbore sulcamus maria terrasque admovemus, arbore exaedificamus tecta. arborea et simulacra numinum fuere nondum pretio excogitato belvarum cadaveri atque ut, a diis nato iure luxuriae, eodem ebore numinum ora spectarentur et mensarum pedes. produnt Alpibus coercitas ut tum inexsuperabili munimento Gallias hanc primum habuisse causam superfundendi se Italiae, quod Helico ex Helvetiis civis earum fabrilem ob artem Romae commoratus ficum siccam et uvam oleique ac vini promissa remeans secum tulisset. quapropter haec vel bello quaesisse venia sit.
+		
+
+
+
+
+
+iii
+		
+
+6
 		
 Sed quis non iure miretur arborem umbrae gratia tantum ex alieno petitam orbe? platanus haec est, in mare Ionium Diomedis insula tenus eiusdem tumuli gratia primum invecta, inde in Siciliam transgressa atque inter primas donata Italiae et iam ad Morinos usque pervecta ac tributarium et detinens solum, ut gentes vectigal et pro umbra pendant.
 		
+
+
+
+7
+		
 Dionysius prior Siciliae tyrannus Regium in urbem transtulit eas domus suae miaculum, ubi postea factum gymnasium; nec potuisse in amplitudinem augescere aut alias fuisse in Italia ac nominatim Hispania apud auctores invenitur.
+		
+
+
+
+
+
+iv
+		
+
+8
 		
 Hoc actum circa captae urbis aetatem, tantumque postea honoris increvit, ut mero infuso enutriatur. conpertum id maxime prodesse radicibus, docuimusque etiam arbs vina potare.
 		
+
+
+
+
+
+v
+		
+
+9
+		
 Celebratae sunt primum in ambulatione Academiae Athenis cubitorum XXXIII radice ramos antecedente. nunc est clara in Lycia fontis gelidi ocia amoenitate, itineri adposita, domicilii modo cava octoginta atque unius pedum specu, nemorosa vertice et se vastis protegens ramis arborum instar, agros longis obtinens umbris ac, ne quid desit conplexa pumices, tam digna miraculo, ut Licinius Mucianus ter consul et nuper provinciae eius legatus prodendum etiam posteris putaverit, epulatium intra eam se cum duodevicensimo coite, large ipsa toros praebente frondis, ab omni adflatu securum, optantem imbrium per folia crepitus, laetiorem quam marmorum nitore, picturae varietate, laquearium auro cubuisse in eadem.
+		
+
+
+
+10
 		
 aliud exemplum Gai principis in Veliterno rure mirati unius tabulata laxeque ramorum trabibus scamna patula et in ea epulati, cum ipse pars esset umbrae, quindecim convivarum ac ministerii capaci triclino, quam cenam appellavi ille nidum.
 		
+
+
+
+11
+		
 est Gortynae in insula Creta iuxta fontem platanus una insignis utriusque linguae monimentis, numquam folia dimittens, statimque ei Graeciae fabulositas superfuit Iovem sub ea cum Europa concubuisse, ceu vero nonalia eiusdem generis esset in Cypro. sed ex ea primum in ipsa Creta, ut est natura hominum novitatis avida, platani sata regenavere vitium, quandoquidem commendatio arboris eius non alia maior est quam soles aestate arcere, hieme admittere.
+		
+
+
+
+12
 		
 inde in Italiam quoque ad suburbana sua Claudio principe Marcelli Aesernini libertus, sed qui se potentiae causa Caesaris libertis adoptasset, spado Thessalicus praedives, ut merito dici possit is quoque Dionysius, transtulit id genus. durantque et in Italia portenta terrarum praeter illa scilicet quae ipsa excogitavit Italia.
 		
+
+
+
+
+
+vi
+		
+
+13
+		
 Namque et chamaeplatani vocantur coactae brevitatis, quoniam arborum etiam abortus invenimus. hoc quoque ergo in genere pumilionum infelicitas dicta erit. fit autem et serendi genere et recidendi. primus C. Matius ex equestri ordine, Divi Augusti amicus, invenit nemora tonsilia intra hos LXXX annos.
+		
+
+
+
+
+
+vii
+		
+
+14
 		
 Peregrinae et cerasi Persicaeque et omnes quarum Graeca nomina aut aliena, sed quae ex iis incolarum numero esse coepere, dicentur inter frugiferas. in praesentia externas persequemur a salutari maxime orsi.
 		
+
+
+
+15
+		
 Malus Assyria, quam alii Medicam vocant, venenis medetur. folium eius est unedonis intercurrentibus spinis. pomum ipsum alias non manditur, odore praecellit foliorum quoque, qui transit in vestes una conditus arcetque animalium noxia. arbor ipsa omnibus horis pomifera est, aliis cadentibus, aliis maturescentibus, aliis vero subnascentibus.
+		
+
+
+
+16
 		
 temptavere gentes transferre ad sese propter remedii praestantiam fictilibus in vasis, dato per cavernas radicibus spiramento, qualiter omnia transitura longius seri aptissime transferrique meminisse conveniet, ut semel quaeque dicantur. sed nisi apud Medos et in Perside nasci noluit. haec est cuius grana Parthorum proceres incoquere diximus esculentis commendandi halitus gratia. nec alia arbor laudatur in Medis.
 		
+
+
+
+
+
+viii
+		
+
+17
+		
 Lanigera Serum in mentione gentis eius narravimus, item Indiae arborum magnitudinem. unam e peculiaribus Indiae Vergilius celebravit hebenum, nusquam alibi nasci professus. Herodotus eam Aethiopiae intellegi maluit in tributi vicem regibus Persidis e materia eius centenas phalangas tertio quoque anno pensitasse Aethiopas cum auro et ebore prodendo.
+		
+
+
+
+18
 		
 non omittendum id quoque, vicenos dentes elephantorum grandes, quoniam ita significavit, Aethiopas ea de causa pendere solitos. tanta ebori auctoritas erat urbis nostrae CCCX anno; tunc enim auctor ille historiarum condidit Thuriis in Italia, quo magis mirum est quod eidem credimus, qui Padum amnem vidisset neminem ad id tempus Asiae Graeciaeque visum.
 		
+
+
+
+19
+		
 cognita Aethiopiae forma — ut diximus, nuper allata Neroni principi — raram arborem Meroen usque a Syene fine imperii per DCCCCLXXXXVI p. nullamque nisi palmarum generis esse docuit. ideo fortassis in tributi auctoritate tertia res fuerit hebenus.
 		
+
+
+
+
+
+ix
+		
+
+20
+		
 Romae eam Magnus Pompeius triumpho Mithridatico ostendit. accendi Fabianus negat, uritur tamen odore iucundo. duo genera eius: rarum id quod melius, arboreum, purae et enodis materiae nigri splendoris ac vel sine arte protinus iucundi, alterum fruticosum cytisi modo et tota India dispersum.
+		
+
+
+
+
+
+x
+		
+
+21
 		
 Est ibi et spina similis, sed deprehensa vel lucernis igni protinus transiliente.
 			 
 Nunc eas exponemus, quas mirata est Alexandri Magni victoria orbe eo patefacto.
 		
+
+
+
+
+
+xi
+		
+
+22
+		
 Ficus ibi eximia pomo, se ipsa semper serens. vastis diffunditur ramis, quorum imi in terram adeo curvantur, ut annuo spatio infigantur novamque sibi progeniem faciant circa parentem in orbem quodam opere topiario. intra saepem eam aestivant pastores, opacam pariter et munitam vallo arboris, decora specie subter intuenti proculve fornicato ambitu.
+		
+
+
+
+23
 		
 superiores eiusdem rami in excelsum emicant silvosa multitudine, vasto matris corpore, ut LX passus pleraque orbe colligant, umbra vero bina stadia operiant. foliorum latitudo peltae effigiem Amazonicae habet; ea causa fructum integens crescere prohibet. rarus . . .que nec fabae magnitudinem excedens, sed per folia solibus coctus praedulcis sapore et dignus miraculo arboris. gignitur circa Acesinen maxime amnem.
 		
+
+
+
+
+
+xii
+		
+
+24
+		
 Maior alia pomo et suavitate praecellentior, quo sapientes Indorum vivunt. folium alas avium imitatur, longitudine trium cubitorum, latitudine duum. fructum cortice emittit admirabilem suci dulcedine, ut uno quaternos satiet. arbori nomen palae, pmo  arierae. plurima est in Sydracis, expeditionum Alexandri termino. est et alia similis huic, dulcior pomo, sed interaneorum valetudini infesta. edixerat Alexander ne quis agminis sui id pomum attingeret.
+		
+
+
+
+
+
+xiii
+		
+
+25
 		
 Genera arborum Macedones narravere maiore ex parte sine nominibus. est et terebintho similis cetera, pomo amygdalis, minore tantum magnitudine, praecipuae suavitatis, in Bactris utique. hanc aliqui terebinthon esse proprii generis potius quam similem ei putaverunt. sed unde vestes lineas faciunt, foliis moro similis, calyce pomi cynorrhodo. serunt eam in campis, neque est gratior vinearum prospectus.
 		
+
+
+
+
+
+xiv
+		
+
+26
+		
 Oliva Indiae sterilis praeterquam oleastri fructus. passim vero quae piper gignunt iunipiris nostris similes, quamquam in fronte Caucasi solibus opposita gigni tantum eas aliqui tradidere. semina a iunipiro distant parvulis siliquis, quales in phasiolis videmus. hae prius quam dehiscant decerptae tostaeque sole faciunt quod vocatur piper longum, paulatim vero dehiscentes maturitate ostendunt candidum piper, quod deinde tostum solibus colore rugisque mutatur.
+		
+
+
+
+27
 		
 verum et his sua iniuria est, atque caeli intemperie carbunculant fiuntque semina cassa et inania, quod vocant bregma, sic Indorum lingua significante mortuum. hoc ex omni genere asperrimum est levissimumque et pallidum, gratius nigrum, lenius utroque candidum.
 		
+
+
+
+28
+		
 non est huius arboris radix, ut aliqui existimavere, quod vocant zingiberi, alii vero zimpiberi, quamquam sapore simili. id enim in Arabia atque Trogodytica in villis nascitur, parva herba, radice candida. celeriter ea cariem sentit, quamvis in tanta amaritudine. pretium eius in libras 𐆖 VI. piper longum facillime adulteratur Alexandrino sinapi. emitur in libras 𐆖 XV, album 𐆖 VII, nigrum 𐆖 IIII.
 		
+
+
+
+29
+		
+
 usum eius adeo placuisse mirum est; in aliis quippe suavitas cepit, in aliis species invitavit: huic nec pomi nec bacae commendatio est aliqua. sola placere amaritudine, et hanc in Indos peti! quis ille primus experiri cibis voluit aut cui in appetenda aviditate esurire non fuit satis? utrumque silvestre gentibus suis est et tamen pondere emitur ut aurum vel argentum.
 			
 Piperis arborem iam et Italia habet, maiorem myrto nec absimilem. amaritudo grano eadem quae piperi musteo credatur esse: deest tosta illa maturitas ideoque et rugarum colorisque similitudo. adulteratur iunipiri bacis mire vim trahentibus; in pondere quidem multis modis.
 		
+
+
+
+
+
+xv
+		
+
+30
+		
 Est etiamnum in India piperis granis simile quod vocatur caryophyllon, grandius fragiliusque. tradunt in indica loto id gigni. advehitur odoris gratia. fert et spina piperis similitudinem praecipua amaritudine, foliis parvis densisque cypri modo, ramis trium cubitorum, cortice pallido, radice lata lignosaque, buxei coloris. hac in aqua cum semine excocta in aereo vase medicamentum fit, quod vocatur lycion.
 		
+
+
+
+31
+		
 ea spina et in Pelio monte nascitur adulteratque medicamentum, item asphodeli radix aut fel bubulum aut apsinthium vel rhus vel amurca. aptissimum medicinae quod est spumosum. Indi in utribus camelorum aut rhinocerotum id mittunt. spinam ipsam in Graecia quidam pyxacanthum Chironium vocant.
+		
+
+
+
+
+
+xvi
+		
+
+32
 		
 Et
 			
@@ -71,89 +398,347 @@ macir
 			
 ex India advehitur, cortex rubens radicis magnae, nomine arboris suae. qualis sit ea inconis melle decocti usus in medicina ad dysintericos praecipuus habetur.
 		
+
+
+
+
+
+xvii
+		
+
+
+
 Saccaron et Arabia fert, sed laudatius India. est autem mel in harundinibus collectum, cummium modo candidum, dentibus fragile, amplissimum nucis abellanae magnitudine, ad medicinae tantum usum.
+		
+
+
+
+
+
+xviii
+		
+
+33
 		
 Contermina Indis genus Ariana appellatur, cui spina lacrima pretiosa murrae simili, difficili accessu propter aculeos adnexos. ibi et frutex pestilens, . . . raphanit, folio lauri, odore equos invitans, qui paene equitatu orbavit Alexandrum primo introitu. quod et in Gedrosis accidit item laureo folio.
 		
+
+
+
+34
+		
 et ibi spina tradita est, cuius liquor adspersus oculis caecitatem inferret omnibus animalibus, nec non et herba praecipui odoris, referta minutis serpentibus, quarum ictu protinus moriendum esset. Onesicritus tradit in Hyrcaniae convallibus fico similes esse arbs quae vocentur occhi, ex quibus defluat mel horis matutinis duabus.
 		
+
+
+
+
+
+xix
+		
+
+35
+		
 Vicina est Bactriana, in qua bdellium laudatissimum. arbor nigra, magnitudine oleae, folio roboris, fructu caprifici. ipsi natura quae cummi. alii brochon appellant, alii malacham, alii maldacon, nigrum vero et in offas convolutum hadrobolon. esse autem debet tralucidae simile cerae, odoratum et, cum frietur, pingue, gustu amarum citra acorem. in sacris vino perfusum odoratius. nascitur et in Arabia Indiaque et Media ac Babylone. aliqui peraticum vocant ex Media advectum.
+		
+
+
+
+36
 		
 fragilius hoc et crustosius amariusque, at Indicum umidius et cumminosum. adulteratur amygdala nuce, cetera eius genera cortice et scordasti — ita vocatur arbor aemulo cummi —, sed deprehenduntur, semel quod dixisse et in ceteros odores satis sit, odore, colore, pondere, gusto, igne. Bactrio nitor siccus multique candidi ungues, praeterea suum pondus, quo gravius esse aut levius non debeat. pretium sincero in libras
 	𐆖 III.
 		
+
+
+
+
+
+xx
+		
+
+37
+		
 Gentes supra dictas Persis attingit. Rubro mari, quod ibi Persicum vocavimus, longe in terram aestus agente, mira arborum natura. namque erosae sale, invectis derelictisque similes, sicco litore radicibus nudis polyporum modo amplexae steriles harenas spectantur. eaedem mari adveniente fluctibus pulsatae resistunt inmobiles; quin et pleno aestu operiuntur totae, adparetque rerum argumentis asperitate aquarum illas ali. magnitudo miranda est, species similis unedoni, pomum amygdalis extra, intus contortis nucleis.
+		
+
+
+
+
+
+xxi
+		
+
+38
 		
 Tylos insula in eodem sinu est, repleta silvis qua spectat orientem quaque et ipsa aestu maris perfunditur. magnitudo singulis arboribus fici, flos suavitate inenarrabili, pomum lupino simile, propter asperitatem intactum omnibus animalibus. eius insulae excelsiore suggestu lanigerae arbores, alio modo quam Serum: his folia infecunda, quae ni minora essent, vitium poterant videri. ferunt mali cotonei amplitudine cucurbitas, quae maturitate ruptae ostendunt lanuginis pilas, ex quibus vestes pretioso linteo faciunt.
 		
+
+
+
+39
+		
 arborem vocant gossypinum, fertiliore etiam Tylo minore, quae distat X p.
 		
+
+
+
+
+
+xxii
+		
+
+
 Iuba circa fruticem lanugines esse tradit linteaque ea Indicis praestantiora, Arabiae autem arborem, ex qua vestes faciant, cynas vocari, folio palmae simili. sic Indos suae arbores vestiunt. in Tylis autem et alia arbor floret albae violae specie, sed magnitudine quadriplici, sine odore, quod miremur in eo tractu.
+		
+
+
+
+
+
+xxiii
+		
+
+40
 		
 est et alia similis, foliosior tamen roseique floris, quem noctu conprimens aperire incipit solis exortu, meridie expandit; inclae dormire eum dicunt. fert eadem insula et palmas oleasque ac vites et cum reliquo pomorum genere ficos. nulli arborum folia ibdecidunt, igaturque gelidis fontibus et imbres accipit.
 		
+
+
+
+
+
+xxiv
+		
+
+41
+		
 Vicina iis Arabia flagitat quandam generum distinctionem, quoniam fructus constant radice, frutice, cortice, suco, lacrima, ligno, surculo, flore, folio, pomo.
 		
+
+
+
+
+
+xxv
+		
+
+
 radix et folium Indis in maximo pretio.
 			
 Radix costi gustu fervens, odore eximia, frutice alias inutili. primo statim introitu amnis Indi in Patale insula duo eius genera: nigrum et, quod melius, candicans. pretium in libras
 	𐆖 V S.
 		
+
+
+
+
+
+xxvi
+		
+
+42
+		
 De folio nardi plura dici par est ut principali in unguentis, frutex est gravi et crassa radice, sed brevi ac nigra fragilique, quamvis pingui, situm redolente, ut cypiros, aspero sapore, folio parvo densoque. cacumina in aristas se spargunt; ideo gemina dote nardi spicas ac folia celebrant. alterum eius genus apud Gangen nascens damnatur in totum ozaenitidos nomine, virus redolens.
+		
+
+
+
+43
 		
 adulteratur et pseudonardo herba, quae ubique nascitur crassiore atque latiore folio et colore languido in candidum vergente, item sua radice permixta ponderis causa et cummi spumaque argenti aut stibi ac cypiro cypirive cortice. sincerum quidem levitate deprehenditur et colore rufo odorisque suavitate et gustu maxime siccante os, sapore iucundo. pretium spicae in libras
 	𐆖 C. folii divisere annonam amplitudine.
+		
+
+
+
+44
 		
 hadrosphaerum vocatur maioribus pilulis
 	𐆖 XXXX. quod minore folio est, mesosphaerum appellatur; emitur
 	𐆖 LX. laudatissimum microsphaerum e minimis foliis; pretium eius
 	𐆖 LXXV. odoris gratia omnibus, maior recentibus. naro dolos, si inveteravit, nigriori melior.
 		
+
+
+
+45
+		
 in nostro orbe proxime laudatur Syriacum, mox Gallicum, tertio loco Creticum, quod aliqui agrion vocant, alii phun, folio olusatri, caule cubitali, geniculato, in purpuram albicante, radice obliqua villosaque et imitante avium pedes. baccaris vocatur nardum rusticum, de quo dicemus inter flores. sunt autem omnia ea herbae praeter Indicum. ex iis Gallicum et cum radice vellitur abluiturque vino. siccatur in umbra, alligatur fasciculis in charta, non multum ab Indico differens, Syriaco tamen levius. pretium
 	𐆖 III.
 		
+
+
+
+46
+		
 in his probatio una, ne sint fragilia et arida potius quam sicca folia. cum Gallico nardo semper nascitur herba quae hirculus vocatur a gravitate odoris et similitudine, qua maxime adulteratur. distat quod sine cauliculo est et quod minoribus foliis quodque radicis neque amarae neque odoratae.
+		
+
+
+
+
+
+xxvii
+		
+
+47
 		
 Nardi vim habet et asarum, quod et ipsum aliqui silvestre nardum appellant. est au hederae foliis, rotundioribus tantum mollioribusque, flore purpureo, radice Gallici nardi, semine acinosum, saporis calidi ac vinosi, in montibus umbrosis bis anno florens. optimum in Ponto, proximum in Phrygia, tertium in Illyrico. foditur, cum folia amittere incipit, et in sole siccatur, celeriter situm trahens ac senescens. inventa nuper et in Threcia herba est cuius folia nihil ab Indico nardo distant.
 		
+
+
+
+
+
+xxviii
+		
+
+48
+		
 Amomi uva in usu est ex Indica vite labrusca, ut alii existimavere, frutice tortuoso, palmi altitudine, carpiturque cum radice, manipulatim leniter componitur, protinus fragile. laudatur quam maxime Punici mali foliis simile nec rugosis, colore rufo. secunda bonitas pallido; herbaceum peius, pessimumque candidum, quod et vetustate evenit.
+		
+
+
+
+49
 		
 pretium uvae in libras
 	𐆖 LX, friato vero amomo
 	𐆖 XLIIX. nascitur et in Armeniae parte quae vocatur Otene et in Media et in Ponto. adulteratur foliis Pontici et cummi liquido, ut cohaereat convolvatque se in uvae modum. est et quae vocatur amomis, minus venosa atque durior ac minus odorata, quo apparet aut aliud esse aut colligi inmaturum.
 		
+
+
+
+
+
+xxix
+		
+
+50
+		
 Simile his et nomine et frutice cardamomum, semine oblongo. metitur eodem modo in Arabia. quattuor eius genera: viridissimum ac pingue, acutis angulis contumax frianti — hoc maxime laudatur —, proximum e rufo candicans, tertium brevius atque nigrius, peius tamen varium et facile tritu odorisque parvi, qui vero costo vicinus esse debet. hoc et apud Medos nascitur. pretium optimi in libras
 	𐆖 III.
+		
+
+
+
+
+
+xxx
+		
+
+51
 		
 Cinnamomo proxima gentilitas erat, ni prius Arabiae divitias indicare conveniret causasque quae cognomen illi felicis ac beatae dedere.
 			 
 Principalia ergo in illa tus atque murra, haec et cum Trogodytis communis, tura praeter Arabiam nullis ac ne Arabiae quidem universae.
 		
+
+
+
+52
+		
 in medio eius fere sunt Atramitae, pagus Sabaeorum capite regni Sabota in monte excelso, a quo octo mansionibus distat regio eorum turifera Sariba appellata; hoc significare Graeci mysterium dicunt. spectat ortus solis aestivi, undique rupibus invia et a dextera mari scopulis inaccesso. id solum e rubro lacteum traditur.
+		
+
+
+
+53
 		
 silvarum longitudo est schoeni XX, latitudo dimidium eius. schoenus patet Eratosthenis ratione stadia XL, hoc est p. V, aliqui XXXII stadia singulis schoenis dedere. attolluntur colles alti, decurruntque et in plana arbores sponte natae. terram argilosam esse convenit, raris fontibus ac nitrosis.
 		
+
+
+
+54
+		
 attingunt et Minaei, pagus alius, per quos evehitur uno tramite angusto. hi primi commercium turis fecere maximeque exercent, a quibus et Minaeum dictum est. nec praeterea Arabum alii turis arborem vident, ac ne horum quidem omnes, feruntque III non amplius esse familiarum quae ius per successiones id sibi vindicent; sacros vocari ob id nec ullo congressu feminarum funerumque, cum incidant eas arbores aut metant, pollui atque ita religionem mercis augeri. quidam promiscuum tus iis populis esse tradunt in silvis, alii per vices annorum dividi.
+		
+
+
+
+
+
+xxxi
+		
+
+55
 		
 Nec arboris ipsius quae sit facies constat. res in Arabia gessimus et Romana arma in magnam partem eius penetravere, Gaius etiam Caesar Augusti filius inde gloriam petiit, nec tamen ab ullo, quod equidem sciam, Latino arborum earum tradita est facies.
 		
+
+
+
+56
+		
 Graecorum exempla variant: alii folio piri, minore dumtaxat et herbidi coloris, prodidere, alii lentisco similem subrutilo folio, quidam terebinthum esse, et hoc visum Antigono regi allato frutice. Iuba rex iis voluminibus, quae scripsit ad C. Caesarem Augusti filium ardentem fama Arabiae, tradit contorti esse caudicis, ramis aceris maxime Pontici, sucum amygdalae modo emittere, talesque in Carmania apparere et in Aegypto satas studio Ptolemaeorum regnantium.
+		
+
+
+
+57
 		
 cortice lauri esse constat; quidam et folium simile dixere: talis certe fuit arbor Sardibus, nam et Asiae reges serendi curam habuerunt. qui mea aetate legati ex Arabia venerant, omnia incertiora fecerunt, quod iure miremur, virgis etiam turis ad nos commeantibus, quibus credi potest matrem quoque teretem enodi fruticare trunco.
 		
+
+
+
+
+
+xxxii
+		
+
+58
+		
 Meti semel anno solebat minore occasione vendendi; iam quaestus alteram vindemiam adfert. prior atque naturalis vindemia circa canis ortum flagrantissimo aestu, incidentibus qua maxime videatur esse praegnas tenuissimusque tendi cortex. laxatur hic plaga, non adimitur; inde prosilit spuma pinguis. haec concreta densatur, ubi loci natura poscat, tegete palmea excipiente, aliubi area circumpavita. purius illo modo, sed hoc ponderosius. quod in arbore haesit, ferro depectitur, ideo corticosum.
+		
+
+
+
+59
 		
 silva divisa certis portionibus mutua innocentia tuta est: nemo saucias arbores custodit, nemo furatur alteri. at Hercules Alexandriae, ubi tura interpolantur, nulla satis custodit diligentia officinas. subligaria singantur opifici; persona additur capiti densusve reticulus; nudi emittuntur: tanto minus fidei apud nos poena quam apud illos silvae habent!
 		
+
+
+
+60
+		
 autumno legitur ex aestivo partu; hoc purissimum, candidum. secunda vindemia est vere, ad eam hieme corticibus incisis. rufum hoc exit nec conparandum priori. illud carfiathum, hoc dathiatum vocant. creditur et novellae arboris candidius esse, sed veteris odoratius. quidam et in insulis melius putant gigni, Iuba in insulis negat nasci.
+		
+
+
+
+61
 		
 quod ex eo rotunditate guttae pependit, masculum vocamus, cum alias non fere mas vocetur ubi non sit femina; religioni tributum, ne sexus alter usurparetur. masculum aliqui putant a specie testium dictum. praecipua autem gratia mammoso, cum haerente lacrima priore consecuta alia miscuit se. singula haec manum inplere solita invenio, cum minore deripiendi aviditate lentius nasci liceret.
 		
+
+
+
+62
+		
 Graeci stagonian et atomum tali modo appellant, minorem autem orobian. micas concussu elisas mannam vocamus. etiamnum tamen inveniuntur guttae quae tertiam partem minae, hoc est XXVIII denariorum pondus, aequent. Alexandro Magno in pueritia sine parsimonia tura ingerenti aris pedagogus Leonides diexerat, ut illo modo, cum devicisset turiferas gentes, supplicaret. at ille Arabiae potitus ture onustam navem misti et exhortatus est, ut large deos adoraret.
+		
+
+
+
+63
 		
 tus collectum Sabotam camelis convehitur, porta ad id una patente. degredi via capital reges fecere. ibi decumas deo quem vocant Sabin mensura, non pondere, sacerdotes capiunt, nec ante mercari licet: inde inpensae publicae tolerantur; nam et benigne certo dierum numero deus hospites pascit. evehi non potest nisi per Gebbanitas, itaque et horum regi penditur vectigal.
 		
+
+
+
+64
+		
 caput eorum Thomna abest a Gaza, nostri litoris in Iudaea oppido, |XXIIII|·XXXVII·D p., quod dividitur in mansiones camelorum LXV. sunt et quae sacerdotibus dantur portiones scribisque regum certae. sed praeter hos et custodes satellitesque et ostiarii et ministri populantur.
+		
+
+
+
+65
 		
 iam quacumque iter est aliubi pro aqua, aliubi pro pabulo aut pro mansionibus variisque portoriis pendunt, ut sumptus in singulas camelos
 	𐆖 DCLXXXVIII ad nru litus colligat, iterumque imperii nostri publicanis penditur. itaque optimi turis libra
@@ -161,176 +746,708 @@ iam quacumque iter est aliubi pro aqua, aliubi pro pabulo aut pro mansionibus va
 	𐆖 V, tertii
 	𐆖 III. adulteratur apud nos resinae candidae gemma perquam simili, sed deprehenditur quibus dictum est modis. probatur candore, amplitudine, fragilitate, carbone, ut statim ardeat, item ne dentem recipiat potiusque in micas frietur.
 		
+
+
+
+
+
+xxxiii
+		
+
+66
+		
 Murram in isdem silvis permixta arbore nasci tradidere aliqui, plures separatim, quippe multis locis Arabiae gignitur, ut apparebit in generibus. convehitur et ex insulis laudata, petuntque eam etiam ad Trogodytas Sabaei transitu maris. sativa quoque provenit, multum silvestri praelata. gaudet rastris atque ablaqueationibus, melior radice refrigerata.
+		
+
+
+
+
+
+xxxiv
+		
+
+67
 		
 Arbori altitudo ad quinque cubita, nec sine spina, caudice duro et intorto, crassiore quam turis, et ab radice etiam quam reliqua sui parte. corticem levem similemque unedoni scabrum alii spinosumque dixere, folium olivae, verum crispius et aculeatum, Iuba olusatri. aliqui similem iunipero, scabriorem tantum spinisque horridam, folio rotundiore, sed sapore iuniperi. nec non fuere qui e turis arbore utrumque nasci mentirentur.
 		
+
+
+
+
+
+xxxv
+		
+
+68
+		
 Inciduntur bis et ipsae isdemque temporibus, sed a radice usque ad ramos qui valent. sudant autem sponte prius quam incidantur stacte dicta, cui nulli praefertur. ab hac sativa et in silvestri quoque melior aestiva. non dant ex murra portiones deo, quoniam et apud alios nascitur; regi tamen Gebbanitarum quartas partes eius pendunt. cetero passim a vulgo coemptam in folles conferciunt, nostrique unguentarii digerunt haud difficulter odoris atque pinguedinis argumentis.
 		
+
+
+
+
+
+xxxvi
+		
+
+69
+		
 Genera complura: Trogodytica silvestrium prima, sequens Minaea, in qua et Atramitica est et Gebbanitica et Ausaritis Gebbanitarum regno, tertia Dianitis, quarta collaticia, quinta Sambracena a civitate regni Sabaeorum mari proxima, sexta quam Dusaritim vocant. est et candida uno tantum loco, quae in Meslaum oppidum confertur. probatur Trogodytica pinguedine et quod aspectu aridior est sordidaque ac barbara, sed acrior ceteris. Sambracena praedicta ante alias hilaris, sed viribus tenuis.
+		
+
+
+
+70
 		
 in plenum autem probatio est minutis glaebis nec rotundis, in concretu albicantis suci et tabescentis utque fracta candidos ungues habeat, gustu leniter amara. secunda bonitas intus variae; pessima quae intus nigra, peior, si etiam foris. pretia ex occasione ementium varia: stactae a
 	𐆖 III ad
 	𐆖 L, sativae summum
 	𐆖 XI, Erythraeae XVI — hanc volunt Arabicam intellegi —, Trogodyticae nucleo XVI S, ei vero quam odorariam vocant XII.
 		
+
+
+
+71
+		
 adulteratur lentisci glaebis et cummi, item cucumeris suco amaritudinis causa, sicut ponderis spuma argenti. reliqua vitia deprehenduntur sapore, cummis dente lentescens. fallacissime autem adulteratur Indica murra, quae ibi de quadam spina colligitur. hoc solum peius India adfert, facili distinctione: tanto deterior est.
+		
+
+
+
+
+
+xxxvi
+		
+
+72
 		
 Ergo transit in mastichen, quae et ex alia spina fit in India itemque in Arabia; lainam vocant. sed mastiche quoque gemina est, quoniam et in Asia Graeciaque reperitur herba a radice folia emittens et carduum similem malo, seminis plenum ac lacrimae, quae reumpit incisa parte summa, vix ut dinosci possit a mastiche vera. nec non et ttia in Ponto est, bitumini similior, laudatissima autem Chia candida, cuius pretium in libras
 	𐆖 X, nigrae vero
 	𐆖 II. Chia e lentisco traditur gigni cummium modo. adulteratur ut tura resina.
 		
+
+
+
+
+
+xxxvii
+		
+
+73
+		
 Arabia etiamnum et ladano gloriatur. forte casuque hoc et iniuria odorum fieri plures tradidere, caprasque, maleficum alias frondibus animal, odoratorum vero fruticum adpetentius, tamquam intellegant pretia, carpere germinum caules praedulci liquore turgentes destillantemque ab iis casus mixtura sucum inprobo barbarum villo abstergere. hunc glomerari pulvere, incoqui sole, et ideo in ladano caprarum pilos esse. sed hoc non alibi fieri quam in Nabataeis, qui sunt ex Arabia contermini Syriae.
+		
+
+
+
+74
 		
 recentiores ex auctoribus storbon hoc vocant traduntque silvas Arabum pastu caprarum infringi atque ita sucum villis inhaerescere, verum autem ladanum Cypri insulae esse, ut obiter quaeque genera odorum dicantur, quamvis non terrarum ordine. similiter hoc et ibi fieri tradunt et esse oesypum hircorum barbis genibusque villosisi inhaerens, sed hederae flore deroso, pastibus matutinis, cum est rorulenta Cypros. dein nebula sole discussa pulverem madentibus villis adhaerescere atque ita ladanum depecti.
 		
+
+
+
+75
+		
 sunt qui herbam in Cypro, ex qua id fiat, ledam appellent; etenim illi ledanum vocant. huius pinguia insidere; itaque et tractis funiculis herbam eam convolvi atque ita offas fieri. ergo in utraque gente bina genera, terrenum et facticium. id quod terrenum est friabile, facticium lentum.
+		
+
+
+
+76
 		
 nec non fruticem esse dicunt in Carmania et super Aegyptum per Ptolemaeos tralatis plantis aut, ut alii, degenerante in id turis arbore, colligique ut cummim inciso cortice et caprinis pellibus excipi. pretia sunt laudatissimo in libras asses XXXX. adulteratur myrti bacis et aliis animalium sordibus. sinceri odor esse debet ferus et quodam modo solitudinem redolens, ipsum visu aridum tactu statim mollescere, accensum fulgere odore iucundo; gravi myrtatum deprehenditur crepitatque igni. praeterea sincero calculi potius e rupibus inhaerent quam pulvis.
 		
+
+
+
+
+
+xxxviii
+		
+
+77
+		
 In Arabia et olea dotatur lacrima, qua medicamentum conficitur Graecis enhaemon dictum, singulari effectu contrahendis vulnerum cicatricibus. in maritimis hae fluctibus aestuque operiuntur, nec bacae nocetur, cum constet in foliis salem relinqui.
+		
+
+
+
+78
 		
 Haec sunt peculiaria Arabiae, et pauca praeterea communia alibi dicenda, quoniam in iis vincitur. peregrinos ipsa mire odores et ad exteros petit: tanta mortalibus suarum rerum satias est alienarumque aviditas.
 		
+
+
+
+
+
+xxxix
+		
+
+
+
 petunt igitur in Elymaeos arborem bratum, cupresso fusae similem, exalbidis ramis, iucundi odoris accensam et cum miraculo historiis Claudi Caesaris praedicatam. folia eius inspergere potionibus Parthos tradit; odorem esse proximum cedro fumumque eius contra ligna alia remedio. nascitur ultra Pasitigrim finibus oppidi Sostratae in monte Scanchro.
+		
+
+
+
+
+
+xl
+		
+
+79
 		
 petunt et in Carmanos arborem stobrum ad suffitus, perfusam vino palmeo accedentes. huius odor redit a camaris ad solum, iucundus, sed agravans capita, citra dolorem tamen; hoc somnum aegris quaerunt.
 		
+
+
+
+80
+		
 his commerciis Carra oppidum aperuere, quod est ibi nundinarium. inde Gabbam omnes petere solebant dierum viginti itinere et Palaestinem Syriam. postea Characem peti coeptum ac regna Parthorum ex ea causa, auctor est Iuba. mihi ad Persas etiam prius ista portasse quam in Syriam aut Aegyptum videntur Herodoto teste, qui tradit singula milia talentum annua turis pensitasse Arabas regibus Persarum.
+		
+
+
+
+81
 		
 ex Syria revehunt styracem, acri odore eius in focis abigentes suorum fastidium. cetero non alia sunt ligni genera in usu quam odorata, cibosque Sabaei coquunt turis ligno, alii murrae, oppidorum vicorumque non alio quam ex aris fumo atque nidore. ad hunc ergo sanandum styracem in follibus petunt hircinis suffiuntque tecta: adeo nulla est voluptas quae non adsiduitate fastidium parat. eundem et ad serpentes fugandas urunt in odoriferis silvis frequentissimas.
 		
+
+
+
+
+
+xli
+		
+
+82
+		
 Non sunt eorum cinnamomum aut casia, et tamen felix appellatur Arabia, falsi et ingrati cognominis, quae hoc acceptum superis ferat, cum plus ex eo inferis debeat. beatam illam fecit hominum etiam in morte luxuria quae dis intellexerant genita inurentium defunctis.
+		
+
+
+
+83
 		
 periti rerum adseverant non ferre tantum annuo fetu, quantum Nero princeps novissimo Poppaeae suae die concremaverit. aestimentur post ea toto orbe singulis annis tot funera acervatimque congesta honori cadaverum quae dis per singulas micas dantur. nec minus propitii erant mola salsa supplicantibus, immo vero, ut palam est, placatiores. verum Arabiae etiamnum felicius mare est;
 		
+
+
+
+84
+		
 ex illo namque margaritas mittit. minimaque computatione miliens centena milia sestertium annis omnibus India et Seres et paeninsula illa imperio nostro adimunt: tanti nobis deliciae et feminae constant. quota enim portio ex illis ad deos, quaeso, iam vel ad inferos pertinet?
+		
+
+
+
+
+
+xlii
+		
+
+85
 		
 Cinnamomum et casiasa fabulose narravit antiquitas princepsque Herodotus avium nidis et privatim phoenicis, in quo situ Liber pater educatus esset, ex inviis rupibus arboribusque decuti carnis quam ipsae inferrent pondere aut plumbatis sagittis, item casiam circa paludes, propugnante unguibus diro vespertilionum genere aligerisque serpentibus, his commentis augentes rerum pretia.
 		
+
+
+
+86
+		
 comitata vero fabula est ad meridiani solis repercussus inenarrabilem quendam universitatis halitum e tota paeninsula existere tot generum aurae spirante concentu, Magnique Alexandri classibus Arabiam odore primum nunciatam in altum. Omnia falsa, siqudem cinnamomum, idemque cinnamum, nascitur in pthiopia Trogodytis conubio permixta.
+		
+
+
+
+87
 		
 hi mercantes id a conterminis vehunt per maria vasta ratibus, quas neque gubernacula regant neque remi trahant vel inpellant vela, non ratio ulla adiuvet: omnium instar ibi sunt homo tantum et audacia. praeterea hibernum mare exigunt circa brumam, euris tum maxime flantibus.
 		
+
+
+
+88
+		
 hi recto cursu per sinus inpellunt, atque a promunturii ambitu argestae deferunt in portum Gebbanitarum qui vocatur Ocilia. quam ob rem illi maxime id petunt, produntque vis quinto anno reverti negotiatores et multos interire. contra revehunt vitrea et aëna, vestes, fibulas cum armillis ac monilibus. ergo negotiatio illa feminarum maxime fide constat.
+		
+
+
+
+89
 		
 Ipse frutex duum cubitorum altitudine amplissimus palmique minimus, quattuor digitorum crassitudinis, statim a terra VI digitis surculosus, arido similis, cum viret, non odoratus, folio origani, siccitate gaudens, sterilior imbre, caeduae naturae. gignitur in planis quidem, sed densissimis in vepribus rubisque, difficilis collectu. metitur non nisi permiserit deus. Iovem hunc intellegunt aliqui, Assabinum illi vocant. XLIIII boum caprarumque et arietum extis impetratur venia caedendi, non tamen ut ante ortum solis aut post occasum liceat.
 		
+
+
+
+90
+		
 sarmenta hasta dividit sacerdos deoque partem ponit, reliquum mercator in massas condit. est et alia fama cum Sole dividi ternasque partes fieri, dein sorte gemina discerni quodque Soli cesserit relinqui ac sponte conflagrare.
+		
+
+
+
+91
 		
 praecipua bonitas virgultorum tenuissimis partibus ad longitudinem palmi, secunda proximitatis breviore mensura, atque ita ordine. vilissimum quod radicibus proximum, quoniam ibi minimum corticis, in quo summa gratia, eaque de causa praeferuntur cacumina, ubi plurimus torpet. ipsum vero lignum in fastidio propter origani acrimoniam, xylocinnamomum vocatur. pretium ei in libras
 	𐆖 X.
 		
+
+
+
+92
+		
 quidam cinnami duo genera tradidere, candidius nigriusque, et quondam praeferebtatur candidum, nunc contra nigrum laudatur atque etiam varium praeferunt candido. certissima tamen aestimatio, ne sit scabrum atque ut inter sese tritum tarde frietur; damnatur in primis molle aut cui labet cortex.
+		
+
+
+
+93
 		
 ius eius a Gebbanitarum rege solo proficiscitur; is edicto mercatu vendit. pretia quondam fuere in libras denarium milia. auctum id parte dimidia est incensis, ut ferunt, silvis ira barbarorum. id acciderit ob iniquitatem praepotentium an forte, non satis constat. austros ibi tam ardentes flare, ut aestatibus silvas accendant, invenimus apud auctores.
 		
+
+
+
+94
+		
 coronas ex cinnamo interrasili auro inclusas primus omnium in templis Capitolii atque Pacis dicavit Imperator Vespasianus Augustus. radice eius magni ponderis vidimus in Palatii templo, quod fecerat Divo Augusto coniunx Augusta, aureae paterae inpositam, ex qua guttae editae annis omnibus in grana durabantur, donec id delubrum incendio consumptum est.
+		
+
+
+
+
+
+xliii
+		
+
+95
 		
 Frutex et casia est iuxtaque cinnami campos nascitur, sed in montibus crassiore sarmento, tenui cute verius quam cortice, quem contra atque in cinnamo diximus labare et exinaniri pretium est. amplitudo frutici trium cubitorum, colos triplex: cum primum emicat, candidus pedali mensura, dein rufescit addito semipede, ultra nigricans.
 		
+
+
+
+96
+		
 haec pars maxime laudatur ac deinde proxima, damnatur vero candida. consecant surculos longitudine binum digitorum, mox praesuunt recentibus coriis quadripedum ob id interemptarum, ut putrescentibus vermiculi lignum erodant et excavent corticem, tutum amaritudine.
+		
+
+
+
+97
 		
 probatur recens maxime et quae sit odoris longissimi gustuque quam minime fervens potiusque lento tepore leniter mordens, colore purpurae, quaeque plurima minimum ponderis faciat, brevi tunicarum fistula atque non fragili. ladam vocant talem barbaro nomine. alia est balsamodes, ab odore simili appellata, sed amara ideoque utilior medicis, sicut nigra unguentis. pretia nulli diversiora, optimae in libras
 	𐆖 L, ceteris
 	𐆖 V.
 		
+
+
+
+98
+		
 His adiecere mangones quam Daphnidis vocant, cognominatam isocinnamon, pretiumque ei faciunt
 	𐆖 CCC. adulteratur styrace et propter similitudinem corticum laurus tenuissimis surculis. quin et in nostro orbe seritur, extremoque in margine imperii, qua Rhenus adluit, vidi in alvariis apium satam. color abest ille torridus sole et ob id siml idem odor.
 		
+
+
+
+
+
+xliv
+		
+
+
+
 Ex confinio casiae cinnamique et cancamum ac tarum invehitur, sed per Nabataeos Trogodytas, qui consedere ex Nabataeis.
+		
+
+
+
+
+
+xlv
+		
+
+99
 		
 Eo comportatur et serichatum et gabalium, quae intra se consumunt Arabes, nostro orbi tantum nominibus cognita, sed cum cinnamo casiaque nascentia. pervenit tamen aliquando serichatum et in unguenta additur ab aliquis. permutatur in libras
 	𐆖 VI.
 		
+
+
+
+
+
+xlvi
+		
+
+100
+		
 Myrobalanum Trogodytis et Thebaidi et Arabiae, quae Iudaeam ab Aegypto disterminat, commune est, nascens id unguento, ut ipso nomine apparet, quo item indicatur et glandem esse. arbor est heliotropio, quam dicemus inter herbas, simili folio, fructus magnitudine abellanae nucis.
+		
+
+
+
+101
 		
 ex his in Arabia nascens Syriaca appellatur et est candida, contra in Thebade nigra. praefertur illa bonitate olei quod exprimitur, sed copia Thebaica. inter haec Trogodytica vilissima est. sunt qui Aethiopicam his praeferant, glandem nigram nec pinguem, nucleoque gracili, sed liquore qui exprimitur odoratiore, nascentem in campestribus.
 		
+
+
+
+102
+		
 Aegyptiam pinguiorem esse et crassiore cortice rubentem et, quamvis in palustribus nascatur, breviorem siccioremque; e diverso Arabicam viridem ac tenuiorem et, quoniam sit montuosa, spissiorem; longe autem optimam Petraeam ex quo diximus oppido, nigro cortice, nucleo candido. unguentarii autem tantum cortices premunt, medici et nucleos, tundentes adfusa paulatim calida aqua.
+		
+
+
+
+
+
+xlvii
+		
+
+103
 		
 Myrobalano in unguentis similem proximumque usum habet palma in Aegypto quae vocatur adipsos, viridis, odore mali cotonei, nullo intus lingo. colligitur autumno paulo ante quam incipiat maturescere. quod si relinquatur, phoenicobalanus vocatur et nigrescit vescentesque inebriat. myrobalano pretium in libras
 	𐆖 II. institores et faecem unguenti hoc nomine appellant.
 		
+
+
+
+
+
+xlviii
+		
+
+104
+		
 Calamus quoque odoratus in Arabia nascens communis Indis atque Syriae est, in qua vincit omnes. a nostro mari CL stadiis inter Libanum montem aliumque ignobilem (non, ut quidam existimavere, Antilibanum) in convalle modica iuxta lacum, cuius palustria aestate siccantur, tricenis ab eo stadiis calamus et iuncus odorati gignuntur. sane enim dicamus et de iunco, quamvis alio herbis dicato volumine, quoniam tamen hic unguentorum materia tractatur.
 		
+
+
+
+105
+		
 nihil ergo a ceteris sui generis differunt aspectu, sed calamus praestanti odore statim e longinquo invitat, mollior tactu, meliorque qui minus fragilis et qui assulose potius quam qui raphani modo frangitur.
+		
+
+
+
+106
 		
 inest fistulae araneum, quod vocant florem, praestantiore cui numerosius. reliqua probatio ut niger sit — damnantur albi —, melior, quo brevior crassiorque, et lentus in frangendo. calamo pretium in libras singulas
 	𐆖 I, iunco
 	𐆖 V. traduntque iuncum odoratum et in Campania inveniri.
 		
+
+
+
+
+
+xlix
+		
+
+107
+		
 Dicessimus a terris oceanum spectantibus ad convexas in nostra maria. ergo Aethiopiae subiecta Africa hammoniaci lacrima stillat in harenis suis; inde nomen etiam Hammonis oraculo, iuxta quod gignitur arbore quam metopon appellant, resinae modo aut cummium. genera eius duo: thrauston masculi turis similitudine, quod maxime probatur, alterum harenis velut nascendo adprehensis; igitur quam minimis glaebis probatur et quam purissimis. pretium optimo in libras asses XXXX.
 		
+
+
+
+
+
+l
+		
+
+108
+		
 Sphagnos infra eos situs in Cyrenaica provincia maxime probatur; alii bryon vocant. secundum locum optinet Cyprius, tertium Phoenicius. fertur et in Aegypto nasci, quin et in Gallia; nec dubitaverim: sunt enim hoc nomine cani arborum villi, quales in quercu maxime videmus, sed odore praestantes. laus prima candidissimis atque latissimis, secunda rutilis, nulla nigris. et in insulis petrisque nati improbantur omnesque quibus palmarum atque non suus odor sit.
+		
+
+
+
+
+
+li
+		
+
+109
 		
 Cypros in Aegypto est arbor, ziziphi foliis, semine coriandri, candido, odorato. coquitur hoc in oleo, premiturque postea, quod cypros vocatur. pretium ei in libras
 	𐆖 V. optimum e Canopica in ripis Nili nata, secundum Ascalone Iudaeae, tertium in Cypro insula. odoris suavitas quaedam. hanc esse dicunt arborem quae in Italia ligustrum vocetur.
 		
+
+
+
+
+
+lii
+		
+
+110
+		
 in eodem tractu aspalathos nascitur, spina candida magnitudine arboris modicae, flore rosae. radix unguentis expetitur. tradunt in quocumque frutice curvetur arcus caelestis, eandem quae sit aspalathi suavitatem odoris exsistere; sed si in aspalatho, inenarrabilem quandam. quam quidam erysisceptrum vocant, alii sceptrum. probatio eius in colore rufo vel igneo tactuque spisso et odore castorei. permutatur in libras
 	𐆖 V.
 		
+
+
+
+
+
+liii
+		
+
+111
+		
 in Aegypto nascitur et maron, peius quam Lydium, maioribus foliis ac variis; illa brevia ac minuta et odorata.
 		
+
+
+
+
+
+liv
+		
+
+
+
 Sed omnibus odoribus praefertur balsamum, uni terrarum Iudaeae concessum, quondam in duobus tantum hortis, utroque regio, altero iugerum viginti non amplius, altero pauciorum. ostendere arborum hanc urbi Imperatores Vespasiani, clarumque dictu, a Pompeio Magno in triumpho arbores quoque duximus.
+		
+
+
+
+112
 		
 servit nunc haec ac tributa pendit cum sua gente, in totum alia natura quam nostri externique prodiderant. quippe viti similior est quam myrto. malleolis seri didicit nuper, vincta ut vitis, et inplet colles vinearum modo. quae sine adminiculis se ipsa sustinet, tondetur similiter fruticans ac rastris nitescit properatque nasci, intra tertium annum fructifera. folium proximum tuburi, perpetua coma.
 
 		
+
+
+
+113
+		
 saeviere in eam Iudaei sicut in vitam quoque suam; contra defendere Romani, et dimicatum pro frutice est; seritque nunc eum fiscus, nec umquam fuit numerosior. proceritas intra bina cubita subsistit.
 
 		
+
+
+
+114
+		
 arbori tria genera: tenue et capillacea coma quod vocatur eutheriston; alterum scabro aspectu, incurvum, fruticosum, odoratius; hoc trachy appellant, tertium eumeces, quia est reliquis procerius, levi cortice. huic secunda bonitas, novissima eutheristo.
+		
+
+
+
+115
 		
 semen eius vino proximum gustu, colore rufum, nec sine pingui. peius in grano quod levius atque vridius. ramus crassior quam myrto. inciditur vitro, lapide osseisve cultellis; ferro laedi vitalia odit, emoritur protinus, eodem amputari supervacua patiens. incidentis manus libratur artifici temperamento, ne quid ultra corticem violet.
 		
+
+
+
+116
+		
 sucus e plaga manat quem opobalsamum vocant, suavitatis eximiae. sed tenui gutta ploratu: lanis parva colligitur in cornua, ex iis novo fictili conditur, crassiori similis oleo et in musto candida; rufescit deinde simulque durescit e tralucido.
+		
+
+
+
+117
 		
 Alexandro Magno res ibi gerente toto die aestivo unam concham impleri iustum erat, omni vero fecunditate e maiore horto congios senos, e minore singulos, cum et duplo rependebatur argento, nunc etiam singularum arborum largior vena. ter omnibus percutitur aestatibus, postea deputatur.
 		
+
+
+
+118
+		
 et sarmenta quoque in merce sunt. DCCC HS amputatio ipsa surculusque veniere intra quintum devictae Iudaeae annum; xylobalsamum vocatur et coquitur in unguentis. pro suco ipso substituere officinae. corticis etiam ad medicamenta pretium est. praecipua autem gratia lacrimae, secunda semini, tertia cortici, minima ligno.
+		
+
+
+
+119
 		
 ex hoc buxosum optimum, quod et odoratissimum, e semine autem maximum et ponderosissimum, mordens gustu fervensque in ore. adulteratur Petraeo hyperico, quod coarguitur magnitudine, inanitate, longitudine, odoris ignavia, sapore piperis.
 		
+
+
+
+120
+		
 lacrimae probatio ut sit e pingui tenuis ac modice rufa et in fricando odorata. secundus candidi coloris, peior viridis crassusque, pessimus niger, quippe ut oleum senescit. ex omni incisura maxime probatur quod ante semen fluxit. et alias adulteratur seminis suco, vixque maleficium deprehenditur gustu amariore; esse enim debet lenis, non subacidus, odore tantum austerus.
+		
+
+
+
+121
 		
 vitiatur et oleo rosae, cypri, lentisci, balani, terebinthi, myrti, resina, galbano, cera Cypria, prout quaeque res fuit, nequissime autem cummi: quoniam arescit, in manu inversa et in aqua sidit, quae probatio eius gemina est.
 		
+
+
+
+122
+		
 debet et sincerum arescere, sed hoc cummi addita fragili crusta evenit. et gustu deprehenditur, carbone vero quod cera resinaque adulteratum est, nigriore flamma. nam melle mutatum statim in manu contrahit muscas.
+		
+
+
+
+123
 		
 praeterea sinceri densatur in tepida aqua gutta sidens ad ima vasa, adulterata olei modo innatat et, si metopio vitiata est, circulo candido cingitur. summa est probatio ut lac coagulet, in veste maculas non faciat. nec manifestior alibi fraus, quippe milibus denarium sextarii, empti vendente fisco trecenis denariis, veneunt: in tantum expedit augere liquorem. xylobalsamo pretium in libras
 	𐆖 VI.
 		
+
+
+
+
+
+lv
+		
+
+124
+		
 Proxima Iudaeae Syria supra Phoenicen styracem gignit circa Gabala et Marathunta et Casium Seleucae montem. arbor est eodem nomine, cotoneo malo similis, lacrimae ex austero iucundi odoris; intus similitudo harundinis, suco praegnans. in hanc circa canis ortus advolant pinnati vermiculi erodentes, ob id scrobe sordescit.
+		
+
+
+
+125
 		
 styrax laudatur post supra dicta ex Pisidia [Side], Cypro, Cilicia, Creta, minime ex Amano Syriae medicis, sed unguentariis magis. colos in quacumque natione praefertur rufus et pinguiter lentus, deterior furfurosus et cano situ obductus. adulteratur cedri resina vel cummi, alias melle aut amygdalis amaris. omnia ea deprehenduntur gustu. pretium optimo
 	𐆖 XVII. exit et in Pamphylia, sed aridior minusque sucosus.
 		
+
+
+
+
+
+lvi
+		
+
+126
+		
 dat et galbanum sur in eodem Amano monte e ferula, quae eiusdem nominis, resinae modo; stagonitim appellant. quod maxime laudant, cartilaginosum, purum ad similitudinem hammoniaci minimeque lignosum. sic quoque adulteratur faba auc sacopenio. sincerum, si uratur, fugat nidore serpentes. permutatur in libras
 	𐆖 V.
+		
+
+
+
+
+
+lvii
+		
+
+127
 		
 medicinae hoc tantum, panacen et unguentis eadem gignit, nascentem et in Psophide Arcadiae circaque Erymanthi fontem et in Africa et in Macedonia, ferula sui generis quinque cubitorum, foliis primo quaternis, mox senis in terra iacentibus, ampla magnitudine rotundis, in cacumine vero oleagineis, semine muscariis dependente ut ferulae. excipitur sucus inciso caule messibus, radice autumno. laudatur candor eius coacti; sequens pallido statera, niger colos inprobatur. pretium optimo in libras
 	𐆖 II.
 		
+
+
+
+
+
+lviii
+		
+
+128
+		
 ab hac ferula differt quae vocatur spondylion foliis tantum, quia sunt minora et platani divisura. non nisi in opacis gignitur. semen eodem nomine silis speciem habet, medicinae tantum utile.
+		
+
+
+
+
+
+lix
+		
+
+129
 		
 date et malobathrum Syria, arborem folio convoluto, colore aridi folii, ex quo premitur oleum ad unguenta, fertiliore eiusdem Aegypto. laudatius tamen ex India venit. in paludibus ibi gigni tradunt lentis modo, odoratius croco, nigricans scabrumque, quodam salis gustu. minus probatur candidum. celerrime situm in vetustate sentit. sapor eius nardo similis esse debet sub lingua. in pretio quidem prodigio simile est, a denaris singulis ad
 	𐆖 CCC pervenire libras, folium autem ipsum in libras
 	𐆖 LX.
 		
+
+
+
+
+
+lx
+		
+
+130
+		
 Oleum et omphacium est. fit duobus generibus et totidem modis, ex olea et vite, olea adhuc alba expressa, deterius ex druppa. ita vocatur prius quam cibo matura sit, iam tamen colorem mutans; differentia quod hoc viride est, illud candidum. e vite psithia fit aut aminnea.
+		
+
+
+
+131
 		
 cum sunt acini ciceris magnitudine, ante canis ortum, in prima lanugine demetitur uva eiusque melligo. reliquum corpus sole coquitur — nocturni rores caventur in fictili conditae —; melligo subinde et Cyprio aere servatur. optima quae rufa acriorque et aridior. pretium omphacio in libras
 	𐆖 VI. fit et alio modo, cum in mortariis uva inmatura teritur siccataque in sole postea digeritur in pastillos.
 		
+
+
+
+
+
+lxi
+		
+
+132
+		
 Eodem et bryon pertinet, uva populi albae. optima circa Cnidum aut Cariam in sitientibus aut siccis asperisque, secunda in Lyciae cedro. eodem et oenanthe pertinet; est autem vitis labruscae uva; colligitur, cum floret, id est cum optime olet, siccatur in umbra substrato linteo atque ita in cados conditur.
+		
+
+
+
+133
 		
 praecipua ex Parapotamia, secunda ab Antiochia atque Laudicea Syriae, tertia ex montibus Medicis; haec utilior medicinae. quidam omnibus his praeferunt eam quae in Cypro insula nascitur. nam quae in Africa fit, ad medicos tantum pertinet vocaturque massaris. omnis autem ex alba labrusca praestantior quam e nigra.
 		
+
+
+
+
+
+lxii
+		
+
+134
+		
 Est praeterea arbor ad eadem unguenta pertinens, quam alii elaten vocant — quod nos abietem — alii palmam, alii spatham. laudatur Hammoniaca maxime, mox Aegyptia, dein Syriaca, dumtaxat in locis sitientibus odorata, pingui lacrima, quae in unguenta additur ad domandum oleum.
+		
+
+
+
+
+
+lxiii
+		
+
+135
 		
 In Syria gignitur et cinnamum quod comacum appellant. id est sucus nuci expressus, multum a suco illo veri cinnami differens, vicina tamen gratia. pretium in libras asses XXXX.
 		
+
+
+
+
+Adnotatio Thayeri:
+	
+
 
 Cinnamomum et casias:
 	
@@ -342,3 +1459,114 @@ in eos videbit apud Jacobum Eason.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Naturalis
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita: 
+IV Kal. Oct. 04

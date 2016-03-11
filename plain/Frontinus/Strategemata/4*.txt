@@ -1,7 +1,140 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Home
+			
+
+
+
+
+Sextus Julius Frontinus:
+	
+Strategemata
+	
+
+Liber Quartus
+	
+
 Multa lectione conquisitis strategematibus et non exiguo scrupulo digestis, ut promissum trium librorum implerem, si modo implevi, hoc exhibebo ea, quae parum apte discriptioni priorum ad speciem alligatae subici videbantur et erant exempla potius strategicon quam strategemata; quae idcirco separavi, quia quamvis clara diversae tamen erant substantiae, ne, si qui forte in aliqua ex his incidissent, similitudine inducti praetermissa opinarentur. Et sane velut res residua expedienda fuit, in qua et ipsa ordinem per species servare conabor:
 
 
+
+
+
+
+I.
+		
+
+
+De disciplina.
+		
+
+
+
+II.
+		
+
+
+De effectu disciplinae.
+		
+
+
+
+III.
+		
+
+
+De continentia.
+		
+
+
+
+IV.
+		
+
+
+De iustitia.
+		
+
+
+
+V.
+		
+
+
+De constantia.
+		
+
+
+
+VI.
+		
+
+
+De affectu et moderatione.
+		
+
+
+
+VII.
+		
+
+
+De variis consiliis.
+		
+
+
+
+
+I. De Disciplina
+	
 
 1 
 P. Scipio ad Numantiam corruptum superiorum ducum socordia exercitum correxit dimisso ingenti lixarum numero, redactis ad munus cotidiana exercitatione militibus. Quibus cum frequens iniungeret iter, portare complurium dierum cibaria imperabat, ita ut frigora et imbres pati, vada fluminum pedibus traicere assuesceret miles, exprobrante subinde imperatore timiditatem et ignaviam, frangente delicatioris usus ac parum necessaria expeditioni vasa. Quod maxime notabiliter accidit C. Memmio tribuno, cui dixisse traditur Scipio: "mihi paulisper, tibi et rei publicae semper nequam eris."
@@ -192,6 +325,10 @@ Cum ab Liguribus in proelio Q. Petilius consul interfectus esset, decrevit sena
 
 
 	
+
+II. De Effectu Disciplinae
+	
+
 1 
 Bruti et Cassi exercitus, memoriae proditum est, bello civili cum una per Macedoniam iter facerent priorque Brutus ad fluvium, in quo pontem iungi oportebat, pervenisset, Cassi tamen exercitum et in efficiendo ponte et in maturando transitu praecessisse; qui vigor disciplinae effecit, ne solum in operibus, verum et in summa belli praestarent Cassiani Brutianos.
 
@@ -229,6 +366,10 @@ Xerxes a trecentis Lacedaemoniorum ad Thermopylas vexatus, cum vix eos confecis
 
 
 	
+
+III. De Continentia
+	
+
 1 
 M. Catonem vino eodem quo remiges contentum fuisse traditur.
 
@@ -290,6 +431,10 @@ L. Mummius, qui Corintho capta non Italiam solum sed etiam provincias tabulis s
 
 
 	
+
+IV. De Iustitia
+	
+
 1 
 Camillo Faliscos obsidenti ludi magister liberos Faliscorum tamquam ambulandi causa extra murum eductos tradidit, dicens retentis eis obsidibus necessario civitatem imperata facturam. Camillus non solum sprevit perfidiam, sed et restrictis post terga manibus magistrum virgis agendum ad parentes tradidit pueris, adeptus beneficio victoriam, quam fraude non concupierat, nam Falisci ob hanc iustitiam sponte ei se dediderunt.
 
@@ -299,6 +444,10 @@ Ad Fabricium, ducem Romanorum, medicus Pyrrhi, Epirotarum regis, pervenit pollic
 
 
 	
+
+V. De Constantia
+	
+
 1 
 Cn. Pompeius minantibus direpturos pecuniam militibus, quae in triumpho ferretur, Servilio et Glaucia cohortantibus, ut divideret eam, ne seditio fieret, affirmavit non triumphaturum se potius sed moriturum, quam licentiae militum succumberet, castigatisque oratione gravi laureatos fasces obiecit, ut ab illorum inciperent direptione; eaque invidia redegit eos ad modestiam.
 
@@ -392,6 +541,10 @@ Numantini, ne se dederent, fame mori praefixis foribus domuum suarum maluerunt.
 
 
 	
+
+VI. De Affectu et Moderatione
+	
+
 1 
 Q. Fabius hortante filio, ut locum idoneum paucorum iactura caperet, "visne", inquit, "tu ex illis paucis esse?"
 
@@ -409,6 +562,10 @@ Divus Augustus Vespasianus, cum quendam adulescentem honeste natum, militiae inh
 
 
 	
+
+VII. De Variis Consiliis
+	
+
 1 
 C. Caesar dicebat idem sibi esse consilium adversus hostem, quod plerisque medicis contra vitia corporum, fame potius quam ferro superandi.
 
@@ -578,3 +735,98 @@ Q. Metellus in Hispania castra moturus, cum in agmine milites continere velle[n
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Frontini
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+IV Kal. Jun. 02

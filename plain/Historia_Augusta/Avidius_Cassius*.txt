@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Lucius Verus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Commodus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p232
+
+Avidius Cassius1
+
+
 11 Avidius Cassius, ut quidam volunt, ex familia Cassiorum fuisse dicitur, per matrem tamen; homine novo2 genitus Avidio Severo, qui ordines duxerat et post ad summas dignitates pervenerat. 2 cuius Quadratus in historiis meminit, et quidem graviter, cum illum summum virum et necessarium rei publicae adserit et apud ipsum Marcum praevalidum. 3 nam iam eo imperante perisse fatali sorte perhibetur.
 
 	
@@ -38,6 +146,13 @@ p240viventis14 miserabiliter criminosi quam occisi. 6 cum exercitum duceret, et
 
 
 p242castris securi percussit, qui ita meruerunt, et manus multis amputavit. 3 et praeter laridum ac buccellatum atque acetum militem in expeditione portare prohibuit et si aliud quippiam repperit luxuriem non levi supplicioº adfecit. 4 exstat de hoc epistula divi Marci ad praefectum suum talis: 5 "Avidio Cassio legiones Syriacas dedi diffluentes luxuria et Daphnidis moribus agentes, quas totas excaldantes se repperisse Caesonius Vectilianus scripsit. 6 et puto me non errasse, si quidem et tu notum habeas Cassium, hominem Cassianae severitatis et disciplinae. 7 neque enim milites regi possunt nisi vetere disciplina. scis enim versum a bono poeta dictum et omnibus frequentatum:
+
+
+
+
+'Moribus antiquis res stat Romana virisque.'
+
+
 
 
 8 tu tantum fac adsint legionibus abunde commeatus, quos, si bene Avidium novi, scio non perituros." 9 praefecti ad Marcum: "Recte consuluisti, mi domine, quod Cassium praefecisti17 Syriacis legionibus. 10 nihil enim tam expedit quam homo severior Graecanicis militibus. 11 ille sane omnes excaldationes, omnes flores de capite collo et sinu militi excutiet. 12 annona militaris omnis parata est, neque quicquam deest sub bono duce; non enim multum aut quaeritur aut impenditur." 61 nec fefellit de se iudicium habitum.
@@ -90,6 +205,15 @@ p254quid agas de Avidio Cassio et de eius consciis. 5 noli parcere hominibus, q
 p2566 haec Caesarem deum fecit, haec Augustum consecravit, haec patrem tuum specialiter Pii nomine ornavit. 7 denique si ex mea sententia de bello iudicatum esset, nec Avidius esset occisus. 8 esto igitur secura;
 
 
+
+
+'di me tuentur, dis pietas mea
+			
+— — cordi est'.
+		
+
+
+
 Pompeianum nostrum in annum sequentem consulem dixi." haec Antoninus ad coniugem.
 
 	
@@ -122,213 +246,360 @@ p262fieret mendicum et pauperem, sed subito divitem factum. unde, quaeso, nisi d
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 In P the 9th Vita, i.e. following Pertinax.
 
 
+❦
 
 2
 homine nouo genitus Klebs, Prosop. i p188; homine omitted in P; auo genitus Peter (vulg.).
 
 
+❦
 
 3
 So P corr.; in ciuilium P1.
 
 
+❦
 
 4
 Thus Peter with Mommsen; esse grauius nomine P.
 
 
+❦
 
 5
 inde, following iam in P, removed by Novak.
 
 
+❦
 
 6
 omnia ei nostra displicent P corr. (ediplicent P1); omnia enim nostra ei d. Peter.
 
 
+❦
 
 7
 consulat P.
 
 
+❦
 
 8
 quam omitted by P1, added by P corr.
+❦
 
 9
 adfectata Petschenig; adfectu P; adfecta Peter.
 
 
+❦
 
 10
 malui omitted by P1, supplied by P corr.
+❦
 
 11
 siue iusta causa siue iniusta Novak; siue iniusta P1; siue iuste siue iniuste P corr.; siue iusta ex causa siue iniusta Peter with Mommsen.
 
 
+❦
 
 12
 The words hoc est praeceptionum, which follow paraeneseos in P, removed by Cas.
 
 
+❦
 
 13
 The words id est materiam, following centum in P, removed by Cas.
 
 
+❦
 
 14
 auiuentis (a later erased) P; aduiuentis Peter2 with Baehrens.
 
 
+❦
 
 15
 in exercitum orta P, Peter.
 
 
+❦
 
 16
 ipse om. by Peter.
 
 
+❦
 
 17
 praefecisti P corr.; praefectis P1.
 
 
+❦
 
 18
 cum et P.
 
 
+❦
 
 19
 item P; idem Peter.
 
 
+❦
 
 20
 senserat P.
 
 
+❦
 
 21
 parsurum P corr.; passurum P1.
 
 
+❦
 
 22
 So Peter with Boxhorn; nam P.
 
 
+❦
 
 23
 de Pertinace et Galba P.
 
 
+❦
 
 24
 So P corr.; antiochensis P1.
 
 
+❦
 
 25
 qui P; quoque Peter with Madvig.
 
 
+❦
 
 26
 sed et his P, Peter2.
 
 
+❦
 
 27
 illi seuam P1; illis P corr.
+❦
 
 28
 solum P.
 
 
+❦
 
 29
 So Peter with Salm.; herispatores P.
 
 
+❦
 
 30
 urget P; urguet edd.
 
 
+❦
 
 31
 et duces milites P1; et duces et milites P corr.
+❦
 
 32
 eiusdem in def. P; eiusdem removed by Cas.
 
 
+❦
 
 33
 sic hortata P; sic removed by Novak; cohortata Peter2.
 
 
+❦
 
 34
 signitas P, which Ellis thinks perhaps right in sense of "in cipher".
 
 
+❦
 
 35
 cū, i.e. cum P.
 
 
+❦
 
 36
 quemquam ullum P; ullum removed by Lessing; quemquam unum Peter.
 
 
+❦
 
 37
 multos P, which Lessing restores; multatos Peter.
 
 
+❦
 
 38
 So P; repetition from the preceding has crowded out some other adj.
 
 
+❦
 
 39
 So Vielhaber; non modo clemens sed bonus P; non modo c. et b. Peter.
 
 
+❦
 
 40
 So P; Peter by error attributes clementes to P, and reads, following Petschenig, clementem se.
 
 
+❦
 
 41
 de clementes P1; de clementiis P corr.
+❦
 
 42
 Thus Petrarch; referient P.
 
 
+❦
 
 43
 patribus P.
 
 
+❦
 
 44
 reddant P; reddent Casaubon, Peter.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

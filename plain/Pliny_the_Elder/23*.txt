@@ -1,4 +1,92 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XXII
+				
+
+
+
+Textus non recensitus est —
+				
+
+si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XXIV
+				
+
+
+
+
+
+Liber XXIII
+	
+
 1 Peracta cerealium in medendo quoque natura est omniumque, quae ciborum aut florum odorumve gratia proveniunt supina tellure. non cessit iis Pomona partesque medicas et pendentibus dedit, non contenta protegere arborumque umbra alere quae diximus, immo velut indignata plus auxili inesse his, quae longius a caelo abessent quaeque postea coepissent; primum enim homini cibum fuisse inde, et sic inducto caelum spectare, pascique et nunc ex se posse sine frugibus.
 
 	2 ergo, Hercule, artes in primis dedit vitibus, non contenta delicias etiam et odores atque unguenta omphacio et oenanthe ac massari, quae suis locis diximus, nobiliter instruxisse. 'Plurimum, inquit, homini voluptatis ex me est. ego sucum vini, liquorem olei gigno, ego palmas et poma totque varietates, neque, ut Tellus, omnia per labores, aranda tauris, terenda areis, deinde saxis, ut quando quantove opere cibi fiant? at ex me parata omnia nec cura laboranda, sed sese porrigentia ultro et, si pigeat attingere, etiam cadentia.' certavit ipsa secum plusque utilitatis causa genuit etiam quam voluptatis.
@@ -306,6 +394,12 @@ Et hac habent se medicinae urbanarum arborum; transeamus ad silvestres.
 
 
 
+
+Adnotatio Thayeri:
+	
+
+
+
 in spongea adiecto:
 	
 This passage is usually overlooked in modern explications of the crucifixion of Jesus Christ, but at least one early 19c editor (Simon Wilkin, editing the works of Sir Thomas Browne) was not so prudish.
@@ -313,7 +407,21 @@ This passage is usually overlooked in modern explications of the crucifixion of 
 With the customary reminder that punctuation is an artifact of modern editions not found in the manuscripts, let me start by repunctuating it according to W. H. S. Jones, the editor and translator of the Loeb edition (the differences from the above are marked in colored text):
 
 
+
+
+. . . item contra multipedae morsum. calidum in spongea adiecto aut sulphuris sextante sextariis III aut hysopi fasciculo medetur et sedis vitiis; in sanguinis fluctione post excisos calculos et omni alia foris in spongea inpositum, intus potum cyathis binis quam acerrimum.
+		
+
+
+
 with the resulting translation, still from the Loeb edition:
+
+
+
+
+Applied warm on a sponge, with either two ounces of sulphur or a bunch of hyssop added to three sextarii of vinegar, it is also a remedy for troubles of the anus. For haemorrhage after excision of stone, or any other, it is applied externally on a sponge, and doses of two cyathi of the strongest vinegar are taken internally.
+		
+
 
 
 Many generations of believers have thought that the drink of vinegar was some kind of mockery and further torture of a condemned man: giving him not water to drink, but vinegar.
@@ -328,6 +436,7 @@ This text of Pliny, however, provides evidence of something very different: hyss
 	
 In more intelligible detail, here is the connection with the Crucifixion:
 	
+
 Death in crucifixion
 	
 (see this excellent page)
@@ -336,6 +445,7 @@ is ultimately caused by asphyxiation. The crucified man hangs from his wrists, a
 	
 To this torture, the Romans commonly added a refinement: a sharp spike (called a sedile, a "seat") was fixed on the upright beam in such a place that when the exhausted victim slips back down, it pierces the anus.
 	
+
 Now read Pliny's text again. What the soldier was doing was not giving Jesus a drink of posca using hyssop as a support for the sponge. He was administering a pain-killer to a different place altogether, and the sponge, in accordance with our passage of Pliny, was being used as a swab. The writer of the gospel was standing too far away to see exactly what the soldier was doing and interpreted it wrongly; or some redactor has been prudish.
 	
 If this in turn is true — and I am not wedded to my theory, since Mt. 27,48 specifically says the vinegar (ὄξους) was given to Jesus to drink (ἐπότιζεν); although Jn. 19,29 is more ambiguous (προσἤνεγκαν αὐτοῦ τῷ στόματι) — one may wonder how a soldier happens to have a specific remedy so readily at hand; this would have to be planned, at which point I would suspect the kind offices of Joseph of Arimathea or some other well-connected and probably wealthy friend of Jesus.
@@ -349,3 +459,115 @@ for calling my attention to this passage. The arguments above remain my own, of 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Naturalis
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Non. Oct. 07

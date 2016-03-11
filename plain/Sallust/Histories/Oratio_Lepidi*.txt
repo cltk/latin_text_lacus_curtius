@@ -1,4 +1,113 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris pars est fragmentorum
+				
+
+
+Historiae
+				
+
+
+
+C. Sallusti Crispi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXI (recensiti MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p384
+C. Sallusti Crispi
+	
+Historiae (fragmenta)
+	
+
+Oratio Lepidi cos. ad populum Romanum1
+
+
 1 
 Clementia et probitas vostra, Quirites, quibus per ceteras gentis maxumi et clari estis, plurumum timoris mihi faciunt advorsum tyrannidem L. Sullae, ne, quae ipsi nefanda aestumatis, ea parum credundo de aliis circumveniamini — praesertim cum illi spes omnis in scelere atque perfidia sit neque se aliter tutum putet, quam si peior atque intestabilior metu vostro fuerit, quo captis libertatis curam miseria eximat — aut, si provideritis, in tutandis2 periculis magis quam ulciscendo teneamini.
 
@@ -48,62 +157,196 @@ Mihi quamquam per hoc summum imperium satis quaesitum erat nomini maiorum, digni
 
 
 
+
+Adnotationes Editoris:
+	
+
 1
 Histories, I.55; see
 	
 Introd. pp. xv ff. V = Codex Vaticanus, 3864; ς = copies of V.
 
 
+❦
 
 2
 tutandis, V; vitandis, Asulanus.
 
 
+❦
 
 3
 scaevus, V; saevus, Serv. Ecl. 3.13.
 
 
+❦
 
 4
 generis, supplied by Orelli; hominum, Aldus.
 
 
+❦
 
 5
 illum, Korrte; illos, V, Ah.
 
 
+❦
 
 6
 imperii, Mommsen.
 
 
+❦
 
 7
 parta, Orelli.
 
 
+❦
 
 8
 qua raptum ire, Madvig; quam raptum iri, V.
 
 
+❦
 
 9
 quam audeat, Korrte; quam audeas, V, Ah.
 
 
+❦
 
 10
 praeter victoriam, Müller, Ah; propter victoriam, V; victorem, Kritz ("an victorem scribendum," Ah).
 
 
+❦
 
 11
 intellegerent, V; intellegerint, Orelli.
 
 
+❦
 
 12
 labefactis, Mähly; labefacti, MSS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+
+
+Res Militares
+			
+Romanae
+			
+
+
+
+
+Res
+			
+Militares
+			
+
+
+
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Id. Dec.

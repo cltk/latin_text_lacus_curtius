@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Oratio ad Caesarem
+				
+
+
+
+[C. Sallusti Crispi]
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXI (recensitum MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p444
+[C. Sallusti Crispi]
+	
+Ad Caesarem Senem
+	
+de Re Publica Oratio1
+
+
 1 
 Pro vero antea optinebat regna atque imperia fortunam dono dare, item alia quae per mortaleis2 avide cupiuntur, quia et apud indignos saepe erant quasi per libidinem data neque cuiquam incorrupta permanserant. 2 Sed res docuit id verum esse, quod in carminibus Appius ait, fabrum esse suae quemque fortunae, atque in te maxume, qui tantum alios praegresus es, ut prius defessi sint homines laudando facta tua quam tu laude digna faciundo. 3 Ceterum ut fabricata sic virtute parta quam magna industria haberei decet, ne incuria deformentur aut corruant infirmata. 4 Nemo enim alteri imperium volens concedit, et quamvis bonus atque clemens sit, qui plus potest tamen, quia malo esse licet, formeidatur. 5 Id eo evenit, quia plerique rerum potentes pervorse consulunt et eo se munitiores putant, quo illei quibus imperitant nequiores fuere. 6 At contra id eniti
 
@@ -79,6 +187,222 @@ Nam domum aut villam exstruere, eam signis, aulaeis, alieisque operibus exornare
 
 
 	
+
+Adnotationes Editoris:
+	
+
+1
+See
+	
+Introd. pp. xviii ff.
+	
+
 V = codex Vaticanus, 3864; ϛ = copies of V.
 
 
+❦
+
+2
+The writer frequently has ei for long i and indulges in other archaic spellings; see
+	
+Introd. p. xvii.
+
+
+❦
+
+3
+mediocri, Asulanus; mediocris, V.
+
+
+❦
+
+4
+condonari, Korrte; condonare, V.
+
+
+❦
+
+5
+ut Aldus; omitted by V.
+
+
+❦
+
+6
+aequiores quam aliis, Carrio; nequiores quam alii, V.
+
+
+❦
+
+7
+intercepit, Gronov.
+
+
+❦
+
+8
+et scilicet, V; et deleted by Jordan.
+
+
+❦
+
+9
+parentisque alii liberos, V; alii liberos deleted by Jordan.
+
+
+❦
+
+10
+veteribus aec conquirit (a in aec erased), V; corrected by Hauler; cf. Plaut. Amph. 293,
+	
+Curc. 141.
+
+
+❦
+
+11
+quom, V.
+
+
+❦
+
+12
+parvas, ed. Rom. 1475; pravas, V.
+
+
+❦
+
+13
+decus, Asulanus; dedecus, V.
+
+
+❦
+
+14
+auctibus, Ciacconius; auctoribus, V.
+
+
+❦
+
+15
+eis, V.
+
+
+❦
+
+16
+Perhaps faciunt is the correct reading, as suggested by Jordan.
+
+
+❦
+
+17
+Considered corrupt by Jordan; ineptum, Wirz, Zeistschr. f. Gymn.‑w. xxxi, p286.
+
+
+❦
+
+18
+quae medita pectore evolat, V; quem edita pectore evolat, ed. Rom. 1475.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Id. Jun. 07

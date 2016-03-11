@@ -1,4 +1,122 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Historiae Romanae
+				
+
+
+C. Vellei Paterculi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXIIII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+Capp. 1‑28
+				
+
+
+
+
+C. Vellei Paterculi
+	
+Historiae Romanae
+	
+p2
+Liber Prior
+	
+
 1
 
 Epeus1 tempestate distractus a duce suo Nestore Metapontum condidit. Teucer, non receptus a patre Telamone ob segnitiam non vindicatae fratris iniuriae, Cyprum adpulsus cognominem patriae suae Salamina constituit. Pyrrhus, Achillis filius, Epirum occupavit, Phidippus Ephyram in Thesprotia. 2 At rex regum Agamemnon tempestate in Cretam insulam reiectus tres ibi urbes statuit, duas a patriae nomine, unam a victoriae memoria, Mycenas, Tegeam, Pergamum.
@@ -232,357 +350,541 @@ Transit admiratio ab condicione78 temporum et ad urbium. Una urbs Attica pluribu
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 There is an initial lacuna in the text of considerable extent. The text, as we have it, begins with tempestate. The name of Epeus was supplied by Lipsius.
+❦
 
 2
 quin Wopkens; qui P.
 
 
+❦
 
 3
 in extremo P; in bracketed by Ruhnken.
+❦
 
 4
 disserunt Orelli; dixerunt P.
 
 
+❦
 
 5
 et added by Gelenius.
+❦
 
 6
 magno P; non magno Scriner.
+❦
 
 7
 quem ille P.
 
 
+❦
 
 8
 οἶοι . . . εἰσιν om. P; supplied by Urbinus.
+❦
 
 9
 DCCLXX P; DCCCLXX Lipsius.
+❦
 
 10
 trecentesimo P; tricensimo B.
 
 
+❦
 
 11
 viris Lipsius; vir P.
 
 
+❦
 
 12
 undecimus Wesseling; sextus decimus P.
 
 
+❦
 
 13
 potitus est] potitus P.
 
 
+❦
 
 14
 Aemilius Sura . . . intersunt anni MDCCCCXCV] Delbenius first recognized that this passage was a gloss.
+❦
 
 15
 maximique Rhenanus; maximeque P.
 
 
+❦
 
 16
 omnisque P; omnis Gelenius; cuiusque Gurlitt.
+❦
 
 17
 zzz P; corrected by Laurentius.
+❦
 
 18
 Latini Orelli; Latinis Lipsius; his P.
 
 
+❦
 
 19
 eam Heinsius; iam P.
 
 
+❦
 
 20
 Here begins a great lacuna in the text. The missing chapters covered 582 years of Roman History from the founding of the city to the war with Perses. The fragment Nec . . . Cimon appended to the present chapter is preserved in Priscian vi.63.
+❦
 
 21
 Haase has completed the sentence as follows: quorum iniuriarum populus Romanus poenam tardius quam timuerat hostis expetit (expellit). But this is nothing more than an interesting conjecture, and the subject of expetit must remain in doubt.
+❦
 
 22
 fuerit P; fuit AB.
 
 
+❦
 
 23
 consulem creavit om. A.
 
 
+❦
 
 24
 perfugit Crusius; profugit AP.
 
 
+❦
 
 25
 agentis Gelenius; agentium AP.
 
 
+❦
 
 26
 ut b. m. centies SH (sic) aerario contulerit his et AP, corrected by Schoepfer who was followed by Thomas: cum bis m. . . . aerario intulisset Halm.
+❦
 
 27
 tum (cum A) regem AP.
 
 
+❦
 
 28
 et AP; ut A.
 
 
+❦
 
 29
 cogitationem] cunctationem Acidalius.
+❦
 
 30
 Macedonicae Ruhnken; magnae AP.
 
 
+❦
 
 31
 saevirent P; saeviret A.
 
 
+❦
 
 32
 adsumptis is Burer's conjecture; adsumpti AP.
 
 
+❦
 
 33
 inditum erat AP; erat was bracketed by Gelenius.
+❦
 
 34
 huius added by Ruhnken.
+❦
 
 35
 deinde ut praediximus instincta AP; Madvig placed ut . . . praed. after magna.
 
 
+❦
 
 36
 cuius pars . . . fracta Aldus; cum pars . . . tracta AP.
 
 
+❦
 
 37
 diceretur AB; dicebatur P. Burer states that ba was added in the Murbach MS. in a later hand.
+❦
 
 38
 excidere AP.
 
 
+❦
 
 39
 DCLXXII Iani; DCLXVII P; DCLXVI A.
 
 
+❦
 
 40
 CLXXIII Kritz; CLXXVII B; CCLXXVII AP.
 
 
+❦
 
 41
 CCXCII Laurent.; CCXCVI AP.
 
 
+❦
 
 42
 CXX Iani; CXV AP.
 
 
+❦
 
 43
 L. Rhenanus; a B; A AP.
 
 
+❦
 
 44
 ceperant Madvig; ceperunt AP.
 
 
+❦
 
 45
 Aricini et A; Orelli supposes that one or more names have dropped out.
+❦
 
 46
 CCCLX Laurent.; CCCL AP.
 
 
+❦
 
 47
 Tarracina Lipsius; Tarracinam AP.
 
 
+❦
 
 48
 ad quintum fabioque AP.
 
 
+❦
 
 49
 Cosa BA; Cossa P.
 
 
+❦
 
 50
 interiectoque Madvig; interiecto AP.
 
 
+❦
 
 51
 et omitted in P.
 
 
+❦
 
 52
 XVII Aldus; XXII AP.
 
 
+❦
 
 53
 post Gelenius; anno post AP.
 
 
+❦
 
 54
 ducta AP.
 
 
+❦
 
 55
 CLXXXV Burman; CLXXXVII AP.
 
 
+❦
 
 56
 in eo moliendo Salmasius; in demoliendo AP.
 
 
+❦
 
 57
 CLIII Krause; CLVII AP; CLII Lips.
+❦
 
 58
 CXLVI Lipsius; CLIII AP.
 
 
+❦
 
 59
 XVIII Aldus; XXIII AP.
 
 
+❦
 
 60
 sextum Cludius; sexiens (-es) BAP.
 
 
+❦
 
 61
 supervacua P; supervania A; supervacanea Orelli.
+❦
 
 62
 in eam AP.
 
 
+❦
 
 63
 congruere Heinsius; congruens AP.
 
 
+❦
 
 64
 capso BA; capsa P.
 
 
+❦
 
 65
 alioue Lipsius; alioque AP.
 
 
+❦
 
 66
 quodque Heinsius; quoque AP.
 
 
+❦
 
 67
 tragoediam Burman; tragoedias AP.
 
 
+❦
 
 68
 novam comicam AP, defended by Thomas; novam comoediam Gruner.
+❦
 
 69
 Menander A; Menandrus P.
 
 
+❦
 
 70
 Madvig inserts non after eius.
 
 
+❦
 
 71
 adeo quidem AP; adeo id quidem Haase.
+❦
 
 72
 cum is Burer's conjecture; eorum AP.
 
 
+❦
 
 73
 etiam Vossius; et AP.
 
 
+❦
 
 74
 reperiet et eminentiam P; reperiet eminentia AB.
 
 
+❦
 
 75
 recedentis in suum quodque saeculum] I have here adopted the reading of Madvig for this tortured passage. For the readings of ABP and the various conjectures see Ellis.
+❦
 
 76
 saepe Madvig; semper AP.
 
 
+❦
 
 77
 quo priores ducimur A.
 
 
+❦
 
 78
 ab condicione Schegk; ad conditionem AP.
 
 
+❦
 
 79
 pluribus omnis Froelich; pluribus annis AP; pluribus auctoribus Halm.
+❦
 
 80
 operibus usque Ellis after Acidalius; operibusque AP. For other conjectures see Ellis, p19.
+❦
 
 81
 eximiae alias Faehse and Haupt; et initalia AB, om. P; et in alia Halm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Velleius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Non. Feb. 04

@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Divus
+				
+Vespasianus
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Domitianus
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p320
+Divus Titus
+	
+
 1
 
 1 Titus, cognomine paterno, amor ac deliciae generis humani — tantum illi ad promerendam omnium voluntatem vel ingenii vel artis vel fortunae superfuit, et, quod difficillimum est, in imperio, quando privatus atque etiam sub patre principe ne odio quidem, nedum vituperatione publica caruit — natus est III. Kal. Ian. insigni anno Gaiana nece, prope
@@ -125,35 +246,45 @@ Excessit in eadem qua pater villa Id. Sept. post biennium ac menses duos diesque
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 memoria, Π1Q; the other mss. have memoriae.
 
 
+❦
 
 2
 summa industriae . . . modestiae fama, ς; summae industriae . . . modestia et fama, Ω.
 
 
+❦
 
 3
 Arrecinam, Roth; adrecidiam, Ω.
 
 
+❦
 
 4
 Taricheas, Ursinus (Tarichias, Bentley); Thracias, Ω.
 
 
+❦
 
 5
 ea, M; the other mss. have eam.
 
 
+❦
 
 6
 cognitionibus, Torrentius; contionibus, Ω.
 
 
+❦
 
 7
 celeriter, Calderinus, in note on
@@ -161,30 +292,144 @@ celeriter, Calderinus, in note on
 Mart. Spect. 2.2;º celebriter, Ω.
 
 
+❦
 
 8
 rata, inserted by Egnatius.
+❦
 
 9
 Vesuvii] ve*bii, M; vesubii, G.
 
 
+❦
 
 10
 Vesuvio, M; vesubio, G.
 
 
+❦
 
 11
 nichil nisi sibi perisse testatus publice, Υ; nichil nisi sibi publice perisse testatus, OT; nihil publice perisse testatus, Roth, following a ms. of Torrentius.
+❦
 
 12
 mandatoresque, X; amendatoresque, M; amandatoresque, Gδ.
 
 
+❦
 
 13
 quid, GNδ; the other mss. have quod.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+2 Oct 06

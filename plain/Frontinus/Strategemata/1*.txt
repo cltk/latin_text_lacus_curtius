@@ -1,4 +1,68 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Home
+			
+
+
+
+
+Sextus Julius Frontinus:
+	
+Strategemata
+	
+
+p2
+Liber Primus
+	
+
 Cum ad instruendam rei militaris scientiam unus ex numero studiosorum eius accesserim eique destinato, quantum cura nostra valuit, satisfecisse visus sim, deberi adhuc institutae arbitror operae, ut sollertia ducum facta, quae a Graecis una στρατηγημάτων appellatione comprehensa sunt, expeditis amplectar commentariis. Ita enim consilii quoque et providentiae exemplis succincti duces erunt, unde illis excogitandi generandique similia facultas nutriatur; praeterea continget, ne de eventu trepidet inventionis suae, qui probatis eam experimentis comparabit.
 
 	
@@ -20,6 +84,122 @@ Si qui erunt, quibus volumina haec cordi sint, meminerint στρατηγικῶ�
 	
 Species eorum, quae instruant ducem in his, quae ante proelium gerenda sunt:
 
+
+
+
+
+I.
+		
+
+
+De occultandis consiliis.
+		
+
+
+
+II.
+		
+
+
+De explorandis consiliis hostium.
+		
+
+
+
+III.
+		
+
+
+De constituendo statu belli.
+		
+
+
+
+IV.
+		
+
+
+De transducendo exercitu per loca hosti infesta.
+		
+
+
+
+V.
+		
+
+
+De evadendo ex locis difficillimis.
+		
+
+
+
+VI.
+		
+
+
+De insidiis in itinere factis.
+		
+
+
+
+VII.
+		
+
+
+Quemadmodum ea, quibus deficiemur, videantur non deesse aut usus eorum expleatur.
+		
+
+
+
+VIII.
+		
+
+
+De distringendis hostibus.
+		
+
+
+
+IX.
+		
+
+
+De seditione militum compescenda.
+		
+
+
+
+X.
+		
+
+
+Quemadmodum intempestiva postulatio pugnae inhibeatur.
+		
+
+
+
+XI.
+		
+
+
+Quemadmodum incitandus sit ad proelium exercitus.
+		
+
+
+
+XII.
+		
+
+
+De dissolvendo metu, quem milites ex adversis conceperint ominibus.
+		
+
+
+
+p8
+
+I. De Occultandis Consiliis
+	
 
 1 
 M. Porcius Cato devictas a se Hispaniae civitates existimabat in tempore rebellaturas fiducia murorum. Scripsit itaque singulis, ut diruerent munimenta, minatus bellum, nisi confestim obtemperassent, epistulasque universis civitatibus eodem die reddi iussit. Unaquaeque urbium sibi soli credidit imperatum; contumaces conspiratio potuit facere, si omnibus idem denuntiari notum fuisset.
@@ -86,6 +266,10 @@ M. Licinius Crassus percunctanti, quo tempore castra moturus esset, respondit: 
 
 
 	
+
+II. De Explorandis Consiliis Hostium
+	
+
 1 
 Scipio Africanus, capta occasione mittendae ad Syphacem legationis, cum Laelio servorum habitu
 
@@ -134,6 +318,10 @@ Hasdrubal, frater Hannibalis, iunctum Livii et Neronis exercitum, quamquam hoc i
 
 
 	
+
+III. De Constituendo Statu Belli
+	
+
 1 
 Alexander Macedo, cum haberet vehementem exercitum, semper eum statum belli elegit, ut acie confligeret.
 
@@ -183,6 +371,10 @@ p26in profunda silvarum haberent, limitibus per centum viginti milia passuum act
 
 
 	
+
+IV. De Transducendo Exercitu per Loca Hosti Infesta
+	
+
 1 
 Aemilius Paulus consul, cum in Lucanis iuxta litus angusto itinere exercitum duceret et Tarentini ei classe insidiati agmen eius scorpionibus agressi essent, captivos lateri euntium praetexuit, quorum respectu hostes inhibuere tela.
 
@@ -262,6 +454,10 @@ Chabrias Atheniensis, cum adire portum Samiorum obstante navali hostium praesidi
 
 
 	
+
+V. De Evadendo ex Locis Difficillimis
+	
+
 1 
 Q. Sertorius in Hispania, cum a tergo instante hoste flumen traicere haberet, vallum in ripa eius in
 
@@ -395,6 +591,10 @@ p52ille insidiarum metu suos castris continuit. Varbari obsistente nullo profect
 
 
 	
+
+VI. De Insidiis in Itinere Factis
+	
+
 1 
 Fulvius Nobilior, cum ex Samnio in Lucanos exercitum duceret et cognovisset a perfugis hostes novissimum agmen eius adgressuros, fortissimam legionem primo ire, ultima sequi iussit impedimenta. Ita factum pro occasione amplexi hostes diripere sarcinas coeperunt. Fulvius legionem, de qua supra dictum est, quinque cohortes in dextram viae partem direxit, quinque ad sinistram, atque ita praedationi intentos hostes explicato per utraque latera milite clausit ceciditque.
 
@@ -416,6 +616,10 @@ Boii in silva Litana, quam transiturus erat noster exercitus, succiderunt arbore
 
 
 	
+
+VII. Quemadmodum ea, quibus Deficiemur, Videantur non Deesse aut Usus eorum Expleatur
+	
+
 1 
 L. Caecilius Metellus, quia usu navium, quibus elephantos transportaret, deficiebatur, iunxit dolia constravitque tabulatis ac super ea positos per Siculum fretum transmisit.
 
@@ -449,6 +653,10 @@ Spartaco copiisque eius scuta ex vimine fuerunt, quae coriis tegebantur.
 
 
 	
+
+VIII. De Distringendis Hostibus
+	
+
 1 
 Coriolanus, cum ignominiam damnationis suae bello ulcisceretur, populationem patriciorum agrorum inhibuit, deustis vastatisque plebeiorum, ut discordiam moveret, qua consensus Romanorum distringeretur.
 
@@ -510,6 +718,10 @@ Agesilaus Lacedaemonius, cum inferret bellum Tissaphernae, Cariam se petere simu
 
 
 	
+
+IX. De Seditione Militum Compescenda
+	
+
 1 
 Aulus Manlius consul, cum comperisset coniurasse milites in hibernis Campaniae, ut iugulatis hospitibus ipsi res invaderent eorum, rumorem sparsit, eodem loco hibernaturos; atque ita dilato coniuratorum consilio Campaniam periculo liberavit et ex occasione nocentes puniit.
 
@@ -531,6 +743,10 @@ C. Caesar, cum quaedam legiones eius seditionem movissent, adeo ut in perniciem
 
 
 	
+
+X. Quemadmodum Intempestiva Postulatio Pugnae Inhibeatur
+	
+
 1 
 Q. Sertorius, quod experimento didicerat imparem se universo Romanorum exercitui, ut barbaros quoque inconsulte pugnam exposcentes doceret, adductis in conspectum duobus equis, praevalido alteri, alteri admodum exili duos admovit iuvenes similiter affectos, robustum et gracilem. Ac robustiori imperavit equo exili universam caudam abrumpere, gracili autem valentiorem per singulos pilos vellere. Cumque gracilis fecisset, quod imperatum erat, validissimus
 
@@ -556,6 +772,10 @@ p70concordia inter cives coalescere, duos canes in conspectu popularium commisit
 
 
 	
+
+XI. Quemadmodum Incitandus Sit ad Proelium Exercitus
+	
+
 1 
 M. Fabius et Cn. Manlius consules adversus Etruscos propter seditiones detractante proelium exercitu ultro simulaverunt cunctationem, donec milites probris hostium coacti pugnam deposcerent iurarentque se ex ea victores redituros.
 
@@ -651,6 +871,10 @@ Fabius Maximus veritus, ne qua fiducia navium, ad quas refugium erat, minus cons
 
 
 	
+
+XII. De Dissolvendo Metu, Quem Milites ex Ominibus
+	
+
 1 
 Scipio, ex Italia in Africam transportato exercitu, cum egrediens nave prolapsus esset et ob hoc attonitos milites cerneret, id quod trepidationem afferebat, constantia et magnitudine animi in hortationem convertit et "plaudite", inquit, "milites, Africam oppressi."
 
@@ -700,3 +924,98 @@ Chabris Atheniensis classe dimicaturus, excusso ante navem ipsius fulmine, exter
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Frontini
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Romani
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Kal. Apr. 05

@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Geta
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Diadumenianus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p48
+Opilius Macrinus
+	
+
 11 Vitae illorum principum seu tyrannorum sive Caesarum qui non diu imperaverunt in obscuro latent, idcirco quod neque de privata eorum vita digna sunt quae dicantur, cum omnino ne scirentur quidem, nisi adspirassent ad imperium, et de imperio, quod non diu tenuerunt, non multa dici possunt. nos tamen ex diversis historicis eruta in lucem proferemus, et ea quidem quae memoratu digna erunt. 2 non enim est quisquam qui1 in vita non ad diem quodcumque fecerit. sed eius qui vitas aliorum scribere orditur officium est digna cognitione perscribere. 3 et Iunio quidem Cordo studium fuit eorum imperatorum vitas edere quos obscuriores videbat. 4 qui non multum profecit; nam et pauca repperit et indigna memoratu, adserens se minima quaeque persecuturum, quasi vel de Traiano
 
 
@@ -91,6 +199,24 @@ p70Augustus Diadumenus puer, quem plerique pari fuisse cum pate imperio tradider
 111 Fuit tamen in vita imperatoria paulo rigidior et austerior, sperans se ante acta omnia posse oblivioni dare, cum ipsa severitas illius occasionem reprehendendi et lacerandi eius aperiret. 2 nam et Severum se et Pertinacem voluerat nuncupari, quae duo illi asperitatis nomina videbantur. et cum illum senatus Pium ac Felicem nuncupasset, Felicis nomen recepit, Pii habere noluit. 3 unde in eum epigramma non inlautum Graeci cuiusdam poetae videtur exstare, quod Latine hac sententia continetur:
 
 
+
+
+
+4 Histrio iam senior turpis gravis asper iniquus
+			
+impius et felix sic simul esse cupit,
+			
+ut nolit pius esse, velit tamen esse beatus,
+			
+quod natura negat, nec recipit21 ratio.
+			
+nam pius et felix poterat dicique viderique,
+			
+impius22 infelix est, erit23 ille sibi.
+		
+
+
+
 5 hos versus nescio qui de Latinis24 iuxta eos qui Graeci
 
 
@@ -98,6 +224,20 @@ p70Augustus Diadumenus puer, quem plerique pari fuisse cum pate imperio tradider
 p72erant propositi in foro posuit. quibus acceptis Macrinus his versibus respondisse fertur,
 
 
+
+
+
+6 Si talem Graium tetulissent fata poetam,
+			
+qualis Latinus gabalus iste fuit,
+			
+nil populus nosset, nil nosset curia, mango
+			
+nullus scripsisset carmina taetra mihi.
+		
+
+
+ 
 7 his versibus Macrinus longe peioribus, quam illi Latini sunt, respondisse se credidit, sed non minus risui est habitus quam poeta ille qui de Graeco Latine conatus25 est scribere.
 
 	
@@ -110,6 +250,16 @@ p745 adduci eos iussit interrogavitque utrum esset factum. quod cum constitisse
 
 	
 7 Tribunum, qui excubias deseri passus est, carpento rotali subteradnexum per totum iter vivum atque exanimum traxit. 8 reddidit etiam Mezentii supplicium, quo ille vivos mortuis inligabat et ad mortem cogebat longa tabe confectos. 9 unde etiam in Circo, cum favor publicus in Diadumenum se proseruisset, adclamatum:
+
+
+
+
+
+"Egregius forma iuvenis,
+			
+"cui pater haud Mezentius esset."
+		
+
 
 
 10 vivos etiam homines parietibus inclusit et struxit. adulterii reos semper vivos simul incendit iunctis corporibus. servos qui dominis fugissent reppertos ad gladium ludi deputavit. 11 delatores, si non probarent,
@@ -134,6 +284,24 @@ p76capite adfecit, si probarent, delato pecuniae praemio infames dimisit.
 p78cum puero suo Diadumeno, scilicet Antonino cognomine. de quo dictum est quod in somniis Antoninus fuisset. 2 unde etiam versus exstant huiusmodi:
 
 
+
+
+
+Vidimus in somnis cives, nisi fallor, et istud:
+			
+Antoninorum nomen puer ille gerebat,
+			
+qui patre venali genitus sed matre pudica,
+			
+centum nam moechos passa est centumque rogavit.
+			
+ipse etiam calvus moechus fuit, inde maritus;
+			
+en Pius, en Marcus, Verus nam non fuit ille.
+		
+
+
+
 3 et isti versus ex Graeco29 translati sunt in Latinum. nam Graece sunt disertissimi, videntur autem mihi ab aliquo poeta vulgari translati esse. 4 quod cum Macrinus audisset, fecit iambos qui non exstant. iucundissimi autem fuisse dicuntur. 5 qui quidem perierunt in eo tumultu in quo ipse occisus est, quando et omnia eius a militibus pervasa sunt.
 
 	
@@ -150,146 +318,278 @@ p80imperium venit, quod dedecoravit vitiis ingentibus, luxurie, turpitudine, abl
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 qui ins. by Baehrens and Peter2; om. in P.
 
 
+❦
 
 2
 priuatus cubabat P.
 
 
+❦
 
 3
 so Cas. and Peter; Diadumenus filius Macrini Antoninus P.
 
 
+❦
 
 4
 dea Peter2; de P.
 
 
+❦
 
 5
 nomen Augusti P; Augusti del. by Jordan and Peter.
 
 
+❦
 
 6
 qui aut Egnatius; aut qui P; ut qui Peter.
 
 
+❦
 
 7
 et plurimi fuerunt P.
 
 
+❦
 
 8
 imperare Peter; imperatorem P.
 
 
+❦
 
 9
 ut om. in P.
 
 
+❦
 
 10
 nobilem P.
 
 
+❦
 
 11
 in P.
 
 
+❦
 
 12
 factione P, Petschenig; fictione Peter.
 
 
+❦
 
 13
 uel ne incestum P.
 
 
+❦
 
 14
 a quo . . . improbum del. by Peter.
 
 
+❦
 
 15
 So Cas. and Jordan; cum ad senatum scriberet. Interest Peter.
 
 
+❦
 
 16
 cohonestetur Jordan,º Petschenig; quo honestetur P; cohonestaretur Peter.
 
 
+❦
 
 17
 ei Golisch, Peter2; et P, Peter1.
 
 
+❦
 
 18
 pedes P.
 
 
+❦
 
 19
 <imperio> suscepto Editor; susceptos P; †susceptos Peter.
 
 
+❦
 
 20
 qui Edit. princ.; om. in P.
 
 
+❦
 
 21
 neget . . . recepit P.
 
 
+❦
 
 22
 impius Baehrens; imperium P, Peter.
 
 
+❦
 
 23
 est et erit P.
 
 
+❦
 
 24
 de Latinis Peter2; delatis P; Latinos Peter1.
 
 
+❦
 
 25
 conatus Peter; coactus P.
 
 
+❦
 
 26
 so Salm. and Peter; pudore suffectassent atque P corr.
+❦
 
 27
 uerberandis Madvig, Peter2; uerandis P.
 
 
+❦
 
 28
 uero Peter2; uel P, Peter1.
 
 
+❦
 
 29
 so P (see S. H. Ballou, Cl. Philol. iii, p273 f.); om. in P acc. to Peter; ex <Graeco> Peter1; sex Peter2.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IX Kal. Jan. 05

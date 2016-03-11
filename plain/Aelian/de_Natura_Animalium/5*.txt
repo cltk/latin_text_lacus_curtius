@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber VI
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+p64
+
+Liber Quintus
+	
+
 1
 Terram Parianorum et vicinam Cyzicum aves adspectu nigras incolere ferunt, quae figura corporis et forma accipitribus similes esse videntur: eae usu carnium cum se abstinent, tum in omni victus ratione se continent; eis enim ad cibum semina satis sunt. Cum autumnus esse coepit, Ilium gregatim advolant. Eas autem idcirco Memnonidas vocant, quod recta ad Memnonis sepulchrum proficiscantur. Id enim vel etiam nunc a Troadis incolis in honore Memnonis Aurorae filii conditum ibi fuisse dicitur; is Memnonis quidem cadaver ex caede a matre in sublime raptum, et in Susa illa Memnonia tantopere decantata exportatum fuisse, ut humatione afficeretur, eque dignitate illius exsequiarum justa ei persolverentur: illud vero cenotaphium esse. Aves igitur Memnnonis gentiles quotannis eo proficisci, ibique primum in contrarias partes distrahi, deinde pugnam committere, eamque summa contentione tamdiu pugnare, dum ex his media pars pereat, altera vero victrix redeat, unde discesserat. Quomodo autem et unde haec accidant, philosophari, nec mihi libet, neque etiam vacuus sum ad scrutanda naturae abstrusa is abdita. Hoc quidem funebre certamen ab hisce avibus quotannis ad honorandum Memnonem, Aurorae et Tithoni filium, peragi dixerim; Graeci vero semel duntaxat tali honore Peliam, Amarynceum, Patroclum et Achillem Memnonis hostem dignati sunt.
 
@@ -313,5 +436,120 @@ In Amano, Libano, et Carmelo, altissimis Syriae montibus, cervi nascuntur; qui c
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+Pagina recensita 
+VI Kal. Oct. 04

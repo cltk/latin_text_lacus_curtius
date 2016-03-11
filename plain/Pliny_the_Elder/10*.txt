@@ -1,171 +1,877 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IX
+				
+
+
+
+Textus non recensitus est —
+				
+
+si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XI
+				
+
+
+
+
+
+Liber X
+	
+
+
+
+
+i
+		
+
+1
+		
 Sequitur natura avium, quarum grandissimi et paene bestiarum generis struthocameli Africi vel Aethiopici altitudinem equitis insidentis equo excedunt, celeritatem vincunt, ad hoc demum datis pinnis, ut currentem adiuvent. cetero non sunt volucres nec a terra attolluntur. ungulae iis cervinis similes, quibus dimicant, bisulcae et conprehendendis lapidibus utiles, quos in fuga contra sequentes ingerunt pedibus.
+		
+
+
+
+2
 		
 concoquendi sine dilectu devorata mira natura, sed non minus stoliditas in tanta reliqui corporis altitudine, cum colla frutice occultaverint, latere sese existimantium. praemia ex iis ova, propter amplitudinem pro quibusdam habita vasis, conosque bellicos et galeas adornantes pinnae.
 		
+
+
+
+
+
+ii
+		
+
+3
+		
 Aethiopes atque Indi discolores maxime et inenarrabiles ferunt aves et ante omnes nobilem Arabiae phoenicem, haud scio an fabulose, unum in toto orbe nec visum magno opere. aquilae narratur magnitudine, auri fulgore circa colla, cetero purpureus, caeruleam roseis caudam pinnis distinguentibus, cristis fauces caputque plumeo apice honestante.
+		
+
+
+
+4
 		
 primus atque diligentissime togatorum de eo prodidit Manilius, senator ille maximis nobilis doctrinis doctore nullo: neminem extitisse qui viderit vescentem, sacrum in Arabia Soli esse, vivere annis DXL, senescentem casiae turisque surculis construere nidum, replere odoribus et superemori. ex ossibus deinde et medullis eius nasci primo ceu vermiculum, inde fieri pullum, principioque iusta funera priori reddere et totum deferre nidum prope Panchaiam in Solis urbem et in ara ibi deponere.
 		
+
+
+
+5
+		
 cum huius alitis vita magni conversionem anni fieri prodit idem Manilius iterumque significationes tempestatum et siderum easdem reverti, hoc autem circa meridiem incipere quo die signum arietis sol intraverit, et fuisse eius conversionis annum prodente se P. Licinio Cn. Cornelio cos. CCXV. Cornelius Valerianus phoenicem devolavisse in Aegyptum tradit Q. Plautio Sex. Papinio cos. allatus est et in urbem Claudii principis censura anno urbis DCCC et in comitio propositus, quod actis testatum est, sed quem falsum esse nemo dubitaret.
+		
+
+
+
+
+
+iii
+		
+
+6
 		
 Ex his quas novimus aquilae maximus honos, maxima et vis. sex earum genera. melanaëtos a Graecis dicta, eadem leporaria, minima magnitudine, viribus praecipua, colore nigricans, sola aquilarum fetus suos alit — ceterae, ut dicemus, fugant —, sola sine clangore, sine murmuratione.
 		
+
+
+
+7
+		
 conversatur autem in montibus, secundi generis pygargus in oppidis et in campis, albicante cauda. tertii morphnos, quam Homerus et percnum vocat, aliqui et plangum et anatariam, secunda magnitudine et vi; huic vita circa lacus. Phemonoe, Apollinis dicta filia, dentes esse ei prodidit, mutae alias carentique lingua, eandem aquilarum nigerrimam, prominentiore cauda; consensit et Boeus. huius ingenium est et testudines raptas frangere e sublimi iaciendo, quae fors interemit poetam Aeschylum, praedictam fatis, ut ferunt, eius diei ruinam secura caeli fide caventem.
+		
+
+
+
+8
 		
 quarti generis est percnopterus, eadem oripelargus, vulturina specie, alis minimis, reliqua magnitudine antecellens, sed inbellis et degener, ut quam verberet corvus; eadem ieiuniae semper aviditatis et querulae murmurationis. sola aquilarum exanima fert corpora; ceterae, cum occidere, considunt. haec facit, ut quintum genus γνησιον vocetur velut verum solumque incorruptae originis, media magnitudine, colore subrutilo, rarum conspectu. superest haliaëtos, clarissima oculorum acie, librans ex alto sese visoque in mari pisce praeceps in eum ruens et discussis pectore aquis rapiens.
 		
+
+
+
+9
+		
 illa, quam tertiam fecimus, aquaticas aves circa stagna adpetit mergentes se subinde, donec sopitas lassatasque rapiat. spectanda dimicatio, ave ad perfugia litorum tendente, maxime si condensa harundo sit, aquila inde ictu abigente alae et, cum adpetiit in lacu, scandente umbramque suam nanti sub aquam a litore ostendente, rursus ave in diverso et ubi minime se credat expectari emergente. haec causa gregatim avibus natandi, quia plures simul non infestantur respersu pinnarum occaecantes. saepe et aquilae ipsae, non tolerantes pondus adprehensum, una merguntur.
+		
+
+
+
+10
 		
 haliaëtus tantum inplumes etiamnum pullos suos percutiens subinde cogit adversos intueri solis radios et, si coniventem umectantemque animadvertit, praecipitat e nido velut adulterinum atque degenerem. illum, cuius acies firma contra stetit, educat.
 		
+
+
+
+11
+		
 haliaëti suum genus non habent, sed ex diverso aquilarum coitu nascuntur. id quidem, quod ex his natum est, in ossifragis genus habet, e quibus vultures minores progenerantur et ex his magni, qui omnino non generant. quidam adiciunt genus aquilae quam barbatam vocant, Tusci vero ossifragam.
+		
+
+
+
+
+
+iv
+		
+
+12
 		
 Tribus primis et quinto aquilarum generi inaedificatur nido lapis aëtites, quem aliqui dixere gagiten, ad multa remedia utilis, nihil igne deperdens. — est autem lapis iste praegnans intus alio, cum quatias, velut in utero sonante. — sed vis illa medica non nisi nido dereptis.
 		
+
+
+
+13
+		
 nidificant in petris et arboribus, pariunt et ova terna, excludunt pullos binos; visi sunt et tres aliquando. alterum expellunt taedio nutriendi. quippe eo tempore ipsis cibum negavit natura, prospiciens ne omnium ferarum fetus raperentur. ungues quoque earum invertuntur diebus his, albescunt inedia pinnae, ut merito partus suos oderint. sed eiectos ab iis cognatum genus ossifragi excipiunt et educant cum suis.
+		
+
+
+
+14
 		
 verum adultos quoque persequitur parens et longe fugat, aemulos scilicet rapinae. et alioqui unum par aquilarum magno ad populandum tractu, ut satietur, indiget. determinant ergo spatia nec in proximo praedantur. rapta non protinus ferunt, sed primo deponunt expertaeque pondus tunc demum abeunt.
 		
+
+
+
+15
+		
 — oppetunt non senio nec aegritudine, sed fame, in tantum superiore adcrescente rostro, ut aduncitas aperiri non queat. — a meridiano autem tempore operantur et volant; prioribus horis diei, donec inpleantur hominum conventu fora, ignavae sedent. aquilarum pinnae mixtas reliquarum alitum pinnas devorant. negant umquam solam hanc alitem fulmine exanimatam; ideo armigeram Iovis consuetudo iudicavit.
+		
+
+
+
+
+
+v
+		
+
+16
 		
 Romanis eam legionibus Gaius Marius in secundo consulatu suo proprie dicavit. erat et antea prima cum quattuor aliis: lupi, minotauri, equi aprique singulos ordines anteibant. paucis ante annis sola in aciem portari cepta erat, reliqua in castris relinquebantur; Marius in totum ea abdicavit. ex eo notatum, non fere legionis umquam hiberna esse castra ubi aquilarum non sit iugum.
 		
+
+
+
+17
+		
 Primo et secundo generi non minorum tantum quadripedum rapina, sed etiam cum cervis proelia. multum pulverem volutatu collectum insidens cornibus excutit in oculos, pinnis verberans, donec praecipitet in rupes. nec unus hostis illi satis: est acrior cum dracone pugna multoque magis anceps, etiamsi in aëre. ova hic consectatur aquilae malefica. aquila ob hoc rapit ubicumque visum, ille multiplici nexu alas ligat, ita se inplicans, ut simul decidat ipse.
+		
+
+
+
+
+
+vi
+		
+
+18
 		
 Celebris apud Seston urbem aquilae gloria est: educatam a virgine retulisse gratiam aves primo, mox deinde venatus adgerentem, defuncta postremo in rogum accensum eius iniecisse sese et simul conflagrasse. quam ob causam incolae quod vocant heroum in eo leo fecere, appellatum Iovis et Virginis, quoniam illi deo ales adscribitur.
 		
+
+
+
+
+
+vii
+		
+
+19
+		
 Vulturum praevalent nigri. nidos nemo attigit; ideo et fuere qui putarent illos ex adverso orbe advolare. falso: nidificant in excelsissimis rupibus; fetus quidem saepe cernuntur, fere bini. Umbricius, haruspicum in nostro aevo peritissimus, parere tradit ova XIII, uno ex his reliqua ova nidumque lustrare, mox abicere. triduo autem ante advolare eos, ubi cadavera futura sunt.
+		
+
+
+
+
+
+viii
+		
+
+20
 		
 Sanqualem avem atque inmusulum augures Romani magnae in quaestione habent. inmusulum aliqui vulturis pullum arbitrantur esse et sanqualem ossifragum. Masurius sanqualem ossifragam esse dicit, inmusulum autem pullum aquilae prius quam albicet cauda. quidam post Mucium augurem visos non esse Romae confirmavere; ego, quod veri similius, in desidia rerum omnium arbitror non agnitos.
 		
+
+
+
+
+
+ix
+		
+
+21
+		
 Accipitrum genera sedecim invenimus, ex his aegithum, claudum altero pede, prosperrimi augurii nuptialibus negotiis et pecuariae rei; triorchem a numero testium, cui principatum in auguriis Phemonoe dedit. buteonum hunc appellant Romani, familia etiam cognominata, cum prospero auspicio in ducis navi sedisset. epileum Graeci vocant qui solus omni tempore apparet; ceteri hieme abeunt.
+		
+
+
+
+22
 		
 distinctio generum ex aviditate: alii non nisi e terra rapiunt avem, alii non nisi circa arbores volitantem, alii sedentem in sublimi, aliqui volantem in aperto. itaque et columbae novere ex his pericula visoque considunt vel subvolant, contra naturam eius auxiliantes sibi. in insula Africae Cerne in oceano accipitres totius Masaesyliae humi fetificant nec alibi nascuntur, illis adsueti gentibus.
 		
+
+
+
+
+
+x
+		
+
+23
+		
 In Thraciae parte super Amphipolim homines et accipitres societate quadam aucupantur. hi ex silvis et harundinetis excitant aves, illi supervolantes deprimunt rursus; captas aucupes dividunt cum iis. traditum est missas in sublime sibi excipere eos et, cum sit tempus capturae, clangore ac volatus genere invitare ad occasionem. simile quiddam lupi ad Maeotim paludem faciunt. nam nisi partem a piscantibus suam accepere, expansa eorum retia lacerant.
+		
+
+
+
+24
 		
 Accipitres avium non edunt corda. nocturnus accipiter cybindis vocatur, rarus etiam in silvis, interdiu minus cernens. bellum internecivum gerit cum aquila, cohaerentesque saepe prenduntur.
 		
+
+
+
+
+
+xi
+		
+
+25
+		
 Coccyx videtur ex accipitre fieri, tempore auni figuram mutans, quoniam tunc non apparent reliqui nisi perquam paucis diebus. ipse quoque, modico tempore aestatis visus, non cernitur postea. est autem neque aduncis unguibus, solus accipitrum, nec capite similis illis neque alio quam colore, ac visu columbi potius; quin et absumitur ab accipitre, si quando una apparuere, sola omnium avis a suo genere interempta. mutat autem et vocem.
+		
+
+
+
+26
 		
 procedit vere, occultatur caniculae ortu, inter quae parit in alienis nidis, maxime palumbium, maiore ex parte singula ova, quod nulla alia avis, raro bina. causa pullos subiciendi putatur quod sciat se invisam cunctis avibus; nam minutae quoque infestant. ita non fore tutam generi suo stirpem opinatur, ni fefellerit; quare nullum facit nidum, alioqui trepidum animal.
 		
+
+
+
+27
+		
 educat ergo subditum adulterato feta nido. ille, avidus ex natura, praeripit cibos reliquis pullis, itaque pinguescit et nitidus in se nutricem convertit. illa gaudet eius specie miraturque sese ipsam, quod talem pepererit; suos comparatione eius damnat ut alienos absumique etiam se inspectante patitur, donec corripiat ipsam quoque, iam volandi potens. nulla tunc avium suavitate carnis comparatur illi.
+		
+
+
+
+
+
+xii
+		
+
+28
 		
 Milui ex eodem accipitrum genere magnitudine differunt. notatum in his, rapacissimam et famelicam semper alitem nihil esculenti rapere umquam e funerum ferculis nec Olympiae ex ara ac ne ferentium quidem manibus nisi lugubri municipiorum inmolantium ostento. iidem videntur artem gubernandi docuisse caudae flexibus, in caelo monstrante natura quod opus esset in profundo. milui et ipsi hibernis mensibus latent, non tamen ante hirundinem abeuntes. traduntur autem et a solstitiis adfici podagra.
 		
+
+
+
+
+
+xiii
+		
+
+29
+		
 Volucrum prima distinctio pedibus maxime constat: aut enim aduncos ungues habent aut digitos, aut palmipedum in genere sunt, uti anseres et aquaticae fere aves. aduncos ungues habentia carne tantum vescuntur ex parte magna;
+		
+
+
+
+
+
+xiv
+		
+
+30
 		
 cornices et alio pabulo, ut quae duritiam nucis rostro repugnantem volantes in altum in saxa tegulasve iaciant iterum ac saepius, donec quassatam perfringere queant. ipsa ales est inauspicatae garrulitatis, a quibusdam tamen laudata. ab arcturi sidere ad hirundinum adventum notatur eam in Minervae lucis templisque raro, alicubi omnino non aspici, sicut Athenis; * inauspicatissima fetus tempore, hoc est post solstitium. *praeterea sola haec etiam volantes pullos aliquamdiu pascit*.
 		
+
+
+
+31
+		
 ceterae omnes ex eodem genere pellunt nidis pullos ac volare cogunt,
 		
+
+
+
+
+
+xv
+		
+
+
 sicut et corvi, qui et ipsi non carne tantum aluntur. sed robustos quoque fetus suos fugant longius; itaque parvis in vicis non plus bina coniugia sunt, circa Crannonem quidem Thessaliae singula perpetuo. genitores suboli loco cedunt.
 		
+
+
+
+32
+		
+
 Diversa in hac et supradicta alite quaedam. corvi ante solstitium generant; iidem aegrescunt sexagenis diebus, siti maxime, ante quam fici coquantur autumno. cornix ab eo tempore corripitur morbo.
 			
 Corvi pariunt, cum plurimum, quinos. ore eos parere aut coire vulgus arbitratur ideoque gravidas, si ederint corvinum ovum, per os partum reddere atque in totum difficulter parere, si tecto inferantur. Aristoteles negat: non Hercule magis quam in Aegypto ibim, sed illam osculationem, quae saepe cernitur, qualem in columbis esse.
 		
+
+
+
+33
+		
 corvi in auspiciis soli videntur intellectum habere significationum suarum. nam cum Medi hospites occisi sunt, omnes e Peloponneso et Attica regione volaverunt. pessima eorum significatio, cum gluttiunt vocem velut strangulati.
+		
+
+
+
+
+
+xvi
+		
+
+34
 		
 Uncos ungues et nocturnae aves habent, ut noctuae, bubo, ululae. omnium horum hebetes interdiu oculi. bubo, funebris et maxime abominatus publicis praecipue auspiciis, deserta incolit nec tantum desolata, sed dira etiam et inaccessa, noctis monstrum, nec cantu aliquo vocalis, sed gemitu.
 		
+
+
+
+35
+		
 itaque in urbibus aut omnino in luce visus dirum ostentum est. privatorum domibus insidentem plurium scio non fuisse feralem. volat numquam quo libuit, sed traversus aufertur. Capitolii cellam ipsam intravit Sexto Palpellio Histro L. Pedanio cos., propter quod nonis Martis urbs lustrata est eo anno.
+		
+
+
+
+
+
+xvii
+		
+
+36
 		
 Inauspicata est et incendiaria avis, quam propter saepenumero lustratam urbem in annalibus invenimus, sicut L. Cassio C. Mario cos., quo anno et bubone viso lustratam esse. quae sit avis ea, non reperitur nec traditur. quidam ita interpretantur, incendiariam esse quaecumque apparuerit carbonem ferens ex aris vel altaribus; alii spinturnicem eam vocant, sed haec ipsa quae esset inter aves, qui se scire diceret non inveni.
 		
+
+
+
+37
+		
 cliviam quoque avem ab antiquis nominatam animadverto ignorari — quidam clamatoriam dicunt, Labeo prohibitoriam —, et apud Nigidium super appellatur avis, quae aquilarum ova frangat. sunt praeterea conplura genera depicta in Etrusca disciplina saeculis non visa, quae nunc defecisse mirum est, cum abundent etiam quae gula humana populatur.
+		
+
+
+
+
+
+xviii
+		
+
+38
 		
 Externorum de auguriis peritissime scripsisse Hylas nomine putatur. is tradit noctuam, bubonem, picum arbores cavantem, trygonem, cornicem a cauda de ovo exire, quoniam pondere capitum perversa ova posteriorem partem corporum fovendam matri adplicent.
 		
+
+
+
+
+
+xix
+		
+
+39
+		
 Noctuarum contra aves sollers dimicatio. maiore circumdatae multitudine resupinae pedibus repugnant collectaeque in artum rostro et unguibus totae teguntur. auxiliatur accipiter collegio quodam naturae bellumque partitur. noctuas sexagenis diebus hiemis cubare et novem voces habere tradit Nigidius.
+		
+
+
+
+
+
+xx
+		
+
+40
 		
 Sunt et parvae aves uncorum unguium, ut pici Martio cognomine insignes et in auspiciis magni. quo in genere arborum cavatores scandentes in subrectum felium modo, illi vero et supini, percussi corticis sono pabulum subesse intellegunt. pullos in cavis educant avium soli. adactos cavernis eorum a pastore cuneos admota quadam ab iis herba elabi creditur vulgo. Trebius auctor est clavum cuneumve adactum quanta libeat vi arbori, in qua nidum habeat, statim exilire cum crepitu arboris, cum insederit [clavo aut cuneo].
 		
+
+
+
+41
+		
 ipsi principales Lati sunt in auguriis a rege qui nomen huic avi dedit. unum eorum praescitum transire non queo. in capite praetoris urbani Aelii Tuberonis in foro iura pro tribunali reddentis sedit ita placide, ut manu prehenderetur. respondere vates exitium imperio portendi, si dimitteretur, at si exanimaretur, praetori. et ille avem protinus concerpsit nec multo post implevit prodigium.
+		
+
+
+
+
+
+xxi
+		
+
+42
 		
 Vescuntur et glande in hoc genere pomisque multae, sed quae carne tantum, non bibunt, excepto mivo, quod ipsum in auguriis dirum est. uncos ungues habentes omnino non congregantur et sib quaeque praedantur. sunt autem omnes fere altivolae praeter nocturnas, et magis maiores. omnibus alae grandes, corpus exiguum. ambulant difficulter; in petris raro consistunt curvatura unguium prohibente.
 		
+
+
+
+
+
+xxii
+		
+
+43
+		
 Nunc de secundo genere dicamus, quod in duas dividitur species, oscines et alites. illarum generi cantus oris, his magnitudo differentiam dedit; itaque praecedent et ordine, omnesque reliquas in iis pavonum genus cum forma tum intellectu eius et gloria. gemmantes laudatus expandit colores, adverso maxime sole, quia sic fulgentius radiant. simul umbrae quosdam repercussus ceteris, qui et in opaco clarius micant, conchata quaerit cauda omnesque in acervum contrahit pinnarum quos spectari gaudet oculos.
+		
+
+
+
+44
 		
 idem cauda annuis vicibus amissa cum foliis arborum, donec renascatur alia cum flore, pudibundus ac maerens quaerit latebram. vivit annis XXV. colores fundere incipit in trimatu. ab auctoribus non gloriosum tantum animal hoc traditur, sed et malivolum, sicut anserem verecundum, quoniam has quoque quidam addiderunt notas in iis, haut probatas mihi.
 		
+
+
+
+
+
+xxiii
+		
+
+45
+		
 Pavonem cibi gratia Romae primus occidit orator Hortensius aditiali cena sacerdotii. saginare primus instituit circa novissimum piraticum bellum M. Aufidius Lurco exque eo quaestu reditus HS sexagena milia habuit.
+		
+
+
+
+
+
+xxiv
+		
+
+46
 		
 proxime gloriam sentiunt et his nostri vigiles nocturni, quos excitandis in opera mortalibus rumpendoque somno natura genuit. norunt sidera et ternas distinguunt horas interdiu cantu. cum sole eunt cubitum quartaque castrensi vigilia ad curas laboremque revocant nec solis ortum incautis patiuntur obrepere diemque venientem nuntiant cantu, ipsum vero cantum plausu laterum.
 		
+
+
+
+47
+		
 imperitant suo generi et regnum in quacumque sunt domo exercent. dimicatione paritur hod inter ipsos velut ideo tela agnata cruribus suis intellegentium, nec finis saepe commorientibus. quod si palma contigit, statim in victoria canunt seque ipsi principes testantur; victus occultatur silens aegreque servitium patitur. et plebs tamen aeque superba graditur ardua cervice, cristis celsa, caelumque sola volucrum aspicit crebra, in sublime caudam quoque falcatam erigens. itaque terrori sunt etiam leonibus ferarum generosissimis.
+		
+
+
+
+48
 		
 iam ex his quidam ad bella tantum et proelia adsidua nascuntur — quibus etiam patrias nobilitarunt, Rhodum aut Tanagram; secundus est honos habitus Melicis et Chalcidicis —, ut plane dignae aliti tantum honoris perhibeat Romana purpura.
 		
+
+
+
+49
+		
 horum sunt tripudia solistima, hi magistratus nostros cotidie regunt domusque ipsis suas claudunt aut reserant. hi fasces Romanos inpellunt aut retinent, iubent acies aut prohibent, victoriarum omnium toto orbe partarum auspices. hi maxime terrarum imperio imperant, extis etiam fibrisque haut aliter quam opimae victimae diis grati. habent ostenta et praeposteri eorum vespertinique cantus: namque totis noctibus canendo Boeotiis nobilem illam adversus Lacedaemonios praesagivere victoriam, ita coniecta interpretatione, quoniam victa ales illa non caneret.
+		
+
+
+
+
+
+xxv
+		
+
+50
 		
 Desinunt canere castrati, quod duobus fit modis, lumbis adustis candente ferro aut imis cruribus, mox ulcere oblito figlina creta; facilius ita pinguescunt. Pergami omnibus annis spectaculum gallorum publice editur ceu gladiatorum. invenitur in annalibus in agro Ariminensi M. Lepido Q. Catulo cos. in villa Galerii locutum gallinaceum, semel, quod equidem sciam.
 		
+
+
+
+
+
+xxvi
+		
+
+51
+		
 Et anseri vigil cura Capitolio testata defenso, per id tempus canum silentio proditis rebus, quam ob causam cibaria anserum censores in primis locant. quin et fama amoris Aegii dilecta forma pueri nomine . . . Olenii et Glauces Ptolemaeo regi cithari canentis, quam eodem tempore et aries amasse proditur. potest et sapientiae videri intellectus iis esse: ita comes perpetuo adhaesisse Lacydi philosopho dicitur, nusquam ab eo, non in publico, non in balineis, non noctu, non interdiu, digressus.
+		
+
+
+
+
+
+xxvii
+		
+
+52
 		
 Nostri sapientiores, qui eos iecoris bonitate novere. fartilibus in magnam amplitudinem crescit, exemptum quoque lacte mulso augetur. nec sine causa in quaestione est, quis tantum bonum invenerit, Scipio Metellus vir consularis an Marcus Seius eadem aetate eques Romanus. sed, quod constat, Messalinus Cotta, Messalae oratoris filius, palmas pedum ex iis torrere atque patinis cum gallinaceorum cristis condire repperit; tribuetur enim a me culinis cuiusque palma cum fide.
 		
+
+
+
+53
+		
+
 mirum in hac alite a Morinis usque Romam pedibus venire. fessi proferentur ad primos; ita ceteri stipatione naturali propellunt eos.
 			
 Candidorum alterum vectigal in pluma. velluntur quibusdam locis bis anno, rursus plumigeri vestiuntur. mollior quae corpori proxima, et e Germania laudatissima. candidi ibi, verum minores; gantae vocantur.
 		
+
+
+
+54
+		
 pretium plumae eorum in libras denarii quini. et inde crimina plerumque auxiliorum praefectis, a vigili statione ad haec aucupia dimissis cohortibus totis; eoque deliciae processere, ut sine hoc instrumento durare iam ne virorum quidem cervices possint.
+		
+
+
+
+
+
+xxviii
+		
+
+55
 		
 Aliud repperit Syriae pars quae Commagene vocatur, adipem eorum in vase aereo cum cinnamo nive multa obrutum ac rigore gelido maceratum ad usum praeclari medicaminis, quod ab gente dicitur Commagenum.
 		
+
+
+
+
+
+xxix
+		
+
+56
+		
 Anserini generis sunt chenalopeces et, quibus lautiores epulas non novit Britannia, chenerotes, fere ansere minores. decet tetraonas suus nitor absolutaque nigritia, in superciliis cocci rubor. alterum eorum genus vulturum magnitudinem excedit, quorum et colorem reddit, nec ulla ales, excepto struthocamelo, maius corpore inplens pondus, in tantum aucta, ut in terra quoque inmobilis prehendatur. gignunt eos Alpes et septentrionalis regio. in vivariis saporem perdunt.
+		
+
+
+
+57
 		
 moriuntur contumacia spiritu revocato. proximae iis sunt quas Hispania aves tardas appellat, Graecia ωτιδας, damnatas in cibis; emissa enim ossibus medulla odoris taedium extemplo sequitur.
 		
+
+
+
+
+
+xxx
+		
+
+58
+		
 Indutias habet genus Pygmaea abscessu gruum, ut diximus, cum iis dimicantium. inmensus est tractus, quo veniunt, si quis reputet, a mari Eoo. quando proficiscantur consentiunt; volant ad prospiciendum alte, ducem quem sequantur eligunt, in extremo agmine per vices qui adclament dispositos habent et qui gregem voce contineant.
+		
+
+
+
+59
 		
 excubias habent nocturnis temporibus lapillum pede sustinentes, qui laxatus somno et decidens indiligentiam coarguat; ceterae dormiunt, capite subter alam condito alternis pedibus insistentes. dux erecto providet collo ac praedicit. eaedem mansuefactae lasciviunt gyrosque quosdam indecoro cursu vel singulae peragunt.
 		
+
+
+
+60
+		
 certum est, Pontum transvolaturas primum omnium angustias petere inter do promunturia Criu Metopon et Carambim, mox saburra stabiliri; cum medium transierint, abici lapillos e pedibus, cum attigerint continentem, et e gutture harenam. Cornelius Nepos, qui Divi Augusti principatu obiit, cum scriberet turdos paulo ante coeptos saginari, addidit ciconias magis placere quam grues, cum haec nunc ales inter primas expetatur, illam nemo velit attigisse.
+		
+
+
+
+
+
+xxxi
+		
+
+61
 		
 Ciconiae quonam e loco veniant aut quo se referant, inconpertum adhuc est. e longinquo venire non dubium eodem quo grues modo, ilas hiemis, has aestatis advenas. abiturae congregantur in loca certa comitataeque sic, ut nulla generis sui relinquatur nisi captiva et serva, ceu lege praedicta die recedunt. nemo vidit agmen discedentium, cum discessurum appareat, nec venire, sed venisse cernimus. utrumque nocturnis fit temporibus, et quamvis ultra citrave pervolent, numquam tamen advenisse usque nisi noctu existimantur.
 		
+
+
+
+62
+		
 Pythonos comen vocant in Asia patentibus campis, ubi congregatae inter se commurmurant eamque, quae novissima advenit, lacerant atque ita abeunt. notatum post idus Augustas non temere visas ibi. sunt qui ciconiis non inesse linguam confirment. honos iis serpentium exitio tantus, ut in Thessalia capital fuerit occidisse eademque legibus poena, quae in homicidam.
+		
+
+
+
+
+
+xxxii
+		
+
+63
 		
 Simili anseres quoque et olores ratione commeant, sed horum volatus cernitur. Liburnicarum more rostrato impetu feruntur, facilius ita findentes aëra quam si recta fronte inpellerent; a tergo sensim dilatante se cuneo porrigitur agmen largeque inpellenti praebetur aurae. colla inponunt praecedentibus, fessos duces ad terga recipiunt. — (Ciconiae nidos eosdem repetunt, genetricum senectam invicem educant) — olorum morte narratur flebilis cantus, falso, ut arbitror, aliquot experimentis. iidem mutua carne vescuntur inter se.
 		
+
+
+
+
+
+xxxiii
+		
+
+64
+		
 Verum haec commeantium per maria terrasque peregrinatio non patitur differri minores quoque, quibus est natura similis. utcumque enim supra dictas magnitudo et vires corporum invitare videri possint,
+		
+
+
+
+65
 		
 coturnices ante etiam semper adveniunt quam grues, parva avis et, cum ad nos venit, terrestris potius quam sublimis. advolant et hae simili modo, non sine periculo navigantium, cum adpropinquavere terris. quippe velis saepe incidunt, et hoc semper noctu, merguntque navigia.
 		
+
+
+
+66
+		
 iter est iis per hospitia certa. austro non volant, umido scilicet et graviore vento; aura tamen vehi volunt propter pondus corporum viresque parvas — hinc volantium illa conquestio labore expressa —, aquilone ergo maxime volant, ortygometra duce. primam earum terrae adpropinquantem accipiter rapit. semper hic remeantes comitatum sollicitant, abeuntque una persuasae glottis et otus et cychramus.
+		
+
+
+
+67
 		
 glottis praelongam exerit linguam, unde ei nomen. hanc initio blandita peregrinatione avide profectam paenitentia in volatu cum labore scilicet subit: reverti incomitatam piget et sequi nec umquam plus uno die pergit, in proximo hospitio deserit. verum invenitur alia antecedente anno relicta simili modo in singulos dies.
 		
+
+
+
+68
+		
 cychramus perseverantior festinat etiam pervenire ad expetitas sibi terras. itaque noctu [is] eas excitat admonetque itineris. otus bubone minor est, noctuis maior, auribus plumeis eminentibus, unde et nomen illi — quidam Latine axionem vocant —, imitatrix alias avis ac parasita et quodam genere saltatrix. capitur haut difficulter ut noctuae, intentam in aliquem circumeunte alio.
+		
+
+
+
+69
 		
 quod si ventus agmen adverso flatu coepit inbibere, pondusculis lapidum adprehensis aut gutture harena repleto stabilitae volant. coturnicibus veneni semen gratissimus cibus, quam ob causam eas damnavere mensae, simulque comitialem propter morbum despui suetum, quem solae animalium sentiunt praeter hominem.
 		
+
+
+
+
+
+xxxiv
+		
+
+70
+		
 Abeunt et hirundines hibernis mensibus, sola carne vescens avis ex iis quae aduncos ungues non habent. sed in vicina abeunt apricos secutae montium recessus, inventaeque iam sunt ibi nudae atque deplumes. Thebarum tecta subire negantur, quoniam urbs illa saepius capta sit, nec Bizyes in Threcia propter scelera Terei.
+		
+
+
+
+71
 		
 Caecina Volaterranus equestris ordinis, quadrigarum dominus, conprehensas in urbem secum auferens victoriae nuntias amicis mittebat in eundem nidum remeantes inlito victoriae colore. tradit et Fabius Pictor in annalibus suis, cum obsideretur praesidium Romanum a Ligustinis, hirundinem a pullis ad se adlatam, ut lino ad pedem eius adligato nodis significaret, quoto die adveniente auxilio eruptio fieri deberet.
 		
+
+
+
+
+
+xxxv
+		
+
+72
+		
 Abeunt et merulae turdique et sturni simili modo in vicina. sed hi plumam non amittunt nec occultantur, visi saepe ibi quo hibernum pabulum petunt; itaque in Germania hieme maxime turdi cernuntur. verius turtur occultatur pinnasque amittit. abeunt et palumbes; quonam et in his incertum.
+		
+
+
+
+73
 		
 sturnorum generi proprium catervatim volare et quodam pilae orbe circumagi, omnibus in medium agmen tendentibus. volucrum soli hirundini flexuosi volatus velox celeritas, quibus ex causis neque rapinae ceterarum alitum obnoxia est. eadem sola avium non nisi in volatu pascitur.
 		
+
+
+
+
+
+xxxvi
+		
+
+
+
 Temporum magna differentia avibus: perennes, ut columbae, semenstres, ut hirundines, trimenstres, ut turdi, turtures, et quae, cum fetum eduxere, abeunt, ut galguli, upupae.
+		
+
+
+
+
+
+xxxvii
+		
+
+74
 		
 Auctores sunt omnibus annis advolare Ilium ex Aethiopia aves et confligere ad Memnonis tumulum, quas ob id Memnonidas vocant. hoc idem quinto quoque anno facere eas in Aethiopia circa regiam Memnonis, exploratum sibi Cremutius tradit.
 		
+
+
+
+
+
+xxxviii
+		
+
+
+
 simili modo pugnant Meleagrides in Boeotia. Africae hoc est gallinarum genus, gibberum, variis sparsum plumis. quae novissimae sunt peregrinarum avium in mensas receptae propter ingratum virus; verum Meleagri tumulus nobiles eas fecit.
+		
+
+
+
+
+
+xxxix
+		
+
+75
 		
 Seleucides aves vocantur quarum adventum ab Iove precibus inpetrant Cadmi montis incolae, fruges eorum locustis vastantibus. nec unde veniant quove abeant compertum, numquam conspectis nisi cum praesidio earum indigetur.
 		
+
+
+
+
+
+xl
+		
+
+
 invocant et Aegyptii ibis suas contra serpentium adventum, et Elei Myacoren deum muscarum multitudine pestilentiam adferente, quae protinus intereunt quam litatum est ei deo.
+		
+
+
+
+
+
+xli
+		
+
+76
 		
 Sed in secessu avium et noctuae paucis diebus latere traduntur, quarum genus in Creta insula non esse, etiam, si qua invecta sit, emori. nam haec quoque mira naturae differentia: alia aliis locis negat, tamquam genera frugum fruticumve, sic et animalium; non nasci tralaticium, invecta emori mirum. quod illud est unius generis saluti adversum, quaeve ista naturae invidia? aut qui terrarum dicti avibus termini? Rhodos aquilam non habet.
 		
+
+
+
+77
+		
 Transpadana Italia iuxta Alpes Larium lacum appellat amoenum arbusto agro, ad quem ciconiae non permeant, sicuti nec octavum citra lapidem ab eo inmensa alioqui finitimo Insubrum tractu examina graculorum monedularum, cui soli avi furacitas argenti aurique praecipue mira est. picus Martius in Tarentino agro negatur esse.
 		
+
+
+
+78
+		
 nuper et adhuc tamen rara ab Appennino ad urbem versus cerni coepere picarum genera, quae longa insignes cauda variae appellantur; proprium iis calvescere omnibus annis, cum serantur rapa. perdices non transvolant Boeotiae fines in Attica, nec ulla avis in Ponto insula, qua sepultus est Achilles, sacratam ei aedem. in Fidenate agro iuxta urbem ciconiae nec pullos nec nidum faciunt. at in agrum Volaterranum palumbium vis e mari quotannis advolat.
+		
+
+
+
+79
 		
 Romae in
 		
@@ -175,91 +881,406 @@ nec muscae
 		
 nec canes intrant. multa praeterea similia, quae prudens subinde omitto in singulis generibus, fastidio parcens, quippe cum Theophrastus tradat invecticias esse in Asia etiam columbas et pavones et cervos et in Cyrenaica vocales ranas.
 		
+
+
+
+
+
+xlii
+		
+
+80
+		
 Alia admiratio circa oscines. fere mutant colorem vocemque tempore anni ac repente fiunt aliae, quod in grandiore alitum genere grues tantum; hae enim senectute nigrescunt. merula ex nigra rufescit, canit aestate, hieme balbutit, circa solstitum muta. rostrum quoque anniculis in ebur transfiguratur, dumtaxat maribus. turdis colos aestate circa cervicem varius, hieme concoloribus.
+		
+
+
+
+
+
+xliii
+		
+
+81
 		
 Lusciniis diebus ac noctibus continuis XV garrulus sine intermissu cantus densante se frondium germine, non in novissimis digna miratu ave. primum tanta vox tam parvo in corpusculo, tam pertinax spiritus; deinde in una perfecta musica scientia: modulatus editur sonus et nunc continuo spiritu trahitur in longum, nunc variatur inflexo, nunc distinguitur conciso, copulatur intorto, promittitur revocato,
 		
+
+
+
+82
+		
 infuscatur ex inopinato, interdum et seum ipse murmurat, plenus, gravis, acutus, creber, extentus, ubi visum est, vibrans, summus, medius, imus. breviterque omnia tam parvulis in faucibus, quae tot exquisitis tibiarum tormentis ars hominum excogitavit, non ut sit dubium hanc suavitatem praemonstratam efficacia auspicio, cum in ore Stesichori cecinit infantis. ac ne quis dubitet artis esse, plures singulis sunt cantus, nec iidem omnibus, sed sui cuique.
+		
+
+
+
+83
 		
 certant inter se, palamque animosa contentio est. victa morte finit saepe vitam spiritu prius deficiente quam cantu. meditantur aliae iuveniores versusque quos imitentur accipiunt. audit discipula intentione magna et reddit, vicibusque reticent: intelligitur emendatae correptio et in docente quaedam reprehensio.
 		
+
+
+
+84
+		
 ergo servorum illis pretia sunt, et quidem ampliora quam quibus olim armigeri parabantur. scio HS VI candidam alioqui, quod est prope invisitatum, venisse, quae Agrippinae Claudi principis coniugi dono daretur. visum iam saepe iussas canere coepisse et cum symphonia alternasse, sicut homines repertos qui sonum earum addita in transversas harundines aqua foramen inspirantes linguaeve parva aliqua opposita mora indiscreta redderent similitudine.
+		
+
+
+
+85
 		
 sed hae tantae tamque artifices argutiae a XV diebus paulatim desinunt, nec ut fatigatas possis dicere aut satiatas. mox aestu aucto in totum alia vox fit, nec modulata aut varia; mutatur et color. postremo hieme ipsa non cernitur. linguis earum tenuitas illa prima non est quae ceteris avibus. pariunt vere primo, cum plurimum, sena ova.
 		
+
+
+
+
+
+xliv
+		
+
+86
+		
 Alia ratio ficedulis, nam formam simul coloremque mutant. hoc nomen autumno habent, postea melancoryphi vocantur. sic et erithacus hieme, idem phoenicurus aestate. mutat et upupa, ut tradit Aeschylus poeta, obscena alias pastu avis, crista visenda plicatili, contrahens eam subrigensque per longitudinem capitis.
+		
+
+
+
+
+
+xlv
+		
+
+87
 		
 Oenanthe quidem etiam statos latebrae dies habet. exoriente sirio occultata ab occasu eiusdem prodit, quod miremur, ipsis diebus utrumque. chlorion quoque, qui totus est luteus, hieme non visus, circa solstitia procedit. merulae circa Cyllenen Arcadiae, nec usque aliubi, candidae nascuntur. ibis circa Pelusium tantum nigra est, ceteris omnibus locis candida.
 		
+
+
+
+
+
+xlvi
+		
+
+88
+		
 Oscines praeter exceptas non temere fetus faciunt ante aequinoctium vernum aut post autumnale, ante solstitium autem dubios, post solstitium vitales.
+		
+
+
+
+
+
+xlvii
+		
+
+89
 		
 Eo maxime sunt insignes halcyones. dies earum partus maria quique navigant novere. ipsa avis paulo amplior passere, colore cyanea et parte inferiore tantum purpurea, candidis admixta pinnis collo, gracili ac procero rostro. alterum genus earum magnitudine distinguitur et cantu: minores in harundinetis canunt.
 		
+
+
+
+90
+		
 halcyonem videre rarissimum est nec nisi vergiliarum occasu et circa solstitia brumamve, nave aliquando circumvolata statim in latebras abeuntem. fetificant bruma, qui dies halcyonides vocantur, placido mari per eos et navigabili, Siculo maxime. faciunt autem VII ante brumam diebus nidos et totidem sequentibus pariunt.
+		
+
+
+
+91
 		
 nidi earum admirationem habent pilae figura paulum eminenti, ore perquam angusto, grandium spongearum similitudine. ferro intercidi non queunt, franguntur ictu valido, ut spuma arida maris. nec unde confingantur invenitur; putant ex spinis aculeatis, piscibus enim vivunt. subeunt et in amnes. pariunt ova quina.
 		
+
+
+
+
+
+xlviii
+		
+
+
+
 Gaviae in petris nidificant, mergi et in arboribus. pariunt plurimum terna, sed gaviae aestate, mergi incipiente vere.
+		
+
+
+
+
+
+xlix
+		
+
+92
 		
 Halcyonum nidi figura reliquarum quoque sollertiae admonet, neque alia parte ingenia avium magis admiranda sunt. hirundines luto construunt, stramento roborant. si quando inopia est luti, madefactis multa aqua pinnis pulverem spargunt; ipsum vero nidum mollibus plumis floccisque consternunt tepefaciendis ovis, simul ne durus sit infantibus pullis. in fetu summa aequitate alternant cibum. notabili munditia egerunt excrementa pullorum adultioresque circumagi docent et foris saturitatem emittere.
 		
+
+
+
+93
+		
 alterum est hirundinum genus rusticarum et agrestium, quae raro in domibus diversos figura, sed eadem materia confingunt nidos, totos supinos, faucibus porrectis in angustum, utero capaci, mirum qua peritia et occultandis habiles pullis et substernendis mollis.
+		
+
+
+
+94
 		
 in Aegypti Heracleotico ostio molem continuatione nidorum evaganti Nilo inexpugnabilem opponunt stadii fere unius spatio, quod humano opere perfici non posset. in eadem Aegypto iuxta oppidum Copton insula est sacra Isidi, quam ne laceret amnis idem, muniunt opere, incipientibus vernis diebus palea et stramento rostrum eius firmantes, continuatis per triduum noctibus tanto labore, ut multas in opere emori constet; eaque militia illis cum anno redit semper.
 		
+
+
+
+95
+		
 tertium est earum genus: excavant ripas atque ita internidificant. — (Harum pulli ad cinerem ambusti mortifero faucium malo multisque aliis morbis humani corporis medentur) — non faciunt hae nidos migrantque multis diebus ante, si futurum est, ut auctus amnis attingat.
+		
+
+
+
+
+
+l
+		
+
+96
 		
 In genere vitiparrarum est cui nidus ex musco arido ita absoluta perficitur pila, ut inveniri non possit aditus. acanthylis appellatur eadem figura ex lino intexens. picorum aliquis suspenditur surculo primis in ramis cyathi modo, ut nulla quadripes possit accedere. galgulos quidem ipsos dependentes pedibus somnum capere confirmant, quia tutiores ita se sperent.
 		
+
+
+
+97
+		
 iam publicum quidem omnium est tabulata ramorum sustinendo nido provide eligere, camarare ab imbri aut fronde protegere densa. in Arabia cinnamolgus avis appellatur cinnami surculis nidificans; plumbatis eos sagittis decutiunt indigenae mercis gratia. in Scythis avis magnitudine otidis binos parit in leporina pelle semper in cacuminibus ramorum suspensa.
+		
+
+
+
+98
 		
 picae cum diligentius visum ab homine nidum sensere, ova transgerunt alio. hoc in iis avibus, quarum digit non sint accommodati conplectendis transferendisque ovis, miro traditur modo. namque surculo super bina ova inposito ac feruminato alvi glutino, subdita cervice medio, aequa utrimque libra deportant alio.
 		
+
+
+
+
+
+li
+		
+
+99
+		
 Nec vero iis minor sollertia, quae cunabula in terra faciunt corporis gravitate prohibitae sublime petere. merops vocatur genitores suos reconditos pascens, pallido intus colore pinnarum, superne cyaneo, priore parte subrutilo. nidificat in specu sex pedum defossa altitudine.
+		
+
+
+
+100
 		
 Perdices spina et frutice sic muniunt receptaculum, ut contra feram abunde vallentur. ovis stragulum molle pulvere contumulant nec in quo loco peperere incubant: ne cui frequentior conversatio suspecta sit, transferunt alio. illae quidem et maritos suos fallunt, quoniam intemperantia libidinis frangunt earum ova, ne incubando detineantur. tunc inter se dimicant mares desiderio feminarum; victum aiunt venerem pati.
 		
+
+
+
+101
+		
 id quidem et coturnices Trogus et gallinaceos aliquando, perdices vero a domitis feros et novos aut victos iniri promiscue. capiuntur quoque pugnacitate eiusdem libidinis, contra aucupis inlicem exeunte in proelium duce totius gregis. capto eo procedit alter ac subinde singuli. rursus circa conceptum feminae capiuntur contra aucupum feminam exeuntes, ut rixando abigant eam.
+		
+
+
+
+102
 		
 nec in alio animali par opus libidinis. si contra mares steterint, feminae aura ab iis flante praegnantes fiunt, hiantes autem exerta lingua per id tempus aestuant. concipiunt et supervolantium adflatu, saepe voce tantum audita masculi, adeoque vincit libido etiam fetus caritatem, ut illa furtim et in occulto incubans, cum sensit feminam aucupis accedentem ad marem, recanat revocetque et ultro praebeat se libidini. rabie quidem tanta feruntur, ut in capite aucupantium saepe caecae motu sedeant.
 		
+
+
+
+103
+		
 si ad nidum is coepit accedere, procurrit ad pedes eius feta, praegravem aut delumbem sese simulans, subitoque in procursu aut brevi aliquo volatu cadit, ut fracta ala aut pedibus, at procurrit iterum iamiam prehensurum effugiens spemque frustrans, donec in diversum abducat a nidis. eadem in pavore, libera ac materna vacans cura, in sulco resupina glaeba se terrae pedibus adprehensa operit. perdicum vita et ad sedecim annos durare existimatur.
+		
+
+
+
+
+
+lii
+		
+
+104
 		
 Ab iis columbarum maxime spectantur simili ratione mores. inest pudicitia illis plurima et neutri nota adulteria. coniugi fidem non violant communemque servant domum. nisi caelebs aut vidua nidum non relinquit. et imperiosos mares, subinde etiam iniquos ferunt, quippe suspicio est adulterii, quamvis natura non sit: tunc plenum querela guttur saevique rostro ictus, mox in satisfactione exosculatio et circa veneris preces crebris pedum orbibus adulatio.
 		
+
+
+
+105
+		
 Amor utrique subolis aequalis; saepe et ex hac causa castigatio pigrius intrante femina ad pullos. parturienti solatia et ministeria ex mare. pullis primo salsiorem terram collectam gutture in ora inspuunt praeparantes tempestivitatem cibo. proprium generis eius et turturum, cum bibant, colla non resupinare largeque bibere iumentorum modo.
+		
+
+
+
+106
 		
 Vivere palumbes ad tricensimum annum, aliquas et ad quadragensimum, habemus auctores, uno tantum incommodo unguium — eodem et argumentum senectae —, qui citra perniciem reciduntur. cantus omnibus similis atque idem trino conficitur versu praeterque in clausula gemitu, hieme mutis, a vere vocalibus. Nigidius putat, cum ova incubet sub tecto, nominatam palumbem relinquere nidos. pariunt autem post solstitium.
 		
+
+
+
+107
+		
 columbae et turtures octonis annis vivunt. contra passeri minimum vitae, cui salacitas par. mares negantur anno diutius durare argumento, quia nulla veris initio appareat nigritudo in rostro, quae ab aestate incipit. feminis longiusculum spatium.
+		
+
+
+
+108
 		
 verum columbis inest quidam et gloriae intellectus: nosse credas suos colores varietatemque dispositam; quin etiam ex volatu quaeritur: plaudere in caelo varieque sulcare. qua in ostentatione ut vinctae praebentur accipitri, inplicatis strepitu pinnis, qui non nisi ipsis alarum umeris eliditur, alioquin soluto volatu multum velociores. speculatur occultus fronte latro et gaudentem in ipsa gloria rapit.
 		
+
+
+
+109
+		
 ob id cum iis habenda est avis quae tinnungulus vocatur; defendit enim illas terretque accipitres naturali potentia in tantum, ut visum vocemque eius fugiant. hac de causa praecipuus columbis amor eorum, feruntque, si in quattuor angulis defodiantur in ollis novis oblitis, non mutare sedem columbas — quod et auro insectis alarum articulis quaesivere aliqui, non aliter innoxiis vulneribus —, multivaga alioqui ave. est enim ars illis inter se blandiri et corrumpere alias furtoque comitatiores reverti.
+		
+
+
+
+
+
+liii
+		
+
+110
 		
 quin et internuntiae in magnis rebus fuere, epistulas adnexas earum pedibus obsidione Mutinensi in castra consulum Decumo Bruto mittente. quid vallum et vigil obsidio atque etiam retia in amne praetenta profuere Antonio, per caelum eunte nuntio? et harum amore insaniunt multi. super tecta exaedificant turres iis nobilitatemque singularum et origines narrant, vetere iam exemplo. L. Axius eques Romanus ante bellum civile Pompeianum denariis CCCC singula paria venditavit, ut M. Varro tradit. quin et patriam nobilitavere in Campania grandissimae provenire existimatae.
 		
+
+
+
+
+
+liv
+		
+
+111
+		
 Harum volatus in reputationem ceterarum quoque volucrum inpellit. omnibus animalibus reliquis certus et unius modi et in suo cuique genere incessus est; aves solae vario meatu feruntur et in terra et in aëre. ambulant aliquae, ut cornices; saliunt aliae, ut passeres, merulae; currunt, ut perdices, rusticulae; ante se pedes iaciunt, ut ciconiae, grues. expandunt alas pendentesque raro intervallo quatiunt, aliae crebrius, sed et primas dumtaxat pinnas, aliae tota latera plaudunt;
+		
+
+
+
+112
 		
 quaedam vero maiore ex parte conpressis volant percussoque semel, aliquae et gemino ictu, aëre feruntur: velut inclusum eum prementes eiaculantur sese in sublime, in rectum, in pronum. impingi putes aliquas aut rursus ab alto cadere has, illas salire. anates solae quaeque sunt eiusdem generis in sublime protinus sese tollunt atque e vestigio caelum petunt, et hoc etiam ex aqua. itaque in foveas, quibus feras venamur, delapsae solae evadunt.
 		
+
+
+
+113
+		
 vultur et fere graviores nisi ex procursu aut altiore cumulo inmissae non evolant; cauda reguntur. aliae circumspectant, aliae flectunt colla, nec ullae vescuntur ea quae rapuere pedibus. sine voce non volant multae, aut e contrario semper in volatu silent. subrectae, pronae, obliquae in latera, in ora, quaedam et resupinae feruntur, ut, si pariter cernantur plura genera, non in eadem natura meare videantur.
+		
+
+
+
+
+
+lv
+		
+
+114
 		
 Plurimum volant quae apodes, quia careant usu pedum, ab aliis cypseli appellantur, hirundinum specie. nidificant in scopulis. hae sunt quae toto mari cernuntur, nec umquam tam longo naves tamque continuo cursu recedunt a terra, ut non circumvolitent eas apodes. cetera genera residunt et insistunt; his quies nisi in nido nulla: aut pendent aut iacent.
 		
+
+
+
+
+
+lvi
+		
+
+115
+		
 Et ingenia aeque aria, ad pastum maxime. caprimulgi appellantur, grandioris merulae aspectu, fures nocturni; interdiu enim visu carent. intrant pastorum stabula caprarumque uberibus advolant suctum propter lactis, qua iniuria uber emoritur caprisque caecitas, quas ita mulsere, oboritur. platea nominatur advolans ad eas, quae se in mari mergunt, et capita illarum morsu corripiens, donec capturam extorqueat. eadem cum devoratis se inplevit conchis, calore ventris coctas evomit atque ita ex iis esculenta eligit testas excernens.
+		
+
+
+
+
+
+lvii
+		
+
+116
 		
 Villaribus gallinis et religio inest. inhorrescunt edito ovo excutiuntque sese et circumactae purificant aut festuca aliqua sese et ova lustrant. minimae avium cardueles imperata faciunt, nec voce tantum, sed pedibus et ore pro manibus. est quae boum mugitus imitetur, in Arelatensi agro taurus appellata, alioquin parva est. equorum quoque hinnitus anthus nomine herbae pabulo adventu eorum pulsa imitatur, ad hunc modum se ulciscens.
 		
+
+
+
+
+
+lviii
+		
+
+117
+		
 super omnia humanas voces reddunt, psittaci quidem etiam sermocinantes. India hanc avem mittit, siptacen vocat, viridem toto corpore, torque tantum miniato in cervice distinctam. imperatores salutat et quae accipit verba pronuntiat, in vino praecipue lasciva. capiti eius duritia eadem quae rostro. hoc, cum loqui discit, ferreo verberatur radio; non sentit aliter ictus. cum devolat, rostro se excipit, illi innititur levioremque ita se pedum infirmitati facit.
+		
+
+
+
+
+
+lix
+		
+
+118
 		
 Minor nobilitas, quia non ex longinquo venit, sed expressior loquacitas certo generi picarum est. adamant verba quae loquantur nec discunt, sed diligunt meditantesque intra semet curam atque cogitationem, intentionem non occultant. constat emori victas difficultate verbi ac, nisi subinde eadem audiant, memoria falli quaerentesque mirum in modum hilarari, si interim audierint id verbum. nec vulgaris his forma, quamvis non spectanda: satis illis decoris in specie sermonis humani est.
 		
+
+
+
+119
+		
 verum addiscere alias negant posse quam ex genere earum quae glande vescantur, et inter eas facilius quibus quini sunt digit in pedibus, ac ne eas quidem ipsas nisi primis duobus vitae annis. latiores linguae omnibus in suo cuique genere, quae sermonem imitantur humanum.
+		
+
+
+
+120
 		
 quamquam id paene in omnibus contigit: Agrippina Claudii Caesaris turdum habuit, quod numquam ante, imitantem sermones hominum. cum haec proderem, habebant et Caesares iuvenes sturnum, item luscinias Graeco ac Latino sermone dociles, praeterea meditantes assidue et in diem nova loquentes, longiore etiam contextu. docentur secreto et ubi nulla alia vox misceatur, adsidente qui crebro dicat ea, quae condita velit, ac cibis blandiente.
 		
+
+
+
+
+
+lx
+		
+
+121
+		
 Reddatur et corvis sua gratia, indignatione quoque populi Romani testata, non solum conscientia. Tiberio principe ex fetu supra Castorum aedem genito pullus in adpositam sutrinam devolavit, etiam religione commendatus officinae domino. is mature sermoni adsuefactus, omnibus matutinis evolans in rostra in forum versus, Tiberium, dein Germanicum et Drusum Caesares nominatim, mox transeuntem populum Romanum salutabat, postea ad tabernam remeans, plurium annorum adsiduo officio mirus.
+		
+
+
+
+122
 		
 hunc sive aemulatione vicinitatis manceps proximae sutrinae sive iracundia subita, ut voluit videri, excrementis eius posita calceis macula, exanimavit, tanta plebei consternatione, ut primo pulsus ex ea regione, mox interemptus sit funusque aliti innumeris celebratum exequiis, constratum lectum super Aethiopum duorum umeros, praecedente tibicine et coronis omnium generum ad rogum usque, qui constructus dextra viae Appiae ad secundum lapidem
 			
@@ -267,193 +1288,979 @@ in campo Rediculi
 			
 appellato fuit.
 		
+
+
+
+123
+		
 adeo satis iusta causa populo Romano visa est exequiarum ingenium avis aut supplicii de cive Romano in ea urbe, in qua multorum principum nemo deduxerat funus, Scipionis vero Aemiliani post Carthaginem Numantiamque deletas ab eo nemo vindicaverat mortem.
+		
+
+
+
+124
 		
 hoc gestum M. Servilio C. Cestio cos. a. d. V kal. Apriles. nunc quoque erat in urbe Roma, haec prodente me, equitis Romani cornix e Baetica primum colore mira admodum nigro, dein plura contexta verba exprimens et alia atque alia crebro addiscens. nec non et recens fama Crateri Monocerotis cognomine in Erizena regione Asiae corvorum opera venantis eo quod devehebat in silvas eos insidentes corniculo umerisque; illi vestigabant agebantque eo perducta consuetudine, ut exeuntem sic comitarentur et feri.
 		
+
+
+
+125
+		
 tradendum putavere memoriae quidam, visum per sitim lapides congerentem in situlam monimenti, in qua pluvia aqua durabat, sed quae attingi non posset; ita descendere paventem expressisse tali congerie quantum poturo sufficeret.
+		
+
+
+
+
+
+lxi
+		
+
+126
 		
 Nec Diomedias praeteribo aves. Iuba cataractas velut, et eis esse dentes oculosque igneo colore cetero candidis tradens. duos semper his duces: alterum ducere agmen, alterum cogere. scrobes excavare rostro, inde crate consternere et operire terra quae ante fuerit egesta; in his fetificare. fores binas omnium scrobibus: orientem spectare quibus exeant in pascua, occasum quibus redeant. alvum exoneraturas subvolare semper et contrario flatu.
 		
+
+
+
+127
+		
 uno hae in loco totius orbis visuntur, in insula, quam diximus nobilem Diomedis tumulo atque delubro contra Apuliae oram, fulicarum similes. advenas barbaros clangore infestant, Graecis tantum adulantur miro discrimine, velut generi Diomedis hoc tribuentes, aedemque eam cotidie pleno gutture madentibus pinnis perluunt atque purificant, unde origo fabulae Diomedis socios in earum effigies mutatos.
+		
+
+
+
+
+
+lxii
+		
+
+128
 		
 Non omittendum est, cum de ingeniis disserimus, e volucribus hirundines indociles esse, e terrestribus mures, cum elephanti iussa faciant, leones iugum subeant, in mari vituli totque piscium genera mitescant.
 		
+
+
+
+
+
+lxiii
+		
+
+129
+		
 Bibunt aves suctu, ex iis, quibus longa colla, intermittentes et capite resupinato velut infundentes sibi; porphyrio solus morsu bibit. idem est proprio genere, omnem cibum aqua subinde tinguens, deinde pede ad rostrum veluti manu adferens. laudatissimi in Commagene. rostra iis et praelonga crura rubent.
+		
+
+
+
+
+
+lxiv
+		
+
+130
 		
 Haec quidem et himantopodi multo minori, quamquam eadem crurum altitudine. nascitur in Aegypto. insistit ternis digitis. praecipue ei pabulum muscae. vita in Italia paucis diebus.
 		
+
+
+
+
+
+lxv
+		
+
+
+
 Graviores omnes fruge vescuntur, altivolae carne tantum, inter aquaticas mergi, soliti avide vorare et quae ceterae reddunt.
+		
+
+
+
+
+
+lxvi
+		
+
+131
 		
 Olorum similitudinem onocrotali habent nec distare existimantur omnino, nisi faucibus ipsis inesset alterius uteri genus. huc omnia inexplebile animal congerit, mira ut sit capacitas. mox perfecta rapina sensim inde in os reddita in veram alvum ruminantis modo refert. Gallia hos septentrionalis proxima oceano mittit.
 		
+
+
+
+
+
+lxvii
+		
+
+132
+		
 In Hercynio Germaniae saltu invisitata genera alitum accepimus, quarum plumae ignium modo conluceant noctibus. in ceteris nihil praeter nobilitatem longinquitate factam memorandum occurrit: phalerides in Seleucia Parthorum et in Asia, aquaticarum laudatissime, rursus phasianae in Colchis — geminas ex pluma aures submittunt subriguntque —, Numidicae in parte Africae Numidia; omnesque iam in Italia.
+		
+
+
+
+
+
+lxviii
+		
+
+133
 		
 Phoenicopteri linguam praecipui saporis esse Apicius docuit, nepotum omnium altissimus gurges. attagen maxime Ionius celeber et vocalis alias, captus vero obmutescens, quondam existimatus inter raras aves, iam et in Gallia Hispaniaque. capitur circa Alpes etiam, ubi et phalacrocoraces, avis Baliarium insularum peculiaris, sicut Alpium pyrrhocorax, luteo rostro niger, et praecipua sapore lagopus. pedes leporino villo nomen hoc dedere cetero candidae, columbarum magnitudine.
 		
+
 The collection of recipes extant under the name of "Apicius" includes none for just the tongue of this bird. The three flamingo recipes in the de re coquinaria involve the whole creature:
 			
+
+220 — roasted with an egg sauce, a recipe for wood pigeons, squabs, fattened fowl; flamingo is an afterthought.
+			
+230 — boiled; you may substitute parrot.
+			
+231 — roasted with a must sauce.
+			
+
+The notoriously untrustworthy Historia Augusta
+			
+(Elagabalus XX.5‑6)
+			
+ambiguously says that Heliogabalus imitated Apicius by eating camels' heels, and also ate the tongues of peacocks because he'd been told that they would immunize him against pestilence; he apparently didn't much care for flamingo brains, since he had his servants eat them, along with parrot heads, the guts of mullets, etc.
+			
+See also Martial
+			
+
+
+
+
+134
+		
 non extra terram eam vesci facile, quando nec vita mansuescit et corpus ocissime marcescit. est et alia nomine eodem, a coturnicibus magnitudine tantum differens, croceo unctu cibis gratissima. visam in Alpibus ab se peculiarem Aegypti et ibim Egnatius Calvinus praefectus earum prodidit.
+		
+
+
+
+
+
+lxix
+		
+
+135
 		
 Venerunt in Italiam Bedriacensibus bellis civilibus trans Padum et novae aves — ita enim adhuc vocantur —, turdorum specie, paulum infra columbas magnitudine, sapore gratae. Baliares insulae nobiliorem etiam supra dicto porphyrionem mittunt. ibi et buteo accipitrum generis in honore mensarum est, item vibiones; sic vocant minorem gruem.
 		
+
+
+
+
+
+lxx
+		
+
+136
+		
 Pegasos equino capite volucres et grypas aurita aduncitate rostri fabulosos reor, illos in Scythia, hos in Aethiopia. equidem et tragopana, de qua plures adfirmant, maiorem aquila, cornua in temporibus curva habentem, ferruginei coloris, tantum capite phoeniceo. nec Sirenes impetraverint fidem, adfirmet licet Dinon, Clitarchi celebrati auctoris pater, in India esse mulcerique earum cantu quos gravatos somno lacerent.
+		
+
+
+
+137
 		
 qui credat ista, et Melampodi profecto aures lambendo dedisse intellectum avium sermonis dracones non abnuat verel quae Democritus tradit nominando aves quarum confuso sanguine serpens gignatur, quem quisquis ederit intellecturus sit alitum colloquia, quaeque de una ave galerita privatim commemorat, etiam sine his inmensa vitae ambage circa auguria. nominantur ab Homero scopes avium genus:
 		
+
+
+
+138
+		
 neque harum saturicos motus, cum insidientur, plerisque memoratos facile conceperim mente, neque ipsae iam aves noscuntur, quam ob rem de confessis disseruisse praestiterit.
+		
+
+
+
+
+
+lxxi
+		
+
+139
 		
 Gallinas saginare Deliaci coepere, unde pestis exorta opimas aves et suopte corpore unctas devorandi. hoc primum antiquis cenarum interdictis exceptum invenio iam lege Gai Fanni consulis undecim annis ante tertium Punicum bellum, ne quid volucre poneretur praeter unam gallinam quae non esset altilis, quod deinde caput translatum per omnes leges ambulavit.
 		
+
+In much of the industrialized world today, something like this is standard practice: to wit, feeding poultry by-products — processed bone meal, talons and feathers — to the next generation of poultry. The verdict is apparently not in yet as to just how much of a "pestis" this is.
+		
+
+
+
+140
+		
 inventumque deverticulum est in fraudem earum gallinaceos quoque pascendi lacte madidis cibis: multo ita gratiores adprobantur. feminae quidem ad saginam non omnes eliguntur nec nisi in cervice pingui cute. postea culinarum artes, ut clunes spectentur, ut dividantur in tergora, ut a ede uno dilatatae repositoria occupent. dedere et Parthi cocis suos mores. nec tamen in hoc mangonio quicquam totum placet, clune, alibi pectore tantum laudatis.
+		
+
+
+
+
+
+lxxii
+		
+
+141
 		
 Aviaria primus instituit inclusis omnium generum avibus M. Laenius Strabo Brundisi equestris ordinis. ex eo coepimus carcere animalia coercere, quibus rerum natura caelum adsignaverat. maxime tamen insignis est in hac memoria Clodii Aesopi, tragici histrionis, patina HS C taxata, in qua posuit aves cantu aliquo aut humano sermone vocales, HS VI singulas coemptas,
 		
+
+
+
+142
+		
 nulla alia inductus suavitate nisi ut in iis imitationem hominis manderet, ne quaestus quidem suos reveritus illos opimos et voce meritos, dignus prorsus filio, a quo devoratas diximus margaritas, non sic tamen, ut verum facere velim inter duos iudicium turpitudinis, nisi quod minus est summas rerum naturae opes quam hominum linguas cenasse.
+		
+
+
+
+
+
+lxxiii
+		
+
+143
 		
 Generatio avium simplex videtur esse, cum et ipsa habeat sua miracula, quoniam et quadripedes ova gignunt, chamaeleontes, lacertae et quae diximus . . ., item serpentes. pinnatorum autem infecunda sunt quae aduncos habent ungues. cenchris sola ex his supra quaterna edit ova. tribuit hoc avium generi natura, ut fecundiores essent fugaces earum quam fortes. plurima pariunt struthocameli, gallinae, perdices [soli]. coitus avibus duobus modis, femina considente humi, ut in gallinis, aut stante, ut in gruibus.
 		
+
+
+
+
+
+lxxiv
+		
+
+144
+		
 Ovorum alia sunt candida, ut columbis, perdicibus, alia pallida, ut aquaticis, alia punctis distincta, ut meleagridum, alia rubri coloris, ut phasianis, cenchridi. intus autem omne ovum volucrum bicolor, aquaticis lutei plus quam albi, id ipsum magis luridum quam ceteris; piscium unicolor, in quo nihil candidi.
+		
+
+
+
+145
 		
 avium ova ex calore fragilia, serpentium ex frigore lenta, piscium ex liquore mollia. aquatilium rotunda, reliqua fere fastigio cacuminata. exeunt a rotundissima sui parte, dum pariuntur, molli putamine, sed protinus durescente quibuscumque emergunt portionibus. quae oblonga sint ova, gratioris saporis putat Horatius Flaccus. feminam edunt quae rotundiora gignuntur, reliqua marem. umbilicus ovis a cacumine inest, ceu gutta eminens in putamine.
 		
+
+
+
+146
+		
 Quaedam omni tempore coeunt, ut gallinae, et pariunt, praeterquam duobus mensibus hiemis brumalibus. ex iis iuvencae plura quam veteres, sed minora, et in eodem fetu prima ac novissima. est autem tanta fecunditas, ut aliquae et sexagena pariant, aliquae cotidie, aliquae bis die, aliquae in tantum, ut effetae moriantur. Hadrianis laus max.
+		
+
+
+
+147
 		
 columbae deciens anno pariunt, quaedam et undeciens, in Aegypto vero etiam brumali mense. hirundines et merulae et palumbi et turtures bis anno pariunt, ceterae aves fere semel. turdi, in cacuminibus arborum luto nidificantes paene contextim, in secessu generant. a coitu X diebus ova maturescunt in utero, vexatis autem gallinae et columbae pinna evulsa aliave simili iniuria diutius.
 		
+
+
+
+148
+		
 Omnibus ovis medio vitelli parva inest velut sanguinea gutta, quod esse cor avium existimant, primum in omni corpore id gigni opinantes: in ovo certe gutta ea salit palpitatque. ipsum animal ex albo liquore ovi corporatur. cibus eius in luteo est. omnibus intus caput maius toto corpore, oculi conpressi capite maiores. increscente pullo candor in medium vertitur, luteum circumfunditur.
+		
+
+
+
+149
 		
 vicensimo die si moveatur ovum, iam viventis intra putamen vox auditur. ab eodem tempore plumescit, ita positus, ut caput supra dextrum pedem habeat, dextram vero alam supra caput. vitellus paulatim deficit. aves omnes in pedes nascuntur, contra quam reliqua animalia.
 		
+
+
+
+150
+		
 quaedam gallinae omnia gemina ova pariunt et geminos interdum excludunt, ut Cornelius Celsus auctor est, alterum maiorem; aliqui negant omnino geminos excludi. plus vicena quina incubanda subici vetant. parere a bruma incipiunt. optima fetura ante vernum aequinoctium. post solstitium nata non implent magnitudinem iustam tantoque minus, quanto serius provenere.
+		
+
+
+
+
+
+lxxv
+		
+
+151
 		
 Ova incubari intra decem dies edita utilissimum; vetera aut recentiora infecunda. subici inpari numero debent. quarto die post quam coepere incubari, si contra lumen cacumine ovorum adprehenso ima manu purus et unius modi perluceat color, sterilia existimantur esse proque iis alia substituenda. et in aqua est experimentum: inane fluitat, itaque sidentia, hoc est plena, subici volunt. concuti vero experimento vetant, quoniam non gignant confusis vitalibus venis.
 		
+
+
+
+152
+		
 incubationi datur initium post novam lunam, quia prius inchoata non proveniant. celerius excluduntur calidis diebus; ideo aestate undevicensimo educent fetum, hieme XXV. si incubitu tonuit, ova pereunt; et accipitris audita voce vitiantur. remedium contra tonitrus clavus ferreus sub stramine ovorum positus aut terra ex aratro.
+		
+
+
+
+153
 		
 quaedam autem et circa incubitum sponte naturae gignunt, ut in Aegypti fimetis. scitum de quodam potore reperitur Syracusis tam diu potare solitum, donec cooperta terra fertum ederent ova.
 		
+
+
+
+
+
+lxxvi
+		
+
+154
+		
 Quin et ab homine perficiuntur. Iulia Augusta prima sua iuventa Tib. Caesare ex Nerone gravida, cum parere virilem sexum admodum cuperet, hoc usa est puellari augurio, ovum in sinu fovendo atque, cum deponendum haberet, nutrici per sinum tradendo, ne intermitteretur tepor; nec falso augurata proditur. nuper inde fortassis inventum, ut ova calido in loco inposita paleis igne modico foverentur homine versante, pariterque et stato die illinc erumperet fetus.
+		
+
+
+
+155
 		
 traditur quaedam ars gallinarii cuiusdam dicentis, quod ex quaque esset. narrantur et mortua gallina mariti earum visi succedentes in vicem et reliqua fetae more facientes abstinentesque se cantu. super omnia est anatum ovis subditis atque exclusis admiratio prima non plane agnoscentis fetum, mox incerti singultus sollicite convocantis, postremo lamenta circa piscinae stagna mergentibus se pullis natura dulce.
 		
+
+
+
+
+
+lxxvii
+		
+
+156
+		
 Gallinarum generositas spectatur crista erecta, interim et gemina, pinnis nigris, ore rubicundo, digitis inparibus, aliquando et super IIII digitos traverso uno. ad rem divinam luteo rostro pedibusque purae non videntur, ad opertanea sacra nigrae. est et pumilionum genus non sterile in iis, quod non in alio genere alitum, sed quibus centra, fecunditas rara et incubatio ovis noxia.
+		
+
+
+
+
+
+lxxviii
+		
+
+157
 		
 Inimicissima autem omni generi pituita maximeque inter messis ac vindemiae tempus. medicina in fame et cubitus in fumo, utique si e lauru aut herba sabina fiat, pinna per traversas inserta nares et per omnes dies mota; cibus alium cum farre aut aqua perfusus, in qua maduerit noctua, aut cum semine vitis albae coctus ac quaedam alia.
 		
+
+
+
+
+
+lxxix
+		
+
+158
+		
 Columbae proprio ritu osculantur ante coitum. pariunt fere bina ova, ita natura moderante, ut aliis crebrior sit fetus, aliis numerosior. palumbis et turtur plurimum terna nec plus quam bis vere pariunt, atque ita, si prior fetus corruptus est et ut, quamvis III pepererint, numquam plus II educant. tertium inritum est; urinum vocant. palumbis incubat femina post meridiana in matutinum, cetero mas.
+		
+
+
+
+159
 		
 columbae marem semper et feminam pariunt, priorem marem, postridie feminam. incubant in eo genere ambo, interdiu mas, noctu femina. excludunt XX die, pariunt a coitu V. aestate quidem interdum binis mensibus terna educunt paria, namque XVIII die excludunt statimque concipiunt; quare inter pullos saepe ova inveniuntur, et alii provolant, alii erumpunt. ipsi deinde pulli quinquemenstres fetificant.
 		
+
+
+
+160
+		
 et ipsae autem inter se, si mas non sit, feminae aeque saliunt pariuntque ova inrita, ex quibus nihil gignitur, quae hypenemia Graeci vocant.
+		
+
+
+
+161
 		
 Pavo a trimatu parit; primo anno unum aut alterum ovum, sequenti quaterna quinave, ceteris duodena, non amplius, intermittens binos dies ternosve parit, et ter anno, si gallinis subiciantur incubanda. mares ea frangunt desiderio incubantium; quapropter noctu et in latebris pariunt aut in excelso cubantes, set nisi molli strato excepta franguntur. mares singuli quinis sufficiunt coniugibus. cum singulae aut binae fuere, corrumpitur salacitate fecunditas. partus excluditur diebus ter novenis aut tardius tricensimo.
 		
+
+
+
+162
+		
 Anseres in aqua coeunt, pariunt vere aut, si bruma coiere, post solstitium, XL prope, bis anno, si priorem fetum gallinae excludant, alias plurima ova XVI, paucissima VII. si quis subripiat, pariunt donec rumpantur. aliena non excludunt.
+		
+
+
+
+163
 		
 incubanda subici utilissimum VIIII aut XI. incubant feminae tantum tricenis diebus, si vero tepidiores sint, XXV. pullis eorum urtica contactu mortifera, nec minus aviditas nunc satietate nimia, nunc suamet vi, quando adprehensa radice morsu saepe conantes avellere ante colla sua abrumpunt. contra urticam remedium est stramento ab incubitu subdita radix earum.
 		
+
+
+
+164
+		
 Ardiolarum tria genera: leucon, asterias, pelion. hi in coitu anguntur; mares quidem cum vociferatu sanguinem etiam ex oculis profundunt. nec minus aegre pariunt gravidae.
+		
+
+
+
+165
 		
 aquila tricenis diebus incubat et fere maiores alites, minores vicenis, ut miluus et accipiter. miluus fere parit numquam plus ternos, is qui aegolios vocatur et quaternos, corvus aliquando et quinos. incubant totidem diebus. cornicem incubantem mas pascit. pica novenos, melancoryphus supra XX parit, semper numero inpari, nec alia iis plures: tanto fecunditas maior parvis. hirundini caeci primo pulli sunt et fere omnibus quibus numerosior fetus.
 		
+
+
+
+
+
+lxxx
+		
+
+166
+		
 Inrita ova, quae hypenemia diximus, aut mutua feminae inter se libidinis imaginatione concipiunt aut pulvere, nec columbae tantum, sed et gallinae, perdices, pavones, anseres, chenalopeces. sunt autem sterilia et minora ac minus iucundi saporis et magis umida. quidam et vento putant ea generari, qua de causa etiam zephyria appellant. urina autem vere tantum fiunt incubatione derelicta, quae alii cynosura dixere.
+		
+
+
+
+167
 		
 ova aceto macerata in tantum emolliuntur, ut per anulos transeant. servari ea in lomento aut hieme in paleis, aestate in furfuribus utilissimum. sale exinaniri creduntur.
 		
+
+
+
+
+
+lxxxi
+		
+
+168
+		
 Volucrum animal parit vespertilio tantum, cui et membranaceae pinnae uni. eadem sola volucrum lacte nutrit ubera admovens. parit geminos; volitat amplexa infantes secumque portat. eidem coxendix una traditur esse. in cibatu culices gratissimi.
+		
+
+
+
+
+
+lxxxii
+		
+
+169
 		
 Rursus in terrestribus ova pariunt serpentes, de quibus nondum dictum est. coeunt conplexu, adeo circumvolutae sibi ipsae, ut una existimari biceps possit. viperae mas caput inserit in os, quod illa abrodit voluptatis dulcedine.
 		
+
+
+
+170
+		
 terrestrium eadem sola intra se parit ova, unius coloris et mollia, ut pisces. tertio die intra uterum catulos excludit, dein singulis diebus singulos parit, XX fere numero. itaque ceteri tarditatis inpatientes perrumpunt latera occisa parente. ceterae serpentes contexta ova in terra incubant et fetum sequenti excludunt ano. crocodili vicibus incubant, mas et femina. sed reliquorum quoque terrestrium reddatur generatio.
+		
+
+
+
+
+
+lxxxiii
+		
+
+171
 		
 Bipedum solus homo animal gignit. homini tantum primi coitus paenitentia, augurium scilicet vitae a paenitenda origine. ceteris animalibus stati per tempora anni concubitus, homini, ut dictum est, omni horis dierum noctiumque; ceteris satias in coitu, homini prope nulla.
 		
+
+
+
+172
+		
 Messalina Claudi Caesaris coniunx, regalem hanc existimans palmam, elegit in id certamen nobilissimam e prostitutis ancillam mercenariae stipis eamque nocte ac die superavit quinto atque vicensimo concubitu. in hominum genere maribus deverticula veneris, excogitata omnia scelere naturae, feminis vero abortus. quantum in hac parte multo nocentiores quam ferae sumus! viros avidiores veneris hieme, feminas aestate Hesiodus prodidit.
+		
+
+Teubner has Claudi; Loeb corrects to Claudii.
+		
+
+
+
+173
 		
 Coitus aversis elephantis, camelis, tigribus, lyncibus, rhinoceroti, leoni, dasypodi, cuniculis, quibus aversa genitalia. cameli etiam solitudines aut secreta certe petunt, neque intervenire datur sine pernicie; coitus toto die, et his tantum ex omnibus. quibus solida ungula in quadripedum genere, mares olfactus accendit. avertuntur et canes, phocae, lupi, in medioque coitu invitique etiam cohaerent.
 		
+
+
+
+174
+		
 supra dictorum dasypodum plerumque feminae priores superveniunt, in reliquis mares. ursi autem, ut dictum est, humanitus strati, irenacei stantes ambo inter se conplexi, feles mare stante, femina subiacente, vulpes in latera proiectae maremque femina amplexa. taurorum cervorumque feminae vim non tolerant; ea de causa ingrediuntur in conceptu. cervi vicissim ad alias transeunt et ad priores redeunt. lacertae ut ea, quae sine pedibus sunt, circumflexu venerem novere.
+		
+
+
+
+175
 		
 Omnia animalia quo maiora corpore, hoc minus fecunda. singulos gignunt elephanti, cameli, equi; acanthis duodenos, avis minima. ocissime pariunt quae plurimos gignunt. quo maius est animal, tanto diutius formatur in utero. diutius gestantur quibus longiora sunt vitae spatia, neque crescentium tempestiva ad generandum aetas.
 		
+
+
+
+176
+		
 quae solidas habent ungulas, singulos; quae bisulcas, et geminos pariunt; quorum in digitos pedum fissura divisa est, et numerosiora in fetu. sed superiora omnia perfectos edunt partus, haec inchoatos, in quo sunt genere leaenae, ursae; et vulpes informe etiam magis quam supra dicta parit, rarumque est videre parientem. postea lambendo calefaciunt fetus omnia ea et figurant. pariunt plurimum quaternos. caecos autem gignunt canes, lupi, pantherae, thoes.
+		
+
+
+
+177
 		
 Canum plura genera. Laconicae octavo mense utrimque generant; ferunt LX diebus et plurimum III. ceterae canes et semenstres coitum patiuntur. implentur omnes uno coitu. quae ante iustum tempus concepere, diutius caecos habent catulos, et omnes totidem diebus. existimantur in urina attollere crus fere semenstres; id est signum consummati virum roboris. feminae hoc idem sidentes.
 		
+
+
+
+178
+		
 partus duodeni quibus numerosissimi, cetero quini, seni, aliquando singuli, quod prodigiosum putant, sicut omnes mares aut omnes feminas gigni. primos quosque mares pariunt, in ceteris alternant. ineuntur a partu sexto mense. octonos Laconicae pariunt. propria in eo genere maribus labore salacitas. vivunt Laconici annis denis, feminae duodenis, cetera genera XV annis, aliquando et XX, nec tota sua aetate generant, fere a duodecimo desinentes.
+		
+
+
+
+179
 		
 Felium et ichneumonem reliqua ut canum. vivunt annis senis. dasypodes omni mense pariunt et superfetant, sicut lepores. a partu statim inplentur; concipiunt quamvis ubera siccante fetu. pariunt singulos magnitudine vituli trimenstris. cameli XII mensibus ferunt; a trimatu pariunt vere iterumque post annum inplentur a partu.
 		
+
+
+
+180
+		
 equas autem post tertium demum aut post unum ab enixu utiliter admitti putant coguntque invitas. asinas et septimo die concipere facillime creditur. equarum iubas tondere praecipiunt, ut asinorum coitum patiantur humilitate; comantes enim gloria superbire. a coitu solae animalium currunt exadversus aquilonem austrumve, prout marem aut feminam concepere. colorem ilico mutant, rubriore pilo vel quicumque sit pleniore: hoc argumento desinunt admittere, etiam volentes. nec inpedit partus quasdam ab opere falluntque gravidae. vicisse Olympia praegnantem Echecratidis Thessali invenimus.
+		
+
+
+
+181
 		
 equos et canes et sues initum matutinum adpetere, feminas autem post meridiem blandiri diligentiores tradunt. equas domitas spumam ore fundere, verrem subantis audita voce, ni admittatur, cibum non capere usque in maciem, feminas autem in tantum efferari, ut hominem lancinent, candida maxime veste indutum. rabies ea aceto mitigatur naturae adsperso.
 		
+
+
+
+182
+		
 aviditas coitus putatur et cibis fieri, sicut vero eruca, pecori caepa. quae ex feris mitigentur, non concipere, ut anseres, apros vero tarde et cervos nec nisi ab infantia educatos mirum est. quadripedum praegnantes venerem arcent praeter equam et suem; sed superfetant dasypus et lepus tantam.
+		
+
+
+
+
+
+lxxxiv
+		
+
+183
 		
 Quaecumque animal pariunt, in capita gignunt circumacto fetu sub enixum, alias in utero porrecto. quadripedes gestantur extentis ad longitudinem cruribus et ad alvum suam adplicatis; homo in semet conglobatus inter duo genua narribus sitis.
 		
+
+
+
+184
+		
 molas, de quibus ante diximus, gigni putant, ubi mulier non ex mare, verum ex semet ipsa tantum conceperit. ideo nec animari, quia non sit ex duobus, altricemque habere per se vitam illam quae satis arboribusque contingat. ex omnibus, quae perfectos fetus, sues tantum et numerosos edunt, nam plures contra naturam solidipedum aut bisulcorum.
+		
+
+
+
+
+
+lxxxv
+		
+
+185
 		
 Super cuncta est murium fetus, haut sine cunctatione dicendus, quamquam sub auctore Aristotele et Alexandri Magni militibus. generatio eorum lambendo constare, non coitu, dicitur. ex una genitos CXX tradiderunt, apud Persas vero praegnantes in ventre parentis repertas.
 		
+
+
+
+186
+		
 et salis gustatu fieri praegnantes opinantur. itaque desinit mirum esse unde vis tanta messes populetur murium agrestium, in quibus illud quoque adhuc latet, quonam modo illa multitudo repente occidat. nam nec exanimes reperiuntur neque extat qui murem hieme in agro effoderit. plurimi ita ad Troada proveniunt et iam inde fugaverunt incolas. proventus eorum siccitatibus. tradunt etiam obituris vermiculum in capite gigni. Aegypti muribus durus pilus sicut irenaceis. iidem bipedes ambulant ceu Alpini quoque.
+		
+
+
+
+187
 		
 — Cum diversi generis coiere animalia, ita demum generant, si tempus nascendi par habent. — Quadripedum ova gignentium lacertas ore parere, ut creditur vulgo, Aristoteles negat. neque incubat eaedem, oblitae quo sint in oco enixae, quoniam huic animali nulla memoria; itaque per se catuli erumpunt.
 		
+
+
+
+
+
+lxxxvi
+		
+
+188
+		
 Anguem ex medulla hominis spinae gigni accepimus a multis. pleraque enim occulta et caeca origine proveniunt, etiam in quadrupedum genere, sicut salamandrae, animal lacertae figura, stellatum, numquam nisi magnis imbribus proveniens et serenitate desinens. huic tantus rigor, ut ignem tactu restinguat non alio modo quam glacies. eiusdem sanie, quae lactea ore vomitur, quacumque parte corporis humani contacta toti defluunt pili, idque, quod contactum est, colorem in vitiliginem mutat.
+		
+
+
+
+
+
+lxxxvii
+		
+
+189
 		
 Quaedam ergo gignuntur ex non genitis et sine ulla simili origine, ut supra dicta et quaecumque ver statumque tempus anni generant. ex his quaedam nihil gignunt ut salamandrae, neque est in iis masculum feminumque, sicut neque in anguillis omnibusque quae nec animal nec ovum ex sese generant. neutrum est et ostreis genus et ceteris adhaerentibus vado vel saxo.
 		
+
+
+
+190
+		
 quae autem per se generantur, si in mares et feminas discripta sunt, generant quidem aliquid coitu, sed inperfectum ac dissimile et ex quo nihil amplius gignatur, ut vermiculos muscae. id magis declarabit natura eorum quae insecta dicuntur, arduae explanationis omnia et privatim dicato opere narranda, quapropter ingenium praedictorum et reliqua subtexetur edissertatio.
+		
+
+
+
+
+
+lxxxviii
+		
+
+191
 		
 Ex sesibus ante cetera homini tactus, dein gustatus; reliquis superatur a multis. aquilae clarius cernunt, vultures sagacius odorantur, liquidius audiunt talpae: obrutae terra, tam denso atque surdo naturae elemento, praeterea voce omni in sublime tendente, sermonem exaudiunt et, si de iis loquare, intellegere etiam dicuntur et profugere.
 		
+
+
+
+192
+		
 auditus cui hominum primo negatus est, huic et sermonis usus ablatus, nec sunt naturaliter surdi, ut non iidem sint et muti. in marinis ostreis auditum esse non est verisimile, sed ad sonum mergere se dicuntur solenes; ideo et silentium in more piscantibus.
+		
+
+
+
+
+
+lxxxix
+		
+
+193
 		
 pisces quidem auditus nec membra habent nec foramina, audire tamen eos palam est, utpote cum plausu congregari feros ad cibum adsuetudine in quibusdam vivariis spectetur et in piscinis Caesaris genera piscium ad nomen venire quosdamve singulos. itaque produntur etiam clarissime audire mugil, lupus, salpa, chromis et ideo in vado vivere.
 		
+
+
+
+
+
+xc
+		
+
+194
+		
 Olfactum iis esse manifeste patet, quippe non omnes eadem esca capiuntur et prius quam adpetant odorantur. quosdam et speluncis latentes salsamento inlitis faucibus scopuli piscator expellit velut sui cadaveris agnitionem fugientes, conveniuntque ex alto etiam ad quosdam odores, ut saepiam ustam et polypum, quae ideo coiciuntur in nassas. sentinae quidem navium odorem procul fugiunt, maxime tamen piscium sanguinem.
 		
+
+
+
+195
+		
+
 non potest petris avelli polypus; idem cunila admota ab odore protinus resilit. purpurae quoque faetidis capiuntur. nam de reliquo animalium genere quis dubitet? cornus cervini odore serpentes puris formicae necantur. culices acida petunt, ad dulcia non advolant.
 			
 Tacitus sensus omnibus est, etiam quibus nullis alius; nam et ostreis et terrestrium vermibus quoque.
 		
+
+
+
+
+
+xci
+		
+
+196
+		
 Existimaverim omnibus sensum et gustatus esse. cur enim alios alia sapores adpetant? in quo vel praecipua naturae varietas et lusus: alia dentibus praedantur, alia unguibus, alia rostri aduncitate carpunt, alia latitudine eruunt, alia acumine excavant, alia augunt, alia lambunt, sorbent, mandunt, vorant. nec minor varietas in pedum ministerio, ut rapiant, distrahant, teneant, premant, pendeant, tellurem scabere non cessent.
+		
+
+
+
+
+
+xcii
+		
+
+197
 		
 Venenis capreae et coturnices, ut diximus, pinguescunt, placidissima animalia, at serpentes ovis, spectanda quidem draconum arte: aut enim solida hauriunt, si iam fauces capiunt, quae deinde in semet convoluti frangunt intus atque ita putamina extussiunt, aut si tenerior est catulis adhuc aetas, orbe adprehensa spirae ita sensim vehementerque praestringunt, ut amputata parte ceu ferro e reliqua, quae amplexu tenetur, sorbeant. simili modo avibus devoratis solidis contentione plumam excitam revomunt.
 		
+
+
+
+
+
+xciii
+		
+
+198
+		
 Scorpiones terra vivunt. serpentes, cum occasio est, vinum praecipue adpetunt, cum alioqui exiguo indigeant potu; eaedem minimo et paene nullo cibo, cum adservantur inclusae, sicuti aranei quoque, alioqui suctu viventes. ideo nullum interit fame aut siti venenatum. nam neque calor iis nec sanguis nec sudor, quae aviditatem naturali sale augent. in quo genere omnia magis exitialia, si suum genus edere ante quam noceant.
+		
+
+
+
+199
 		
 condit in thesauros maxillarum cibum sphingiorum et satyrorum genus, mox inde sensim ad mandendum manibus expromit, et quod formicis in annum, sollemne est his in dies vel horas. unum animal digitos habentium herba alitur, lepus; ea et fruge solidipedes, et e bisulcis omni cibatu et radicibus. solidipedum volutatio propria. serratorum dentium carnivora sunt omnia; ursi et fruge, fronde, vindemia, pomis vivunt et apibus, cancris etiam ac formicis; lupi, ut diximus, et terra in fame.
 		
+
+
+
+200
+		
 pecus potu pinguescit, ideo sal illis aptissimus; item veterina, quamquam et fruge et herba, scilicet ut bibere, sic edunt. ruminant praeter iam dicta silvestrium cervi, cum a nobis aluntur, omnia autem iacentia potius quam stantia, et hieme magis quam aestate, septenis fere mensibus. Pontici quoque mures simili modo remandunt.
+		
+
+
+
+
+
+xciv
+		
+
+201
 		
 In potu autem, quibus serrati dentes, lambunt et mures hi vulgares, quamvis ex alio genere sint. quibus continui dentes, sorbent, ut equi, boes. neutrum ursi, sed aquam quoque morsu vorant. in Africa maior pars ferarum aestate non bibunt inopia imbrium, quam ob causam capti mures Libyci, si bibere, moriuntur. orygem perpetuo sitientia Africae generant ex natura loci potu carentem et mirabili modo ad remedia sitientium: namque Gaetuli latrones eo durant auxilio, repertis aperto corpore eorum saluberrimi liquoris vesicis.
 		
+
+
+
+202
+		
 Insidunt in eadem Africa pardi condensam arborem occultatique ex ramis in praetereuntia desiliunt atque e volucrum sede grassantur. feles quidem quo silentio, quam levibus vestigiis obrepunt avibus! quam occulte speculatae in musculos exiliunt! excrementa sua effossa obruunt terra, intellegentes odorem illum indicem sui esse.
 		
+
+
+
+
+
+xcv
+		
+
+203
+		
+
 ergo et alios quaedam sensus esse quam supra dictos haut difficulter apparet.
 			
 Sunt enim quaedam iis bella amicitiaeque, unde et adfectus, praeter illa quae de quibusque eorum suis diximus locis. dissident olores et aquilae, corvus et chloreus noctu invicem ova exquirentes, simili modo corvus et miluus, illo praeripiente huic cibos, cornices atque noctua, aquilae et trochilus, si credimus, quoniam rex appellatur avium, noctuae et ceterae minores aves,
 		
+
+
+
+204
+		
 rursus cum trochilo mustela et cornix, turtur et pyrallis, ichneumones vespae et phalangia aranei, aquaticae brenthos et gavia et harpe, harpe et triorchis accipiter, sorices et ardiolae invicem fetibus insidantes, — (aegithus avis minima cum asino; spinetis enim se scabendi causa atterens nidos eius dissipat, quod adeo pavet, ut voce omnino rudentis audita ova eiciat, pulli ipsi metu cadant; igitur advolans ulcera eius rostro excavat) — volpes et milui, angues et mustelae et sues.
+		
+
+
+
+205
 		
 aesalon vocatur parva avis ova corvi frangens, cuius pulli infestantur a volpibus. invicem haec catulos eius ipsamque vellit; quod ubi viderunt corvi, contra auxiliantur velut adversus communem hostem. et acanthis in spinis vivit; idcirco asinos et ipsa odit flores spinae devorantes, aegithum vero in tantum, ut sanguinem eorum credant non coire multisque ideo veneficiis infament.
 		
+
+
+
+206
+		
 dissident thoes et leones, et minima aeque ac maxima. formicosam arborem urucae cavent. librat araneus se filo in caput serpentis porrectae sub umbra arboris suae tantaque vi morsu cerebrum adprehendit, ut stridens subinde et vertigine rotata ne filum quidem pendentis rumpere, adeo non fugere queat. nec finis ante mortem est.
+		
+
+
+
+
+
+xcvi
+		
+
+207
 		
 Rursus amici pavones et columbae, turtures et psittaci, merulae et turtures, cornix et ardiolae contra volpium genus communibus inimicitiis, harpe et miluus contra triorchin. quid, non et adfectus indicia sunt etiam in serpentibus, inmitissimo animalium genere? dicta sunt quae Arcadia narrat de domino a dracone servato et agnito voce [draconis].
 		
+
+
+
+208
+		
 de aspide miraculum reddatur. is enim auctor est, cum ad mensam cuiusdam veniens in Aegypto aleretur adsidue enixa catulos, quorum ab uno filium hospitis interemptum, illam reversam ad consuetudinem cibi intellexisse culpam et necem intulisse catulo nec postea in tectum id reversam.
+		
+
+
+
+
+
+xcvii
+		
+
+209
 		
 Somni quaestio non obscuram coniectationem habet. in terrestribus omnia quae coniveant dormire manifestum est. aquatilia quoque exiguum quidem, etiam qui de ceteris dubitant, dormire tamen existimant, non oculorum argumento, quia non habent genas, verum ipsa quiete cernuntur placida ceu soporata neque aliud quam caudas moventia et ad tumultum aliquem expavescentia.
 		
+
+
+
+210
+		
 de thynnis confidentius adfirmatur; iuxta ripas enim aut petras dormiunt, plani autem piscium in vado, ut manu saepe tollantur. nam delphini ballaenaeque stertentes etiam audiuntur. insecta quoque dormire silentio apparet, quae ne luminibus quidem admotis excitentur.
+		
+
+
+
+
+
+xcviii
+		
+
+211
 		
 Homo genitus premitur somno per aliquot menses, dein longior in dies vigilia. somniat statim infans; nam et pavore expergiscitur et suctum imitatur. quidam vero numquam, quibus mortiferum fuisse signum contra consuetudinem somnium invenimus exempla. magnus hic in vita locus et diversis refertus documentis, utrumne sint aliqua praescita animi quiescentis, quae fiant ratione, an fortuita res sit ut pleraque. si exemplis agatur, profecto paria fiant. a vino et a cibis proxima atque in redormitione vana esse visa prope convenit. est autem somnus nihil aliud quam animi in medium sese recessus.
 		
+
+
+
+212
+		
+
 praeter homine somniare equos, canes, boves, pecora, capras palam est: ob hoc creditur et in omnibus quae animal pariant. de iis quae ovae oa gignunt incertum est, sed dormire ea certum.
 			
 Verum et ad insecta transeamus; haec namque restant inmensae subtilitatis animalia.
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Naturalis
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVI Kal. Jan. 05

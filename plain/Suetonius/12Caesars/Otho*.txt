@@ -1,4 +1,124 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+ 
+Galba
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Vitellius
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p226
+Otho
+	
+
 1
 
 1 Maiores Othonis orti sunt oppido Ferentio, familia vetere et honorata atque ex principibus Etruriae. Avus M. Salvius1 Otho, patre equite R., matre humili incertum an ingenua, per gratiam Liviae Augustae, in cuius domo creverat, senator est factus nec praeturae gradum excessit.
@@ -26,8 +146,16 @@ p230potentia valuit, ut damnatum repetundis consularem virum, ingens praemium pa
 1 Omnium autem consiliorum secretorumque particeps die, quem necandae matri Nero destinarat, ad avertendas suspiciones cenam utrique exquisitissimae comitatis dedit; item Poppaeam Sabinam tunc adhuc amicam eius, abductam marito demandatamque interim sibi, nuptiarum specie recepit nec corrupisse contentus adeo dilexit, ut ne rivalem quidem Neronem aequo tulerit animo. 2 Creditur certe non modo missos ad arcessendam non recepisse, sed ipsum etiam exclusisse quondam pro foribus astantem miscentemque frustra minas et preces ac depositum reposcentem. Quare diducto matrimonio sepositus est per causam legationis in Lusitaniam. Et2 satis visum, ne poena acrior mimum omnem divulgaret, qui tamen sic quoque hoc disticho enotuit:
 
 
+
+
+
+"Cur Otho mentito sit, quaeritis, exsul honore?
+			
 Uxoris moechus coeperat esse suae."
 		
+
+
+
 Provinciam administravit quaestorius per decem annos, moderatione atque abstinentia singulari.
 
 	p232
@@ -72,6 +200,13 @@ p236cepisset, laxato calceo restitit, donec omissa mora succollatus et a praese
 p238tempestate orta graviter prolapsum identidem obmurmurasse:
 
 
+
+
+Τί γάρ μοι καὶ μακροῖς αὐλοῖς;5
+
+
+
+
 8
 
 1 Sub idem vero tempus Germaniciani exercitus in Vitelli verba iurarant. Quod ut comperit, auctor senatui fuit mittendae legationis, quae doceret electum iam principem, quietem concordiamque6 suaderet; et tamen per internuntios ac litteras consortem imperii generumque se Vitellio optulit. Verum haud dubio bello iamque ducibus et copiis, quas Vitellius praemiserat, appropinquantibus animum fidemque erga se praetorianorum paene internecione amplissimi ordinis expertus est. 2 Placuerat7 per classiarios arma transferri remittique navibus; ea cum in castris sub noctem promerentur, insidias quidam suspicati tumultum excitaverunt; ac repente omnes nullo certo duce in Palatium cucurrerunt caedem senatus flagitantes, repulsisque tribunorum qui inhibere temptabant, nonnullis et occisis, sic ut erant cruenti, ubinam imperator esset requirentes perruperunt in triclinium usque nec nisi viso destiterunt.
@@ -113,47 +248,168 @@ Atque ita paratus intentusque iam morti, tumultu inter moras exorto ut eos, qui 
 
 
 p246vero paene muliebrium, vulso corpore, galericulo capiti propter raritatem capillorum adaptato et adnexo, ut nemo dinosceret; quin et faciem cotidie rasitare ac pane madido linere consuetum, idque instituisse a prima lanugine, ne barbatus umquam esset; sacra etiam Isidis saepe in lintea religiosaque veste propalam celebrasse. Per quae factum putem, ut mors eius minime congruens vitae maiore miraculo fuerit. Multi praesentium militum cum plurimo fleto manus ac pedes iacentis exosculati, fortissimum virum, unicum imperatorem praedicantes, ibidem statim nec procul a rogo vim suae vitae attulerunt; multi et absentium accepto nuntio prae dolore armis inter se ad internecionem concurrerunt. Denique magna pars hominum incolumem gravissime detestata mortuum laudibus tulit, ut vulgo iactatum sit etiam, Galbam ab eo non tam dominandi quam rei p. ac libertatis restituendae causa interemptum.
+
+Apparatus Criticus:
+	
+
 1
 Salvius, Stephanus; Silvius, Ω.
 
 
+❦
 
 2
 et, Ω; id, Casaubon.
+❦
 
 3
 lecticariis, X; lecticaris, Roth; lecticaribus, MGΥ.
 
 
+❦
 
 4
 ratione, Erasmus; oratione, mss.
+❦
 
 5
 αὐλοῖς, ς; M and the greater number of the other mss. have δουλοις.
 
 
+❦
 
 6
 concordiamque, GTδ; et concordiam, Υ; the other mss. have only concordiam.
 
 
+❦
 
 7
 placuerat, ς (Torrentius); et placuerat, Ω; ei, Bücheler.
+❦
 
 8
 Betriacum] Bretiacum, Ω.
 
 
+❦
 
 9
 consalutatione, Π1Q (cf. Tac. Hist. 2.42); the other mss. have consultatione.
 
 
+❦
 
 10
 scambusque, Turnebus; cambusque, Ω; cf. Bonnet, A.L.L. 13, 579.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+14 Dec 08

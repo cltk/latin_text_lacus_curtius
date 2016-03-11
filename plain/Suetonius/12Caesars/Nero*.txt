@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Divus
+				
+Claudius
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Galba
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p86
+Nero
+	
+
 1
 
 1 Ex gente Domitia duae familiae claruerunt, Calvinorum et Ahenobarborum. Ahenobarbi auctorem originis itemque cognominis habent L. Domitium, cui rure quondam revertenti iuvenes gemini augustiore forma ex occursu imperasse traduntur, nuntiaret senatui ac populo victoriam, de qua incertum adhuc erat; is in fidem maiestatis adeo permulsisse malas, ut e nigro rutilum aerique adsimilem capillum redderent. Quod insigne mansit et in posteris eius, ac magna pars rutila barba fuerunt. 2 Functi autem consulatibus septem, triumpho censuraque duplici et inter patricios adlecti perseveraverunt omnes in eodem cognomine. Ac ne praenomina quidem ulla praeterquam Gnaei et Luci usurparunt; eaque ipsa notabili varietate, modo continuantes unum quodque per trinas personas, modo alternantes per singulas. Nam primum secundumque ac tertium Ahenobarborum Lucios, sequentis rursus tres ex ordine Gnaeos accepimus, reliquos non nisi vicissim tum Lucios tum Gnaeos.
@@ -375,6 +496,13 @@ p154sublaturum quandoque e re p. ac provincias et exercitus equiti R. ac libe
 1 Sed nec populo aut moenibus patriae pepercit. Dicente quodam in sermone communi:
 
 
+
+
+Ἐμοῦ θανόντος γαῖα μειχθήτω πυρί,
+		
+
+
+
 "Immo", inquit, "ἑμοῦ ζῶντος," planeque ita fecit. Nam quasi offensus deformitate veterum aedificiorum et angustiis flexurisque vicorum, incendit urbem tam palam, ut plerique consulares cubicularios eius cum stuppa taedaque in praediis suis deprehensos non attigerint, et quaedam horrea circum domum Auream, quorum spatium maxime desiderabat, ut bellicis machinis labefacta atque inflammata sint, quod saxeo muro constructa erant. 2 Per sex dies septemque noctes ea clade saevitum est ad monumentorum bustorumque deversoria40 plebe compulsa. Tunc praeter immensum numerum insularum domus priscorum ducum arserunt hostilibus adhuc spoliis adornatae deorumque aedes ab regibus ac deinde Punicis et Gallicis bellis votae dedicataeque, et
 
 
@@ -387,10 +515,73 @@ p156quidquid visendum atque memorabile ex antiquitate duraverat. Hoc incendium e
 1 Accesserunt tantis ex principe malis probrisque quaedam et fortuita: pestilentia unius autumni, quo triginta funerum milia in rationem Libitinae venerunt; clades Britannica, qua duo praecipua oppida magna civium sociorumque caede direpta sunt; ignominia ad Orientem legionibus in Armenia sub iugum missis aegreque Syria retenta. Mirum et vel praecipue notabile inter haec fuerit nihil eum patientius quam maledicta et convicia hominum tulisse, neque in ullos leniorem quam qui se dictis aut carminibus lacessissent exstitisse. 2 Multa Graece Latineque proscripta aut vulgata sunt, sicut illa:
 
 
+
+
+
+Νέρων Ὀρέστης Ἀλκμέων μητροκτόνος.
+
+
+
+p158
+
+
+
+
+Νεόψηφον·41 Νέρων ἰδίαν μητέρα ἀπέκτεινε.
+
+
+
+
+
+
+
+Quis negat Aeneae magna de stirpe Neronem?
+			
+Sustulit hic matrem, sustulit ille patrem.
+		
+
+
+
+
+
+
+Dum tendit citharam noster, dum cornua Parthus,
+			
+Noster erit Paean, ille Hecatebeletes.
+		
+
+
+
+
+
+
+Roma domus fiet; Veios migrate, Quirites,
+			
+Si non et Veios occupat ista domus.
+		
+
+
+
 Sed neque auctores requisiit et quosdam per indicem delatos ad senatum adfici graviore poena prohibuit. 3 Transeuntem eum Isidorus Cynicus in publico clara voce corripuerat, quod Naupli mala bene cantitaret, sua bona male disponeret; et Datus Atellanarum histrio in cantico quodam
 
 
+
+
+
+ὑγίαινε πάτερ, ὑγίαινε μῆτερ
+		
+
+
+
 ita demonstraverat, ut bibentem natantemque faceret, exitum scilicet Claudi Agrippinaeque significans, et in novissima clausula
+
+
+
+
+
+Orcus vobis ducit pedes
+		
+
 
 
 senatum gestu notarat.42 Histrionem et philosophum Nero nihil amplius quam urbe Italiaque summovit,
@@ -471,9 +662,24 @@ p170Iam noctibus iurgia cum servis plerique simulantes crebro Vindicem poscebant
 p172publice Oedipodem exsulem atque in hoc desisse53 versu:
 
 
+
+
+Θανεῖν μ᾽ ἄνωγε54 σύγγαμος, μήτηρ, πατήρ.
+		
+
+
+
 47
 
 1 Nuntiata interim etiam ceterorum exercituum defectione litteras prandenti sibi redditas concerpsit, mensam subvertit, duos scyphos gratissimi usus, quos Homericos a caelatura carminum Homeri vocabat, solo inlisit ac sumpto a Lucusta veneno et in auream pyxidem condito transiit in hortos Servilianos, ubi praemissis libertorum fidissimis Ostiam ad classem praeparandam tribunos centurionesque praetorii de fugae societate temptavit. 2 Sed partim tergiversantibus, partim aperte detrectantibus, uno vero etiam proclamante:
+
+
+
+
+
+"Usque adeone mori miserum est?"
+		
+
 
 
 varie agitavit, Parthosne an Galbam supplex peteret, an atratus prodiret in publicum proque rostris quanta maxima posset miseratione veniam praeteritorum precaretur, ac ni flexisset animos, vel Aegypti praefecturam concedi sibi oraret. Inventus est postea in scrinio eius hac de re sermo formatus; sed deterritum putant, ne prius quam in Forum perveniret discerperetur.
@@ -506,6 +712,14 @@ Inter moras perlatos a cursore Phaonti codicillos praeripuit legitque se hostem
 
 
 p178nudi hominis cervicem inseri furcae, corpus virgis ad necem caedi, conterritus duos pugiones, quos secum extulerat, arripuit temptataque utriusque acie rursus condidit, causatus nondum adesse fatalem horam. 3 Ac modo Sporum hortabatur ut lamentari ac plangere inciperet, modo orabat ut se aliquis ad mortem capessendam exemplo iuvaret; interdum segnitiem suam his verbis increpabat: "Vivo deformiter, turpiter — οὐ πρέπει Ηέρωνι, οὐ πρέπει — νήφειν δεῖ ἐν τοῖς τοιούτοις — ἄγε ἔγειρε σεαυτόν." Iamque equites appropinquabant, quibus praeceptum erat ut vivum eum adtraherent. Quod ut sensit, trepidanter effatus:
+
+
+
+
+
+Ἵππων μ᾽ ὠκυρόδων ἀμφὶ κτύπος οὔατα βάλλει
+		
+
 
 
 ferrum iugulo adegit iuvante Epaphrodito a libellis. 4 Semianimisque adhuc irrumpenti centurioni et paenula ad vulnus adposita in auxilium se venisse simulanti non aliud respondit quam: "Sero," et: "Haec est fides." Atque in ea voce defecit, exstantibus rigentibusque oculis usque ad horrorem formidinemque visentium. Nihil prius aut magis a comitibus exegerat quam ne potestas cuiquam capitis sui fieret, sed ut quoquo modo totus cremaretur. Permisit hoc Icelus,57 Galbae libertus, non multo ante vinculis exsolutus, in quae primo tumultu coniectus fuerat.
@@ -565,289 +779,462 @@ p184Vergili Turnum. Et sunt qui tradant Paridem histrionem occisum ab eo quasi g
 
 
 p186de instauranda societate hoc etiam magno opere oravit, ut Neronis memoria coleretur. Denique cum post viginti annos adulescente me exstitisset condicionis incertae qui se Neronem esse iactaret, tam favorabile nomen eius apud Parthos fuit, ut vehementer adiutus et vix redditus sit.
+
+Apparatus Criticus:
+	
+
 1
 ioco, ς; loco, Ω; Some assume a lacuna after ioco, which is filled in various ways: quae, Casaubon; qui, Ursinus, Oudendorp; et Tiberi edicto qui, Bücheler.
+❦
 
 2
 Anti, Roth; Antii, Turnebus and P in the margin; ante, Ω.
 
 
+❦
 
 3
 ad before eosdem, MLP; at, G; et, Υ; OST omit.
+❦
 
 4
 et, ς; not found in the earlier MSS.; the Roman editiones principes have consecravitque.
 
 
+❦
 
 5
 omisit, RL2S2TN (obm-, T); emisit, Ω.
 
 
+❦
 
 6
 catadromum, ς; gatadromum, Ω.
 
 
+❦
 
 7
 inscribitur, Erasmus; scribitur, Ω.
 
 
+❦
 
 8
 avium, Gς; aulum, Ω; aurum, ς.
 
 
+❦
 
 9
 toto, Ω; toti, ς; cf. Caes. B.G. 7.89;
 	
 Prop. 3.11.57, etc.
+❦
 
 10
 tiara deducta, ς; diariam deductam, Ω.
 
 
+❦
 
 11
 tamquam nullo, Faernus and Lipsius; tam nullo quam, Ω.
 
 
+❦
 
 12
 ageret, Υ´; omitted by MGLP; quaereret, Bücheler.
+❦
 
 13
 quarum, ΠQ; quorum, Ω.
 
 
+❦
 
 14
 dispicere, ς; despicere, Ω.
 
 
+❦
 
 15
 Neapoli, ΠQ; the other mss. have Neapolim.
 
 
+❦
 
 16
 sufferti, first Venetian ed.; sufferi, MG; the other mss. have sufferri.
 
 
+❦
 
 17
 puris, P2 (Bentley); pueris, MXδ; pueri, GΥ.
 
 
+❦
 
 18
 laevis, G, and P in a later hand; laeviis, M; levis, Υ.
 
 
+❦
 
 19
 sestertia, Ω; sestertium is commonly read.
+❦
 
 20
 Niobã, G; Nioban, MΥ; Niobem, X.
 
 
+❦
 
 21
 edipodẽ, G; the other mss. have Oedipodem.
 
 
+❦
 
 22
 prasinum, ς; prasim, LST; prasū, P; prasiniū, G.
 
 
+❦
 
 23
 Mithradate, M; the other mss. have Mithridate or Mitridate.
 
 
+❦
 
 24
 ganea, Salmasius; ganeae, mss.
+❦
 
 25
 sollemnia, ς; sollemne, Turnebus; sollemni, Ω.
 
 
+❦
 
 26
 ab, Qς; ad, Π (struck out by a later hand); the other mss. omit the word.
+❦
 
 27
 Spiculum, Beroaldus; speculum, Ω.
 
 
+❦
 
 28
 rete aurato, Υ; veste aurato, M; the other mss. have veste aurata.
 
 
+❦
 
 29
 falerataque Mazacum, Salmasius (Mazycum, Roth); phalerata (phalera, G) cimazacum, GXR; falerata cimazacum, M.
 
 
+❦
 
 30
 maceria, Gutherius; materia, Ω.
 
 
+❦
 
 31
 camare, ML; the other mss. have camerae or camere.
 
 
+❦
 
 32
 Quinquatruum] Quinquatrum, MLΥ; Quinquatrium, GPT.
 
 
+❦
 
 33
 Poppaeam, Sabellicus; Pompeiam, Ω.
 
 
+❦
 
 34
 fingeret et, X; fingeret, MG; Υ omits both words.
+❦
 
 35
 Pompeiam, Ω; Poppeiam, Q.
 
 
+❦
 
 36
 The earlier mss. except ρ have inter before ceteros; inter emit or item, ς; intercepit, Polak.
+❦
 
 37
 gentili, S2δς; gentilis, MGX; gentis, Υ.
 
 
+❦
 
 38
 vocabatur, MΥ; iocabatur, G; vocabat, X.
 
 
+❦
 
 39
 Isthmii, Π2R; the greater number of the mss. have Sthimii.
 
 
+❦
 
 40
 deversoria] diversoria, Ω.
 
 
+❦
 
 41
 νεόψηφον, Ω; see Bücheler, Rh. Mus. 61, 308 f. νεόνυμφον, ς.
 
 
+❦
 
 42
 notarat, Oudendorp; notaret, Ω.
 
 
+❦
 
 43
 διατρεσφει, MLS; the rest of the mss. have διατρεφει; διαθρέψει, Turnebus from
 	
 Dio, 63.27.
+❦
 
 44
 elaboratae, Bernegger; laboratae, mss.
+❦
 
 45
 ydraulica, mss.
+❦
 
 46
 intermortuus] intermortuos, M.
 
 
+❦
 
 47
 a] a se, ς.
 
 
+❦
 
 48
 lucranti, Oudendorp; lucrantia, Ω; lucrantium, ς.
 
 
+❦
 
 49
 ἀσκὸς praeligatus, Howard (Harv. Stud. vii.208); ascopa deligata, mss.
+❦
 
 50
 ego egi quod potui, Howard; ego quid potui, Ω.
 
 
+❦
 
 51
 cullum, Howard; culleum, Ω.
 
 
+❦
 
 52
 scalptura] sculptura, Ω.
 
 
+❦
 
 53
 desisse, ς; dedisse, MX (dixisse, P); finem dedisse, G; decidisse, Υ.
 
 
+❦
 
 54
 μ᾽ ἄνωγε] μενωγε, Ω.
 
 
+❦
 
 55
 ecquid, second Roman edition; etquid, Ω.
 
 
+❦
 
 56
 aversum, J. F. Gronov.; adversum, Ω.
 
 
+❦
 
 57
 Icelus, Politianus; hiceius, Ω.
 
 
+❦
 
 58
 Egloge] Ecloge, Basle ed. of 1533.
+❦
 
 59
 colli, Stephanus; colle, ς; collo, Ω.
 
 
+❦
 
 60
 Ω had maxime after fingendique, a misplaced emendation of the following maxima.
 
 
+❦
 
 61
 maxime, ς; maxima, Ω.
 
 
+❦
 
 62
 Olympia, ς; Olympiam, Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Aug. 12

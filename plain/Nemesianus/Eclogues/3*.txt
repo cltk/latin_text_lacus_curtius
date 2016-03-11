@@ -1,76 +1,459 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Nemesiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXXIV (recensitumque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p472
+Nemesiani
+	
+Ecloga III
+	
+
+
+Bacchus
+	
+
+
+
+
+
+
+Nyctilus atque Micon nec non et pulcher Amyntas
+	
+torrentem patula vitabant ilice solem,
+	
+cum Pan venatu fessus recubare sub ulmo
+	
+coeperat et somno laxatus1 sumere vires;
+	5
+quem super ex tereti pendebat fistula ramo.
+	
+hanc pueri, tamquam praedem2 pro carmine possent
+	
+sumere fasque esset calamos tractare deorum,
+	
+invadunt furto; sed nec resonare canorem
+	
+fistula quem suerat nec vult contexere carmen,
+	10
+sed pro carminibus male dissona sibila reddit,
+	
+cum3 Pan excussus sonitu stridentis avenae
+	
+iamque videns "pueri, si carmina poscitis" inquit,
+	
+"ipse canam: nulli fas est inflare cicutas,
+	
+quas ego Maenaliis cera coniungo sub antris.
+	15
+iamque ortus, Lenaee, tuos et semina vitis
+	
+ordine detexam: debemus carmina Baccho."
+
+	
+
+haec fatus coepit calamis sic montivagus Pan:
+	
+"te cano, qui gravidis hederata fronte corymbis
+	
+vitea serta plicas quique udo palmite tigres
+	20
+ducis odoratis perfusus colla capillis,
+	
+vera Iovis proles; nam cum4 post sidera caeli
+	
+sola Iovem Semele vidit Iovis ora professum,
+	
+hunc pater omnipotens, venturi providus aevi,
+	
+p474
+pertulit et iusto produxit tempore partus.
+	25
+hunc Nymphae Faunique senes Satyrique procaces,
+	
+nosque etiam Nysae viridi nutrimus in antro.
+	
+quin et Silenus parvum veteranus5 alumnum
+	
+aut gremio fovet aut resupinis sustinet ulnis,
+	
+evocat aut risum digito motuve quietem
+	30
+allicit aut tremulis quassat crepitacula palmis.
+	
+cui deus arridens horrentes pectore setas
+	
+vellicat aut digitis aures adstringit acutas
+	
+applauditve manu mutilum caput aut breve mentum
+	
+et simas tenero collidit pollice nares.
+	35
+interea pueri florescit pube iuventus
+	
+flavaque maturo tumuerunt tempora cornu.
+	
+tum primum laetas extendit6 pampinus uvas:
+	
+mirantur Satyri frondes et poma Lyaei.
+	
+tum deus 'o Satyri, maturos carpite fetus'
+	40
+dixit 'et ignotos primi7 calcate racemos.'
+
+	
+
+vix haec ediderat, decerpunt vitibus uvas
+	
+et portant calathis celerique elidere planta
+	
+concava saxa super properant: vindemia fervet
+	
+collibus in summis, crebro pede rumpitur uva
+	45
+nudaque8 purpureo sparguntur pectora musto.
+	
+tum Satyri, lasciva cohors, sibi pocula quisque
+	
+obvia corripiunt: quae fors dedit, arripit9 usus.
+	
+cantharon hic retinet, cornu bibit alter adunco,
+	
+p476
+concavat ille manus palmasque in pocula vertit,
+	50
+pronus at ille lacu bibit et crepitantibus haurit
+	
+musta labris; alius vocalia cymbala mergit
+	
+atque alius latices pressis resupinus ab uvis10
+
+excipit; at potus11 (saliens liquor ore12 resultat)
+	
+evomit,13 inque umeros et pectora defluit umor.
+	55
+omnia ludus habet cantusque chorique licentes;
+	
+et venerem iam vina movent: raptantur amantes
+	
+concubitu Satyri fugientes iungere Nymphas
+	
+iamiamque elapsas hic crine, hic veste retentat.
+	
+tum primum roseo Silenus cymbia musto
+	60
+plena senex avide non aequis viribus hausit.
+	
+ex illo venas inflatus nectare dulci
+	
+hesternoque gravis semper ridetur Iaccho.
+	
+quin etiam deus ille, deus Iove prosatus14 ipso,
+	
+et plantis uvas premit et de vitibus hastas
+	65
+integit15 et lynci praebet cratera bibenti."
+
+	
+
+haec Pan Maenalia pueros in valle docebat,
+	
+sparsas donec oves campo conducere in unum
+	
+nox iubet, uberibus suadens siccare fluorem
+	
+lactis et in niveas adstrictum cogere glebas.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 laxatas G: lassatas N V plerique: lassatus V nonnulli: laxatus Hoeufft.
 
 
+❦
 
 2
 praedem Titius: praedam codd.
 
 
+❦
 
 3
 cum NG: tum V.
 
 
+❦
 
 4
 iam tunc codd.: nam tunc Burman: nam cum Baehrens.
 
 
+❦
 
 5
 veteranus O. Schubert: veneratus codd.
 
 
+❦
 
 6
 extendit G: ostendit NVH.
 
 
+❦
 
 7
 primi NG: pueri V: proni Baehrens.
 
 
+❦
 
 8
 rubraque NG: udaque V nonnulli: nudaque V reliqui.
 
 
+❦
 
 9
 arripit NG: hoc capit V: occupat Ulitius, Baehrens.
 
 
+❦
 
 10
 hunc versum post 53 collocant codices plerique.
 
 
+❦
 
 11
 at potus codd. plerique: aes potum Baehrens: at potis ed. Ald. 1534.
 
 
+❦
 
 12
 saliensque liquore G, Baehrens: rediens liquor ore Maehly.
 
 
+❦
 
 13
 evomit NGH: spumeus V: ebibit Baehrens, qui hunc versum cum 52 coniungit.
 
 
+❦
 
 14
 prosatus ipso V multi: natus ab ipso V pauci, Baehrens.
 
 
+❦
 
 15
 integit NG: ingerit V.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Nemesiani
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Oct. 07

@@ -1,4 +1,110 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Haec pagina telaris est opus
+				
+
+
+Invectiva in Ciceronem
+				
+
+
+
+[C. Sallusti Crispi]
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXI (recensitum MCMXXXI)
+				
+cuius textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p492
+[C. Sallusti Crispi]
+	
+In M. Tullium Ciceronem Oratio1
+
+
 1 
 Graviter et iniquo animo maledicta tua paterer, M. Tulli, si te scirem iudicio magis quam morbo animi petulantia ista uti. Sed quoniam2 in te neque modum neque modestiam ullam animadverto, respondebo tibi, ut, si quam male dicendo voluptatem cepisti, eam male audiendo amittas.
 
@@ -38,44 +144,232 @@ p500hac civitate obtines? Quae tibi partes rei publicae placent? Quem amicum, qu
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Sigla:—
 
+
+
+
+α
+
+
+A
+
+
+= cod. Guelferbytanus Gud. 335, s. X.
+		
+
+
+
+Ha
+
+
+= cod. Harleianus 2682, s. XI.
+		
+
+
+
+TB
+
+
+= codd. Monacenses 19472, 4611, s. XI, XII.
+		
+
+
+
+β
+
+
+HHb
+
+
+= codd. Harleiani 2716, 3859, s. IX or X, XII.
+		
+
+
+
+EM
+
+
+= codd. Monacenses 14714, 19474, s. XII, XII‑XIII.
+		
+
+
+
+P
+
+
+= cod. Admontensis 383, s. XII.
+		
+
+
+
+V
+
+
+= cod. Vaticanus, 1747, s. XIII.
+		
+
+
+
+
+Kur.
+
+
+= Kurfess' ed., Teubner text, 1914.
+		
+
+
+❦
+
 2
 quoniam, Halm; cum, mss., Kur.
+❦
 
 3
 praedae, Eussner, Kur.; perfidiae, mss.
+❦
 
 4
 R.P. audacia, A; audacia r.p., HaTB; iudicia r.p., HEMP; iudiciaque r.p., Hb; iuditiaque rei p., V.
 
 
+❦
 
 5
 at, Wirz; aut, mss.
+❦
 
 6
 habites, Halm; habitas, Hb; habitares, Kur.
+❦
 
 7
 aliquos, Kur.; alios, mss.
+❦
 
 8
 Om. by H, Kur.
+❦
 
 9
 Jordan; parasti (parasses, V), mss.
+❦
 
 10
 C. Marii, Glareanus.
 
 
+❦
 
 11
 a vero, Reitzenstein; aliud vero, mss. (et id vero, V).
 
 
+❦
 
 12
 auctore, Wirz; iure cum, mss.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Sallustius
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Id. Mai. 07

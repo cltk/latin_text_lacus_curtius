@@ -1,4 +1,119 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 48‑64
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Alexandrian War
+				
+
+probably by Hirtius, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Caesar
+	
+de Bello Alexandrino
+	
+
+p114
+[Capitula 65‑78]
+	
+
 65
 
 Cum in Syriam Caesar ex Aegypto venisset atque ab eis qui Roma venerant ad eum cognosceret litterisque urbanis animadverteret multa Romae male et inutiliter administrari neque ullam partem rei publicae satis commode geri, quod et contentionibus tribuniciis perniciosae seditiones orirentur et ambitione atque indulgentia tribunorum militum et qui legionibus praeerant multa contra morem consuetudinemque militarem fierent, quae dissolvendae disciplinae severitatisque essent, eaque omnia flagitare adventum suum videret, tamen praeferendum existimabat, quas in provincias regionesque venisset, eas ita relinquere constitutas ut domesticis dissensionibus liberarentur, iura legesque acciperent, externorum hostium metum deponerent. Haec in
@@ -108,8 +223,16 @@ Ita per Gallograeciam Bithyniamque in Asiam iter facit omniumque earum provincia
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 venit is read by two MSS., but is omitted by the rest.
+
+
+
 
 
 
@@ -118,8 +241,14 @@ this sentence is in great disorder in the MSS.: I have adopted Nipperdey's con
 
 
 
+
+
+
 3
 coactus added by Glandorp.
+
+
+
 
 
 
@@ -128,8 +257,14 @@ quam or iis or his MSS.: quin Nipperdey.
 
 
 
+
+
+
 5
 I have adopted Vielhaber's restoration.
+
+
+
 
 
 
@@ -138,6 +273,155 @@ agerentur MSS.: aggeri, with per added before servitia, is Kuebler's conjecture
 
 
 
+
+
+
 7
 quod MSS.: qui Dinter.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Alexandrino
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+Id. Feb. 13

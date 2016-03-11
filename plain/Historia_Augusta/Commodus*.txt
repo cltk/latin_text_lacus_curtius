@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Avidius Cassius
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Pertinax
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+
+p264
+Commodus Antoninus
+	
+
 11 De Commodi Antonini parentibus in vita Marci Antonini satis est disputatum. 2 ipse autem natus est apud Lanuvium cum fratre Antonino gemino pridie kal. Sept. patre patruoque consulibus, ubi et avus maternus dicitur natus. 3 Faustina cum esset Commodo cum fratre praegnans, visa est in somnis serpentes parere, sed ex his unum ferociorem. 4 cum autem peperisset Commodum atque Antoninum, Antoninus quadrimus elatus est, quem parem astrorum cursu Commodo mathematici promittebant. 5 mortuo igitur fratre Commodum Marcus et suis praeceptis et magnorum atque optimorum virorum erudire conatus est. 6 habuit litteratorem Graecum Onesicratem, Latinum Capellam Antistium; orator ei Ateius Sanctus fuit.
 
 	
@@ -213,265 +321,422 @@ p312subornatores de senatu. et tu nobiscum timuisti; omnia scis et bonos et malo
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 constuppatus P.
 
 
+❦
 
 2
 suo Vero Ursinus; Seuero P.
 
 
+❦
 
 3
 sacerdotis P.
 
 
+❦
 
 4
 trossulos Lipsius; tres solos P.
 
 
+❦
 
 5
 princeps P.
 
 
+❦
 
 6
 So P corr.; et cum om. in P1.
 
 
+❦
 
 7
 per speciem Turnebus; perficium P1; perficiens P corr.
+❦
 
 8
 atque se Editor; aquam P, Peter.
 
 
+❦
 
 9
 crederet P.
 
 
+❦
 
 10
 ob P, Petschenig; ad Peter.
 
 
+❦
 
 11
 serius P.
 
 
+❦
 
 12
 uehit P1.
 
 
+❦
 
 13
 Condiani Casaubon; condiciani P.
 
 
+❦
 
 14
 conciuit Egnatius; concilii P.
 
 
+❦
 
 15
 ui pretiisque Madvig, Peter2; nuptiisque P; uultusque Turnebus, Peter1.
 
 
+❦
 
 16
 matris P; patris Salmasius, Peter.
 
 
+❦
 
 17
 inposuit. uxorem Heer; inposuit uxoris P, Peter.
 
 
+❦
 
 18
 noluissent Casaubon, Baehrens; uoluissent P, Peter.
 
 
+❦
 
 19
 senatu P.
 
 
+❦
 
 20
 libertinus Jordan; libertinos P.
 
 
+❦
 
 21
 factis P.
 
 
+❦
 
 22
 Pactumeium Casaubon; Pactuleium P.
 
 
+❦
 
 23
 uires Ursinus; iuriis P1; iniuriis P corr.
+❦
 
 24
 senatu semet inridente Peter2; senatu semettridente P1; senatu ridente Peter1.
 
 
+❦
 
 25
 et om. in P.
 
 
+❦
 
 26
 lanuuium P.
 
 
+❦
 
 27
 cui P.
 
 
+❦
 
 28
 gentibus P.
 
 
+❦
 
 29
 tegerentur Petschenig, Peter2; degerentur P, Peter1.
 
 
+❦
 
 30
 illihic P.
 
 
+❦
 
 31
 sane P, Peter; ante Mommsen.
 
 
+❦
 
 32
 eum Jordan; eam P.
 
 
+❦
 
 33
 obtunsione oris Petschenig, Peter2; obtunsioneris P; obtunsionibus Peter1.
 
 
+❦
 
 34
 oculos om. in P1, add. in P corr.
+❦
 
 35
 osculis Ursinus; oculis P.
 
 
+❦
 
 36
 genera . . . uocauit P, Peter2; genere . . . uacauit Salmasius, Peter1.
+❦
 
 37
 adibat ins. by Klein.
 
 
+❦
 
 38
 pollutus P; polluit Peter.
 
 
+❦
 
 39
 semper P, Lenze; saepe Casaubon, Peter.
 
 
+❦
 
 40
 so Peter; iterum et Apro P.
 
 
+❦
 
 41
 quinties P.
 
 
+❦
 
 42
 transigeret P.
 
 
+❦
 
 43
 in om. in P.
 
 
+❦
 
 44
 So P (Ballou in Class. Philol. iii p273); et non in P acc. to Peter.
 
 
+❦
 
 45
 Eclectus Mommsen, Peter; electus P.
 
 
+❦
 
 46
 minueret P.
 
 
+❦
 
 47
 quantum Peter; quam P.
 
 
+❦
 
 48
 uere Peter; seuere P.
 
 
+❦
 
 49
 sumus P.
 
 
+❦
 
 50
 ut ins. by Salmasius; om. in P.
 
 
+❦
 
 51
 uere Editor (cf. Claud. iv.3); uiro P; uero Exc. Cusana, Mommsen; uiso Hirschfeld, Peter2.
 
 
+❦
 
 52
 seruatur P.
 
 
+❦
 
 53
 laeta Peter1; laetam P; laeta iam Baehrens, Peter2.
 
 
+❦
 
 54
 quae P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Kal. Jan. 05

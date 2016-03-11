@@ -1,4 +1,125 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Divus
+				
+Julius
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+ 
+Tiberius
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p122
+Divus Augustus
+	
+
 1
 
 1 Gentem Octaviam Velitris praecipuam olim fuisse multa declarant. Nam et vicus celeberrima parte oppidi iam pridem Octavius vocabatur et ostendebatur ara Octavio consecrata, qui bello dux finitimo, cum forte Marti rem divinam faceret, nuntiata repente hostis incursione semicruda exta rapta foco prosecuit atque ita proelium ingressus victor redit. Decretum etiam publicum exstabat, quo cavebatur, ut in posterum quoque simili modo exta Marti redderentur reliquiaeque ad Octavios referrentur.
@@ -44,6 +165,14 @@ p126praefuit non minore iustitia quam fortitudine; namque Bessis ac Thracibus ma
 
 
 p130recens eo nato pater Octavius adversus fugitivos rem prospere gesserat. Thurinum cognominatum satis certa probatione tradiderim nactus puerilem imagunculam eius aeream veterem ferreis et paene iam exolescentibus litteris hoc nomine inscriptam, quae dono a me principi data inter cubiculi5 Lares colitur. Sed et a M. Antonio in epistulis per contumeliam saepe Thurinus appellatur et ipse nihil amplius quam mirari se rescribit pro obprobrio sibi prius nomen obici. 2 Postea Gai Caesaris et deinde Augusti cognomen assumpsit, alterum testamento maioris avunculi, alterum Munati Planci sententia, cum quibusdam censentibus Romulum appellari oportere quasi et ipsum conditorem urbis, praevaluisset, ut Augustus potius vocaretur, non tantum6 novo sed etiam ampliore cognomine, quod loca quoque religiosa et in quibus augurato quid consecratur augusta dicantur, ab auctu vel ab avium gestu gustuve, sicut etiam Ennius docet scribens:
+
+
+
+
+
+"Augusto augurio postquam incluta condita Roma est."
+		
+
 
 
 8
@@ -197,6 +326,14 @@ p158priore vexillo habuit, neque aut commixtos cum ingenuis aut eodem modo armat
 
 	
 3 Dona militaria aliquanto facilius phaleras et torques, quicquid auro argentoque constaret, quam vallares ac murales coronas, quae honore praecellerent, dabat; has quam parcissime et sine ambitione ac saepe etiam caligatis tribuit. M. Agrippam in Sicilia post navalem victoriam caeruleo vexillo donavit. Solos triumphales, quamquam et socios expeditionum et participes victoriarum suarum, numquam donis impertiendos putavit, quod ipsi quoque ius habuissent tribuendi ea quibus vellent. 4 Nihil autem minus perfecto18 duci quam festinationem temeritatemque convenire arbitrabatur. Crebro itaque illa iactabat: σπεῦδε βραδέως·
+
+
+
+
+ἀσφαλὴς γάρ ἐστ᾽ ἀμείνων ἢ θρασὺς στρατηλάτης.
+		
+
+
 
 et: "sat celeriter fieri quidquid fiat satis bene." Proelium quidem aut bellum suscipiendum omnino negabat, nisi cum maior emolumenti spes quam damni metus ostenderetur. Nam minima commoda non minimo sectantis discrimine similes aiebat esse aureo hamo piscantibus, cuius abrupti damnum nulla captura pensari posset.
 
@@ -355,6 +492,14 @@ p186tribulibus37 suis dies comitiorum, ne quid a quoquam candidato desiderarent
 5 Etiam habitum vestitumque pristinum reducere studuit, ac visa quondam pro contione pullatorum turba indignabundus et clamitans: "en
 
 
+
+
+
+Romanos, rerum dominos, gentemque togatam!"
+		
+
+
+
 negotium aedilibus dedit, ne quem posthac paterentur
 
 
@@ -471,6 +616,14 @@ Dictaturam magna vi offerente populo genu nixus deiecta ab umeris toga nudo pect
 1 Domini appellationem ut maledictum et obprobrium semper exhorruit. Cum spectante eo ludos pronuntiatum esset in mimo:
 
 
+
+
+
+"O dominum aequum et bonum!"
+		
+
+
+
 et universi quasi de ipso dictum exsultantes comprobassent, et statim manu vultuque indecoras adulationes repressit et insequenti die gravissimo corripuit edicto; dominumque se posthac appellari ne a liberis quidem aut nepotibus suis vel serio vel ioco
 
 
@@ -576,6 +729,14 @@ p222Agrippam brevi ob ingenium sordidum ac ferox abdicavit seposuitque Surrentum
 p224Atque ad omnem et eius et Iuliarum mentionem ingemiscens proclamare etiam solebat:
 
 
+
+
+
+Αἴθ᾽ ὄφελον ἄγαμός τ᾽ ἔμεναι ἄγονός τ᾽ ἀπολέσθαι.
+		
+
+
+
 Nec aliter eos appellare quam tris vomicas ac tria carcinomata sua.
 
 	
@@ -605,6 +766,14 @@ p228periculi, quia tamen fraus aberat, in iocum vertit. 2 Idem Polum ex accepti
 1 Prima iuventa variorum dedecorum infamiam subiit. Sextus Pompeius ut effeminatum insectatus est; M. Antonius adoptionem avunculi stupro meritum; item L. Marci frater, quasi pudicitiam delibatam a Caesare Aulo etiam Hirtio in Hispania trecentis milibus nummum substraverit solitusque sit crura suburere nuce ardenti, quo mollior pilus surgeret. Sed et populus quondam universus ludorum die et accepit in contumeliam eius et adsensu maximo conprobavit versum in scaena pronuntiatum de gallo Matris Deum tympanizante:
 
 
+
+
+
+Videsne, ut cinaedus orbem digito temperat?"
+		
+
+
+
 69
 
 1 Adulteria quidem exercuisse ne amici quidem negant, excusantes sane non libidine, sed ratione commissa, quo facilius consilia adversariorum per cuiusque mulieres exquireret. M. Antonius super festinatas Liviae nuptias obiecit et feminam
@@ -618,11 +787,47 @@ p230consularem e triclinio viri coram in cubiculum abductam, rursus in conviviu
 
 1 Cena quoque eius secretior in fabulis fuit, quae vulgo δωδεκάθεος vocabatur; in qua deorum dearumque habitu discubuisse convivas et ipsum pro Apolline ornatum non Antoni modo epistulae singulorum nomina amarissime enumerantis exprobrant, sed et sine auctore notissimi versus;
 
+
+
+
+
+"Cum primum istorum conduxit mensa choragum,
+			
+Sexque deos vidit Mallia sexque deas,
+			
+Impia dum Phoebi Caesar mendacia ludit,
+			
+Dum nova divorum cenat adulteria:
+			
+Omnia se a terris tunc numina declinarunt,
+			
+Fugit et auratos Iuppiter ipse thronos."
+		
+
+
 p232
 2 Auxit cenae rumorem summa tunc in civitate penuria ac fames, adclamatumque est postridie: Omne frumentum deos comedisse et Caesarem esse plane Apollinem, sed Tortorem, quo cognomine is deus quadam in parte urbis colebatur. Notatus est et ut pretiosae supellectilis Corinthiorumque praecupidus et aleae indulgens: Nam et proscriptionis tempore ad statuam eius ascriptum est:
 
 
+
+
+
+"Pater argentarius, ego Corinthiarius,"
+		
+
+
+
 cum existimaretur quosdam propter vasa Corinthia inter proscriptos curasse referendos; et deinde bello Siciliensi epigramma vulgatum est:
+
+
+
+
+
+"Postquam bis classe victus naves perdidit,
+			
+Aliquando ut vincat, ludit assidue aleam."
+		
+
 
 
 71
@@ -692,6 +897,15 @@ p244per vicos deportaretur et deposita lectica inter aliquas moras condormiebat.
 
 
 p246ut non nisi ex comparatione astantis alicuius procerioris intellegi potest.
+
+
+
+
+
+Imago Augusti in gemma sculpta Novo Eboraci.
+		
+Photo © Jona Lendering MMVII, venia eius.
+	
 
 
 80
@@ -900,7 +1114,23 @@ p278copia ex vetere instituto Capreis erat; isdem etiam epulum in conspectu suo 
 4 Vicinam Capreis insulam Apragopolim appellabat a desidia secedentium illuc e comitatu suo. Sed ex dilectis unum, Masgaban nomine, quasi conditorem insulae κτίστην vocare consueverat. Huius Masgabae ante annum defuncti tumulum cum e triclinio animadvertisset magna turba multisque luminibus frequentari, versum compositum ex tempore clare pronuntiavit:
 
 
+
+
+
+Κτίστου δὲ τύμβον εἰσορῶ πυρούμενον·
+		
+
+
+
 conversusque ad Thrasyllum Tiberi comitem contra accubantem et ignarum rei interrogavit, cuiusnam poetae putaret90 esse; quo haesitante subiecit alium:
+
+
+
+
+
+Ὁρᾷς φάεσσι Μασγάβαν τιμώμενον;
+		
+
 
 
 ac de hoc quoque consuluit. Cum ille nihil aliud responderet quam, cuiuscumque essent optimos esse, cachinnum sustulit atque in iocos effusus est.
@@ -916,6 +1146,16 @@ p280perspectavit et cum Tiberio ad destinatum locum contendit. Sed in redeundo a
 99
 
 1 Supremo die identidem exquirens, an iam de se tumultus foris esset, petito speculo capillum sibi comi ac malas labantes91 corrigi praecepit et admissos amicos percontatus, ecquid iis videretur mimum92 vitae commode transegisse, adiecit et clausulam:
+
+
+
+
+
+Ἐπεὶ δὲ πάνυ καλῶς πέπαισται, δότε κρότον
+			
+Καὶ πάντες ἡμᾶς μετὰ χαρᾶς προπέμψατε.
+		
+
 
 
 Omnibus deinde dimissis, dum advenientes ab urbe93 de Drusi filia aegra interrogat, repente in osculis Liviae et in hac voce defecit: "Livia, nostri coniugii memor vive, ac vale!" sortitus exitum facilem et qualem semper optaverat. 2 Nam fere quotiens audisset cito ac nullo cruciatu defunctum quempiam, sibi et suis εὐθανασίαν similem — hoc enim et verbo uti solebat — precabatur. Unum omnino ante efflatam animam signum alienatae mentis ostendit, quod subito pavefactus a quadraginta se iuvenibus abripi questus est. Id quoque magis praesagium quam mentis deminutio fuit, siquidem totidem milites praetoriani extulerunt eum in publicum.
@@ -949,179 +1189,223 @@ p286suos quam milies et quingenties professus, quamvis viginti proximis annis qu
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 Servio] servilio, mss.
+❦
 
 2
 magno intervallo per, ς (also V in a correction by a late hand).
+❦
 
 3
 in senatu] a senatu, Mommsen (P. Thomas).
+❦
 
 4
 profiteri, ς; confiteri, Ω.
 
 
+❦
 
 5
 cubiculi Lares, Lipsius; cubiculares, Ω.
 
 
+❦
 
 6
 tantum, ς (Erasmus); eum, MQ; cum, GΠR; enim, V; autem, X; solum, ς (omitted by δ).
 
 
+❦
 
 7
 Parthos, M; the other mss. have in Parthos.
 
 
+❦
 
 8
 deinde, M; the other mss. have dein.
 
 
+❦
 
 9
 parte, Ω. Corrected in 15th century.
+❦
 
 10
 dicitur, MV; dicatur GXΥ and the editors, except Ihm.
+❦
 
 11
 conpecto, Lipsius; conspecto Ω (conspectu, Q).
 
 
+❦
 
 12
 iudicato] indicato, Ω.
 
 
+❦
 
 13
 So the manuscripts; the consul was Gnaeus Domitius Ahenobarbus.
+❦
 
 14
 repetita Italia ς (Schiffer); repetit alia, mss.
+❦
 
 15
 omnia, an addition to the text suggested by Ihm.
+❦
 
 16
 a, Υ′; omitted by the other mss.
+❦
 
 17
 bis] urbis, MGVLP1T.
 
 
+❦
 
 18
 perfecto, Bentley; inperfecto, mss.
+❦
 
 19
 primum, M; the other mss. have primo.
 
 
+❦
 
 20
 prae se identidem, LP1; the other mss. have praesident (praesidens) idem.
 
 
+❦
 
 21
 ultione, ς (ρ); visione, Ω.
 
 
+❦
 
 22
 pronuntiarant, Stephanus; pronuntiarent, Ω (-runt T, Bentley).
 
 
+❦
 
 23
 MGV omit a.
 
 
+❦
 
 24
 et, Bentley; est, Ω.
 
 
+❦
 
 25
 vitam, supplied by Bücheler; normam, Oudendorp.
+❦
 
 26
 grassaturas, V; grassatur ad, M; grassaturam, G; the other mss. have grassatores.
 
 
+❦
 
 27
 exussit, Beroaldus (cf. ἔκαυσε,
 	
 Dio, 53.2); excussit, mss.
+❦
 
 28
 addidit, Stephanus; addixit, Ω.
 
 
+❦
 
 29
 tricensimo, M (the other mss. have tricesimo); vicesimo, Cuiacius; xxv. Shuckburgh. The number is apparently wrong, but the error may have been made by Suetonius himself.
+❦
 
 30
 signatores, Beroaldus; senatores, Ω.
 
 
+❦
 
 31
 orcivos, MGVΥ. abortivos, X; orcinos, ς.
 
 
+❦
 
 32
 excusantibus, Roman and first Venetian editions; excusantis, Ω; excusatis, Ts, Gruter.
+❦
 
 33
 deposito, ς; disposito, Ω.
 
 
+❦
 
 34
 a, quidam apud Torrentium; Ihm suggests sumpta.
 
 
+❦
 
 35
 ex improbatis, ς; the best mss. have in exprobratis.
 
 
+❦
 
 36
 legerent] legerint, MGVL2S.
 
 
+❦
 
 37
 Scaptiensibus tribulibus, Beroaldus; scaptensibus tribubus, Ω.
 
 
+❦
 
 38
 circave] circove GΥ.
 
 
+❦
 
 39
 trecenos, Torrentius (ς); tricenos, Ω.
 
 
+❦
 
 40
 cesseret, ς; cesserat, Ω.
 
 
+❦
 
 41
 munera, added by Perizonius; circensibus ludis gladitoriisque muneribus frequentissime editis interiecit plerumque bestiarum Africanarum venationes, Roth (cf. Mon. Ancyr. iv.39 ff.
@@ -1131,228 +1415,281 @@ and
 Claud. xxi).
 
 
+❦
 
 42
 maiorum, ς; magnorum, Ω.
 
 
+❦
 
 43
 Aesernini, Beroaldus; Asernini, Ω.
 
 
+❦
 
 44
 Lycium, mss. (lucium, R; licium, HT1); L. Icium, Roth.
+❦
 
 45
 loco, early editions; longo, Ω.
 
 
+❦
 
 46
 ludis et scaena, Stephanus; ludos et scenam, Ω.
 
 
+❦
 
 47
 scalpta, Ernesti; sculpta, Ω.
 
 
+❦
 
 48
 sed violentius, Pithoeus; sedulo lentius, MGVΥ; sedulo violentius, XN; sed dolentius, Bentley.
+❦
 
 49
 exque iis, Casaubon; ex quiis MV (ex quis, M2); the other mss. have ex quis (ex quib., S).
 
 
+❦
 
 50
 adoperta, mss.; adaperta, Beroaldus (Shuckburgh).
+❦
 
 51
 grandior iam natu] grandi iam ornatu, Ω.
 
 
+❦
 
 52
 id inedia, Bologna ed. of 1488; inediam, Ω.
 
 
+❦
 
 53
 vir virum, Torrentius; triumvirum, Ω.
 
 
+❦
 
 54
 tribu, Erasmus; tribus, Ω.
 
 
+❦
 
 55
 eripere, Juncker; eriperet, Ω.
 
 
+❦
 
 56
 consensu] concessu, Ω.
 
 
+❦
 
 57
 natare, mss.; notare, Lipsius.
+❦
 
 58
 Phoebe, Pulmann; foede, Ω.
 
 
+❦
 
 59
 Phoebes, Pulmann; foedes (fedes, fede), mss.
+❦
 
 60
 servove, Basle ed. of 1518, in the margin; servoque, Ω.
 
 
+❦
 
 61
 Salvidienus] Salvidenius, Ω, corrected in the Basle ed. of 1533.
+❦
 
 62
 sui, ς; suae, Ω.
 
 
+❦
 
 63
 frigoris, Lipsius; rigoris, mss.
+❦
 
 64
 et after contulisset, mss.; omitted by Torrentius.
+❦
 
 65
 Licinum, Torrentius; Licinium, mss.; et Celadum, Casaubon; enceladum, Ω.
 
 
+❦
 
 66
 oneratis, Tς; onenitos, G; the other mss. have oneratos.
 
 
+❦
 
 67
 aleatorum, mss.; aleatorium, Venice ed. of 1420, and the editors generally.
+❦
 
 68
 technyphion (τεχνύφιον), Bentley; tegnophion, Ω.
 
 
+❦
 
 69
 quorum, Sabellicus; quarum, Ω.
 
 
+❦
 
 70
 quondam] quendam XΠR.
 
 
+❦
 
 71
 acroamata, Sabellicus; acromata, mss. (cromata, M1).
 
 
+❦
 
 72
 ludios, Beroaldus; ludos, mss.
+❦
 
 73
 bibulum, Ω; bubulum, ς and the editors.
+❦
 
 74
 et a memoria, Lipsius; etiam memoriam, etiam in memoriam, mss.
+❦
 
 75
 coxendice] coxaindice, Ω; corrected in the fifteenth century.
+❦
 
 76
 subucula et thorace, Beroaldus; subuculaethorace, Ω.
 
 
+❦
 
 77
 segestria, Roth (segestro, Cuiacius); sestertio, mss.
+❦
 
 78
 absumeret, S2ς; assumeret (adsumeret), Ω.
 
 
+❦
 
 79
 scriptos, ς; scriptis, Ω.
 
 
+❦
 
 80
 iudicium, Bentley; ingenium, Υ′; omitted by the other mss.
+❦
 
 81
 et pro pullo, Sς; apud pullum, Ω.
 
 
+❦
 
 82
 per Arei, Salmasius; sperarei, MGVΥ; omitted by X.
 
 
+❦
 
 83
 Hierosolyma, Burmann; Hierosolymam, mss.
+❦
 
 84
 Dormirent, mss.; domum irent, Graevius;º convenirent, Bentley; <domi> dormirent, Wissowa; etc., etc.
+❦
 
 85
 flammae, mss.; flamma, Modderman.
+❦
 
 86
 atque exitum, Torrentius; at exitum, Ω.
 
 
+❦
 
 87
 Eunti, supplied by Boot.
+❦
 
 88
 Philippos, Boot; Philippo, Ω.
 
 
+❦
 
 89
 omnium, added by C. F. W. Müller; missilium, X′.
 
 
+❦
 
 90
 putaret, Υ; the other mss. have putarit (putaverit, S).
 
 
+❦
 
 91
 labantes, the mss. except GP (corr. by first hand), which have labentes.
 
 
+❦
 
 92
 mimum, P2 (Beroaldus); the other mss. have minimum.
 
 
+❦
 
 93
 ab urbe, L3S2ς; ad urbem, Ω.
 
 
+❦
 
 94
 Appuleio,
@@ -1361,3 +1698,116 @@ Monumentum Ancyranum; Apuleio, Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+Id. Feb. 13

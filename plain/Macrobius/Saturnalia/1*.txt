@@ -1,4 +1,205 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+
+
+
+
+Pagina tota depicta, ite ad capita recte:
+	
+
+I
+	
+	•
+	
+II
+	
+	•
+	
+III
+	
+	•
+	
+IV
+	
+	•
+	
+V
+	
+	•
+	
+VI
+	
+	•
+	
+VII
+	
+	•
+	
+VIII
+	
+	•
+	
+IX
+	
+	•
+	
+X
+	
+	•
+	
+XI
+	
+	•
+	
+XII
+	
+	•
+	
+XIII
+	
+	•
+	
+XIV
+	
+	•
+	
+XV
+	
+	•
+	
+XVI
+	
+	•
+	
+XVII
+	
+	•
+	
+XVIII
+	
+	•
+	
+XIX
+	
+	•
+	
+XX
+	
+	•
+	
+XXI
+	
+	•
+	
+XXII
+	
+	•
+	
+XXIII
+	
+	•
+	
+XXIV
+	
+
+
+
+Macrobii
+	
+Saturnalia
+	
+
+
+Liber I
+	
+p3
+
+
+I.
+	
+
 1 Multas variasque res in hac vita nobis, Eustachi fili, natura conciliavit: sed nulla nos magis quam eorum qui e nobis essent procreati caritate devinxit, eamque nostram in his educandis atque erudiendis curam esse voluit, ut parentes neque, si id quod cuperent ex sententia cederet, tantum ulla alia ex re voluptatis, neque, si contra eveniret, tantum maeroris capere possent. 2 Hinc est quod mihi quoque institutione tua nihil antiquius aestimatur, ad cuius perfectionem compendia longis amfractibus anteponenda ducens moraeque omnis inpatiens non opperior
 
 
@@ -36,6 +237,10 @@ p10vero et Xanthippus, quibus Pericles pater fuit, cum Protagora apud Platonem d
 
 	p11
 
+
+II.
+	
+
 1
 Decius: Temptanti mihi, Postumiane, aditus tuos et mollissima consultandi tempora commodo adsunt feriae quas indulget magna pars mensis Iano dicati. Ceteris enim ferme diebus qui perorandis causis oportuni sunt, hora omnino repperiri nulla potest, quin tuorum clientium negotia vel defendas in foro vel domi discas. Nunc autem, scio te enim non ludo sed serio feriari, si est commodum respondere id quod rogatum venio, tibi ipsi, quantum arbitror, non iniocundum, mihi vero gratissimum feceris. 2 Requiro autem abs te id primum, interfuerisne convivio per conplusculos dies continua comitate renovato, eique sermoni quem praedicare in primis quemque apud omnes maximis ornare laudibus diceris? quem quidem ego ex patre audissem, nisi post illa convivia Roma profectus Neapoli moraretur: aliis vero nuper interfui ammirantibus memoriae tuae vires, universa quae tunc dicta sunt per ordinem saepe referentis. 3 Postumianus: Hoc
 
@@ -57,6 +262,10 @@ p15his potest esse iocundius. 18 Cumque consedissent, tum Caecina: Quidnam id s
 
 
 	
+
+III.
+	
+
 1
 Tum Caecina: Cum vobis qui me in hunc sermonem adducitis nihil ex omnibus quae veteribus elaborata sunt aut ignoratio neget aut oblivio subtrahat, superfluum video inter scientes nota proferre. Sed ne quis me aestimet dignatione consultationis gravari, quicquid de hoc mihi tenuis memoria suggesserit paucis revolvam. Post haec, cum omnes paratos ad audiendum erectosque vidisset, ita exorsus est. 2 M. Varro in libro Rerum
 
@@ -76,7 +285,28 @@ p18post mediam noctem auspicantur et post exortum solem agunt, auspicatique et e
 
 p19id ipsum ostendit, ut hominem decuit poeticas res agentem, recondita atque operta veteris ritus significatione:
 
+Torquet, inquit, medios nox humida cursus:
+	
+Et me saevus equis oriens adflavit anhelis.
+
+
 His enim verbis diem quem Romani civilem appellaverunt a sexta noctis hora oriri ammonet. 11 Idem poeta quando nox quoque incipiat expressit in sexto. Cum enim dixisset:
+
+Hac vice sermonum roseis Aurora quadrigis
+	
+Iam medium aetherio cursu traiecerat axem,
+
+mox suggessit vates:
+
+
+
+
+
+
+Nox ruit, Aenea: nos flendo ducimus horas.
+		
+
+
 
 Ita observantissimus civilium definitionum diei et noctis initia descripsit. Qui dies ita dividitur. 12 Primum tempus diei dicitur mediae noctis inclinatio: deinde gallicinium, inde conticuum, cum et galli conticescunt et homines etiam tum quiescunt: deinde diluculum, id es cum incipit dinosci dies: inde mane, cum dies clarus est. 13 Mane autem dictum, aut quod ab inferioribus locis, id
 
@@ -90,6 +320,10 @@ p21vespera, quod a Graecis tractum est. Illi enim ἑσπέραν a stella Hes
 
 
 	
+
+IV.
+	
+
 1
 Hic, cum omnes quasi vetustatis promptuarium Albini memoriam laudavissent, Praetextatus Avienum videns Furio insursurrantem: Quidnam hoc est, mi Aviene, inquit, quod uni Albino
 
@@ -111,8 +345,26 @@ p25ergo, ne magis varietas veteres delectaverit, quam ut ad amussim verum sit fe
 p26ut dicebant exanimos et exanimes, inermos et inermes, tum hilaros atque hilares: et ideo certum est licito et Saturnalium et Saturnaliorum dici, cum alterum regula cum auctoritate, alterum, etsi sola sed multorum, defendit auctoritas. 17 Reliqua autem verba quae Avieno nostro nova visa sunt veterum nobis sunt testimoniis adferenda. Ennius enim, nisi cui videtur inter nostrae aetatis politiores munditias respuendus, noctu concubia dixit his versibus:
 
 
+
+
+
+Qua Galli furtim noctu summa arcis adorti
+			
+Moenia concubia, vigilesque repente cruentant.
+		
+
+
+
 18
 Quo in loco animadvertendum est non solum quod noctu concubia, sed quod etiam qua noctu dixerit. Et hoc posuit in Annalium septimo, in quorum tertio clarius idem dixit:
+
+
+
+
+
+
+Hac noctu filo pendebit Etruria tota.
+		
 
 
 
@@ -122,8 +374,16 @@ Claudius etiam Quadrigarius Annali tertio: Senatus autem de nocte convenire, no
 
 p27in quibus verbis id etiam notandum, quod ab eo quod est is non eum casu accusativo sed im dixerunt. 20 Sed nec die crastini a doctissimo viro sine veterum auctoritate prolatum est, quibus mos erat modo diequinti modo diequinte pro adverbio copulate dicere: cuius indicium est quod syllaba secunda corripitur, quae natura producitur, cum solum dicitur die. 21 Quod autem diximus extremam istius vocis syllabam tum per e tum per i scribi, consuetum id veteribus fuit, ut his litteris plerumque in fine indifferenter uterentur, sicut praefiscine et praefiscini, proclive et proclivi. 22 Venit ecce illius versus Pomponiani in mentem, qui est ex Atellanita quae Maebia inscribitur:
 
+*Dies hic sextus, cum nihil egi: die quarte moriar fame.
+
+
 23
 p28Die pristine eodem modo dicebatur, quod significabat die pristino, id est priore: quod nunc pridie dicitur converso conpositionis ordine, quasi pristino die. 24 Nec infitias eo lectum apud veteres die quarto: sed invenitur hoc de transacto, non de futuro, positum. Nam Cn. Mattius homo inpense doctus in Mimiambis pro eo dicit quod nudius quartus nos dicimus in his versibus:
+
+Nuper die quarto, ut recordor, et certe
+	
+Aquarium urceum unicum domi fregit.
+
 
 Hoc igitur intererit, ut die quarto quidem de praeterito dicamus, die quarte autem de futuro. 25 Verum ne de die crastini nihil retulisse videamur, suppetit Coelianum illud ex libro Historiarum secundo: Si vis mihi equitatum dare et ipse cum cetero exercitu me sequi, die quinti Romae in Capitolio curabo tibi coenam coctam. 26 Hic Symmachus Coelius tuus, inquit, et historiam et verbum ex Originibus M. Catonis accepit, apud quem ita scriptum est: Igitur
 
@@ -133,6 +393,10 @@ p29dictatorem Carthaginiensium magister equitum monuit: Mitte mecum Romam equita
 
 
 	
+
+V.
+	
+
 1
 Tum Avienus aspiciens Servium: Curius, inquit, et Fabricius et Coruncanius, antiquissimi viri, vel etiam his antiquiores Horatii illi trigemini plane ac dilucide cum suis fabulati sunt: neque Auruncorum aut Sicanorum aut Pelasgorum, qui primi
 
@@ -143,6 +407,34 @@ p30coluisse in Italia dicuntur, sed aetatis suae verbis loquebantur: tu autem, p
 
 
 p31reverentiam verberemus, cuius amorem tu quoque dum dissimulas magis prodis. Cum enim dicis: mille verborum est, quid aliud sermo tuus nisi ipsam redolet vetustatem? 5 Nam licet M. Cicero in oratione quam pro Milone concepit ita scriptum reliquerit: Ante fundum Clodii, quo in fundo propter insanas illas substructiones facile mille hominum versabatur valentium, non versabantur, quod in libris minus accurate scriptis repperiri solet, et in sexta in Antonium: Qui umquam in illo Iano inventus est qui L. Antonio mille nummum ferret expensum?: licet Varro quoque, eiusdem seculi homo, in septimo decimo Humanarum dixerit: Plus mille et centum annorum est: tamen fiduciam sic conponendi non nisi ex antecedentium auctoritate sumpserunt. 6 Nam Quadrigarius in tertio Annalium ita scripsit: Ibi occiditur mille hominum, et Lucilius in tertio Satirarum:
+
+
+
+
+
+
+Ad portum mille a porta est, sex inde Salernum.
+		
+
+
+
+Alibi vero etiam declinationem huius nominis executus est. 7 Nam in libro quinto decimo ita dicit:
+p32
+Hunc milli passum qui vicerit atque duobus
+	
+Campanus sonipes subcursor nullus sequetur
+	
+Maiore spatio, ac diversus videbitur ire.
+
+Item in libro nono:
+
+
+
+
+
+
+Tu milli nummum potes uno quaerere centum.
+		
 
 
 
@@ -162,6 +454,10 @@ p35Ea multa fuerat talentum fere quingentum. 15 Erant isti philosophi Carneades
 
 
 	p36
+
+
+VI.
+	
 
 1
 Postero die ad aedes Vettii matutini omnes inter quos pridie convenerat adfuerunt, quibus Praetextatus in bibliothecam receptis, in qua eos opperiebatur: 2 Praeclarum, inquit, diem mihi fore video, cum et vos adestis et adfuturos se illi quos ad conventus nostri societatem rogari placuit spoponderunt. Soli Postumiano antiquior visa est instruendarum cura defensionum, in cuius abnuentis locum Eusebium Graia et doctrina et facundia clarum rhetorem subrogavi, insinuatumque omnibus, ut ab exorto die se nobis indulgerent, quandoquidem nullis hodie officiis publicis occupari fas esset: togatus certe vel trabeatus paludatusve seu praetextatus hac die videtur nullus. 3 Tum Avienus (ut ei interpellandi
@@ -205,6 +501,10 @@ p45atque liberis in villa erat. Servi eius, cum de vicino scropha erraret, subr
 
 
 	
+
+VII.
+	
+
 1
 Dum ista narrantur, unus e famulitio, cui provincia erat admittere volentes dominum convenire, Evangelum adesse nuntiat cum Disario, qui tunc Romae praestare videbatur ceteris medendi artem professis. 2 Conrugato indicavere vultu plerique de considentibus Evangeli interventum otio suo inamoenum minusque
 
@@ -249,6 +549,14 @@ p53Saturni reverentiam, ut, quoniam ille navi fuerat advectus, ex una quidem par
 
 
 
+
+
+
+Ianiculum huic, illi fuerat Saturnia nomen,
+		
+
+
+
 etiam illud in promptu est, quod posteri quoque duos eis continuos menses dicarunt, ut December sacrum Saturni, Ianuarius alterius vocabulum possideret. 24 Cum inter haec subito Saturnus
 
 
@@ -263,6 +571,15 @@ p55Stercutum vocant, quod primus stercore fecunditatem agris conparaverit. 26 R
 
 p56edito colle Saturnios se nominaverunt, quo ante nomine etiam idem collis vocabatur: et quia se huius dei senserunt nomine ac religione tutos, instituisse Saturnalia feruntur, ut agrestes vicinorum animos ad maiorem sacri reverentiam ipsa indicti festi observatio vocaret. 28 Nec illam causam quae Saturnalibus adsignatur ignoro, quod Pelasgi, sicut Varro memorat, cum sedibus suis pulsi diversas terras petissent, confluxerunt plerique Dodonam et incerti, quibus haererent locis, eiusmodi accepere responsum:
 
+Στείχετε μαιόμενοι Σικελῶν Σατούρνιον αἶαν
+	
+Ἡδ᾽ Ἀβορειγενέων, Κοτύλην, οὗ νᾶσος ὀχεῖται,
+	
+Οἷς ἀναμιχθέντες δεκάτην ἐκπέμπετε Φοίβῳ
+	
+Καὶ κεφαλὰς ἅιδῆ καὶ τῷ πατρὶ πέμπετε φῶτα·
+
+
 acceptaque sorte, cum Latium post errores plurimos adpulissent, in lacu Cutiliensi enatam insulam deprehenderunt. 29 Amplissimus
 
 
@@ -272,6 +589,14 @@ p57enim cespes, sive ille continens limus seu paludis fuit coacta compage virgul
 
 
 p58Diti sacello et Saturni ara, cuius festum Saturnalia nominarunt. 31 Cumque diu humanis capitibus Ditem et virorum victimis Saturnum placare se crederent propter oraculum in quo erat:
+
+
+
+
+
+Καί κεφαλὰς Ἅιδῃ, καὶ τῷ πατρὶ πέμπετε φῶτα,
+		
+
 
 
 Herculem ferunt postea cum Geryonis pecore per Italiam revertentem suasisse illorum posteris, ut faustis sacrificiis infausta mutarent inferentes Diti non hominum capita sed oscilla ad humanam effigiem arte simulata, et aras Saturnias non mactando viro
@@ -289,6 +614,28 @@ p60Apollinis, quo praeceptum est ut pro capitibus supplicaretur. 35 Idque aliqu
 p61familiis, expiarent: ludosque ipsos ex viis compitorum in quibus agitabantur Compitalia appellitaverunt. Sed perge cetera. 36 Et Praetextatus: Bene et oportune similis emendatio sacrificiorum relata est: sed ex his causis, quae de origine huius festi relatae sunt, apparet Saturnalia vetustiora esse urbe Romana, adeo ut ante Romam in Graecia hoc sollemne coepisse L. Accius in Annalibus suis referat his versibus:
 
 
+
+
+
+Maxima pars Graium Saturno et maxime Athenae
+			
+Conficiunt sacra, quae Cronia esse iterantur ab illis,
+			
+Eumque diem celebrant: per agros urbesque fere omnes
+			
+Exercent epulis laeti: famulosque procurant
+			
+Quisque suos, nostrique itidem: et mos traditus illinc
+			
+Iste, ut cum dominis famuli epulentur ibidem.
+		
+
+
+
+
+VIII.
+	
+
 1
 Nunc de ipso dei templo pauca referenda sunt. Tullum Hostilium, cum bis de Albanis, de Sabinis tertio triumphasset,
 
@@ -301,6 +648,16 @@ Senaculum. 2 Illic Graeco
 
 
 p63ritu capite aperto res divina fit, quia primum a Pelasgis post ab Hercule ita eam a principio factitatam putant. 3 Aedem vero Saturni aerarium Romani esse voluerunt, quod tempore quo incoluit Italiam fertur nullum in eius finibus furtum esse commissum, aut quia sub illo nihil erat cuiusquam privatum:
+
+
+
+
+p64
+Nec signare solum aut partiri limite campum
+			
+Fas erat: in medium quaerebant
+		
+
 
 
 ideo apud eum locaretur populi pecunia communis, sub quo fuissent cunctis universa communia. 4 Illud non omiserim, Tritonas cum bucinis fastigio Saturni aedis superpositos, quoniam ab eius commemoratione ad nostram aetatem historia clara et quasi vocalis est, ante vero muta et obscura et incognita: quod testantur caudae Tritonum humi mersae et absconditae. 5 Cur autem Saturnus ipse in compedibus visatur, Verrius Flaccus causam se ignorare dicit: verum mihi Apollodori lectio sic suggerit. Saturnum Apollodorus alligari ait per annum laneo vinculo, et solvi ad diem sibi festum, id est mense hoc Decembri: atque inde proverbium ductum, deos laneos pedes habere: significari vero decimo mense semen in utero animatum in vitam grandescere, quod, donec erumpat in lucem, mollibus naturae vinculis detinetur. 6 Est porro idem Κρόνος καὶ χρόνος. Saturnum enim in quantum mythici
@@ -319,6 +676,10 @@ p67quod certa lege naturae conexa sint tempora, vel quod omnes fruges quibusdam 
 
 
 	
+
+IX.
+	
+
 1
 Et quia Ianum cum Saturno regnasse memoravimus, de Saturno autem quid mythici, quid physici aestiment, iam relatum est: de Iano quoque quid ab utrisque iactetur in medium proferemus. 2 Mythici referunt regnante Iano omnium domos religione ac sanctitate fuisse munitas: idcircoque ei divinos honores esse decretos, et ob merita introitus et exitus aedium eidem consecratos. 3 Xenon quoque primo Italicon tradit Ianum in Italia primum dis templa fecisse et ritus instituisse sacrorum: ideo eum in sacrificiis praefationem meruisse perpetuam. 4 Quidam ideo eum dici bifrontem putant, quod et praeterita sciverit et futura providerit. 5 Sed physici eum magnis consecrant argumentis divinitatis. Nam sunt qui Ianum eundem esse atque Apollinem et Dianam dicant, et in hoc uno utrumque exprimi numen affirment. 6 Etenim, sicut Nigidius quoque refert, apud Graecos Apollo colitur qui Θυραῖος vocatur, eiusque aras ante fores suas celebrant,
 
@@ -348,12 +709,24 @@ p73vocata est, claudere festinarent, quia in ipsam hostes ruebant: postquam est 
 
 
 	
+
+X.
+	
+
 1
 Sed, ut ad Saturnalia revertamur, bellum Saturnalibus sumere nefas habitum, poenas a nocente isdem diebus exigere piaculare est. 2 Apud maiores nostros Saturnalia die uno finiebantur, qui erat a. d. quartum decimum Kalendas Ianuarias: sed
 
 
 
 p74postquam C. Caesar huic mensi duos addixit dies, sexto decimo coepta celebrari. Ea re factum est ut, cum vulgus ignoraret certum Saturnaliorum diem, nonnullique a C. Caesare inserto die et alii vetere more celebrarent, plures dies Saturnalia numerarentur: licet et apud veteres opinio fuerit septem diebus peragi Saturnalia, si opinio vocanda est quae idoneis firmatur auctoribus. 3 Novius enim, Atellanarum probatissimus scriptor, ait:
+
+
+
+
+
+
+Olim expectata veniunt septem Saturnalia
+		
 
 
 
@@ -389,6 +762,10 @@ p80facimus. 23 Abunde iam probasse nos aestimo Saturnalia uno tantum die, id es
 
 
 	
+
+XI.
+	
+
 1
 Tunc Evangelus: Hoc quidem, inquit, iam ferre non possum, quod Praetextatus noster in ingenii sui pompam et ostentationem loquendi vel paulo ante honori alicuius dei adsignari voluit quod servi cum dominis vescerentur, quasi vero curent divina de servis aut sapiens quisquam domi suae contumeliam tam foedae societatis admittat, vel nunc Sigillaria, quae lusum reptanti adhuc infantiae oscillis fictilibus praebent, temptat officio religionis ascribere, et quia princeps religiosorum putatur, nonnulla iam et superstitionis admiscet, quasi vero nobis fas non sit Praetextato
 
@@ -440,6 +817,11 @@ p91se cum ceteris ancillis sub nomine dominarum ad hostes ituram: habituque matr
 
 p92servus qui Perseus vocatus est et Epicuri cui Mys nomen fuit philosophi non incelebres illa aetate vixerunt: Diogenes etiam Cynicus, licet ex libertate in servitutem venum ierat. 43 Quem cum emere vellet Xeniades Corinthius et, quid artificii novisset, percontatus esset: Novi, inquit Diogenes, hominibus liberis imperare. Tunc Xeniades responsum eius demiratus emisit manu, filiosque suos ei tradens: 44 Accipe, inquit, liberos meos quibus imperes. De Epicteto autem philosopho nobili, quod is quoque servus fuit, recentior est memoria quam ut possit inter oblitterata nesciri. 45 Cuius etiam de se scripti duo versus feruntur, ex quibus aliud latenter intellegas, non omni modo dis exosos esse qui in hac vita cum aerumnarum varietate luctantur, sed esse archanas causas ad quas paucorum potuit pervenire curiositas:
 
+Δοῦλος Ἐπίκτητος γενόμην, καὶ σῶμ᾽ ἀνάπηρος,
+	
+Καὶ πενίην Ἶρος, καὶ φίλος ἀθανάτοις.
+
+
 46
 p93Habes, ut opinor, adsertum non esse fastidio despiciendum servile nomen, cum et Iovem tetigerit cura de servo et multos ex his fideles providos fortes, philosophos etiam, extitisse constiterit: nunc de Sigillaribus, ne ridenda me potius aestimes quam sancta dixisse, paucis recensendum est. 47 Epicadus refert Herculem occiso Geryone, cum victor per Italiam armenta duxisset, ponte qui nunc
 	
@@ -453,6 +835,10 @@ p94et in sacellum Ditis arae Saturni cohaerens oscilla quaedam pro suis capitibu
 
 
 	
+
+XII.
+	
+
 1
 Cumque hic facere vellet finem loquendi, subiecit Aurelius Symmachus: Pergin, Praetextate, eloquio tam dulci de anno quoque edissertare, antequam experiaris molestiam consulentis, si quis forte de praesentibus ignorat quo ordine vel apud priscos fuerit vel certioribus postea regulis innovatus sit? Ad quod discendum ipse mihi videris audientium animos incitasse de dierus mensi additis disserendo. Tum ille eodem ductu orandi reliqua contexuit. 2 Anni certus modus apud solos semper Aegyptios
 
@@ -467,6 +853,9 @@ p96Kalendae ad diem septimum decimum, verum habentibus quintanas ad octavum deci
 
 
 p97Saturnalibus: illae, ut principio anni ad promptum obsequium honore servos invitarent, hi, quia gratiam perfecti operis exolverent. 8 Secundum mensem nominavit Aprilem, ut quidam putant, cum aspiratione quasi Aphrilem, a spuma quam Graeci ἀφρὸν vocant, unde orta Venus creditur. Et hanc Romuli adserunt fuisse rationem, ut primum quidem mensem a patre suo Marte, secundum ab Aeneae matre Venere nominaret, et hi potissimum anni principia servarent a quibus esset Romani nominis origo, cum hodieque in sacris Martem patrem Venerem genetricem vocemus. 9 Alii putant Romulum vel altiore prudentia vel certi numinis providentia ita primos ordinasse menses, ut, cum praecedens Marti esset dicatus, deo plerumque hominum necatori, ut Homerus naturae conscius ait:
+
+ἆρες ἄρες βροτολοιγὲ, μιαιφόνε, τειχεσιβλῆτα·
+
 p98secundus Veneri dicaretur, quae vim eius quasi benefica leniret. 10 Nam et in duodecim zodiaci signis, quorum certa certorum numinum domicilia creduntur, cum primum signum Aries Marti adsignatus sit, sequens mox Venerem, id est Taurus, accepit. 11 Et rursus e regione Scorpius ita divisus est, ut deo esset utrique communis. Nec aestimatur ratione caelesti carere ipsa divisio: siquidem aculeo velut potentissimo telo pars armata posterior domicilium Martis est, priorem vero partem, cui Ζυγὸς apud Graecos nomen est, nos Libram vocamus, Venus accepit, quae velut iugo concordi iungit matrimonia amicitiasque conponit. 12 Sed Cingius in eo libro quem de fastis reliquit ait inperite quosdam opinari Aprilem mensem antiquos a Venere dixisse, cum nullus dies festus nullumque sacrificium insigne Veneri per hunc mensem a maioribus institutum sit, sed ne in carminibus quidem Saliorum Veneris ulla, ut ceterorum caelestium, laus celebretur. 12 Cingio etiam Varro consentit adfirmans nomen Veneris ne sub regibus
 
 
@@ -513,6 +902,10 @@ p108Octobrem vero suo nomine Domitianus invaserat. 37 Sed ubi infaustum vocabul
 
 
 	
+
+XIII.
+	
+
 1
 Sed secutus Numa, quantum sub caelo rudi et seculo adhuc inpolito solo ingenio magistro conprehendere potuit, vel
 
@@ -546,6 +939,10 @@ p11521 Tuditanus refert libro tertio Magistratuum Decemviros, qui decem tabulis
 
 
 	
+
+XIV.
+	
+
 1
 Verum fuit tempus cum propter superstitionem intercalatio omnis omissa est: nonnumquam vero per gratiam sacerdotum, qui publicanis proferri vel inminui consulto anni dies volebant, modo auctio modo retractio dierum proveniebat: et sub specie observationis emergebat maior confusionis occasio. 2 Sed postea C. Caesar omnem hanc inconstantiam temporum vagam adhuc et incertam in ordinem state definitionis coegit adnitente sibi M. Flavio scriba, qui scriptos dies singulos ita ad dictatorem retulit,
 
@@ -556,6 +953,14 @@ p116ut et ordo eorum inveniri facillime posset et invento certus status persever
 
 
 p117magnus, cum lunae annus brevis putetur. 5 Horum Virgilius utrumque conplexus est:
+
+
+
+
+
+Interea magnum sol circumvolvitur annum.
+		
+
 
 
 Hinc et Ateius Capito annum a circuitu temporis putat dictum, quia veteres an pro circum ponere consuerunt, ut Cato in Originibus: Arator an terminum, id est circum terminum, et ambire dicitur pro circumire. 6 Iulius ergo Caesar decem dies observationi veteri superadiecit, ut annum trecenti sexaginta quinque dies, quibus sol lustrat zodiacum, efficerent: et, ne quadrans esset, statuit ut quarto quoque anno sacerdotes, qui curabant mensibus ac
@@ -578,6 +983,10 @@ p121iussit, et omnem hunc ordinem aereae tabulae ad aeternam custodiam incisione
 
 
 	
+
+XV.
+	
+
 1
 Tunc Horus: Die quidem hic, inquit, intercalaris, antequam quintus annus incipiat, inserendus cum Aegypti matris artium ratione consentit: sed nihil in illorum mensibus explicandis videtur operosum, quos tricenum dierum omnes habent: eoque explicitis duodecim mensibus, id est trecentis sexaginta diebus exactis, tunc inter Augustum atque Septembrem reliquos quinque dies anno suo reddunt, annectentes quarto quoque anno exacto intercalarem, qui ex quadrantibus confit. 2 At hic non a primo in ultimum mensis diem ad incrementum continuum numerus accedit, sed post Kalendas dirigitur in Nonas: inde ad quasdam Idus deflecti audio: post rursus, ni fallor, immo ut nunc quoque retulisti, in sequentes Kalendas. 3 Quae omnia quid sibi velint, scire equidem vellem. Nam illud nec consequi posse me spero, ut vocabula conprehendam quae singulis apud vos diebus adduntur, dum alios fastos variisque alios nominibus nuncupatis. Nundinas quoque vestras nescire me fateor: de quibus observatio tam diligens tam cauta narratur. Haec nec mihi erubescendum est ignorare peregrino: a te vero, Praetextate, discere nec civem puderet. 4 Tunc Praetextatus: Non solum tibi, inquit, Hore, cum sis Aegypto oriundus, sed ne nobis quidem, quibus origo Romana est, erubescendum puto quaerere quod quaesitu dignum omnes veteres
 
@@ -617,6 +1026,10 @@ p129videtur. Sed Verrium Flaccum iuris pontificii peritissimum dicere solitum re
 
 
 	
+
+XVI.
+	
+
 1
 Sed quia nos ad commemorationem dierum ordo deduxit,
 
@@ -654,7 +1067,24 @@ p133quotiens tonitrua audisset feriata erat, donec placasset deos. 9 Adfirmabat
 p134quod praetermissum noceret. Quapropter si bos in specum decidisset eumque paterfamilias adhibitis operis liberasset, non est visus ferias polluisse: nec ille qui trabem tecti fractam fulciendo ab inminenti vindicavit ruina. 12 Unde et Maro omnium disciplinarum peritus, sciens lavari ovem aut lanae purgandae aut scabiei curandae gratia, pronuntiavit tunc ovem per ferias licere mersari, si hoc remedii causa fieret:
 
 
+
+
+
+Balantumque gregem fluvio mersare salubri.
+		
+
+
+
 Adiciendo enim salubri ostendit avertendi morbi gratia tantummodo, non etiam ob lucrum purgandae lanae causa, fieri concessum. 13 Haec de festis et qui inde nascuntur, qui etiam nefasti vocantur. Nunc de profestis et qui ex his procedunt loquamur, id est fastis comitialibus conperendinis statis praeliaribus. 14 Fasti sunt quibus licet fari praetori tria verba sollemnia, do dico addico; his contrarii sunt nefasti: comitiales sunt quibus cum populo agi licet; et fastis quidem lege agi potest, cum populo non potest, comitialibus utrumque potest: conperendini quibus vadimonium licet dicere: stati qui iudicii causa cum peregrino instituuntur, ut Plautus in Gurgulione:
+
+
+
+
+p135
+
+— Status condictus cum hoste intercessit dies.
+		
+
 
 
 15
@@ -700,15 +1130,35 @@ Plene, ut arbitror, anni ac mensium constitutione digesta habet Horus quoque nos
 
 p143diebus secuti sunt, ut retroversum cedente numero ab augmento in diminutionem conputatio resoluta desineret. 41 Ita enim nos decimum diem deinde nonum et postea octavum dicimus, ut Athenienses δεκάτην καὶ ἐννάτην φθίνοντος soliti sunt dicere. 42 Homerus quoque, cum ait:
 
+Τοῦ μὲν φθίνοντος μηνὸς, τοῦ δ᾽ ἰσταμένοιο,
+
+
 quid aliud nisi illum φθίνοντα dicit cuius paulatim deficientis supputatio in nomen desinit secuturi, et ἱστάμενον illum qui praecedit numerum successurus priori in defectum meanti? 43 Quod et Homerus vester Mantuanus intellegens, illud stare dici ad quod acceditur, ait:
+
+
+
+
+
+Stat sua cuique dies
+		
+
 
 
 extremum diem stare dicens, quasi ad quem per omnes eatur. 44 Idem poeta doctrina ac verecundia iuxta nobilis, sciens Romanos veteres ad lunae cursum et sequentes ad solis anni tempora digessisse, utriusque seculi opinioni reverentiam servans: Vos, quoque inquit,
 p144
+— labentem caelo qui ducitis annum
+	
+Liber et alma Ceres,
+
+
 tam lunam quam solem duces anni hac invocatione designans.
 
 
 	
+
+XVII.
+	
+
 1
 Hic Avienus: Hoc equidem mecum multum ac frequenter agitavi, quid sit quod solem modo Apollinem modo Liberum modo sub aliarum appellationum varietate veneremur. Et
 	
@@ -731,7 +1181,27 @@ p146cuius rei ordinem pergam. Plato solem ἀπόλλωνα cognominatum scribi
 p147solem vocavit: 8 Speusippus, quod ex multis ignibus constet vis eius, ὡς ἀπὸ πολλῶν οὐσιῶν πυρὸς αὐτοῦ συνεστῶτος: Cleanthes, ὡς ἀπ᾽ ἄλλων καὶ ἄλλων τόπων τὰς ἀνατολὰς ποιουμένου, quod ab aliis atque aliis locorum declinationibus faciat ortus: 9 Cornificius arbitratur Apollinem nominatum ἀπὸ τοῦ ἀναπολεῖν, id est quia intra circuitum mundi quem Graeci πόλον appellant impetu latus ad ortus refertur: alii cognominatum Apollinem putant ὡς ἀπολλύντα τὰ ζῶα: exanimat enim et perimit animantes, cum pestem intemperie caloris inmittit, 10 ut Euripides in Phaethonte:
 
 
+
+
+
+Ὦ χρυσοφεγγές ἥλι᾽ ὡς μ᾽ ἀπώλεσας,
+			
+ὅθεν σ᾽ ἀπόλλων᾽ ἐμφανῶς κλῄζει βροτός
+		
+
+
+
 item Archilochus:
+
+
+
+
+
+ἄναξ Ἄπολλον, καὶ σὺ τοὺς μὲν αἰτίους
+			
+σήμαινε, καὶ σφᾶς ὄλλυ᾽ ὥσπερ ὀλλύεις,
+		
+
 
 
 11
@@ -741,6 +1211,11 @@ Denique inustos morbo ἀπολλωνοβλήτους καὶ ἡλιοβλήτ
 
 p148nocendoque, ideo feminas certis adflictas morbis σεληνοβλήτους et ἀρτεμιδοβλήτους vocant. 12 Hinc est quod arcu et sagittis Apollinis simulachra decorantur, ut per sagittas intellegatur vis emissa radiorum:
 
+Αὐτὰρ ἔπειτ᾽ αὐτοῖσι βέλος ἐχεπευκὲς ἐφιεὶς
+	
+βάλλ'.
+
+
 13
 Idem auctor est et publicae sospitatis, quam creditur sol animantibus praestare temperie: sed quia perpetuam praestat salubritatem et pestilens ab ipso casus rarior est, ideo Apollinis simulachra manu dextra Gratias gestant, arcum cum sagittis sinistra: quod ad noxam sit pigrior, et salutem manus promptior largiatur. 14 Hinc est quod eidem attribuitur medendi potestas, quia temperatus solis calor morborum omnium fuga est. Nam ὡς ἀπελαύνοντα τὰς νόσους ἀπόλλωνα tamquam ἀπέλλωνα cognominatum putant. 15 Quae sententia Latinae quoque nominis enuntiationi congruens fecit, ne huius dei nomen verteremus, ut Apollinem apellentem mala intellegas, quem Athenienses ἀλεξίκακον appellant.
 
@@ -748,6 +1223,9 @@ Idem auctor est et publicae sospitatis, quam creditur sol animantibus praestare 
 
 p149Sed et Lindii colunt Apollinem Λοίμιον, hoc cognomine finita pestilentia nuncupatum. Eadem opinio sospitalis et medici dei in nostris quoque sacris fovetur. Namque virgines Vestales ita indigitant: Apollo Medice, Apollo Paean. 16 Cum ergo sint huiusce sideris, id est solis, duo maximi effectus, alter quo calore temperato iuvat mortalium vitam, alter quo iactu radiorum nonnumquam pestiferum virus inmittit, duo eademque cognomina circa singulos effectus propriis enuntiationibus signant, appellantes deum Ἰήϊον atque Παιᾶνα: quae cognomina utrique effectui apta sunt, ut sit Ἰήϊος ἀπὸ τοῦ ἰᾶσθαι, id est a sanando, et Παιὰν ἀπὸ τοῦ παύειν τὰς ἀνίας, et rursus Ἰήϊος ἀπὸ τοῦ ἱέναι, ab inmittendo,
 	p150
+— βέλος ἐχεπευκὲς ἐφιεὶς,
+
+
 et Παιὰν ἀπὸ τοῦ παίειν, a feriendo. 17 Optinuit tamen ut, cum sanitatem dari sibi precantur, ἰὴ Παιὰν per η litteram enuntient, id est medere Paean: cum autem ἵε Παιὰν per ε litteram dicunt cum aspiratione prioris litterae, significant hoc dici in aliquem adversa precatione, βάλε Παιὰν, id est inmitte feriendo: qua voce ferunt Latonam usam, cum Apollinem hortaretur impetum Pythonis incessere sagittis, cuius rei naturalem rationem suo loco reddam. 18 Hanc vocem, id est ἵε Παιὰν, confirmasse fertur oraculum Delphicum Atheniensibus petentibus opem dei adversus Amazonas Theseo regnante. Namque inituros bellum iussit his ipsis verbis semet ipsum auxiliatorem invocare hortarique. 19 Apollodorus in libro quarto decimo περὶ θεών Ἰήϊον [solem] scribit [ita]
 
 
@@ -755,11 +1233,44 @@ et Παιὰν ἀπὸ τοῦ παίειν, a feriendo. 17 Optinuit tamen ut
 p151appellari Apollinem ἀπὸ τοῦ κατὰ τὸν κόσμον ἵεσθαι καὶ ἰέναι, quod sol per orbem impetu fertur. 20 Sed Timotheus ita:
 
 
+
+
+
+Σύ τε, ὦ τὸν ἀεὶ πόλον οὐράνιον
+			
+λαμπραῖς ἀκτῖσ᾽ ἥλιε βάλλων,
+			
+πέμψον ἑκαβόλον ἐχθροῖσι βέλος
+			
+σᾶς ἀπὸ νεύρας, ὢ ἵε Παιάν.
+		
+
+
+21
+Eundem deum praestantem salubribus causis Οὔλιον appellant, id est sanitatis auctorem, ut ait Homerus:
+
+
+
+
+
+Οὖλέ τε καὶ μάλα χαῖρε.
+		
+
+
+
 Meandrius scribit Milesios ἀπόλλωνι Οὐλίῳ pro salute sua immolare. Pherecydes refert Thesea, cum in Cretam ad Minotaurum
 
 
 
 p152duceretur, vovisse pro salute atque reditu suo ἀπόλλωνι Οὐλίῳ καὶ ἀρτέμιδι Οὐλίᾳ. 22 Nec mirum, si gemini effectus variis nominibus celebrantur, cum alios quoque deos ex contrario in eadem re duplici censeri et potestate accipiamus et nomine, ut Neptunum quem alias Ἐνοσίχθονα, id est terram moventem, alias ἀσφαλίωνα, id est stabilientem, vocant: item Mercurius hominum mentes vel oculos et excitat et sopit, ut ait poeta:
+
+
+
+
+
+Εἴλετο δὲ ῥάβδον, τῇτ᾽ ἀνδρῶν ὄμματα θέλγει.
+		
+
 
 
 23
@@ -782,7 +1293,24 @@ p155ut ait Oenopides: ὅτι ἐκπορεύεται τὸν λοξὸν κύκ
 p156incolunt insulam, ἀειγενέτῆ Apollini immolant, τῷ τὸν ἥλιον ἀεὶ γίγνεσθαι καὶ ἀεὶ γεννᾶν, id est quod semper exoriens gignitur, quodque ipse generat universa inseminando fovendo producendo alendo augendoque. 36 Apollinis Lycii plures accipimus cognominis causas. Antipater Stoicus Lycium Apollinem nuncupatum scribit ἀπὸ τοῦ λευκαίνεσθαι πάντα φωτίζοντος ἡλίου. Cleanthes Lycium Apollinem appellatum notat, quod, veluti lupi pecora rapiunt, ita ipse quoque humorem eripit radiis. 37 Prisci Graecorum primam lucem, quae praecedit solis exortus, λύκην appellaverunt ἀπὸ τοῦ λευκοῦ. Id temporis hodieque λυκόφως cognominant. 38 De quo tempore ita poeta scribit:
 
 
+
+
+
+p157
+Ἦμος δ᾽ οὔτ᾽ ἄρ πω ἠὼς, ἔτι δ᾽ ἀμφιλύκη νύξ.
+		
+
+
+
 idem Homerus:
+
+
+
+
+
+Εὒχεο δ᾽ Ἀπόλλωνι Λυκηγενει κλυτοτόχῳ,
+		
+
 
 
 quod significat τῷ γεννῶντι τὴν λύκην, id est qui generat exortu suo lucem: radiorum enim splendor propinquantem solem longe lateque praecedens, atque caliginem paulatim extenuans tenebrarum, parit lucem. 39 Neque minus Romani, ut pleraque alia ex Graeco, ita et lucem videntur a λύκῆ figurasse. Annum quoque vetustissimi Graecorum λυκάβαντα appellabant, τὸν ἀπὸ τοῦ λύκου,
@@ -791,16 +1319,35 @@ quod significat τῷ γεννῶντι τὴν λύκην, id est qui generat e
 
 p158id est sole, βαινόμενον καὶ μετρούμενον. 40 Λύκον autem solem vocari etiam Lycopolitana Thebaidos civitas testimonio est: quae pari religione Apollinem itemque lupum, hoc est λύκον, colit, in utroque solem venerans, quod hoc animal rapit et consumit omnia in modum solis ac plurimum oculorum acie cernens tenebras noctis evincit. 41 Ipsos quoque λύκους a λύκῆ, id est a prima luce, appellatos quidem putant, quia hae ferae maxime id tempus aptum rapiendo pecori observant, quod antelucanum post nocturnam famem ad pastum stabulis expellitur. 42 Apollinem Πατρῷον cognominaverunt, non propria gentis unius aut civitatis religione, sed ut auctorem progenerandarum omnium rerum, quod sol humoribus exiccatis ad progenerandum omnibus praebuit causam, ut ait Orpheus:
 
+Πατρὸς ἔχοντα νόον καὶ ἐπίφρονα βουλήν·
+
+
 unde nos quoque Ianum patrem vocamus, solem sub hac appellatione venerantes. 43 Νόμιον ἀπόλλωνα cognominaverunt, non ex
 
 
 
 p159officio pastorali et fabula per quam fingitur Admeti regis pecora pavisse, sed quia sol pascit omnia quae terra progenerat. 44 Unde non unius generis sed omnium pecorum pastor canitur, ut apud Homerum Neptuno dicente:
 
+Φοῖβε, σὺ δ᾽ εἰλίποδας ἕλικας βοὺς βουκολέεσκες.
+
+Atque idem apud eundem poetam equarum pastor significatur, ut ait:
+
+Τὰς ἐν Φηρίῆ θρέψ᾽ ἀργυρότοχος Ἀπόλλων,
+	
+ἄμφω θηλείας, φόβον ἄρηος φορεούσας.
+
+
 45
 Praeterea aedes, ut ovium pastoris, sunt apud Camirenses Ἐπιμηλίου, apud Naxios Ποιμνίου· itemque deus ἀρνοκόμης colitur, et apud Lesbios Ναπαῖος: et multa sunt cognomina per diversas civitates ad dei pastoris officium tendentia. Quapropter universi pecoris antistes et vere pastor agnoscitur. 46 Apollo Ἐλελεὺς appellatur ἀπὸ τοῦ ἐλίττεσθαι περὶ τὴν γῆν
 , quod aeterno circa terram meatu veluti volvi videtur, ut ait Euripides:
 p160
+
+ Ἥλιε θοαῖς ἵπποισιν ἐλίσσων φλόγα,
+
+ἢ ὅτι συναλισθέντος πολλοῦ πυρὸς περιπολεῖ, ut ait Empedocles:
+
+Οὒνεκ᾽ ἀναλισθεὶς μέγαν οὐρανὸν ἀμφιπολεύει.
+
 
 Platon: ἀπὸ τοῦ συναλίζειν καὶ συναθροίζειν τοὺς ἀνθρώπους, ὅταν ἀανατείλῆ, quod exoriens homines conducit in coetum. 47 Apollo Χρυσοκόμας cognominatur a fulgore radiorum, quas vocant comas aureas solis: unde et ἀκερσικόμης, quod numquam radii possunt a fonte lucis avelli: item ἀργυρότοξος, quod enascens
 
@@ -824,6 +1371,15 @@ p164partus progressione fulgeret. 55 Sed divinae providentiae vicit instantia, 
 
 p165tamen ac deorsum ventorum vices certa deflexione variando iter suum velut flexum draconis involvit. 59 Unde Euripides:
 
+— Πυριγενὴς δὲ δράκων
+	
+ὁδὸν ἡγεῖται ταῖς τετραμόρφοις
+	
+ὥραισι ζευγνὺς ἁρμονίᾳ
+	
+πλούτου πολύκαρπον ὄχημα.
+
+
 Sub hac ergo appellatione caelestis itineris sol, cum confecisset suum cursum, draconem confecisse dicebatur: inde fabula exorta est de serpentis nece. 60 Sagittarum autem nomine non nisi radiorum iactus ostenditur, qui tunc longissimi intelleguntur, quo tempore altissimus sol diebus longissimis solstitio aestivo conficit annuum cursum, inde Ἑκηβόλος et Ἑκατηβόλος dictus, ἕκαθεν τὰς ἀκτῖνας βάλλων, e longissimo altissimoque radios in terram usque demittens. 61 De Pythii cognomine sufficere ista potuissent, ni haec
 
 
@@ -842,6 +1398,10 @@ p168volatus: ante pedes imago feminea est, cuius dextera laevaque sunt signa fem
 
 
 	
+
+XVIII.
+	
+
 1
 Haec quae de Apolline diximus possunt etiam de Libero dicta existimari. Nam Aristoteles, qui Theologumena scripsit, Apollinem et Liberum patrem unum eundemque deum
 
@@ -854,10 +1414,35 @@ p169esse cum multis aliis argumentis adserat, etiam apud Ligyreos ait in Thracia
 p170et Apollini et Libero patri in eodem monte res divina celebratur. 4 Quod cum et Varro et Granius Flaccus adfirment, etiam Euripides his docet:
 
 
+
+
+
+Διόνυσος ὃς θύρσοισι καὶ νεβρῶν δοραῖς
+			
+καθαπτὸς ἐν πεύκαισι Παρνασσὸν κάτα
+			
+πηδᾷ χορεύων
+		
+
+
+
 5 In hoc monte Parnaso Bacchanalia alternis annis aguntur: ubi et Satyrorum, ut adfirmant, frequens cernitur coetus et plerumque voces propriae exaudiuntur, itemque cymbalorum crepitus ad aures hominum saepe perveniunt. 6 Et, ne quis opinetur diversis dis Parnasum montem dicatum, idem Euripides in Licymnio Apollinem Liberumque unum eundemque deum esse significans scribit:
 
 
+
+Δέσποτα φιλόδαφνε Βάκχε, Παιὰν ἄπολλων εὔλυρε.
+
+
 Ad eandem sententiam Aeschylus:
+
+
+
+
+
+p171
+Ὁ Κισσεὺς ἀπόλλων, ὁ Βακχεῖος, ὁ μάντις.
+		
+
 
 
 7
@@ -872,37 +1457,150 @@ p172specie, senili quoque, uti Graeci eius quem βασσαρέα, item quem Βρ
 p173solem atque Liberum accipimus, quem illi Sebadium nuncupantes magnifica religione celebrant, ut Alexander scribit: eique deo in colle Zilmisso aedes dicata est specie rotunda, cuius medium interpatet tectum. Rotunditas aedis monstrat huiusce sideris speciem: summoque tecto lumen admittitur, ut appareat solem cuncta vertice summo lustrare lucis inmissu, et quia oriente eo universa patefiunt. 12 Orpheus quoque solem volens intellegi ait inter cetera:
 
 
+
+
+
+Τήκων αἰυέρα δι᾽ ὃν, άκίνητον πρὶν ἐοντα,
+	p174
+ἐξανέφηνε θεοῖσιν ὁρᾶν κάλλιστον ίδέσθαι,
+			
+ὃν δὴ νῦν καλέουσι Φάνητά τε καὶ Διόνυσον
+			
+Εὐβουλῆα τ᾽ ἄνακτα καὶ Ἀνταύγην ἀρίδηλον·
+			
+ἄλλοι δ᾽ ἄλλο καλοῦσιν ἐπιχθονίων ἀνθρώπων.
+			
+Πρῶτος δ᾽ ἐς φάος ἤλθε, Διόνυσος δ᾽ ἐπεκλήθη,
+			
+οὗνεκα δινεῖται κατ᾽ ἀπείρονα μακρὸν Ὄλυμπον·
+			
+ἀλλαχθεὶς δ᾽ ὄνομ᾽ ἔσχε, προσωνυμίας πρὸς ἕκαστον
+			
+παντοδαπὰς κατὰ καιρὸν, ἀμειβομένοιο χρόνοιο.
+		
+
+
+
 13 Φάνητα dixit solem ἀπὸ τοῦ φῶτὸς καὶ φανεροῦ, id est a lumine atque inluminatione, quia cunctis visitur cuncta conspiciens: Διόνυσον, ut ipse vates ait, ἀπὸ τοῦ δινεῖσθαι καὶ περιφέρεσθαι, id est quod circumferatur in ambitum. 14 Unde Cleanthes ita cognominatum scribit ἀπὸ τοῦ διανύσαι, quia cotidiano impetu ab oriente ad occasum diem noctemque faciendo caeli conficit cursum. 15 Physici Διόνυσον Διὸς νοῦν, qui solem mundi mentem esse dixerunt: mundus autem vocatur caelum, quod appellant Iovem: unde Aratus de caelo dicturus ait:
+
+
+
+
+
+p175
+Ἐκ Διὸς ἀρχώμεσθα.
+		
+
 
 
 16
 Liber a Romanis appellatur, quod liber et vagus est, ut ait Naevius:
 
+Hac qua sol vagus igneas habenas
+	
+Inmittit propius iugatque terrae.
+
+
 17
 Idem versus Orpheici Εὐβουλῆα vocantes boni consilii hunc deum praestitem monstrant. Nam si conceptu mentis consilia nascuntur, mundi autem mentem solem esse opinantur auctores, a quo in homines manat intellegendi principium: merito boni consilii solem antistitem crediderunt. 18 Solem Liberum esse manifeste pronuntiat Orpheus hoc versu:
 
 
+ Ἥλιος ὃν Διόνυσον ἐπίκλησιν καλέουσιν.
+
+
 Et is quidem versus absolutior: ille vero eiusdem vatis operosior:
+
+Εἷς Ζεὺς, εἷς Ἅιδης, εἷς Ἥλιος, εἷς Διόνυσος.
+
 
 19
 Huius versus auctoritas fundatur oraculo Apollinis Clarii, in quo aliud quoque nomen soli adicitur, qui in isdem sacris versibus inter cetera vocatur Ἰαώ: nam consultus Apollo Clarius, quis deorum habendus sit qui vocatur Ἰαὼ, ita effatus est:
+
+
+
+
+p176
+20 Ὄργια μὲν δεδαῶτας ἐχρῆν νηπευθέα κεύθειν,
+			
+εἰ δ᾽ ἄρα τοι παύρη σύνεσις καὶ νοῦς ἀλαπαδνός,
+			
+φράζεο τὸν πάντων ὕπατον θεὸν ἔμμεν Ἰαὼ,
+			
+χείματι μέν τ᾽ ἀΐδην, Δία δ᾽ εἴαρος ἀρχομένοιο,
+			
+Ἠέλιον δὲ θέρευς, μετοπώρου δ᾽ ἁβρὸν Ἰαώ.
+	
 
 p177
 21
 Huius oraculi vim, numeris nominisque interpretationem, qua Liber pater et sol Ἰαὼ significatur, executus est Cornelius Labeo in libro cui titulus est: De oraculo Apollinis Clarii. 22 Item Orpheus Liberum atque Solem unum esse deum eundemque demonstrans de ornatu vestituque eius in sacris Liberalibus ita scribit:
 
 
+
+
+
+Ταῦτά τε πάντα τελεῖη, ἦρι σκευῇ πυκάσαντα
+			
+σῶμα θεοῦ, μίμημα περικλύτου ἠελινοιο·
+			
+πρῶτα μὲν οὖν φλογέαις ἐναλίγκιον ἀκτίνεσσιν
+			
+πέπλον φοινίκεον πυρὶ εἴκελον ἀμφιβαλέσθαι·
+			
+αὐτὰρ ὗπερθε νεβροῖο παναίολον εὐρὺ καθάψαι
+		p178
+
+δέρμα πολύστικτον θηρὸς κατὰ δεξιὸν ὦμον,
+			
+ἄστρων δαιδαλέων μίμημ᾽ ἱεροῦ τε πόλοιο.
+			
+Εὶτα δ᾽ ὕπερθε νεβρῆς χρύσεον ζωστῆρα βαλέσθαι,
+			
+παμφανόωντα, πέριξ στέρνων φορέειν, μέγα σῆμα,
+			
+εὐθὺς ὅτ᾽ ἐκ περάτων γαίης φαέθων ἀνορούων
+			
+χρυσείαις ἀκτῖσι βάλῆ ῥόον ὠκεανοῖο,
+			
+αὐγὴ δ᾽ ἄσπετος ᾖ, ἀνὰ δὲ δρόσῳ ἀμφιμιγεῖσα
+			
+μαρμαίρῆ δίνῆσιν ἑλισσομένη κατὰ κύκλον,
+			
+πρόσθε θεοῦ· ζωστὴρ δ᾽ ἄρ᾽ ὑπὸ στέρνων ἀμετρήτων
+			
+φαίνεται ὠκεανοῦ κύκλος, μέγα θαῦμα ἰδέσθαι.
+		
+
+
+
 23
 Hinc et Virgilius, sciens Liberum patrem solem esse et Cererem lunam, qui pariter fertilitatibus glebae et maturandis frugibus vel nocturno temperamento vel diurno calore moderantur,
 
+— Vestro, ait, si munere tellus
+	
+Chaoniam pingui glandem mutavit arista.
+
+
 24
 Solem vero terrenae esse fecunditatis auctorem idem poeta profano mox docuit exemplo, cum ait:
+
+
+
+
+
+Saepe etiam steriles incendere profuit agros
+		
+
 
 
 et reliqua. Si enim hominum commento ignis adhibitus multiplex praestat auxilium, quid ascribendum est aetherio solis calori?
 
 
 	
+
+XIX.
+	
+
 1
 Quae de Libero patre dicta sunt, haec Martem eundem
 
@@ -917,11 +1615,28 @@ Hispana gens, simulachrum Martis radiis ornatum maxima religione celebrant, Neto
 p180vocantes. 6 Et certe ratio naturalis exigit ut di caloris caelestis parentes magis nominibus quam re substantiaque divisi sint: fervorem autem quo animus excandescit excitaturque alias ad iram alias ad virtutes nonnumquam ad temporalis furoris excessum, per quas res etiam bella nascuntur, Martem cognominaverunt, cuius vim poeta exprimendo et similitudini ignis adplicando ait:
 
 
+
+
+
+Μαίνετο δ᾽ ὡς ὅτ᾽ ἄρης ἐγχέσπαλος ἢ ὀλοὸν πῦρ.
+		
+
+
+
 In summa pronuntiandum est effectum solis, de quo fervor animorum, de quo calor sanguinis excitatur, Martem vocari.
 
 	
 7
 Ut vero Mercurius sol probetur, superius edocta suffragio sunt. Eundem enim esse Apollinem atque Mercurium vel hinc apparet quod apud multas gentes stella Mercurii ad Apollinis nomen refertur, et quod Apollo Musis praesidet, Mercurius sermonem, quod est Musarum munus, inpertit. 8 Praeter hoc quoque simulachra Mercurii pennatis alis adornantur, quae res monstrat solis velocitatem. 9 Nam quia mentis potentem Mercurium credimus, appellatumque ita intellegimus ἀπὸ τοῦ ἑρμηνεύειν, et sol mundi mens est, summa autem est velocitas mentis, ut ait Homerus:
+
+
+
+
+
+p181
+— ὡσεὶ πτερὸν ἠὲ νόημα·
+
+
 
 
 ideo pennis Mercurius quasi ipsa natura solis ornatur. 9 Hoc argumentum Aegyptii lucidius absolvunt ipsius solis simulachra pennata fingentes, quibus color apud illos non unus est. Alterum enim caerulea specie alterum clara fingunt. Ex his clarum superum et caeruleum inferum vocant: inferi autem nomen soli datur, cum in inferiore hemisphaerio, id est hiemalibus signis, cursum suum peragit: superi, cum partem zodiaci ambit aestivam. 11 Eadem circa Mercurium sub alia fabula fictio est, cum inter superos et inferos deos administer ac nuntius aestimatur. 12 Argiphontes praeterea cognominatur, non quod Argum peremerit, quem ferunt per ambitum capitis multorum oculorum luminibus ornatum, custodisse Iunonis imperio Inachi filiam, eius deae pellicem, conversam in bovis formam: sed sub huiusmodi fabula Argus est caelum stellarum luce distinctum, quibus inesse quaedam
@@ -944,6 +1659,10 @@ p185praecipue volumen electum est propter iter utriusque sideris flexuosum.
 
 
 	
+
+XX.
+	
+
 1
 Hinc est quod simulachris et Aesculapii et Salutis draco subiungitur, quod hi ad solis naturam lunaeque referuntur. Et est Aesculapius vis salubris de substantia solis subveniens animis corporibusque mortalium: Salus autem naturae lunaris effectus est quo corpora animantium iuvantur salutifero firmata temperamento. 2 Ideo ergo simulachris eorum iunguntur figurae draconum, quia praestant ut humana corpora velut infirmitatis pelle deposita ad pristinum revirescant vigorem, ut revirescunt dracones per annos singulos pelle senectutis exuta: propterea et ad ipsum solem species draconis refertur, quia sol semper velut a quadam imae depressionis senecta in altitudinem suam ut in robur revertitur iuventutis. 3 Esse autem draconem inter praecipua solis argumenta etiam nominis fictione monstratur, quod sit nuncupatus ἀπὸ τοῦ δέρκειν, id est videre. Nam ferunt hunc serpentem
 
@@ -952,7 +1671,23 @@ Hinc est quod simulachris et Aesculapii et Salutis draco subiungitur, quod hi ad
 p186acie acutissima et pervigili naturam sideris huius imitari, atque ideo aedium adytorum oraculorum thesaurorum custodiam draconibus adsignari. 4 Aesculapium vero eundem esse atque Apollinem non solum hinc probatur, quod ex illo natus creditur, sed quod ei et vis divinationis adiungitur. Nam Apollodorus in libris quibus titulus est περὶ θεῶν scribit quod Aesculapius divinationibus et auguriis praesit. 5 Nec mirum: siquidem medicinae atque divinationum consociatae sunt disciplinae. Nam medicus vel commoda vel incommoda in corpore futura praenoscit, sicut ait Hippocrates oportere medicum dicere de aegroto τά τε παρεόντα καὶ τὰ προγεγονότα καὶ τὰ μέλλοντα ἔσεσθαι, id est
 
 
+
+
+
+Quae sint, quae fuerint, quae mox ventura sequentur
+		
+
+
+
 quod congruit divinationibus quae sciunt
+
+
+
+
+
+— τά τ᾽ ἔοντα τά τ᾽ ἐσσόμενα πρό τ᾽ ἐόντα.
+		
+
 
 
 6
@@ -979,10 +1714,28 @@ Eidem Aegypto adiacens civitas, quae conditorem Alexandrum Macedonem gloriatur, 
 p190blanditur: tempora autem cui nisi proprio famularentur auctori? cuius vertex insignitus calatho et altitudinem sideris monstrat et potentiam capacitatis ostendit, quia in eum omnia terrena redeunt, dum inmisso calore rapiuntur. 16 Accipe nunc quod de sole vel Sarapi pronuntietur oraculo. Nam Sarapis, quem Aegyptii deum maximum prodiderunt, oratus a Nicocreonte Cypriorum rege, quis deorum haberetur, his versibus sollicitam religionem regis instruxit:
 
 
+
+
+
+17Εἰμὶ θεὸς τοιόσδε μαθεῖν, οἷόν κ᾽ ἐγὼ εἴπω·
+			
+οὐράνιος κόσμος κεφαλὴ, γαστὴρ δὲ θάλασσα,
+			
+γαῖα δέ μοι πόδες εἰσὶ, τὰ δ᾽ ουἄτ᾽ ἐν αἰθέρι κεῖται,
+			
+ὄμμα τε τηλαυγὲς λαμπρὸν φάος ἠελίοιο.
+		
+
+
+
 18
 Ex his apparet Sarapis et solis unam et individuam esse naturam. Isis iuncta religione celebratur, quae est vel terra vel natura rerum subiacens soli. Hinc est quod continuatis uberibus corpus deae omne densetur, quia vel terrae vel rerum naturae altu nutritur universitas.
 
-	p191
+	
+
+XXI.
+	
+p191
 1
 Adonin quoque solem esse non dubitabitur inspecta religione Assyriorum, apud quos Veneris Architidis et Adonis maxima olim veneratio viguit, quam nunc Phoenices tenent. Nam physici terrae superius hemisphaerium, cuius partem incolimus, Veneris appellatione coluerunt: inferius vero hemisphaerium terrae Proserpinam vocaverunt. 2 Ergo apud Assyrios sive Phoenicas lugens inducitur dea, quod sol annuo gressu per duodecim signorum ordinem pergens partem quoque hemisphaerii inferioris ingreditur, quia de duodecim signis zodiaci sex superiora sex inferiora censentur. 3 Et cum est in inferioribus et ideo dies breviores facit, lugere creditur dea, tamquam sole raptu mortis temporalis amisso et a Proserpina retento, quam numen terrae inferioris circuli et antipodum diximus: rursumque Adonin redditum Veneri credi volunt, cum sol evictis sex signis inferioris ordinis incipit
 
@@ -1031,6 +1784,14 @@ p197quem Neuton cognominant, maxime colunt, vel quia bos Apis in civitate Memphi
 p198solis. 21 Nam et per singulas horas mutare colores adfirmatur et hirsutus setis dicitur in adversum nascentibus contra naturam omnium animalium: unde habetur velut imago solis in adversam mundi partem nitentis. 22 Gemini autem, qui alternis mortibus vivere creduntur, quid aliud nisi solem unum eundemque significant modo descendentem in ima mundi modo mundi in summam altitudinem resurgentem? 23 Cancer obliquo gressu quid aliud nisi iter solis ostendit, qui viam numquam rectam sed per illam semper meare sortitus est
 
 
+
+
+
+Obliquus qua se signorum verteret ordo
+		
+
+
+
 maximeque in illo signo sol in cursu supero incipit obliquus inferiora iam petere. 24 De Leone iam supra dictum est. Virgo autem, quae manu aristam refert, quid aliud quam δύναμις ἡλιακὴ quae fructibus curat? Et ideo Iustitia creditur, quae sola facit
 
 
@@ -1039,6 +1800,10 @@ p199nascentes fructus ad usus hominum pervenire. 25 Scorpius totus, in quo Libr
 
 
 	
+
+XXII.
+	
+
 1
 Et, ut ad solis multiplicem potestatem revolvatur oratio, Nemesis quae contra superbiam colitur quid aliud est quam solis potestas, cuius ista natura est ut fulgentia obscuret et conspectui auferat quaeque sunt in obscuro inluminet offerat conspectui?
 
@@ -1049,6 +1814,9 @@ Pan ipse, quem vocant Inuum, sub hoc habitu quo cernitur solem se esse prudentio
 
 
 p201barbaeque prolixa demissio naturam lucis ostendunt, qua sol et ambitum caeli superioris inluminat et inferiora conlustrat: unde Homerus de eo ait:
+
+ Ὤρνυθ᾽ ἵν᾽ ἀθανάτοισι φόως φέροι, ἠδὲ βροτοῖσιν.
+
 
 Quid fistula vel virga significent superius in habitu Attinis expressimus. 5 Quod in caprae pedes desinit, haec argumenti ratio est, quia materia, quae in omnem substantiam sole dispensante porrigitur, divinis de se corporibus effectis in terrae finitur elementum. 6 Ad huius igitur extremitatis signum pedes huius animalis electi sunt, quod et terrenum esset et tamen semper peteret alta pascendo, sicut sol, vel cum radios superne demittit in terras vel cum se recolligit, in montibus visitur. 7 Huius Inui amor et deliciae Ἠχὼ creditur nullius oculis obnoxia: quod significat harmoniam caeli, quae soli amica est quasi sphaerarum omnium de quibus nascitur moderatori, nec tamen potest nostris umquam sensibus deprehendi.
 
@@ -1062,8 +1830,19 @@ p202distinctus, luce patefactus, nexus aeternitate conductus, visione discretus,
 
 
 	
+
+XXIII.
+	
+
 1
 Nec ipse Iuppiter, rex deorum, naturam solis videtur excedere: sed eundem esse Iovem ac solem claris docetur indiciis. Nam cum ait Homerus:
+
+Ζεὺς γὰρ ἐς ὠκεανὸν μετ᾽ ἀμύμονας Αἰθιοπῆας
+	
+χθιζὸς ἔβη μετὰ δαῖτα, θεοὶ δ᾽ ἅμα πάντες ἕποντο,
+	
+δωδεκάτῆ δέ τοι αὖθις ἐλεύσεται Οὐλυμπόνδε,
+
 
 2
 Iovis appellatione solem intellegi Cornificius scribit, cui unda oceani velut dapes ministrat. Ideo enim, sicut et Posidonius et Cleanthes adfirmant, solis meatus a plaga quae usta dicitur non recedit, quia sub ipsa currit oceanus qui terram et ambit et dividit, omnium autem physicorum adsertione constat calorem humore nutriri. 3 Nam quod ait: θεοὶ δ᾽ ἅμα πάντες ἕποντο, sidera intelleguntur, quae cum eo ad occasus ortusque cotidiano impetu caeli feruntur eodemque aluntur humore. Θεοὺς enim dicunt sidera et stellas, ἀπὸ τοῦ θέειν, id est τρέχειν, quod semper in cursu sint, ἢ ἀπὸ τοῦ θεωρεῖσθαι. 4 Addit poeta: δωδεκάτῆ δέ τοι αὖθις, non dierum sed horarum significans numerum, quibus referuntur ad hemisphaerii superioris exortum. 5 Intellectum nostrum in eandem sententiam ducunt, etiam de etymo, Platonis
@@ -1076,9 +1855,26 @@ p203haec verba: Ὁ μὲν δὴ μέγας ἡγεμὼν ἐν οὐραν�
 
 p204δαιμόνων, quia ex aetheria substantia parta atque divisa qualitas illis est, sive ἀπὸ τοῦ δαιομένου, id est καιομέου, seu ἀπὸ τοῦ δαιομένου, hoc est μεριζομένου. 8 Quod autem addit: μένει δὲ Ἑστία ἐν θεῶν οἴκῳ μόνη, significat quia haec sola, quam terram esse accipimus, manet inmobilis intra domum deorum, id est intra mundum, ut ait Euripides:
 
+
+
+
+
+Καὶ Γαῖα μῆτερ, Ἑστίαν δέ σ᾽ οἱ σοφοὶ
+			
+Βροτῶν καλοῦσιν ἡμένην ἐν αἰθέρι.
+		
+
+
 p205
 9
 Hinc quoque ostenditur quid de sole et Iove sit sentiendum, cum alibi dicatur:
+
+Πάντα ἰδὼν Διὸς ὀφθαλμὸς καὶ πάντα νοήσας,
+
+et alibi:
+
+ Ἠέλιος θ᾽ ὃς πάντ᾽ ἐφορᾷς καὶ πάντ᾽ ἐπακούεις,
+
 
 unde utrumque constat una potestate censendum. 10 Assyrii quoque solem sub nomine Iovis, quem Δία Ἡλιουπολίτην cognominant, maximis cerimoniis celebrant in civitate quae Heliopolis nuncupatur. Eius dei simulachrum sumptum est de oppido Aegypti quod et ipsum Heliopolis appellatur, regnante apud Aegyptios Senemure, seu idem Senepos nomine fuit: perlatumque est primum in eam per Opiam legatum Deleboris regis Assyriorum sacerdotesque Aegyptios quorum princeps fuit Partemetis, diuque habitum apud Assyrios postea Heliopolim commigravit. 11 Cur ita factum quaque ratione Aegypto profectum in haec loca ubi nunc est postea venerit, rituque Assyrio magis quam Aegyptio colatur, dicere supersedi, quia ad praesentem non attinet causam. 12 Hunc vero eundem Iovem solemque esse cum ex ipso sacrorum ritu tum ex habitu dinoscitur: simulachrum enim aureum specie inberbi instat dextera elevata cum flagro in aurigae modum, laeva tenet
 
@@ -1095,6 +1891,19 @@ p207tabellis cum deo egisset. 16 Tunc aliis codicillis conscriptis signatisque 
 
 
 p208his duobus attribuunt solem terramque intellegentes, nec multitudine nominum enuntiantes divisam eorum per omnes species potestatem, sed argumentis quibus ornantur significantes multiplicem praestantiam duplicis numinis. 19 Ipsa autem argumenta solis rationem locuntur. Namque simulachrum Adad insigne cernitur radiis inclinatis, quibus monstratur vim caeli in radiis esse solis qui demittuntur in terram. Adargatidis simulachrum sursum versum reclinatis radiis insigne est monstrando radiorum vi superne missorum enasci quaecunque terra progenerat. 20 Sub eodem simulachro species leonum sunt, eadem ratione terram esse monstrantes qua Phryges finxere Matrem Deum, id est terram, leonibus vehi. 21 Postremo potentiam solis ad omnium potestatum summitatem referri indicant theologi, qui in sacris hoc brevissima precatione demonstrant dicentes: Ἥλιε παντοκράτορ, κόσμου πνεῦμα, κόσμου δύναμις, κόσμου φῶς. 22 Solem esse omnia et Orpheus testatur his versibus:
+
+Κέκλυθι τηλεπόρου δίνης ἑλικαύγεα κύκλον
+	
+οὐρανίαις στροφάλιγξι περίδρομον αἰὲν ἑλίσσων,
+	
+ἄγλαε Ζεῦ Διόνυσε, πάτερ ποντου, πάτερ αἴης,
+	
+ἥλιε παγγενέτορ πανταίολε χρυσεοφεγγές.
+
+
+
+XXIV.
+	
 
 1
 Hic cum Praetextatus fecisset loquendi finem, omnes in eum adfixis vultibus ammirationem stupore prodebant: dein laudare hic memoriam, ille doctrinam, cuncti religionem, adfirmantes, hunc esse unum archanae deorum naturae conscium, qui
@@ -1125,3 +1934,119 @@ p214patribus familias mensae apparatus novatur. Insinuat igitur praesul famuliti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Saturnalia:
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XIII Kal. Oct. 06

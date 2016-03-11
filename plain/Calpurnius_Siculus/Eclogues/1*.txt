@@ -1,49 +1,501 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p218
+Calpurnius Siculus
+	
+I
+	
+
+
+Corydon: Ornytus
+	
+
+
+
+
+
+C.
+
+Nondum solis equos declinis1 mitigat aestas,
+	
+quamvis et madidis incumbant prela racemis
+	
+et spument rauco ferventia musta susurro.
+	
+cernis ut ecce pater quas tradidit, Ornyte, vaccae
+	5
+molle sub hirsuta latus explicuere genista?
+	
+nos quoque vicinis cur non succedimus umbris?
+	
+torrida cur solo defendimus ora galero?
+
+	
+O.
+
+hoc potius, frater Corydon, nemus, antra petamus
+	
+ista patris Fauni, graciles ubi pinea denset
+	10
+silva comas rapidoque caput levat obvia soli,
+	
+bullantes ubi fagus aquas radice sub ipsa
+	
+protegit et ramis errantibus implicat umbras.
+
+	
+C.
+
+quo me cumque vocas, sequor, Ornyte; nam mea Leuce,
+	
+dum negat amplexus nocturnaque gaudia nobis,
+	15
+pervia cornigeri fecit sacraria Fauni.
+	
+prome igitur calamos et si qua recondita servas.
+	
+nec tibi defuerit mea fistula, quam mihi nuper
+	
+matura docilis compegit harundine Ladon.
+
+	
+O.
+
+p220
+et iam captatae pariter successimus umbrae.
+	20
+sed quaenam sacra descripta est pagina fago,
+	
+quam modo nescio quis properanti falce notavit?
+	
+aspicis ut virides etiam nunc littera rimas
+	
+servet et arenti nondum se laxet hiatu?
+
+	
+C.
+
+Ornyte, fer propius tua lumina: tu potes alto
+	25
+cortice* descriptos citius percurrere versus;
+	
+nam tibi longa satis pater internodia largus
+	
+procerumque dedit mater non invida corpus.
+
+	
+O.
+
+non pastor, non haec triviali more viator,
+	
+sed deus ipse canit: nihil armentale resultat,
+	
+nec montana sacros distinguunt iubila versus.
+
+	
+C.
+
+mira refers; sed rumpe moras oculoque sequaci
+	
+quamprimum nobis divinum perlege carmen.
+
+	
+O.
+
+"qui iuga, qui silvas tueor, satus aethere Faunus,
+	
+haec populis ventura cano: iuvat arbore sacra
+	35
+laeta patefactis incidere carmina fatis.*
+
+vos o praecipue nemorum gaudete coloni,
+	
+vos populi gaudete mei: licet omne vagetur
+	
+securo custode pecus nocturnaque pastor
+	
+claudere fraxinea nolit praesepia crate:
+	40
+non tamen insidias praedator ovilibus ullas
+	
+afferet aut laxis abiget iumenta capistris.
+	
+aurea secura cum pace renascitur aetas
+	
+et redit ad terras tandem squalore situque
+	
+alma Themis posito iuvenemque beata sequuntur
+	45
+p222
+saecula, maternis causam qui vicit Iulis.*
+
+dum populos deus ipse reget, dabit impia victas
+	
+post tergum Bellona manus spoliataque telis
+	
+in sua vesanos torquebit viscera morsus
+	
+et, modo quae toto civilia distulit orbe,
+	50
+secum bella geret: nullos iam Roma Philippos
+	
+deflebit, nullos ducet captiva triumphos;
+	
+omnia Tartareo subigentur carcere bella
+	
+immergentque caput tenebris lucemque timebunt.
+	
+candida pax aderit; nec solum candida vultu,
+	55
+qualis saepe fuit quae* libera Marte professo,
+	
+quae domito procul hoste tamen grassantibus armis
+	
+publica* diffudit tacito discordia ferro:
+	
+omne procul vitium simulatae cedere pacis
+	
+iussit et insanos Clementia contudit enses.
+	60
+nulla catenati feralis pompa senatus
+	
+carnificum lassabit opus, nec carcere pleno
+	
+infelix raros numerabit Curia patres.
+	
+plena quies aderit, quae stricti nescia ferri
+	
+altera Saturni referet Latialia regna,
+	65
+altera regna Numae, qui primus ovantia caede
+	
+agmina, Romuleis et adhuc ardentia castris
+	
+p224
+pacis opus docuit iussitque silentibus armis
+	
+inter sacra tubas, non inter bella, sonare.
+	
+iam nec adumbrati faciem mercatus honoris
+	70
+nec vacuos tacitus fasces et inane tribunal
+	
+accipiet consul; sed legibus omne reductis
+	
+ius aderit, moremque fori vultumque priorem
+	
+reddet et afflictum melior deus auferet aevum.
+	
+exultet quaecumque notum gens ima iacentem
+	75
+erectumve colit boream, quaecumque vel ortu
+	
+vel patet occasu mediove sub aethere fervit.*
+
+cernitis ut puro nox iam vicesima caelo
+	
+fulgeat et placida radiantem luce cometem
+	
+proferat? ut liquidum niteat* sine vulnere plenus?
+	80
+numquid utrumque polum, sicut solet, igne cruento
+	
+spargit et ardenti scintillat sanguine lampas?
+	
+at quondam non talis erat, cum Caesare rapto
+	
+indixit miseris fatalia civibus arma.
+	
+scilicet ipse deus Romanae pondera molis
+	85
+fortibus excipiet sic inconcussa lacertis,
+	
+ut neque translati sonitu fragor intonet orbis
+	
+nec prius* ex meritis defunctos Roma penates
+	
+censeat, occasus nisi cum respexerit ortus."
+
+	
+p226
+C.
+
+Ornyte, iam dudum velut ipso numine plenum*
+
+me quatit et mixtus subit inter gaudia terror.
+	
+sed bona facundi veneremur numina Fauni.
+
+	
+O.
+
+carmina, quae nobis deus obtulit ipse canenda,
+	
+dicamus teretique sonum modulemur avena:
+	
+forsitan augustas feret haec Meliboeus ad aures.
+		
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 declinis NA: declivis GV: declivus P.
 
 
+❦
 
 25
 codice GA.
 
 
+❦
 
 35
 fatis Ulitius: fagis codd.
 
 
+❦
 
 45
 vicit NP: vĩcit G: lusit V. iulis NGPV: in ulnis A.
 
 
+❦
 
 55
 quae codd.: ceu Baehrens.
 
 
+❦
 
 57
 iubila Godofr. Hermann: vulnera Leo: fulmina H. Schenkl in not.: publica codd. (quo servato confodit t. praecordia f. Maehly).
 
 
+❦
 
 76
 tepet Postgate: patet codd. fervit GP: servit NV.
 
 
+❦
 
 79
 niteat Ulitius: mutat NG: mittat P: nutet V nonnulli: nictet Barth.
 
 
+❦
 
 87
 prius a NG: pr̃ios = patrios Diels apud Levy, Gnomon, 1928, pp594 sqq.
+❦
 
 89
 plenum NGP: plenus V.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Id. Feb. 09

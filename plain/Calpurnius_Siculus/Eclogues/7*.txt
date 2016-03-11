@@ -1,76 +1,502 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur una ex
+				
+
+
+Eclogis
+				
+
+
+
+Calpurni Siculi
+				
+
+
+
+a
+Loeb Classical Library
+edita
+				
+MCMXXXIV (recensitaque MCMXXXV)
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p278
+Calpurnius Siculus
+	
+VII
+	
+
+
+Lycotas: Corydon
+	
+
+
+
+
+
+L.
+
+Lentus ab urbe venis, Corydon; vicesima certe
+	
+nox fuit,1 ut nostrae cupiunt te cernere silvae,
+	
+ut tua maerentes exspectant iubila tauri.
+
+	
+C.
+
+o piger, o duro non mollior axe, Lycota,
+	5
+qui veteres fagos nova quam spectacula mavis
+	
+cernere, quae patula iuvenis deus edit harena.
+
+	
+L.
+
+mirabar, quae tanta foret tibi causa morandi,
+	
+cur tua cessaret taciturnis fistula silvis
+	
+et solus Stimicon caneret pallente corymbo:
+	10
+quem sine te maesti tenero donavimus haedo.
+	
+nam, dum lentus abes, lustravit ovilia Thyrsis,
+	
+iussit et arguta iuvenes certare cicuta.
+
+	
+C.
+
+sit licet2 invictus Stimicon et praemia dives
+	
+auferat, accepto nec solum gaudeat haedo,
+	15
+verum tota ferat quae lustrat ovilia Thyrsis:
+	
+non tamen aequabit mea gaudia; nec mihi, si quis
+	
+omnia Lucanae donet pecuaria silvae,
+	
+grata magis fuerint quam quae spectavimus3 urbe.
+
+	
+L.
+
+dic age dic, Corydon, nec nostras invidus aures
+	20
+despice:4 non aliter certe mihi dulce loquere
+	
+quam cantare soles, quotiens ad sacra vocatur
+	
+aut fecunda Pales aut pastoralis Apollo.
+
+	
+p280
+C.
+
+vidimus in caelum trabibus spectacula textis
+	
+surgere, Tarpeium prope despectantia culmen;
+	25
+emensique5 gradus et clivos lene iacentes
+	
+venimus ad sedes, ubi pulla sordida veste
+	
+inter femineas spectabat turba cathedras.
+	
+nam quaecumque patent sub aperto libera caelo,
+	
+aut eques aut nivei loca densavere tribuni.
+	30
+qualiter haec patulum concedit vallis in orbem
+	
+et sinuata latus resupinis undique silvis
+	
+inter continuos curvatur concava montes:
+	
+sic ibi planitiem curvae sinus ambit harenae
+	
+et geminis medium se molibus alligat ovum.
+	35
+quid tibi nunc referam, quae vix suffecimus ipsi
+	
+per partes spectare suas? sic undique fulgor
+	
+percussit. stabam defixus et ore patenti
+	
+cunctaque mirabar necdum bona singula noram,
+	
+cum mihi iam senior, lateri qui forte sinistro
+	40
+iunctus erat, "quid te stupefactum, rustice," dixit
+	
+"ad tantas miraris opes, qui nescius auri
+	
+sordida tecta, casas et sola mapalia nosti?
+	
+en ego iam6 tremulus iam7 vertice canus et ista
+	
+factus in urbe senex stupeo tamen omnia: certe
+	45
+vilia sunt nobis, quaecumque prioribus annis
+	
+vidimus, et sordet quicquid spectavimus olim."
+	
+
+
+p282
+balteus en gemmis, en illita porticus auro
+	
+certatim radiant; nec non, ubi finis harenae
+	
+proxima marmoreo praebet spectacula muro,
+	50
+sternitur adiunctis ebur admirabile truncis
+	
+et coit in rotulum, tereti qui lubricus axe
+	
+impositos subita vertigine falleret ungues
+	
+excuteretque feras. auro quoque torta refulgent
+	
+retia, quae totis in harenam dentibus exstant,
+	55
+dentibus aequatis; et erat (mihi crede, Lycota,
+	
+si qua fides) nostro dens longior omnis aratro.
+	
+ordine quid referam? vidi genus omne ferarum,
+	
+hic niveos lepores et non sine cornibus apros.
+	
+hic raram silvis etiam, quibus editur, alcen.
+	60
+vidimus et tauros, quibus aut cervice levata
+	
+deformis scapulis torus eminet aut quibus hirtae
+	
+iactantur per colla iubae, quibus aspera mento
+	
+barba iacet tremulique rigent palearia setis.
+	
+nec solum nobis silvestria cernere monstra
+	65
+contigit: aequoreos ego cum certantibus ursis
+	
+spectavi vitulos et equorum nomine dictum,
+	
+sed deforme pecus, quod in illo nascitur amne
+	
+qui sata riparum vernantibus8 irrigat undis.
+	
+a! trepidi, quotiens sola discedentis9 harenae
+	70
+p284
+vidimus inverti,10 ruptaque voragine terrae
+	
+emersisse feras; et in isdem saepe cavernis
+	
+aurea cum subito11 creverunt arbuta nimbo.
+
+	
+L.
+
+o felix Corydon, quem non tremebunda senectus
+	
+impedit! o felix, quod in haec tibi saecula primos
+	75
+indulgente deo demittere contigit annos!
+	
+nunc, tibi si propius venerandum cernere numen
+	
+fors12 dedit et praesens vultumque habitumque notasti,
+	
+dic age dic, Corydon, quae sit mihi13 forma deorum.
+
+	
+C.
+
+o utinam nobis non rustica vestis inesset:14
+80
+vidissem propius mea numina! sed mihi sordes
+	
+pullaque paupertas et adunco fibula morsu
+	
+obfuerunt. utcumque tamen conspeximus ipsum
+	
+longius; ac, nisi me visus decepit, in uno
+	
+et Martis vultus et Apollinis esse putavi.15
+
+
+
+
+
+Adnotationes Editoris:
+	
+
 1
 fuit codd.: ruit Heinsius: subit Baehrens.
 
 
+❦
 
 2
 scilicet codd. plerique: sit licet V nonnulli.
 
 
+❦
 
 3
 spectavimus AH: spettamus in G: spectamus in NV.
 
 
+❦
 
 4
 despice codd.: decipe Baehrens.
 
 
+❦
 
 5
 immensosque codd.: emensique Schrader.
 
 
+❦
 
 6
 iam NG: tam V.
 
 
+❦
 
 7
 tremulus et NGV: tr. tam AH: tr. iam Friesemann.
 
 
+❦
 
 8
 vernantibus NGA: venientibus V.
 
 
+❦
 
 9
 sol discedentis N (nos supra sol m2): sodiscendentis G: nos descendentis V: sola discedentis Haupt: se discindentis Baehrens: alii alia.
 
 
+❦
 
 10
 in partes codd.: inverti Haupt.
 
 
+❦
 
 11
 subito N: susito G: croceo V: fulvo Baehrens.
 
 
+❦
 
 12
 fors NG: sors V.
 
 
+❦
 
 13
 quae sit mihi pler. codd.: mihi quae sit Burman, Baehrens.
 
 
+❦
 
 14
 obesset Haupt.
 
 
+❦
 
 15
 putavi AH, ed. Ven.: putatur NGV: probatur Burman, Baehrens: notatur Haupt: putato Leo, Giarratano.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Calpurni
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one JJJasterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Id. Feb. 09

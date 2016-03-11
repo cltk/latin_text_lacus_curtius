@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber I
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber III
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber II
+	
+
+Praefatio
+	
+
+
 1. Dinocrates architectus cogitationibus et sollertia fretus, cum Alexander rerum potiretur, profectus est e Macedonia ad exercitum regiae cupidus commendationis. is e patria a propinquis et amicis tulit ad primos ordines et purpuratos litteras ut aditus haberet faciliores, ab eisque exceptus humane petiit uti quamprimum ad Alexandrum perduceretur. cum polliciti essent, tardiores fuerunt idoneum tempus expectantes. itaque Dinocrates ab his se existimans ludi ab se petiit praesidium. fuerat enim amplissima statura, facie grata, forma dignitateque summa. his igitur naturae muneribus confisus vestimenta posuit in hospitio et oleo corpus perunxit caputque coronavit populea fronde, laevum umerum pelle leonina texit, dextraque clavam tenens incessit contra tribunal regis ius dicentis.
 
 	
@@ -22,6 +117,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Homines veteri more ut ferae in silvis et speluncis et nemoribus nascebantur ciboque agresti vescendo vitam exigebant. interea quodam in loco ab tempestatibus et ventis densae crebritatibus arbores agitatae et inter se terentes ramos ignem excitaverunt, et eo flamma vehementi perterriti qui circa eum locum fuerunt sunt fugati. post ea re quieta propius accedentes cum animadvertissent commoditatem esse magnam corporibus ad ignis teporem, ligna adicientes et ita conservantes alios adducebant et nutu monstrantes ostendebant quas haberent ex eo utilitates. in eo hominum congressu cum profundebantur aliter spiritu voces, cotidiana consuetudine vocabula ut obtigerant constituerunt, deinde significando res saepius in usu ex eventu fari fortuito coeperunt et ita sermones inter se procreaverunt.
 
@@ -61,6 +159,9 @@
 
 
 	
+Caput 2
+	
+
 
 1. Thales primum aquam putavit omnium rerum esse principium. Heraclitus Ephesius, qui propter obscuritatem scriptorum a Graecis σκοτεινος est appellatus, ignem. Democritus quique est eum secutus Epicurus atomos, quas nostri insecabilia corpora, nonnulli individua vocitaverunt. Pythagoreorum vero disciplina adiecit ad aquam et ignem aera et terrenum. ergo Democritus etsi non proprie res nominavit sed tantum individua corpora proposuit, ideo ea ipsa dixisse videtur quod ea cum sint disiuncta nec laeduntur nec interitionem recipiunt nec sectionibus dividuntur sed sempiterno aevo perpetuo infinitam retinent in se soliditatem.
 
@@ -72,6 +173,9 @@
 
 
 	
+Caput 3
+	
+
 
 1. Itaque primum de lateribus, qua de terra ducio eos oporteat dicam. non enim de harenosa neque calculosa neque sabulone soluto sunt ducendi, quod ex his generibus cum sint ducti primum fiunt graves, deinde cum ab imbribus in parietibus sparguntur, dilabuntur et dissolvuntur paleaeque in iis non cohaerescunt propter asperitatem. faciendi autem sunt ex terra albida cretosa sive de rubrica aut etiam masculo sabulone. haec enim genera propter levitatem habent firmitatem et non sunt in opere ponderosa et faciliter aggerantur.
 
@@ -91,6 +195,9 @@
 
 
 	
+Caput 4
+	
+
 
 1. In caementiciis autem structuris primum est de harena quaerendum, ut ea sit idonea ad materiem miscendam neque habeat terram commixtam. genera autem harenae fossiciae sunt haec, nigra, cana, rubra, carbunculus. ex his quae in manu confricata fecerit stridorem erit optima, quae autem terrosa fuerit non habebit asperitatem. item si in vestimentum candidum ea coniecta fuerit, postea excussa vel lota id non inquinarit neque ibi terra subsiderit, erit idonea.
 
@@ -106,6 +213,9 @@
 
 
 	
+Caput 5
+	
+
 
 1. De harenae copiis cum habeatur explicatum, tum etiam de calce diligentia est adhibenda uti de albo saxo aut silice coquatur. et quae erit ex spisso et duriore, erit utilis in structura, quae autem ex fistuloso, in tectoriis. cum ea erit extincta, tunc materia ita misceatur ut si erit fossicia, tres harenae et una calcis infundantur, si autem fluviatica aut marina duae harenae et una calcis coiciantur. ita enim erit iusta ratio mixtionis temperaturae. etiam in fluviatica aut marina si qui testam tunsam et succretam ex tertia parte adiecerit, efficiet materiae temperaturam ad usum meliorem.
 
@@ -121,6 +231,9 @@
 
 
 	
+Caput 6
+	
+
 
 1. Est etiam genus pulveris quod efficit naturaliter res admirandas. nascitur in regionibus Baianis et in agris municipiorum quae sunt circa Vesuvium montem. quod commixtum cum calce et caemento non modo ceteris aedificiis praestat firmitatem, sed etiam moles cum struuntur in mari, sub aqua solidescunt. hoc autem fieri hac ratione videtur quod sub his montibus et terrae ferventes sunt et fontes crebri, qui non essent, si non in imo haberent aut e sulphure aut alumine aut bitumine ardentes maximos ignes. igitur penitus ignis et flammae vapor per intervenia permanans et ardens efficit levem eam terram, et ibi qui nascitur tofus turgens est sine liquore. ergo cum tres res consimili ratione ignis vehementia formatae in unam pervenerint mixtionem, repente recepto liquore una cohaerescunt et celeriter umore duratae solidantur, neque eas fluctus neque vis aquae potest dissolvere.
 
@@ -148,6 +261,9 @@
 
 
 	
+Caput 7
+	
+
 
 1. De calce et harena quibus varietatibus sint et quas habeant virtutes dixi. sequitur ordo de lapidicinis explicare, de quibus et quadrata saxa et caementorum ad aedificia eximuntur copiae et comparantur. haec autem inveniuntur esse disparibus et dissimilibus virtutibus. sunt enim aliae molles, uti sunt circa urbem Rubrae Pallenses Fidenates Albanae, aliae temperatae, uti Tiburtinae Amiterninae Soractinae et quae sunt his generibus, nonnullae durae, uti siliceae. sunt etiam alia genera plura, uti in Campani rubri et nigri tofi, in Umbria et Piceno et in Venetia albus, qui etiam serra dentata uti lignum secatur.
 	
@@ -174,6 +290,9 @@ ex his facta lapidicinis. namque habent et statuas amplas factas egregie et mino
 
 
 	
+Caput 8
+	
+
 
 1. Structurarum genera sunt haec, reticulatum quo nunc omnes utuntur, et antiquum quod incertum dicitur. ex his venustius est reticulatum, sed ad rimas faciendas ideo paratum quod in omnes partes dissoluta habet cubilia et coagmenta. incerta vero caementa alia super alia sedentia inter seque imbricata non speciosam sed firmiorem quem reticulata praestant structuram.
 
@@ -260,6 +379,9 @@ theatri curvaturae similis. itaque in imo secundum portum forum est constitutum.
 
 
 	
+Caput 9
+	
+
 
 1. Materies caedenda est a primo autumno ad id tempus quod erit antequam flare incipiat favonius. vere enim omnes arbores fiunt praegnantes et omnes suae proprietatis virtutem efferunt in frondem anniversariosque fructus. cum ergo inanes et tumidae temporum necessitate eorum fuerint, vanae fiunt et raritatibus inbecillae, uti etiam corpora muliebria cum conceperint, ad fetus partum non iudicantur integra, neque in venalibus ea cum sunt praegnantia praestantur sana, ideo quod in corpore praeseminatio crescens ex omnibus cibi potestatibus detrahit alimentum in se, et quo firmior efficitur ad maturitatem partus, eo minus patitur esse solidum id ex quo ipso procreatur. itaque edito fetu quod prius in aliud genus incrementi detrahebatur cum ab disparatione procreationis est liberatum, inanibus et patentibus venis in se recipient lambendo sucum et ita solidescunt et redeunt in pristinam naturae firmitatem.
 
@@ -334,6 +456,9 @@ Pisauri Anconae reliquisque quae sunt in ea regione municipiis praebetur. cuius 
 
 
 
+Caput 10
+	
+
 
 1. montis Appennini primae radices ab Tyrrenico mari inter Alpes et extremas Etruriae regiones oriuntur. eius vero montis iugum se circumagens et media curvatura prope tangens oras maris Hadriani pertingit circumitionibus contra fretum. itaque citerior eius curvatura quae vergit ad Etruriae Campaniaeque regiones apricis est potestatibus. namque impetus habet perpetuos ad solis cursum. ulterior autem quae est proclinata ad superum mare, septentrionali regioni subiecta continetur umbrosis et opacis perpetuitatibus. itaque quae in ea parte nascuntur arbores umida potestate nutritae non solum ipsae augentur amplissimis magnitudinibus, sed earum quoque venae umoris copia repletae turgentes liquoris abundantia saturantur. cum autem excisae et dolatae vitalem potestatem amiserunt, venarum rigore permanente siccescendo propter raritatem fiunt inanes et evanidae, ideoque in aedificiis non possunt habere diuturnitatem.
 
@@ -349,6 +474,10 @@ Pisauri Anconae reliquisque quae sunt in ea regione municipiis praebetur. cuius 
 
 	
 
+Adnotatio Thayeri:
+	
+
+
 emplecton:
 	
 Vide etiam
@@ -358,3 +487,130 @@ longam utilemque adnotationem periti saeculi XIX Georgii Dennis.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Id. Aug. 03

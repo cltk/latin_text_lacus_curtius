@@ -1,9 +1,467 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telari legitur unum ex
+				
+
+
+Carminibus Minoribus
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+
+p216
+C. Claudiani
+	
+Aponus
+	
+
+
+
+
+
+
+XXVI (XLIX)
+	
+
+
+Fons, Antenoreae vitam qui porrigis urbi
+	
+fataque vicinis noxia pellis aquis,
+	
+cum tua vel mutis tribuant miracula vocem,
+	
+cum tibi plebeius carmina dictet honos
+	5
+et sit nulla manus, cuius non pollice ductae
+	
+testentur memores prospera vota notae:
+	
+nonne reus Musis pariter Nymphisque tenebor,
+	
+si tacitus soli praetereare mihi?
+	
+ludibrium quid enim fas est a vate relinqui
+	10
+hunc qui tot populis pervolat ora locum?
+
+	
+
+Alto colle minor, planis erectior arvis
+	
+conspicuo clivus molliter orbe tumet
+	
+ardentis fecundus aquae; quacumque cavernas
+	
+perforat, offenso truditur igne latex.
+	15
+spirat putre solum, conclusaque subter anhelo
+	
+pumice rimosas perfodit1 unda vias.
+	
+umida flammarum regio: Vulcania terrae
+	
+ubera, sulphureae fervida regna plagae.
+	
+quis sterilem non credat humum? fumantia vernant
+	20
+pascua; luxuriat gramine cocta silex
+	
+et, cum sic rigidae cautes fervore liquescant,
+	
+contemptis audax ignibus herba viret.
+
+	
+
+Praeterea grandes effosso marmore sulci
+	
+saucia longinquo limite saxa secant.
+25
+p218
+Herculei (sic fama refert) monstratur aratri
+	
+semita, vel casus vomeris egit opus.
+	
+in medio pelagi late flagrantis imago
+	
+caerulus inmenso panditur ore lacus
+	
+ingenti fusus spatio; sed maior in altum
+	30
+intrat et arcanae rupis inane subit;
+	
+densus nube sua tactuque inmitis et haustu,
+	
+sed vitreis idem lucidus usque vadis.
+	
+consuluit natura sibi, ne tota lateret,
+	
+admisitque oculos, quo vetat ire calor:
+	35
+turbidus impulsu venti cum spargitur aër
+	
+glaucaque fumiferae terga serenat aquae,
+	
+tunc omnem liquidi vallem mirabere fundi,
+	
+tunc veteres hastae, regia dona, micant
+	
+(quas inter, nigrae tenebris obscurus harenae,
+	40
+discolor abruptum flumen hiatus agit;
+	
+adparent infra latebrae, quas gurges opacus
+	
+inplet et abstrusos ducit in antra sinus);
+	
+tunc montis secreta patent, qui flexus in arcum
+	
+aequora pendenti margine summa ligat.
+
+	45
+
+Viva coronatos adstringit scaena vapores,
+	
+et levis exili cortice terra natat
+	
+calcantumque oneri numquam cessura virorum
+	
+sustentat trepidum, fida ruina, pedem.
+	
+facta manu credas, sic levis circuit oras
+	50
+ambitus et tenuis perpetuusque riget.
+	
+p220
+haerent stagna lacu plenas aequantia ripas
+	
+praescriptumque timent transiluisse modum;
+	
+quod superat, fluvius devexa rupe volutus
+	
+egerit et campi dorsa recurva petit.
+	55
+devehit exceptum nativo spira2 meatu;
+	
+in patulas plumbi labitur inde vias;
+	
+nullo cum strepitu madidis infecta favillis
+	
+despumat niveum fistula cana salem.
+	
+multifidas dispergit opes artemque secutus,
+	60
+qua iussere manus, mobile torquet iter
+	
+et iunctos rapido pontes subtermeat aestu
+	
+adflatasque vago temperat igne tholos.
+	
+acrior interius, rauci cum murmure saxi,
+	
+spumeus eliso pellitur amne vapor.—
+	65
+hinc pigras repetunt fessi sudore lacunas,
+	
+frigora quis longae blanda dedere morae.
+
+	
+
+Salve Paeoniae largitor nobilis undae,
+	
+Dardanii salve gloria magna soli,
+	
+publica morborum requies, commune medentum
+	70
+auxilium, praesens numen, inempta salus.
+	
+seu ruptis inferna ruunt incendia ripis
+	
+et nostro Phlegethon devius orbe calet,
+	
+sulphuris in venas gelidus seu decidit amnis
+	
+accensusque fluit (quod manifestat odor),
+	75
+sive pares3 flammas undarum lance rependens
+	
+arbiter in foedus mons elementa vocat,
+	
+ne cedant superata sibi, sed legibus aequis
+	
+alterius vires possit utrumque pati:
+	
+p222
+quidquid erit causae, quocumque emitteris ortu,
+	80
+non sine consilio currere certa fides.
+	
+quis casum meritis adscribere talibus audet?
+	
+quis negat auctores haec statuisse deos?
+	
+ille pater rerum, qui saecula dividit astris,
+	
+inter prima poli te quoque sacra dedit
+	85
+et fragilem nostri miseratus corporis usum
+	
+telluri medicas fundere iussit aquas,
+	
+Parcarumque colos exoratura severas
+	
+flumina laxatis emicuere iugis.
+
+	
+
+Felices, proprium qui te meruere, coloni,
+	90
+fas quibus est Aponon iuris habere sui.
+	
+non illis terrena lues corrupta nec Austri
+	
+flamina nec saevo Sirius igne nocet,
+	
+sed, quamvis Lachesis letali stamine damnet,
+	
+in te fata sibi prosperiora petunt.
+	95
+quodsi forte malus membris exuberat umor
+	
+languida vel nimio viscera felle rubent,
+	
+non venas reserant nec vulnere vulnera sanant
+	
+pocula nec tristi gramine mixta bibunt:
+	
+amissum lymphis reparant impune vigorem,
+	100
+pacaturque aegro luxuriante dolor.
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 perfodit Koch; codd. (Birt) perforat.
+❦
 
 2
 spira Heinsius; Birt follows MSS. spina.
+❦
 
 3
 pares EVJ; Birt reads pari (A). If pari, probably a juristic formula (= aequa lance); cf. Symm. Epp. II.56.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Carmina
+			
+Minora
+			
+
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+Curculio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VI Kal. Aug. 07

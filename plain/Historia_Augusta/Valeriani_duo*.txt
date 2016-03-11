@@ -1,4 +1,115 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Maximus et Balbinus
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Gallieni duo
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p2
+Valeriani Duo
+	
+
+.    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .    .
+
+	
 11 
 . . . Sapori regi regum vel soli:1 "Si scirem posse aliquando Romanos penitus vinci, gauderem tibi de victoria, quam praefers. 2 sed quia vel fato vel virtute gens illa plurimum potest, vide ne, quod senem imperatorem cepisti et id quidem fraude, male tibi cedat et posteris tuis. 3 cogita quantas gentes Romani ex hostibus suas fecerint, a quibus saepe2 victi sunt. 4 audivimus certe quod Galli eos vicerint et ingentem illam civitatem incenderint; certe Romanis serviunt. quid Afri? eos non vicerunt? certe serviunt Romanis. 5 de longioribus exemplis et fortasse
 
@@ -70,61 +181,176 @@ Et quoniam scio errare plerosque, qui Valeriani imperatoris titulum in sepulchro
 4
 Non puto plus aliquid vel de maiore Valeriano vel de iuniore requirendum. 5 et quoniam vereor ne modum voluminis transeam, si Gallienum, Valeriani filium, de quo iam multus et fortasse nimius nobis fuit sermo in illius vita, vel Saloninum filium etiam Gallieni, qui et Saloninus et Gallienus est dictus in historia sui temporis, huic libro adiunctos edam, nunc ad aliud volumen transeamus, ut iubetur. semper enim nos vobis dedimus et famae, cui negare nihil possumus.12
 
+
+Apparatus Criticus:
+	
+
 1
 So Salm.; Saporis rex regum uel solus P; Velsolus Peter2, Hohl.
 
 
+❦
 
 2
 sepe Σ; nempe P corr.
+❦
 
 3
 inferioribus Obrecht, Peter; interioribus P, Σ.
 
 
+❦
 
 4
 cepisti sed Petschenig, Hohl; cepistis et P.
 
 
+❦
 
 5
 fuerit Σ, Peter, Hohl; fuit P.
 
 
+❦
 
 6
 exemplo P, Hohl.
 
 
+❦
 
 7
 praecepit Σ; praecipit P, Peter.
 
 
+❦
 
 8
 pectoribus Σ; peccatoribus P.
 
 
+❦
 
 9
 statues tu Hohl; statues Σ; statu P; tu Peter.
 
 
+❦
 
 10
 propter om. in P and Σ.
 
 
+❦
 
 11
 de Σ, Peter; seu P.
 
 
+❦
 
 12
 Italics are supplements of Peter to fill lacunae in P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

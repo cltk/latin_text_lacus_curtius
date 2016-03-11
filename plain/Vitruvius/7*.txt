@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VI
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber VIII
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber VII
+	
+
+Praefatio
+	
+
+
 1. Maiores cum sapienter tum etiam utiliter instituerunt, per commentariorum relationes cogitata tradere posteris, ut ea non interirent sed singulis aetatibus crescentia voluminibus edita gradatim pervenirent vetustatibus ad summam doctrinarum subtilitatem. itaque non mediocres sed infinitae sunt is agendae gratiae, quod non invidiose silentes praetermiserunt, sed omnium generum sensus conscriptionibus memoriae tradendos curaverunt.
 
 	
@@ -73,6 +168,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Primumque incipiam de ruderatione, quae principia tenet expolitionum, uti curiosius summaque providentia solidationis ratio habeatur. et si plano pede erit eruderandum, quaeratur solum si sit perpetuo solidum, et ita exaequetur, et iudicatur cum statumine rudus. sin autem omnis aut ex parte congesticius locus fuerit, festucationibus•
 cum magna cura solidetur. in contignationibus vero diligenter est animadvertendum ne qui paries qui non exeat ad summum, sit extructus sub pavimentum, sed potius relaxatus supra se pendentem habeat coaxationem. cum enim solidus exit, contignationibus arescentibus aut pandatione sidentibus, permanens structure soliditate dextra ac sinistra secundum se facit in pavimentis necessario rimas.
@@ -108,6 +206,9 @@ seu tesseris.
 
 
 	
+Caput 2
+	
+
 
 1. Cum a pavimentorum cura discessum fuerit, tunc de albariis operibus est explicandum. id autem erit recte, si glaebae calcis optimae ante multo tempore quam opus fuerit macerabuntur, uti si qua glaeba parum fuerit in fornace cocta, in maceratione diuturna liquore defervere coacta uno tenore concoquatur. namque cum non penitus macerata sed recens sumitur, cum fuerit inducta habens latentes crudos calculos pustulas emittit. qui calculi in opere uno tenore cum permacerentur, dissolvunt et dissipant tectorii politiones.
 
@@ -119,6 +220,9 @@ seu tesseris.
 
 
 	
+Caput 3
+	
+
 
 1. Cum ergo camararum postulabitur ratio, sic erit faciundum. asseres directi disponantur inter se ne plus spatium habentes pedes binos, et hi maxime cupressei, quod abiegnei ab carie et ab vetustate celeriter vitiantur, hique asseres cum ad formam circinationis fuerint distributi, catenis dispositis ad contignationes, sive tecta erunt, crebriter clavis ferreis fixi religentur, eaeque catenae ex ea materi comparentur cui nec caries nec vetustas nec umor possit nocere, id est e buxo iunipiro olea robore cupresso ceterisque similibus praeter quercum, cum ea se torquendo rimas faciat quibus inest operibus.
 
@@ -167,6 +271,9 @@ utuntur, ipsaque tectoria abacorum et speculorum divisionibus circa se prominent
 
 
 	
+Caput 4
+	
+
 
 1. Quibus rationibus siccis locis tectoria oporteat fieri dixi, nunc quemadmodum umidis locis politiones expediantur ut permanere possint sine vitiis, exponam. et primum conclavibus quae plano pede fuerint, in imo pavimento alte circiter pedibus tribus pro harenato testa trullissetur et dirigatur, uti eae partes tectoriorum ab umore ne vitientur. sin autem aliqui paries perpetuos habuerit umores, paululum ab eo recedatur et struatur alter tenuis distans ab eo quantum res patietur, et inter duos parietes canalis ducatur inferior quam libramentum conclavis fuerit, habens nares ad locum patentem. item cum in altitudinem perstructus fuerit, relinquantur spiramenta. si enim non per nares umor et in imo et in summo habuerit exitus, non minus in nova structura se dissipabit. his perfectis paries testa trullissetur et dirigatur et tunc tectorio poliatur.
 
@@ -193,6 +300,9 @@ inducitur aut rudus aut testaceum pavimentum ita fastigatum ut in canali habeat 
 
 
 	
+Caput 5
+	
+
 
 1. Ceteris conclavibus id est vernis autumnalibus aestivis, etiam atriis et peristylis constitutae sunt ab antiquis ex certis rebus certae rationes picturarum. namque pictura imago fit eius quod est seu potest esse, uti hominis aedifici navis reliquarumque rerum, e quibus, finitis certisque corporibus, figurata similitudine cumuntur exempla. ex eo antiqui qui initia expolitionibus instituerunt imitati sunt primum crustarum marmorearum varietates et conlocationes, deinde coronarum et silaceorum cuneorum inter se varias distributiones.
 
@@ -233,6 +343,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 6
+	
+
 
 1. Quae commonefacere potui ut ab errore discedatur in opere tectorio satis exposui, nunc de apparationibus ut succurrere potuerit dicam, et primum quoniam de calce initio est citum, nunc de marmore ponam. Marmor non eodem genere omnibus regionibus procreatur, sed quibusdam locis glaebae ut salis micas perlucidas habentes nascuntur, quae contusae et molitae praestant operibus utilitatem. quibus autem locis eae copiae non sunt, caementa marmorea, sive assulae dicuntur, quae marmorarii ex operibus deiciunt, contunduntur et moluntur, <et cum> est subcretum in operibus utuntur. aliis locis, ut inter Magnesiae et Ephesi fines, sunt loca unde foditur parata quam nec molere nec cernere opus est, sed sic est subtilis quemadmodum si qua est manu contusa et subcreta.
 
@@ -240,6 +353,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 7
+	
+
 
 1. Colores vero alii sunt qui per se certis locis procreantur et inde fodiuntur, nonnulli ex aliis rebus tractationibus aut mixtionum temperaturis compositi perficiuntur, uti praestent eandem in operibus utilitatem.  primum autem exponemus quae per se nascentia fodiuntur, uti sil, quae graece ωχρα dicitur. haec vero multis locis ut etiam in Italia invenitur, sed quae fuerat optima attica ideo nunc non habetur quod Athenis argentifodinae cum habuerunt familias, tunc specus sub terra fodiebantur ad argentum inveniendum. cum ibi vena forte inveniretur, nihilominus uti argentum persequebantur, itaque antiqui egregia copia silis ad politionem operum sunt usi. item rubricae copiose multis locis eximuntur, sed optimae paucis, uti Ponto Sinope, et Aegypto, in Hispania Balearibus, non minus etiam Lemno, cuius insulae vectigalia Atheniensibus senatus populusque Romanus concessit fruenda. paraetonium vero ex ipsis locis unde foditur habet nomen. eadem ratione melinum, quod eius metallum insula cycladum Melo dicitur esse.
 
@@ -251,6 +367,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 8
+	
+
 
 1. Ingrediar nunc minii rationes explicare. id autem agris Ephesiorum Cilbianis primum esse memoratur inventum, cuius et res et ratio satis magnas habet admirationes. foditur enim glaeba quae dicitur, antequam tractationibus ad minium perveniant, vena uti ferrum, magis subrufo colore, habens circa se rubrum pulverem. cum id foditur, ex plagis ferramentorum crebras emittit lacrimas argenti vivi, quae a fossoribus statim colliguntur.
 
@@ -271,6 +390,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 9
+	
+
 
 1. Revertar nunc ad minii temperaturam. ipsae enim glaebae cum sunt aridae, contunduntur pilis ferreis, et lotionibus et cocturis crebris relictis stercoribus efficiuntur ut adveniant colores. cum ergo emissae sint ex minio per argenti vivi relictionem quas in se naturales habuerat virtutes, efficitur tenera natura et viribus inbecillis.
 
@@ -299,6 +421,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 10
+	
+
 
 1. Ingrediar nunc ad ea quae ex aliis generibus tractationum temperaturis commutata recipiunt colorum proprietates, et primum exponam de atramento, cuius usus in operibus magnas habet necessitates, ut sint notae quemadmodum praeparentur certis rationibus artificiorum ad id temperaturae.
 
@@ -319,6 +444,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 11
+	
+
 
 1. Caerulei temperationes Alexandriae primum sunt inventae, postea item Vestorius Puteolis instituit faciundum. ratio autem eius e quibus est inventa satis habet admirationis. harena enim cum nitri flore conteritur adeo subtiliter ut efficiatur quemadmodum farina, et aes cyprium limis crassis uti scobe facta mixtae conspargitur ut conglomeretur. deinde pilae manibus versando efficiuntur et ita conligantur ut inarescant. aridae componuntur in urceo fictili, urcei in fornace. simul autem aes et ea harena ab ignis vehementia confervescendo coaluerint, inter se dando et accipiendo sudores a proprietatibus discedunt suisque rebus per ignis vehementiam confectis caeruleo rediguntur colore.
 
@@ -330,6 +458,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 12
+	
+
 
 1. De cerussa aerugineque quam nostri aerucam vocitant non est alienum quemadmodum comparetur dicere. Rhodo enim doliis sarmenta conlocantes aceto suffuso supra sarmenta conlocant plumbeas massas, deinde ea operculis obturant ne spiramentum emittatur. post certum tempus aprientes inveniunt e massis plumbeis cerussam. eadem ratione lamellas aereas conlocantes efficiunt aeruginem quae aeruca appellatur.
 
@@ -341,6 +472,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 13
+	
+
 
 1. Incipiam nunc de ostro dicere, quod et carissimam et excellentissimam habet praeter hos colores aspectus suavitatem. id autem excipitur e conchylio marino, e quo purpura efficitur, cuius non minores sunt quam ceterarum <rerum> naturae considerantibus admirationes, quod habet non in omnibus locis quibus nascitur unius generis colorem, sed solis cursu naturaliter temperatur.
 
@@ -357,6 +491,9 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 	
+Caput 14
+	
+
 
 1. Fiunt purpurei colores infecta creta rubiae radice et hysgino, non minus et ex floribus alii colores. itaque tectores cum volunt sil atticum imitari, violam aridam coicientes in vas cum aqua, confervefaciunt ad ignem, deinde cum est temperatum coiciunt in linteum, et inde manibus exprimentes recipiunt in mortarium aquam ex violis coloratam, et eo cretam infundentes et eam terentes efficiunt silis attici colorem.
 
@@ -370,3 +507,131 @@ striati cum crispis foliis et volutis, item candelabra aedicularum sustinentia f
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+VI Id. Feb. 06

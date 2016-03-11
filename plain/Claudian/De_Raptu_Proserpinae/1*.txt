@@ -1,6 +1,903 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+Hac in pagina telaris invenitur liber carminis
+				
+
+
+de raptu Proserpinae
+				
+
+
+
+C. Claudiani
+				
+
+
+
+a
+Loeb Classical Library
+editum
+				
+MCMXXII
+				
+cuius textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+II
+				
+
+
+
+
+
+C. Claudiani
+	
+De raptu Proserpinae
+	
+
+
+
+
+
+
+p292
+
+Libri Primi
+	
+Praefatio
+	
+(XXXII)
+	
+
+
+Inventa secuit primus qui nave profundum
+	
+et rudibus remis sollicitavit aquas,
+	
+qui dubiis ausus committere flatibus alnum
+	
+quas natura negat praebuit arte vias:
+	5
+tranquillis primum trepidus se credidit undis
+	
+litora securo tramite summa legens;
+	
+mox longos temptare sinus et linquere terras
+	
+et leni coepit pandere vela Noto.
+	
+ast ubi paulatim praeceps audacia crevit
+	10
+cordaque languentem dedidicere metum,
+	
+iam vagus inrumpit pelagus caelumque secutus
+	
+Aegaeas hiemes Ioniumque domat.
+
+
+
+	
+
+Liber Primus
+	
+(XXXII)
+	
+
+
+Inferni raptoris equos adflataque curru
+	
+sidera Taenario caligantesque profundae
+	
+Iunonis thalamos audaci promere cantu
+	
+p294
+mens congesta iubet. gressus removete profani.
+	5
+iam furor humaos nostro de pectore sensus
+	
+expulit et totum spirant praecordia Phoebum;
+	
+iam mihi cernuntur trepidis delubra moveri
+	
+sedibus et claram dispergere limina lucem
+	
+adventum testata dei; iam magnus ab imis
+	10
+auditur fremitus terris templumque remugit
+	
+Cecropium sanctasque faces extollit Eleusis.
+	
+angues Triptolemi strident et squamea curvis
+	
+colla levant attrita iugis lapsuque sereno
+	
+erecti roseas tendunt ad carmina cristas.
+	15
+ecce procul ternis Hecate variata figuris
+	
+exoritur, levisque simul procedit Iacchus
+	
+crinali florens hedera, quem Parthica velat
+	
+tigris et auratos in nodum colligit ungues:
+	
+ebria Maeonius firmat vestigia thyrsus.
+
+	20
+
+Di, quibus innumerum vacui famulatur Averni
+	
+vulgus iners, opibus quorum donatur avaris
+	
+quidquid in orbe perit, quos Styx liventibus ambit
+	
+interfusa vadis et quos fumantia torquens
+	
+aequora gurgitibus Phlegethon perlustrat anhelis —
+	25
+vos mihi sacrarum penetralia pandite rerum
+	
+et vestri secreta poli: qua lampade Ditem
+	
+flexit Amor; quo ducta ferox Proserpina raptu
+	
+possedit dotale Chaos quantasque per oras
+	
+sollicito genetrix erraverit anxia cursu;
+	30
+unde datae populis fruges et glande relicta
+	
+cesserit inventis Dodonia quercus aristis.
+
+	
+
+Dux Erebi quondam tumidas exarsit in iras
+	
+p296
+proelia moturus superis, quod solus egeret
+	
+conubiis sterilesque diu consumeret annos
+	35
+impatiens nescire torum nullasque mariti
+	
+inlecebras nec dulce patris cognoscere nomen.
+	
+iam quaecumque latent ferali monstra barathro
+	
+in turmas aciemque ruunt contraque Tonantem
+	
+coniurant Furiae, crinitaque sontibus hydris
+	40
+Tesiphone quatiens infausto lumine pinum
+	
+armatos ad castra vocat pallentia Manes.
+	
+paene reluctatis iterum pugnantia rebus
+	
+rupissent elementa fidem penitusque revulso
+	
+carcere laxatis pubes Titania vinclis
+	45
+vidisset caeleste iubar rursusque cruentus
+	
+Aegaeon positis aucto de corpore nodis
+	
+obvia centeno vexasset fulmina motu.
+
+	
+
+Sed Parcae vetuere minas orbique timentes
+	
+ante pedes soliumque ducis fudere severam
+	50
+canitiem genibusque suas cum supplice fletu
+	
+admovere manus, quarum sub iure tenentur
+	
+omnia, quae seriem fatorum pollice ducunt
+	
+longaque ferratis evolvunt saecula fusis.
+	
+prima fero Lachesis clamabat talia regi
+	55
+incultas dispersa comas:
+	
+
+"O maxime noctis
+	
+arbiter umbrarumque potens, cui nostra laborant
+	
+stamina, qui finem cunctis et semina praebes
+	
+nascendique vices alterna morte rependis,
+	
+qui vitam letumque regis (nam quidquid ubique
+	60
+gignit materies, hoc te donante creatur
+	
+debeturque tibi certisque ambagibus aevi
+	
+p298
+rursus corporeos animae mittuntur in artus):
+	
+ne pete firmatas pacis dissolvere leges,
+	
+quas dedimus nevitque colus, neu foedera fratrum
+	65
+civili converte tuba. cur impia tollis
+	
+signa? quid incestis aperis Titanibus auras?
+	
+posce Iovem; dabitur coniunx."
+	
+
+Vix illa:1 pepercit
+	
+erubuitque preces, animusque relanguit atrox
+	
+quamvis indocilis flecti: ceu turbine rauco
+	70
+cum gravis armatur Boreas glacieque nivali
+	
+hispidus et Getica concretus grandine pennas
+	
+disrumpit pelagus, silvas camposque sonoro
+	
+flamine rapturus; si forte adversus aënos
+	
+Aeolus obiecit postes, vanescit inanis
+	75
+impetus et fractae redeunt in claustra procellae.
+
+	
+Tunc Maia genitum, qui fervida dicta reportet,
+	
+imperat acciri. Cyllenius adstitit ales
+	
+somniferam quatiens virgam tectusque galero.
+	
+ipse rudi fultus soli nigraque verendus
+	80
+maiestate sedet: squalent inmania foedo
+	
+sceptra situ; sublime caput maestissima nubes
+	
+asperat et dirae riget inclementia formae;
+	
+terrorem dolor augebat. tunc talia celso
+	
+ore tonat (tremefacta silent dicente tyranno
+	85
+atria: latratum triplicem compescuit ingens
+	
+ianitor et presso lacrimarum fonte resedit
+	
+Cocytos tacitisque acheron obmutuit undis
+	
+et Phlegethonteae requierunt murmura ripae):
+
+	
+p300
+
+"Atlantis Tegeaee nepos, commune profundis
+	90
+et superis numen, qui fas per limen utrumque
+	
+solus habes geminoque facis commercia mundo,
+	
+i celer et proscinde Notos et iussa superbo
+	
+redde Iovi: 'tantumne tibi, saevissime frater,
+	
+in me iuris erit? sic nobis noxia vires
+	95
+cum caelo Fortuna tulit? num robur et arma
+	
+perdidimus, si rapta dies? an forte iacentes
+	
+ignavosque putas, quod non Cyclopia tela
+	
+stringimus aut vanas tonitru deludimus auras?
+	
+nonne satis visum, grati quod luminis expers
+	100
+tertia supremae patior dispendia sortis
+	
+informesque plagas, cum te laetissimus ornet
+	
+Signifer et vario cingant splendore Triones;
+	
+sed thalamis etiam prohibes? Nereia glauco
+	
+Neptunum gremio complectitur Amphitrite;
+	105
+te consanguineo recipit post fulmina fessum
+	
+Iuno sinu. quid enim narrem Latonia furta,
+	
+quid Cererem magnamque Themin? tibi tanta creandi
+	
+copia; te felix natorum turba coronat.
+	
+ast ego deserta maerens inglorius aula
+	110
+implacidas nullo solabor pignore curas?
+	
+non adea toleranda quies. primordia testor
+	
+noctis et horrendae stagna intemerata paludis:
+	
+si dicto parere negas, patefacta ciebo
+	
+Tartara, Saturni veteres laxabo catenas,
+	115
+obducam tenebris solem, compage soluta
+	
+lucidus umbroso miscebitur axis Averno."
+
+	
+p302
+
+Vix ea fatus erat, iam nuntius astra tenebat.
+	
+audierat mandata Pater secumque volutat
+	
+diversos ducens animos, quae tale sequatur
+	120
+coniugium Stygiosque velit pro sole recessus.
+	
+certa requirenti tandem sententia sedit.
+
+	
+
+Hennaeae Cereri proles optata virebat
+	
+unica, nec tribuit subolem Lucina secundam
+	
+fessaque post primos haeserunt viscera partus
+	125
+infecunda quidem; sed cunctis altior extat
+	
+matribus et numeri damnum Proserpina pensat.
+	
+hanc fovet, hanc sequitur: vitulam non blandius ambit
+	
+torva parens, pedibus quae nondum proterit arva
+	
+nec nova lunatae curvavit germina frontis.
+	130
+iam matura toro plenis adoleverat annis
+	
+virginitas, tenerum iam pronuba flamma pudorem
+	
+sollicitat mixtaque tremit formidine votum.
+	
+personat aula procis: pariter pro virgine certant
+	
+Mars clipeo melior, Phoebus praestantior arcu;
+	135
+Mars donat Rhodopen, Phoebus largitur Amyclas
+	
+et Delon Clariosque lares; hinc aemula Iuno,
+	
+hinc poscit Latona nurum. despexit utrumque
+	
+flava Ceres raptusque timens (heu caeca futuri!)
+	
+commendat Siculis furtim sua gaudia terris
+	140
+
+infidis Laribus natam commisit alendam,
+	
+
+
+infidis Laribus natam commisit alendam,2
+
+ingenio confisa loci.
+	
+
+Trinacria quondam
+	
+Italiae pars iuncta fuit; sed pontus et aestus
+	
+mutavere situm. rupit confinia Nereus
+	145
+victor et abscissos interluit aequore montes,
+	
+p304
+parvaque cognatas prohibent discrimina terras.
+	
+nunc illam socia ruptam tellure trisulcam
+	
+opposuit Natura mari: caput inde Pachyni
+	
+respuit Ionia praetentis rupibus iras;
+	150
+hinc latrat Gaetula Thetis Lilybaeaque pulsat
+	
+brachia consurgens; hinc indignata teneri
+	
+concutit obiectum rabies Tyrrhena Pelorum.
+	
+in medio scopulis se porrigit Aetna perustis,
+	
+Aetna Giganteos numquam tacitura triumphos,
+	155
+Enceladi bustum, qui saucia terga revinctus
+	
+spirat inexhaustum flagranti vulnere sulphur
+	
+et, quotiens detractat onus cervice rebelli
+	
+in laevum dextrumque latus, tunc insula fundo
+	
+vellitur et dubiae nutant cum moenibus urbes.
+
+	160
+
+Aetnaeos apices solo cognoscere visu,
+	
+non aditu temptare licet. pars cetera frondet
+	
+arboribus; teritur nullo cultore cacumen.
+	
+nunc movet indigenas nimbos piceaque gravatum
+	
+foedat nube diem, nunc motibus astra lacessit
+	165
+terrificis damnisque suis incendia nutrit.
+	
+sed quamvis nimio fervens exuberet aestu,
+	
+scit nivibus servare fidem pariterque favillis
+	
+durescit glacies tanti secura vaporis,
+	
+arcano defensa gelu, fumoque fideli
+	170
+lambit contiguas innoxia flamma prunias.
+	
+quae scopulos tormenta rotant? quae tanta cavernas
+	
+p306
+vis glomerat? quo fonte ruit Vulcanius amnis?
+	
+sive quod obicibus discurrens ventus opertis
+	
+offenso rimosa furit per saxa meatu,
+	175
+dum scrutatur iter, libertatemque reposcens
+	
+putria multivagis populatur flatibus antra;
+	
+seu mare sulphurei ductum per viscera montis
+	
+oppressis ignescit aquis et pondera librat.
+
+	
+
+Hic ubi servandum mater fidissima pignus
+	180
+abdidit, ad Phrygios tendit secura penates
+	
+turrigeramque petit Cybelen sinuosa draconum
+	
+membra regens, volucri qui pervia nubila tractu
+	
+signant et placidis umectant frena venenis:
+	
+frontem crista tegit; pingunt maculosa virentes
+	185
+terga notae; rutilum squamis intermicat aurum.
+	
+nunc spiris Zephyros tranant; nunc arva volatu
+	
+inferiora secant. cano rota pulvere labens
+	
+sulcatam fecundat humum: flavescit aristis
+	
+orbita; surgentes condunt vestigia fruges,
+	190
+vestit iter comitata seges.
+	
+
+Iam linquitur Aetna
+	
+totaque decrescit refugo Trinacria visu.
+	
+heu quotiens praesaga mali violavit oborto
+	
+rore genas! quotiens oculos ad tecta retorsit
+	
+talia voce movens: "salve, gratissima tellus,
+	195
+quam nos praetulimus caelo, tibi gaudia nostri
+	
+sanguinis et caros uteri commendo labores.
+	
+praemia digna manent: nullos patiere ligones
+	
+et nullo rigidi versabere vomeris ictu.
+	
+sponte tuus florebit ager; cessante iuvenco
+	200
+p308
+ditior oblatas mirabitur incola messes."
+
+sic ait et fulvis tetigit serpentibus Idam.
+
+	
+
+Hic sedes augusta deae templique colendi
+	
+religiosa silex, densis quam pinus obumbrat
+	
+frondibus et nulla lucos agitante procella
+	205
+stridula coniferis modulatur carmina ramis.
+	
+terribiles intus thiasi vesanaque mixto
+	
+concentu delubra gemunt; ululatibus Ide
+	
+bacchatur; timidas inclinant Gargara silvas.
+	
+postquam visa Ceres, mugitum tympana frenant;
+	210
+conticuere chori; Corybas non impulit ensem,
+	
+non buxus, non aera sonant blandasque leones
+	
+submisere iubas. adytis gavisa Cybebe
+	
+exilit et pronas extendit ad oscula turres.
+
+	
+
+Viderat haec dudum summa speculatus ab arce
+	215
+Iuppiter ac Veneri mentis penetralia pandit:
+	
+"curarum, Cytherea, tibi secreta fatebor.
+	
+candida Tartareo nuptum Proserpina regi
+	
+iam pridem decreta dari: sic Atropos urget;
+	
+sic cecinit longaeva Themis. nunc matre remota
+	220
+rem peragi tempus. fines invade Sicanos
+	
+et Cereris prolem patulis inludere campis,
+	
+crastina puniceos cum lux detexerit ortus,
+	
+coge tuis armata dolis, quibus urere cuncta,
+	
+me quoque, saepe soles. cur ultima regna quiescunt?
+	225
+nulla sit inmunis regio nullumque sub umbris
+	
+pectus inaccensum Veneri. iam tristis Erinys
+	
+p310
+sentiat ardores; Acheron Ditisque severi
+	
+ferrea lascivis mollescant corda sagittis."
+
+	
+
+Accelerat praecepta Venus; iussuque parentis
+	230
+Pallas et inflexo quae terret Maenala cornu
+	
+addunt se comites. divino semita gressu
+	
+claruit, augurium qualis laturus iniquum
+	
+praepes sanguineo dilabitur igne cometes
+	
+prodigiale rubens: non illum navita tuto,
+	235
+non impune vident populi, sed crine minaci
+	
+nuntiat aut ratibus ventos aut urbibus hostes.
+	
+devenere locum, Cereris quo tecta nitebant
+	
+Cyclopum firmata manu: stant ardua ferro
+	
+moenia, ferrati postes, inmensaque nectit
+	240
+claustra chalybs. nullum tanto sudore Pyragmon
+	
+nec Steropes construxit opus: non talibus umquam
+	
+spiravere Notis animae nec flumine tanto
+	
+incoctum maduit lassa cervice metallum.
+	
+atria cingit ebur; trabibus solidatur aënis
+	245
+culmen et in celsas surgunt electra columnas.
+
+	
+
+Ipsa domum tenero mulcens Proserpina cantu
+	
+inrita texebat rediturae munera matri.
+	
+hic elementorum seriem sedesque paternas
+	
+insignibat acu, veterem qua lege tumultum
+	250
+discrevit Natura parens et semina iustis
+	
+discessere locis: quidquid leve, fertur in altum;
+	
+in medium graviora cadunt; incanduit aër;
+	
+legit flamma polum; fluxit mare; terra pependit.
+	
+nec color unus erat: stellas accendit in auro,
+	255
+p312
+ostro fundit aquas. attollit litora gemmis
+	
+filaque mentitos iamiam caelantia fluctus
+	
+arte tument: credas inlidi cautibus algam
+	
+et raucum bibulis inserpere murmur harenis.
+	
+addit quinque plagas: mediam subtegmine rubro
+	260
+obsessam fervore notat; squalebat inustus
+	
+limes et adsiduo sitiebant stamina sole.
+	
+vitales utrimque duas, quas mitis oberrat
+	
+temperies habitanda viris; in fine supremo
+	
+torpentes traxit geminas brumaque perenni
+	265
+foedat et aeterno contristat frigore telas.
+	
+nec non et patrui pingit sacraria Ditis
+	
+fatalesque sibi Manes; nec defuit omen,
+	
+praescia nam subitis maduerunt fletibus ora.
+
+	
+
+Coeperat et vitreis summo iam margine texti
+	270
+Oceanum sinuare vadis; sed cardine verso
+	
+cernit adesse deas imperfectumque laborem
+	
+deserit et niveos infecit purpura vultus
+	
+per liquidas succensa genas castaeque pudoris
+	
+illuxere faces: non sic decus ardet eburnum,
+	275
+Lydia Sidonio quod femina tinxerit ostro.
+
+	
+
+Merserat unda diem; sparso nox umida somno
+	
+languida caeruleis invexerat otia bigis,
+	
+iamque viam Pluto superas molitur ad auras
+	
+germani monitu. torvos invisa iugales
+	280
+Allecto temone ligat, qui pascua mandunt
+	
+Cocyti pratisque Erebi nigrantibus errant
+	
+p314
+stagnaque tranquillae potantes marcida Lethes
+	
+aegra soporatis spumant oblivia linguis:
+	
+Orphnaeus crudele micans Aethonque sagitta
+	285
+ocior et Stygii sublimis gloria Nycteus
+	
+armenti Ditisque nota signatus Alastor.
+	
+stabant ante fores iuncti saevumque fremebant
+	
+crastina venturae spectantes gaudia praedae.
+
+
+		
+
+
+
+
+Apparatus Criticus:
+	
+
 1
 illa Ϛ; Birt reads ille with the better MSS.
+❦
 
 2
 Heinsius bracketed these lines as spurious, and neither D nor V has l. 140.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Claudianus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Ostium			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Kal. Aug. 07

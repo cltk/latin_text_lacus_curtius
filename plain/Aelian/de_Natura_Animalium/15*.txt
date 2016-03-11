@@ -1,4 +1,127 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber XIV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Natura Animalium
+				
+
+
+Claudii Aeliani
+				
+
+
+
+a
+Friderico Jacobs
+editi
+				
+apud
+Fridericum Fromannum,
+				
+
+Jenae,
+MDCCCXXXII
+				
+cujus textus in dominio publico est.
+
+				
+
+
+
+Si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber XVI
+				
+
+
+
+
+
+Claudii Aeliani
+	
+
+De Natura Animalium
+	
+
+
+p215
+Liber Decimus Quintus
+	
+
 1
 Hujuscemodi Macedonicam piscandi rationem auditione accepi. In fluvio, nomine Astraeo, qui inter Berneam et Thessalonicen medius fluit, distinct variis coloribus pisces gignuntur; quorum nomen ab incolis Macedonibus melius interroges. Hi autem indigenis muscis in fluvio volitantibus pastum sibi comparant, quae nec simile de specie quicquam aliarum muscarum habent, nec ad apum similitudinem accedunt, nec vesparum, nec denique anthedonum, crabronum1 speciem gerunt; harum tamen aliquam cujusque propriam particulam referunt. Nam in audacia quiddam simile ceterarum muscarum habent, tum magnitudine anthedoni similes sunt, tum vesparum colorem reddunt, et similiter quidem atque apes bombo strepunt. Eas hippuros appellant indigenae. Ad summam autem aquam versantes sui gratia alimenti piscium nationem non latent. Ut ex his igitur quispiam earum aliquam per summa apparentem conspexit, silentio sub aquas subit, metuens ne praedam aquae agitatione loco moveat: et proxime ad illius umbram accedens, quemadmodum vel de grege ovem lupus, vel anserem ex cohorte aquila rapit; sic is ore hianti atque imminenti eam devorat, et mox sub aquae superficiem denuo mergitur. Quod quidem ipsum etsi piscatores haudquaquam ignorant, non iis tamen muscis ad inescandos pisces utuntur; simul enim ac hominis manu continguntur, et nativum colorem perdunt, et pennae evanescunt, et inepti ad escam piscium omnino redduntur. Quae causa est, cur earum odio incensi ipsas a se detestentur. Verumtamen qui piscandi scientiam cognitionemque praeclare tenent, captiosa quadam machinationem atque solertia ejusmodi pisces circumveniunt. Purpurascente enim lana hamum circumvestiunt, et ad eandem lanam gallinacei pennas duas e barba seu paleis, cerei coloris speciem similitudinemque gerentes, accommodant; quaternum cubitorum est arundo, et ejusdem longj linea. Has ergo abstrusas insidias in flumen demittunt; pisces vero colore illecti cupide pergunt contra venire, ac nimirum lautum cibum se habituros ex pulchro adspectu arbitrantes, ore hiantes hamatis escis confinguntur, iisdemque acerbis captivi fruuntur.
 
@@ -146,5 +269,120 @@ Pygmaeorum gentis proprium et peculiare regnum esse audio, et cum masculum genus
 
 
 	
+
+Adnotatio Editoris:
+	
+
 1
 Verba [uncinis] inclusa in Gillii interpetatione non sunt expressa. (Thayer addit: hac in transcriptione Telari, pro uncinis Jacobs colorem immisi.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+de Natura Animalium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+Pagina recensita:
+V Kal. Oct. 04

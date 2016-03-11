@@ -1,4 +1,130 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber III
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber V
+				
+
+
+
+
+
+Vol. Ip195
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Quartus
+	
+
+
+<Prooemium>
+
+
 Patrocinia tractantes tenuerunt causarum conflictationes et caninae, ut ita dicam, contentionis iurgiosa certamina, ex quo studio nihil mihi aliud per dies singulos nisi periculorum cumulus et grave onus invidiae conferebatur; semper enim factiosis hominibus et quos inpotentiae delectabat improbitas vel qui avarae cupiditatis instinctu alienis inhiabant vel qui miseris hominibus ex iudiciorum metu terribiles videbantur, erecta constantiae confidentia resistebam. Hinc mihi malignus livor invidiae et periculorum procellae inproborum hominum pravis cupiditatibus parabantur. 2 Deserui itaque hoc studium, ne imperitorum ac delirorum hominum convalescente consensu pro alienis utilitatibus excubans maximis me insidiis et maximis periculorum discriminibus implicarem; quibus semper et sine intermissione contra me saevientibus et acerba odiorum continuatione certantibus nulla alia ratione restiti, nisi quod liberali animo contemptis forensibus lucris laborantibus hominibus ac varia rerum diversitate sollicitis purum ac fidele patrocinium defensionis
 
 
@@ -10,6 +136,10 @@ p196exhibui. 3 In otio itaque constitutus et forensium certaminum depugnationib
 
 
 	
+p197
+I.
+	
+
 1 Lunae nos omnes cursus in principiis huius libri explicaturos esse promisimus et quid qua ratione decernat; omnis enim substantia humani corporis ad istius pertinet numinis potestatem. Nam posteaquam perfectum hominem vitalis aura susceperit et posteaquam se corpori spiritus divinae mentis infuderit, compositi corporis formam pro qualitate cursus sui Luna sustentat; unde cursus eius prudenti debemus inquisitione colligere, ut totam possimus substantiam humani corporis explicare. 2 Aliter enim natura hominis constare non poterit, nisi corpus eius ad vitae subsidia firmo fuerit praesidio fabricatum; et errant, qui putant solum vitae et spiritus rationem in omnibus genituris esse tractandam, idest horoscopum et MC.; ex his enim locis vitae substantia et spiritus invenitur. Sed nos cum horoscopi parte et cum MC. etiam Lunae cursum sagaci ac sollerti inquisitione debemus partiliter invenire. 3 Fabricator enim hominis deus cum animal hoc divina ac singulari artificii ratione componeret, inmortalis animi divinitatem mortalis ac terreni corporis vinculis obligavit, ut animus <extrinsecus> intrinsecusque diffusus et magnae cuiusdam necessitatis obligatus imperio caducam servientis sibi corporis fragilitatem divinae potestatis licentia gubernaret. 4 Non habebit ergo animus integrum receptaculum nec se poterit circumfusus adnectere nec divinitatis suae explicare substantiam, nisi corpus ad susceptionem animi integra et incorrupta fuerit compagine roboratum, ut animus et corpus pari necessitatis ratione coniuncti et invicem se propriae naturae
 
 
@@ -29,14 +159,25 @@ p200conditionis scriptus stellis iungatur, quando in eadem parte synodica se cop
 
 
 	
+II. Luna ad Saturnum.
+	
+
 1 Si se Luna Saturni adplicaverit stellae et crescens lumine ista se Saturno societate coniungat vel sic ad Saturnum feratur, matri viduitatem et muliebrium locorum adsiduos dolores decernit; ipsos facit in templorum conversationibus detineri et patrimonium eorum variis lacerationibus dissipat, sed rursus procedenti temporis cursu proprio labore aliam sibi facit patrimonii substantiam quaerere. 2 Si vero deficiens et minuta lumine Saturno iungatur, parentes faciet aut degeneres aut servos aut miserae infelicitatis squalore demersos, quorundam autem matres aut debilitatas perimit aut certe facit biothanatas interire ipsis in annis minoribus constitutis; sed et ipsos facit aut vitiosos debiles aut oligochronios aut malo quodam exitu intereuntes, praesertim si in ista coniunctione in necessariis geniturae locis fuerit inventa, idest si [in] horoscopo partili radiatione iungatur.
 
 
 	
+p201
+III. Luna ad Iovem.
+	
+
 1 Si Luna se Iovis adplicaverit stellae et crescens lumine ista se societate coniunxerit vel ad Iovem feratur, faciet felices gloriosos divites, multorum et magnorum fundamentorum et latissimarum possessionum dominos; sed sic habentes Lunam etiam futura praedicunt aut propria animi divinitate aut deorum monitu aut ex oraculis aut artis cuiusdam venerabili disciplina. Si tamen in ista coniunctione Lunam positam de quadrato vel de diametro Martis stella [non] viderit, minuuntur haec omnia cum maximo vitae discrimine. 2 Si vero in ista coniunctione fuerit minuta luminibus, faciet adoptari vel expositos antea postea parentibus reddi, per semetipsos sibi patrimonia quaerentes, et reddit tales, qui gradatim et processu temporis crescant et qui habeant alicuius gloriae potestatem; sed haec tunc complentur, si sic Lunam positam vel crescentem vel minutam Mars de diametro vel quadrato non viderit. 3 Quodsi sic Lunam positam Mars ista, qua diximus, radiatione respexerit, faciet expositos sempiterno servitutis onere deprimi aut ab ancilla matre aut a debili faciet procreari; aut ipsi certe fiunt parte quadam corporis debiles et misero infelicitatis onere praegravati, praesertim si istam coniunctionem Mars in diurna genitura respexerit vel Saturnus in nocturna, sed Saturnus tunc, cum minuta deficit Luna.
 
 
 	
+p202
+IV. Luna ad Martem.
+	
+
 1 Si se Luna Martis applicaverit stellae et crescens lumine Martis se societate coniunxerit vel ad Martem feratur et sit nocturna genitura, facit calidos periculosos violentos, sed qui frequentibus soleant rationibus decipi et quorum vita sit maximis periculis mancipata, efficaces tamen et omnia complentes, aut armis dedicatos aut athleticis certaminibus deputatos, praesertim si in primis geniturae locis fuerint constituti; erunt tamen vitiosi aut laborantes. Matres vero eorum aut debilitatas ante perimit aut facit biothanatas interire. 2 Si vero diurna fuerit genitura et sic se Marti Luna coniunxerit, omni faciet . . . . parte corporis amputatos; aliorum oculis nocet, aliorum stomachum latentium vitiorum continuatione [Luna] debilitat, quosdam oligochronios biothanatos facit. Sed haec omnia secundum propriam naturam singulorum signorum facit atque decernit; et secundum cardinum diversos situs et secundum anaforas cardinum et secundum ea signa, quae aliena esse ab horoscopi societatibus diximus, decretorum diversa varietas invenitur. 3 In his enim signis, quae aliena esse <a> societate horoscopi diximus, idest in sexto ab horoscopo vel in duodecimo loco, si crescens lumine Luna se Marti coniunxerit, patrimonium minuit, parentes separat aut interemptis parentibus orbitatis faciet miseriis fatigari; aliorum corpus ferri laceratione conciditur, aliis talia nascuntur vulnera, ut nulla re alia nisi ignitis
 
 
@@ -45,10 +186,17 @@ p203<possint> sanari cauteriis. Largitur autem artes, ante aut ignem tractent se
 
 
 	
+V. Luna ad Solem.
+	
+
 1 Si Luna feratur ad Solem et ei se partili radiatione coniungat in qualicumque schemate, faciet periculosos miseros deiectos ac miseris facultatibus et <in> omni vita humili conversationis deiectione prostratos. Interdum facit spasticos et qui adsiduis valitudinum contrahantur; alios facit caducos, <aliis> alienationis decernit incommoda, aliis plerumque decernit insanias.
 
 
 	
+p204
+VI. Luna ad Venerem.
+	
+
 1 Si Luna feratur ad Venerem <et Venus> partiliter radios Lunae venientis exceperit, si [se] crescens Luna coniunctioni se Veneris applicaverit, faciet parentes nobiles et maximae potestatis potentia sublevatos, sed eis, qui nati fuerint, a parentum adfectibus separatis cito onus miserae orbitatis indicit. Erunt sane noti semper et nobiles et qui semper in omni actu proficiant et qui omnia, quae desiderant, facile consequantur et qui potentia maximis honoribus fulgeant, pleni venustatis et gratiae, sed omnia incrementa processu temporis consequentur. 2 Si vero Luna deficiens sic feratur ad Venerem, magnos actus, honores maximos et magnae potestatis decernit insignia, et quibus a parentibus et a prima aetate magna felicitas conferantur augmenta; sed hos facit adsiduis infamari rumoribus . . . . adpetatur. 3 Sed semper Luna in omni orbis sui figuratione si feratur ad Venerem, faciet praeposteris amorum vitiis implicatos et qui ob hoc adsiduis pulsentur infamiis, inpuros libidinosos et circa amores mulierum immodica semper cupiditate flagrantes, et quos ad nefarios coitus incesta cupiditas semper incendat; aut enim sorores suas semper stuprant aut sororum filias aut uxores filiorum aut uxores privignorum aut cum novercis suis coeunt aut concubinas patrum latenti cupiditate corrumpunt aut patruis similis per illos inrogatur iniuria, praesertim si istam coniunctionem Mars de diametro respexerit. Nam si sit diurna genitura et Luna
 
 
@@ -57,6 +205,9 @@ p205in cardinibus geniturae posita sic feratur ad Venerem, Mars vero in occasu v
 
 
 	
+VII. Luna ad Mercurium.
+	
+
 1 Si Luna ad Mercurium feratur et ei se cursus sui radiatione coniungat et sit plena luminibus, faciet cordatos ingeniosos, oratores summa eloquentiae nobilitate fulgentes, praesertim si Mercurius in oportunis geniturae locis constitutus in signis suis vel in
 
 
@@ -69,6 +220,9 @@ p207corpore debiles, languidi vitiosi et quos semper malitiosis humoribus aegrit
 
 
 	
+VIII. Luna si ad nullum feratur.
+	
+
 1 Si vero Luna sic fuerit collocata, ut ad nullum feratur nec alicui se stellae propria radiatione coniungat nec cardines benivolum sidus obsideat, faciet pauperes deiectos et qui ab omnibus sint necessariis destituti et quibus cotidianae vitae subsidia denegentur et qui ad sustinendam vitam semper aliena praesidia desiderent et qui per paupertatis angustiam misera mendicitate sustentent; erunt autem a parentibus <in> infinitum inferiores, corpus vero eorum debile languidum et adsidua macie confectum. Inpugnabuntur malignis humoribus et adsiduo tumore vulnerum fatigantur; sed illis intra cutem malignus humor semper inlapidatos articulos obligat, praesertim si per vacuum currens, quam Graeci cenodromon dicunt, a Saturno vel Marte quadrata vel diametra radiatione pulsetur vel si per vacuum currens tertio natalis die a Marte vel Saturno eadem, qua diximus, fuerit radiatione pulsata vel si malivolae in cardinibus fuerint constitutae. 2 Verum si sic currens, idest per vacuum, benivolarum stellarum fuerit radiatione conventa, in prima aetatis vacuos faciet semper et nudos, sed adsiduis facit laboribus fatigari et miseriarum
 
 
@@ -77,6 +231,9 @@ p208adsiduis rationibus quatit, maximis sudoribus et maximis laboribus praesidia
 
 
 	
+IX.
+	
+
 1 Explicatis coniunctionibus Lunae et diligenti significatione monstratis ad aliam interpretationem transferatur oratio, ipsius scilicet Lunae, ne quid a nobis in tam subtilibus disputationibus praetermissum esse videatur, praesertim cum tota vitae substantia ex istius numinis cursibus colligatur.
 
 	p209
@@ -104,6 +261,9 @@ p211et sit crescens vel plena luminibus, facit obscuros et absconsos et tacitos,
 
 
 	
+X.
+	
+
 1 A Iove Luna ad Martem. Si a Iove defluens Luna feratur ad Martem et sit nocturna genitura et crescens Luna sic Martis societati iungatur, facit magnos potentes, civitates vel regiones maximas suis viribus optinentes, sed cum sollicitudinibus et cum periculis istius decernit potentiae potestatem. Non erunt tamen hi sine vitio aut valitudine, sed existunt tales, qui facile cuncta patiantur, praesertim si in principalibus geniturae locis Mars fuerit inventus; quodsi in deiectis locis Marte constituto sic ad eum Luna feratur, ignitas artes decernit, sed ipsos facit humiles et abiectos et valitudines et vitia et malae mortis discrimina frequenti ratione decernit. 2 Si vero per diem Luna a Iove defluat crescens et stellae se
 
 
@@ -132,6 +292,9 @@ p214vitae spatia perseveret. 9 Si vero minuta lumine a Iove defluens feratur a
 
 
 	
+XI.
+	
+
 1 A Marte Luna ad Solem. A Marte defluens Luna si feratur ad Solem, maxima vitia valitudinesque decernit et breve vitae tempus tribuit et facit biothanatos interire et generaliter maxima infelicitatis
 
 
@@ -160,6 +323,9 @@ p217facit biothanatos. Quorundam vero matres aut patres pro signorum qualitate a
 
 
 	
+XII.
+	
+
 1 A Sole Luna ad Venerem. Si a Sole defluens Luna feratur ad Venerem et sit diurna genitura, faciet steriles et qui subolem generare non possint, et qui difficile coniugalibus copulentur adfectibus; aut enim steriles aut anus aut ancillas et ipsas nihilo minus steriles uxores ducunt aut puerorum turpes ac miseros coitus sectantur, ex qua causa filiorum illis soboles in perpetuum denegetur. Erunt sane praeposteris amorum vitiis obligati aut inpuris aut turpibus
 
 
@@ -188,6 +354,9 @@ p220onere deprimatur. Pereunt autem parentes ex ista coniunctione frequenter bio
 
 
 	
+XIII.
+	
+
 1 A Venere Luna ad Mercurium. A Venere defluens Luna ad Mercurium feratur, si sit crescens vel plena luminibus, defensores vel procuratores facit nobilium feminarum et qui mulierum praesidio ordinem aliquem promotionis accipiant; erunt tamen aut tinctores aut margaritarii aut aromatum inventores, musici frequenter et medici aut athletarum principes et magistri, sed libidinosi et adsiduis amorum cupiditatibus sublevati, grati tamen et circa venerios coitus
 
 
@@ -216,6 +385,9 @@ p223dabit, alios lucra maxima invenire compellit aut in templis honorata decerni
 
 
 	
+XIV.
+	
+
 1 A Mercurio Luna ad Saturnum. Si a Mercurio defluens Luna plena lumine ad Saturnum feratur et sit diurna genitura, aut balbos facit semper aut surdos aut verba eorum tardo sono vocis inpedientur. Habebunt autem actus aut ex rationibus aut ex magisteriis aut ex negotiationibus aut ex peregrinationibus aut ex verborum interpretationibus et secreta caelestia semper insinuant; alii aquarum vel carceris custodiarum curam tuitionemque suscipiunt, ut ex istis actibus vitae illis subsidia quaerantur. 2 Si vero per noctem <a> Mercurio defluens Luna plena lumine ad Saturnum feratur, faciet circa aquam semper adsiduis laboribus fatigari, operarios sempiternis laboribus deditos et qui corpus suum ad opus aliquod locare consueverunt, laturarios humeris ac dorso subsidia quaerentes. Alios in custodia constituit, alios intrudit in carcerem, alios publicos iudiciis opponit; alios damnari, alios squalore carceris et publicarum custodiarum oppressos sordibus comatos ac deformes
 
 
@@ -260,6 +432,9 @@ p231magna in templis officia tractantes. 20 Si vero in ceteris geniturae locis 
 
 
 	
+XV.
+	
+
 1 A Saturno defluens Luna. Si a Saturno defluens Luna [et] ad nullum feratur, sed per vacuum cursus suos dirigat et sit crescens vel plena luminibus, patrimonium misera laceratione dilapidat et facit a parentibus alienari aut interemptis parentibus in prima aetate reddit orbos; facit plerumque pigros aut in longinquis peregrinationibus detinet occupatos. 2 Si vero sit minuta luminibus, [et] faciet circa ventrem frigus adsiduum, quos Graeci psychrocoelios vocant, et infinitis flegmatum vitiis laborantes, macros splenicos dysentericos hydropicos pleumaticos vel dysuriacos et qui latentibus vitiorum doloribus torqueantur; sed haec pro signorum qualitate decernit.
 
 	p232
@@ -283,6 +458,10 @@ p233miserum mutatur exitium; deposito paupertatis onere parvum illis vitae subsi
 
 
 	
+p234
+XVI.
+	
+
 1 Nunc genera explicanda sunt omnia, quae veloci cursu suo perficit Luna, ut et partiliter et generaliter omnia explicasse videamur.
 
 	
@@ -305,6 +484,9 @@ p237felicitatis decernit insignia; sed haec maiora efficiuntur, si Mars addat ad
 
 
 	
+XVII. De loco et de efficacia Fortunae.
+	
+
 1 In omni genitura nocturna computa a Luna Umbria Solem, in diurna genitura a Sole computa rursus
 
 
@@ -329,10 +511,17 @@ p242male positis MC. et anafora horoscopi omnium benivolarum stellarum praesidio
 
 
 	
+XVIII. De loco daemonis.
+	
+
 1 Locum daemonis ista ratione colligimus; quam ideo huic libro indidimus, quia Solis eum locum esse Abraham simili ratione monstravit et inicum erit, ut a loco Lunae Solis separaretur locus. Qui locus hac ratione colligitur: [ut] in diurna genitura a parte Solis usque ad partem Lunae omnium signorum colligis partes et totam hanc summam ab horoscopo incipiens per sequentia signa distribuis, et in quocumque signo ultima pars ceciderit, ipsa tibi pars daemonem monstrat. In nocturna vero a Luna usque ad Solem omnium signorum colligis partes sunt omnem istam summam ab horoscopo incipiens simili ratione totis dividis signis, et in quocumque signo <pars ultima ceciderit, ipsa tibi> pars geniturae daemonem monstrat. 2 Haec locus vocatur et animae substantia; ex hoc loco actus omnisque augmenta substantiae quaerimus [invenimus], et ostendit, qualis circa virum mulieris sit adfectus. Sed et haec locus et quadrata latera ipsius loci patriam nobis manifesta ratione demonstrat. Vide ergo, locum hunc quae malivolae stellae, quae benivolae respiciant, et sic apotelesmata pro singularum stellarum testimoniis explica.
 
 
 	
+p243
+XIX. De domino geniturae.
+	
+
 1 . . . . . . . . . . . <geniturae> dominum, quem Graeci oecodespotem vocant, qua debeas ratione colligere; ipse enim totius geniturae possidet summam et ab ipso stellae singulae decreti licentiam sortiuntur; qui si bene fuerit collocatus in huius, in quibus gaudet signis vel in quibus exaltatur, vel in domiciliis suis, et conditionis suae genitura fuerit nec malivolarum nociva radiatione pulsatus fuerit nec benivolarum stellarum praesidio destitutus, omnia bona pro naturae suae qualitate decernit et integrum annorum numerum. Si vero impeditus a malivolis vel a benivolis desertus fuerit, omnis eius efficacia debilitata languescit. 2 Quatenus invenias, explicabo omnibus veterum sententiis intimatis. Quidam hac voluerunt geniturae dominum ratione colligere dicentes esse geniturae dominum, qui in principalibus geniturae locis positus in signis suis aut in finibus suis fuisset inventus. Alii vero a Sole et Luna geniturae dominum requiebant eum dicentes esse geniturae dominum, in cuius stellae finibus Sol et Luna fuissent inventi, idest Sol in diurna, Luna in nocturna genitura, et habet rationem. Alii eum dixerunt esse dominum, qui altitudinis Lunae dominus fuisset inventus. Alii vero hunc esse dixerunt dominum, cuiuscumque signum post natum hominem Luna relicto eo signo, in quo est, secundo loco fuerit ingressa. 3 Sed et nos hanc rationem sequimur; haec enim est verissima et ab omnibus comprobata. Sed et tu haec omnia, quae diximus, diligenti ratione discute: invenies, quod dominus geniturae
 
 
@@ -415,6 +604,9 @@ p257stellarum minacibus radiis impeditae, omnia felicitatis et omnium dignitatum
 
 
 	
+XX. <De annis climactericis.>
+
+
 1 Cum ergo genituram tractare coeperis et totum stellarum cursum diligenti ratione perspexeris <et> locorum et cardinum videris potestatem et omnia partili ratione collegeris, in ipsis principiis apotelesmatum positus nihil aliud principe in loco nisi tempus
 
 
@@ -431,6 +623,9 @@ p260quatenus geniturae dominum et temporum dominum, ut, cum securus fueris de vi
 
 
 	
+XXI. De actibus.
+	
+
 1 Nunc scire debemus, quis in singulis hominibus vel quos decernat actus; et tunc debemus diligenti ratione colligere, [et] quo loco sit positus. Sunt autem, qui actus decernunt hominibus, Mars Venus et Mercurius. Ille itaque decernit actus ex his tribus, qui aut <in> MC. fuerit aut in dextro MC. trigono fuerit aut qui in sinistro aut qui in aliis cardinibus fuerit inventus.
 
 	
@@ -460,6 +655,9 @@ p264stellae deiectionem humilitates miserias infamiasque decernunt; sed in ipsis
 
 
 	
+XXII. De vacantibus locis et plenis.
+	
+
 1 Explicaturo mihi nunc doctrinae istius veneranda secreta, quae divini veteres cum maxima trepidatione dixerunt et quae involuta obscuritatis ambagibus reliquerunt ob hoc, ne publicata divina scientia ad profanorum hominum notitiam perveniret, intento . . . animo et quieto nec aliis rationibus occupato, ut, quicquid dixerim in hoc tractatu, facillimis rationibus intimetur. 2 Singula signa in libro institutionis ternos habere decanos diximus; sunt autem decani ipsi magni numinis ac potestatis et per ipsos omnia prospera et omnia infortunia decernuntur. Sic et
 
 
@@ -471,20 +669,662 @@ p265Nechepso, iustissimus Aegypti imperator et astrologus valde bonus, [et] per 
 p266destituti semper et pauperes, ad omne infelicitatis discrimen miseriarum continuationibus applicati. 5 Sane in omnibus locis et in omnibus stellis istam rationem debes diligenter inspicere; si enim horoscopus in plenis partibus fuerit, erunt <substantia> vitae, virtute animi, qualitate corporis et auctoritatis potestate praevalidi. Qui vero in vacuis partibus horoscopum habuerint, erunt minori corpore, deiecti animo, invalidis viribus, semper potentioribus servientes et in omnibus aequalibus subiacentes et qui in omnibus negotiis auctoritatem libertatis amittant. 6 Simili ratione etiam MC. pars, si in vacuis partibus fuerit inventa, vacuam decreti sui efficaciam praestat, si vero in plenis partibus, omnia integra et incorrupta praestat, quae locus ipse praestare consuevit; simili modo Fortunae locus, simili etiam geniturae dominus, simili modo etiam ille, quem actus praestare signavimus. Omnes enim hi, licet sint in oportunis locis positi, si non in plenis partibus fuerint, perdunt licentiae potestatem; si vero plenas possederint partes, omnia, quae eos decreturos esse promisimus, incorrupta potestate decernunt. 7 Explicabo itaque partes plenas ac vacuas, ut disciplinae istius secreta nullus invidiae livor inmaculet; decanorum etiam nomina proferam, ut totum tibi, quod promisimus, intimetur, in Ariete faciens exordium. Illae enim sunt partes plenae, <in> quibus decanorum nomina inveneris, vacuae vero, quas nudas decani reliquerunt.
 
 
+
+
+p267
+I
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Senator
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+IX
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Senacher
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Sentacher.
+		
+
+
+
 II. Tauri. In Tauri signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem in Tauro plenae partes XX, vacuae partes X.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+Suo
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+VIII
+		
+
+Aryo
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Romanae.
+		
+
+
+
 III. Geminorum. In Geminorum signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem in Geminis plenae partes XVIII, vacuae XII.
+
+
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+Thesogar
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Ver
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Tepis
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
 
 
 p268
 III. Cancri. In Cancri signo quae sint partes plenae, quae vacuae, hoc monstratur exemplo. Sunt autem plenae partes XIX, vacuae partes XI.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Sothis
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Sith
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+IX
+		
+
+Thiumis
+		
+
+
+
+VII
+		
+
+locus
+		
+
+partesº
+
+
+I
+		
+
+vacuus.
+		
+
+
+
 V. Leonis. In Leonis signo quae sint partes plenae, quae vacuae, demonstramus exemplo. Sunt autem plenae partes XXI, vacuae partes VIIII.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+Craumonis
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+vacuus
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+Sic
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+X
+		
+
+Futile.
+		
+
+
+
 VI. Virginis. In Virginis signo quae sint partes plenae, quae vacuae, hoc demonstramus exemplo. Sunt autem plenae partes XIV, vacuae partes XVI.
+
+
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Thumis
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Tophicus
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Afut
+		
+
+
+
+VII
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus.
+		
+
 
 
 VII. Librae. In Librae signo quae sint partes
@@ -494,26 +1334,670 @@ VII. Librae. In Librae signo quae sint partes
 p269plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem plenae partes XIX, vacuae partes XII.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Seuichut
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+VIII
+		
+
+Sepisent
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Senta
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
 VIII. Scorpionis. In Scorpionis signo quae sint partes plenae, quae vacuae, hoc demonstramus exemplo. Sunt autem plenae partes <XVI>, vacuae partes XIV.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Sentacer
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Tepisen
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Sentineu
+		
+
+
+
+VII
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus.
+		
+
+
+
 IX. Sagittarii. In Sagittarii signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem plenae partes XXIII, vacuae partes VII.
+
+
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+IX
+		
+
+Eregbuo
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+Sagon
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+vacuus
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+Chenene.
+		
+
 
 
 p270
 X. Capricorni. In Capricorni signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem plenae partes XIII, vacuae partes XVII.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+VII
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+Themeso
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+Epiemu
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Omot.
+		
+
+
+
 XI. Aquarii. In Aquarii signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem plenae partes XVIIII, vacuae partes XI.
 
 
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Oro
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+IV
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Cratero
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+VIII
+		
+
+Tepis.
+		
+
+
+
 XII. Piscium. In Piscium signo quae sint partes plenae, quae vacuae, hoc demonstratur exemplo. Sunt autem plenae partes XIII, vacuae partes XVII.
+
+
+
+
+I
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+II
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+Acha
+		
+
+
+
+III
+		
+
+locus
+		
+
+partes
+		
+
+III
+		
+
+vacuus
+		
+
+
+
+IV
+		
+
+locus
+		
+
+partes
+		
+
+V
+		
+
+Tepibui
+		
+
+
+
+V
+		
+
+locus
+		
+
+partes
+		
+
+VI
+		
+
+vacuus
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+Uiu
+		
+
+
+
+VI
+		
+
+locus
+		
+
+partes
+		
+
+II
+		
+
+vacuus
+		
+
 
 p271
 20 Istam rationem veteres involutam variis obscuritatibus reliquerunt, <ne> ad omnium notitiam verissima haec et inmutabilis ratio perveniret. Sed et magnus ille Petosiris hanc partem leviter attingit, non quod eam nesciret (ad omnia enim secreta divinitatis accessit), sed cum docere nollet, ne inmortalem operis sui relinqueret disciplinam. Itaque cum stellarum omnium et horoscopi et locorum omnium <vim> diligenti ratione collegeris, novissimum respiciens partium numerum in singulis stellis et in singulis locis quaere, quae in singulis partibus in vacuis resideant. Tunc enim secundum haec, quae ante diximus, totius decreti poteris explicare substantiam.
 
 
 	
+XXIII.
+	
+
 1 Nunc masculinas et femininas proferam partes. Scire debemus quod in omnibus signis et masculini generis et feminini <et masculinae> et [quae] femininae sint partes. Ex huius enim partibus invenitur, cuius genitura sit, masculina an feminina. Sunt itaque masculinae partes CXCVII, femininae vero CLXIII; quae autem masculinae sint in singulis signis, quae
 
 
@@ -526,6 +2010,9 @@ p273a III usque ad V. femininae, a VI usque ad XII masculinae, a XIII usque 
 
 
 	
+XXIV. Luna cum ceteris in cardinibus collocata.
+	
+
 1 Luna cum Sole si partiliter in horoscopo fuerit, in his, in quibus gaudet vel in quibus exaltatur signis
 
 
@@ -557,6 +2044,10 @@ p276si Saturnus <eos> aliqua radiatione respexerit, publicis custodiis, publico 
 
 
 	
+p277
+XXV.
+	
+
 1 Nunc illud tibi intimare debemus, qua ratione partiliter defluat Luna, qua etiam ratione iungatur, quas Graeci synafas aporroicas vocant. in omnibus enim signis et a multis defluit et multis ea radiatione coniungitur. Nam in quocumque signo <in> cuiuscumque stellae finibus fuerit inventa, ab ea defluens ad illam fertur, cuiuscumque stellae in eodem signo fines secundo loco fuerit ingressa. 2 Respice itaque, quatenus eam finium dominus vel in quo loco constitutus aspiciat, et praecedentium apotelesmatum ratione concepta omne fatum hominis veris poteris explicare sententiis. Respice etiam, tertio ordine cuius stellae partes ingreditur — et ipsa enim decernendi accipit potestatem — et sic usque ad novissimas ipsius signi perge partes, ut omnia possis specialiter invenire, quae ad Lunae efficaciam pertinent. 3 Illud etiam sciendum est, quod in omnibus signis, quotiens Luna novissimas possederit partes, ad nullum feratur; occurrentis enim signi obstaculis impeditur. Sed et rursus in primis signi partibus posita a nullo defluit, sed tunc sola efficacia coniunctionis inquiritur. Omnis enim potestas praecedentium partium ex illo termino, qui inter utrumque signum est, praetermissa deseritur et aliam efficaciam ex prima signi parte sortitur. 4 Haec est partilis coniunctio defluctioque Lunae; nam platice integris faciemus signis. Sed nos in omni
 
 
@@ -565,3 +2056,122 @@ p278tractatu partili debemus omnia ratione tractare. Unde iterum te atque iterum
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

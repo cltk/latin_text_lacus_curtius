@@ -1,4 +1,121 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Divus
+				
+Titus
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p338
+Domitianus
+	
+
 1
 
 1 Domitianus natus est VIIII. Kal. Novemb. patre consule designato inituroque mense insequenti honorem, regione urbis sexta ad Malum Punicum, domo quam postea in templum gentis Flaviae convertit. Pubertatis ac primae adulescentiae tempus tanta inopia tantaque infamia gessisse fertur, ut
@@ -99,6 +216,14 @@ p356earum relegasset, mox Corneliam maximam virginem absolutam olim, dein longo 
 1 Inter initia usque adeo ab omni caede abhorrebat, ut absente adhuc patre recordatus Vergili versum:
 
 
+
+
+
+"Impia quam caesis gens est epulata iuvencis"
+		
+
+
+
 edicere destinarit, ne boves immolarentur. Cupiditatis quoque atque avaritiae vix suspicionem ullam aut privatus umquam aut princeps aliquamdiu dedit, immo e diverso magna saepe non abstinentiae modo sed etiam liberalitatis experimenta. 2 Omnis circa se largissime prosecutus nihil prius aut acrius monuit quam ne quid sordide facerent. Relictas sibi hereditates ab iis, quibus liberi erant, non recepit. Legatum etiam ex testamento Rusti13 Caepionis, qui caverat ut quotannis
 
 
@@ -149,6 +274,14 @@ p366vitam vel dissimulata origine imposita genti tributa non pependissent. Inter
 3 Ab iuventa minime civilis animi, confidens etiam et cum verbis tum rebus immodicus, Caenidi patris concubinae ex Histria reversae osculumque, ut assuerat, offerenti manum praebuit; generum fratris indigne ferens albatos et ipsum ministros habere, proclamavit:
 
 
+
+
+
+Οὐκ ἀγαθὸν πολυκοιρανίη.
+		
+
+
+
 13
 
 1 Principatum vero adeptus neque in senatu iactare dubitavit et patri se et fratri imperium dedisse, illo sibi reddidisse, neque in reducenda post divortium uxore edicere revocatam25 eam in pulvinar suum. Adclamari etiam in amphitheatro epuli die libenter audiit: "Domino et dominae feliciter!" Sed et Capitolino certamine cunctos ingenti consensu precantes, ut Palfurium Suram restitueret pulsum olim senatu ac tunc de oratoribus coronatum, nullo responso dignatus tacere tantum modo iussit voce praeconis. 2 Pari arrogantia, cum procuratorum suorum nomine formalem dictaret epistulam, sic coepit: "Dominus et deus noster hoc fieri iubet." Unde institutum posthac, ut ne
@@ -165,6 +298,16 @@ p368scripto quidem ac sermone cuiusquam appellaretur aliter. Statuas sibi in Cap
 
 
 p370non alia magis re compulsus creditur, quam quod sparsi libelli cum his versibus erant:
+
+
+
+
+
+
+Κἄν29 με φάγῃς ἐπὶ ῥίζαν, ὅμος ἔτι καρποφορήσω,
+			
+ὅσσον ἐπισπεῖσαι σοί, τράγε, θυομένῳ.
+		
 
 
 
@@ -215,6 +358,13 @@ p376afferret, nec differendum. Itaque summotis omnibus, in cubiculum se recepit 
 1 Statura fuit procera, vultu modesto ruborisque pleno, grandibus oculis, verum acie hebetiore; praeterea pulcher ac decens, maxime in iuventa, et quidem toto corpore exceptis pedibus, quorum digitos restrictiores habebat; postea calvitio quoque deformis et obesitate ventris et crurum gracilitate, quae tamen ei valitudine longa remacruerant. 2 Commendari se verecundia oris adeo sentiebat, ut apud senatum sic quondam iactaverit: "Usque adhuc certe et animum meum probastis et vultum." Calvitio ita offendebatur, ut in contumeliam suam traheret, si cui alii ioco vel iurgio obiectaretur; quamvis libello, quem de cura capillorum ad amicum edidit, haec etiam, simul illum seque consolans, inseruerit:
 
 
+
+
+"Οὐχ ὁράᾳς,38 οἷος κἀγὼ καλός τε μέγας τε;
+		
+
+
+
 Eadem me tamen manent capillorum fata, et forti
 
 
@@ -257,205 +407,369 @@ Quotiens otium esset, alea se oblectabat, etiam profestis diebus matutinisque ho
 2 Ante paucos quam occideretur menses cornix in Capitolino elocuta est: ἔσται πάντα καλῶς, nec defuit qui ostentum sic interpretaretur:
 
 
+
+
+
+"Nuper Tarpeio quae sedit culmine cornix,
+			
+'Est bene' non potuit dicere, dixit: 'Erit.' "
+		
+
+
+
 Ipsum etiam Domitianum ferunt somniasse gibbam sibi pone cervicem auream enatam, pro certoque habuisse beatiorem post se laetioremque portendi rei publicae statum,43 sicut sane brevi evenit abstinentia et moderatione insequentium principum.
 
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 variae, Ω; vanae, ς and the editors.
+❦
 
 2
 nam, J. Gronov.; quam, Ω; quia, ς.
 
 
+❦
 
 3
 ne, ΠQ; the other mss. have nec.
 
 
+❦
 
 4
 quin et e sex, Ihm (quin ex, Bentley); qui sex or quis ex, MGRLPδ; the rest of the mss. have in sex.
 
 
+❦
 
 5
 palamque, Tς; et palam, L; the other mss. have palam.
 
 
+❦
 
 6
 quam . . . amisit, supplied by Ihm.
+❦
 
 7
 mixturaque, Lipsius; mixtura prope, Bentley.
+❦
 
 8
 ecquid, second Roman edition; et quid, Ω (et qui, X).
 
 
+❦
 
 9
 virgines, Lipsius; virginis, Ω.
 
 
+❦
 
 10
 sacro cum, J. Gronov.; sacro (quidem), ς (Torrentius); sacrorum, Ω.
 
 
+❦
 
 11
 gregum, Beroaldus; grecum, Ω.
 
 
+❦
 
 12
 correctione, Lς; the other mss. have correptione.
 
 
+❦
 
 13
 Rusti, ς (Torrentius, Burman); rusci, Ω.
 
 
+❦
 
 14
 impuberem, Basle ed. of 1533; puberem, Ω.
 
 
+❦
 
 15
 in, added by Torrentius.
 
 
+❦
 
 16
 abductam, Tς; adductam, Ω.
 
 
+❦
 
 17
 Pompusianum, Roth (cf. Vesp. xiv); Pomposianum, Ω.
 
 
+❦
 
 18
 membrana, Scriverius; membranis, ς; membranas, Ω.
 
 
+❦
 
 19
 Macé, Suétone, p413, would insert Herennium Senecionem quod before Helvidi.
 
 
+❦
 
 20
 investigat, Stephanus; investigato, Ω; per conscios investigatos, Casaubon.
+❦
 
 21
 actorem, ς (Torrentius); auctorem, Ω.
 
 
+❦
 
 22
 Arrecinum, Π1QN; arretinum, Ω.
 
 
+❦
 
 23
 dictumve, δς; dictumque, Ω.
 
 
+❦
 
 24
 vel inprofessi, J. F. Gronov.; velut inprofessi, MGΥδ; velut professi, X.
 
 
+❦
 
 25
 revocatam, Salmasius; vocatam, Ω.
 
 
+❦
 
 26
 arci, MGδ, = ἀρκεῖ (Turnebus).
+❦
 
 27
 quot, ς; quod, Ω.
 
 
+❦
 
 28
 insidiis, G; conspiratione, after intimorum, Υ′ON.
 
 
+❦
 
 29
 κἄν, Roth; και, Ω; cf. CIL IV.3407, 6.
 
 
+❦
 
 30
 audendam, ρ L3; audiendam, Ω.
 
 
+❦
 
 31
 abolitoque, N; et abolito, Υ; abolito, MGX (Bentley).
+❦
 
 32
 reddidit, Υ′; the other mss. have reddit.
 
 
+❦
 
 33
 negantemque, mss.; negantem, Stephanus; negantem quoque, Oudendorp; lacuna before negantemque, Roth.
+❦
 
 34
 Asclationis, F. Cumont, Cat. Codd. Astrol. Graec. v. p205, n1.
+❦
 
 35
 dolonem, Ferrarius; dolum, Ω; dolo, δ.
 
 
+❦
 
 36
 vespillones, Beroaldus.
+❦
 
 37
 Phyllis, ρς; Phyllix, Ω.
 
 
+❦
 
 38
 ὁρᾷς, Ω.
 
 
+❦
 
 39
 derexit, ς; derexerit, Q; the other mss. have direxit.
 
 
+❦
 
 40
 alieno, ς; alfeno, MGΥ; the greater number of the X class have alieno alfeno.
 
 
+❦
 
 41
 clinopalem, Ω.
 
 
+❦
 
 42
 develleret, G; the other mss. have divelleret.
 
 
+❦
 
 43
 rerum statum publice, M; rei statum publicae, G; statum rei publicae, X.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VII Id. Dec. 03

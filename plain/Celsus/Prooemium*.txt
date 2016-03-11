@@ -1,5 +1,120 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Medicina
+				
+
+
+A. Cornelii Celsi
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXXXV
+				
+Hic textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber
+				
+I
+				
+
+
+
+
+
+A. Cornelii Celsi
+	
+
+De Medicina
+	
+
+p2
+Prooemium
+	
+
+
 Ut alimenta sanis corporibus agricultura, sic sanitatem aegris Medicina promittit. Haec nusquam quidem non est siquidem etiam inperitissimae gentes herbas aliaque promta in auxilium vulnerum morborumque noverunt. 2 
 Verum tamen apud Graecos aliquanto magis quam in ceteris nationibus exculta est, ac ne apud hos quidem a prima origine, sed paucis ante nos saeculis. Ut pote cum vetustissimus auctor Aesculapius celebretur, qui quoniam adhuc rudem et vulgarem hanc scientiam paulo subtilius excoluit, in deorum numerum receptus est. 3 
 Huius deinde duo filii Podalirius et Machaon bello Troiano ducem Agamemnonem secuti non mediocrem opem commilitonibus suis attulerunt; quos tamen Homerus non in pestilentia neque in variis generibus morborum aliquid adtulisse auxilii, sed tantummodo ferro et medicamentis mederi solitos esse proposuit. 4 
@@ -245,40 +360,51 @@ pertinebunt.
 
 
 	
+
+Adnotationes Editoris:
+	
+
 1
 Marx notes that the text is corrupt and suggests interisse quidem tum morbis plurimos, cum fuerint nulla auxilia etc. . . . "it is probable that then most perished from their diseases, since there were no aids against bad health."
 
 
+❦
 
 2
 inquieta one MS.; quieta Marx, following the majority.
 
 
+❦
 
 3
 Marx suggests si quotannis tamen nova remedia inveniuntur, neque dicendum esse antiquiores experimentis esse usos . . ., "if new remedies nevertheless are found every year, nor must we say that the ancients went by experience . . . ."
 
 
+❦
 
 4
 supra added by Marx.
 
 
+❦
 
 5
 est quae added by Marx.
 
 
+❦
 
 6
 sed added by v. d. Linden.
 
 
+❦
 
 7
 Marx suggests inserting in eorum qui evidentibus causis nati sunt morborum curatione, "in treating those diseases which come from evident causes."
 
 
+❦
 
 8
 M. suggests pus, suppuration: see
@@ -288,27 +414,146 @@ IV.11.3;
 VIII.10 , l.c.
 
 
+❦
 
 9
 M. suggests e.g. fuerit matrona equiti Romano nupta.
 
 
+❦
 
 10
 causis added by Marx.
 
 
+❦
 
 11
 Marx thinks there is a gap after repugnat and suggests esse enim quaedam quae morbos efficiant apparet, "for it is clear that there are certain causes which can produce diseases," etc.
 
 
+❦
 
 12
 ut Constantine, vi. MSS.
+❦
 
 13
 isti added by Marx; v. d. Linden (followed by Targa and Daremberg) reads quae non temere medici sibi vindicant, "which the practitioners with very good reason claim."
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Celsi
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+V Kal. Apr. 05

@@ -1,4 +1,119 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Capitula 79‑86
+				
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The African War
+				
+
+by an unknown writer, attached to the name of
+				
+
+Julius Caesar
+				
+
+
+
+Loeb Classical Library
+				
+1955
+				
+The text is in the public domain.
+
+				
+This text has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Caesar
+	
+de Bello Africo
+	
+
+p282
+[Capitula 87‑98]
+	
+
 87
 
 Equites interim Scipionis qui ex proelio fugerant, perveniunt ad oppidum Paradae. Ubi cum ab incolis non reciperentur, ideo quod fama de victoria Caesaris praecucurrisset, vi oppido potiti in medio foro lignis coacervatis omnibusque rebus eorum congestis ignem subiciunt atque eius oppidi incolas cuiusque generis aetatisque vivos constrictosque in flammam coiciunt atque ita acerbissimo adficiunt supplicio; deinde protinus Uticam perveniunt. Superiore tempore M. Cato, quod in Uticensibus propter beneficium legis Iuliae parum suis partibus praesidi esse existimaverat, plebem inermem oppido eiecerat et ante portam bellicam castris fossaque parvula dumtaxat muniverat ibique custodiis circumdatis habitare coegerat; senatum autem oppidi custodia coeperunt, ideo quod eos Caesaris partibus favisse sciebant, ut eis interfectis eorum pernicie dolorem suum ulciscerentur. Uticenses animo addito ex Caesaris victoria lapidibus fustibusque equites reppulerunt. Itaque posita quam castra non potuerant potiri,
@@ -82,46 +197,209 @@ His rebus gestis Idibus Iun. Uticae classem conscendit et post diem tertium Car
 
 
 	
+
+Adnotationes Editoris:
+	
+
+
 1
 so most MSS.; but perhaps Uzittam should be read with kubler and Bouvet.
 
 
+❦
 
 2
 accusatos MSS.: accusat R. Schneider.
 
 
+❦
 
 3
 sestertium most MSS.: sestertio Oudendorp.
 
 
+❦
 
 4
 conatus MSS.: cenatus Rubenius.
 
 
+❦
 
 5
 Iuba Petreium MSS.; but Iubam Petreius is a common restoration which not only serves to improve the word order by securing chiasmus, but also conforms to the traditional account of the duel given both in Livy, Epitome and Florus.
 
 
+❦
 
 6
 The MSS. reading appears corrupt: the phrase is barely intelligible in this position, and Moelken may well be right in placing it after Hispaniam. One MS. (M) gives per maritimam, whence per maritima or per oram maritimam have been conjectured.
 
 
+❦
 
 7
 cum quos or cum illis quas MSS.: cum illis quos Kuebler.
 
 
+❦
 
 8
 togatis most MSS. (irrogatis in two inferior Dresden codices): locatis R. Schneider.
 
 
+❦
 
 9
 itemque appears in the MSS. before Thapsitanis: Nipperdey transposed it.
 
+
+
+
+
+◂ antecedenti
+		
+
+
+insequenti ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+UP TO:
+		
+
+
+
+de Bello
+			
+Africo
+			
+
+
+
+
+Opera
+			
+Caesaris
+			
+
+
+
+
+Historia Militaris Romana
+			
+
+
+
+
+Historia
+			
+Militaris
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+III Kal. Mar. 13

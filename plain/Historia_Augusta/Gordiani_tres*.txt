@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Maximini duo
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Maximus et Balbinus
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+
+p380
+Gordiani Tres
+	
+
 11 Fuerat quidem consilium, venerabilis Auguste, ut singulos quosque imperatores exemplo multorum libris singulis ad tuam Clementiam destinarem. 2 nam id multos fecisse vel ipse videram vel lectione conceperam. 3 sed improbum visum est vel Pietatem tuam multitudine distinere librorum vel meum laborem plurimis voluminibus occupare. 4 quare tres Gordianos hoc libro conexui, consulens et meo labori et lectioni tuae, ne cogereris plurimos codices volvendo unam tamen paene historiam lectitare. 5 sed ne ego, qui longitudinem librorum fugi multitudinemque verborum, in eam incurrisse videar, quam me urbane declinare confingo, iam rem adgrediar.
 
 	
@@ -135,6 +243,9 @@ p408Mauris et tumultuaria manu accepto a Gordiano successore Carthaginem petiit,
 
 	p410
 
+Gordianus Iunior
+	
+
 17
 1 Hic Gordiani senis, proconsulis Africae, filius, qui cum patre et ab Afris et a senatu Augustus appellatus est, litteris et moribus clarus fuit praeter nobilitatem, quam,18 ut nonnulli, ab Antoninis, ut plurimi, ab Antoniis duxit;19 2 si quidem argumento ad probandam generis qualitatem alii hoc esse desiderant,20 quod Africanus Gordianus senior appellatus est cognomine Scipionum, quod domum Pompeianam in urbe habuit, quod Antoninorum cognomine semper est nuncupatus, quod Antonium filium suum ipse significari voluit in senatu; quae singula videntur familias designare. 3 sed ego Iunium Cordum sequor, qui dicit ex omnibus his familiis Gordianorum coaluisse nobilitatem. 4 idem igitur natus patri primus ex Fabia Orestilla, Antonini pronepte, unde Caesarum quoque familiam contingere videbatur. 5 et primis diebus sui natalis Antoninus est appellatus, mox in senatu Antonii21 nomen est editum, vulgo deinde Gordianus haberi coeptus.
 
@@ -162,6 +273,18 @@ p4145 vixit in deliciis, in hortis, in balneis, in amoenissimis nemoribus, nec 
 1 Cum senior Gordianus mathematicum aliquando consuleret de genitura huius, respondisse ille dicitur hunc et filium imperatoris et patrem et25 ipsum imperatorem futurum. 2 et cum senior Gordianus rideret, ostendisse constellationem mathematicum ferunt et de libris veteribus dictasse, ita ut probaret se vera dixisse. 3 ºqui quidem et seni et iuveni et diem et genus mortis et loca, quibus essent perituri, obstinata constantia e veritate praedixit. 4 quae omnia postea Gordianus senior in Africa, iam imperator et quando nihil timebat, narrasse perhibetur, de morte quin etiam sua filiique et de genere mortis dixisse. 5 cantabat praeterea versus senex, cum Gordianum filium vidisset, hos saepissime:
 
 
+
+
+p416
+Ostendent terris hunc tantum fata neque ultra
+			
+esse sinent. nimium vobis Romana propago
+			
+visa potens, superi, propria haec si dona fuissent.
+		
+
+
+
 6 Exstant dicta et soluta oratione et versibus Gordiani iunioris, quae hodie ab eius adfinibus frequentantur, non magna, non minima sed media et quae appareant26 hominis esse ingeniosi sed luxuriantis et suum deserentis ingenium.
 
 	
@@ -176,6 +299,9 @@ p4145 vixit in deliciis, in hortis, in balneis, in amoenissimis nemoribus, nec 
 
 
 	
+Gordianus Tertius
+	
+
 22
 1 Post mortem duorum Gordianorum senatus trepidus et Maximinum vehementius timens ex viginti viris, quos ad rem publicam tuendam delegerat, Pupienum sive Maximum et Clodium Balbinum Augustos appellavit, ambos ex consulibus. 2 tunc populus et milites Gordianum parvulum, annos agentem, ut plerique adserunt, undecim, ut nonnulli, tredecim, ut Iunius Cordus dicit, sedecim (nam vicensimo et secundo anno eum perisse adserit), petiverunt, ut Caesar appellaretur; 3 raptusque ad senatum atque inde29 in contione positus indumento imperatorio tectus Caesar est nuncupatus.
 
@@ -314,284 +440,443 @@ p446Sarmatarum, depulsori Romanarum seditionum, victori Germanorum, sed non vict
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 graecorum P.
 
 
+❦
 
 2
 post consulatum Peter2; ipsos consulatum P.
 
 
+❦
 
 3
 id est Peter; et de P.
 
 
+❦
 
 4
 Alexandriados Unger, Peter2; elidos P1; ylidos P corr.; iliados Jordan.
 
 
+❦
 
 5
 clauum om. in P.
 
 
+❦
 
 6
 litteras Jordan, Lessing; litteris P, Peter.
 
 
+❦
 
 7
 familiam Damsté; familia P, Peter.
 
 
+❦
 
 8
 filio ins. by Salm. and Peter; om. in P.
 
 
+❦
 
 9
 So Peter2, following
 Herodian, VII.5.5; quod Maximinianis necessario fautoribus dubie P.
 
 
+❦
 
 10
 So Baehrens; alii quidem occiso . . . Gordianus P, Peter.
 
 
+❦
 
 11
 in aliis Peter; alii P.
 
 
+❦
 
 12
 scriptor ins. by Eyssenhardt and Peter; om. in P.
 
 
+❦
 
 13
 pari Peter; erased in P; erarii P corr.; rari B.
 
 
+❦
 
 14
 quo om. in P.
 
 
+❦
 
 15
 adclamauit Peter; clamauit P.
 
 
+❦
 
 16
 sic Mommsen; si P, Peter.
 
 
+❦
 
 17
 faecem Eyssenhardt, Peter; facem P.
 
 
+❦
 
 18
 quam ins. in Edit. princ. and by Jordan; om. in P and by Peter.
 
 
+❦
 
 19
 ut nonnulli . . . duxit del. by Peter.
 
 
+❦
 
 20
 desiderant P, Novák; disserant Peter.
 
 
+❦
 
 21
 Antonii Ursinus, Peter; Antonini P.
 
 
+❦
 
 22
 qui Gordiano P.
 
 
+❦
 
 23
 obsecutus P, Peter1, Bitschofsky; ab senatu Madvig, Peter2.
 
 
+❦
 
 24
 So (in general) Salm.; uita sua nec tamen fortitudinem bonis P, regarded as corrupt by Peter2.
 
 
+❦
 
 25
 et om. in P.
 
 
+❦
 
 26
 appareant Damsté; appareat P, Peter.
 
 
+❦
 
 27
 ut ins. by Oberdick and Peter2; om. in P and Peter1.
 
 
+❦
 
 28
 dicenda sunt quae Salm., Peter; dicentes unoque P.
 
 
+❦
 
 29
 inde ins. by Jordan and Peter; om. in P.
 
 
+❦
 
 30
 militaris P, Peter.
 
 
+❦
 
 31
 Dexippus . . . natum del. by Becker and Peter.
 
 
+❦
 
 32
 parte Peter; pietate P.
 
 
+❦
 
 33
 uel om. in P.
 
 
+❦
 
 34
 est om. in P.
 
 
+❦
 
 35
 te Peter1; in te P.
 
 
+❦
 
 36
 ut . . . dinumerare mittam, non fuisse Haupt, Peter2; ut . . . dinumerarem multa non esse P.
 
 
+❦
 
 37
 et mater nos Petschenig; ad mauros P; Admau† nos Peter.
 
 
+❦
 
 38
 adprobaret sugg. by Peter; adprobarem P.
 
 
+❦
 
 39
 inter P.
 
 
+❦
 
 40
 ciuibus Jordan; ciuitatibus P, Peter.
 
 
+❦
 
 41
 gestis ins. by Jordan and Peter; om. in P.
 
 
+❦
 
 42
 <praefecto> praetorii, † totius urbis Peter1; praetotius urbis P1; praetori totius urbis P corr.; prae<fecto prae>torii, <tutori> totius urbis Peter2.
 
 
+❦
 
 43
 fossata eorum Salm., Peter; fossatorum P.
 
 
+❦
 
 44
 sed om. in P.
 
 
+❦
 
 45
 flexa Peter; ficta P; uicta Walter.
 
 
+❦
 
 46
 repetenti Peter1; //// recenti P; re recenti B, Peter2.
 
 
+❦
 
 47
 tetrastylo Salm., Peter; intrastylo P.
 
 
+❦
 
 48
 quinquaginta om. in P.
 
 
+❦
 
 49
 aeque Petschenig; qua P; aequa Peter.
 
 
+❦
 
 50
 pariter pateret Peter; pariter et P.
 
 
+❦
 
 51
 <ne> sine usu Salm., Peter1; sine usu P; intus Peter2.
 
 
+❦
 
 52
 quae omnia . . . occidit del. by Peter.
 
 
+❦
 
 53
 a Philippis P.
 
 
+❦
 
 54
 se om. in P; interisse Peter2.
 
 
+❦
 
 55
 tertio in ins. by Ursinus; om. in P and by Peter; duobus . . . finibus del. by Peter.
 
 
+❦
 
 56
 secutus P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+IV Kal. Apr. 05

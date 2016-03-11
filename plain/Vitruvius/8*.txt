@@ -1,5 +1,100 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber VII
+				
+
+
+
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+Figuras adnotationesque Anglicis paginis subiciam.
+			
+
+
+
+Liber IX
+				
+
+
+
+
+
+Marcus Vitruvius Pollio:
+	
+de Architectura, Liber VIII
+	
+
+Praefatio
+	
+
+
 1. De septem sapientibus Thales Milesius omnium rerum principium aquam est professus, Heraclitus ignem, Magorum sacerdotes aquam et ignem, Euripides auditor Anaxagorae, quem philosophum Athenienses scaenicum appellaverunt, aera et terram eamque e caelestium imbrium conceptionibus inseminatam fetus gentium et omnium animalium in mundo procreavisse, et quae ex ea essent prognata cum dissolverentur temporum necessitate coacte, in eandam redire, quaeque de aere nascerentur item in caeli regiones reverti neque interitiones recipere et dissolutione mutata in eam recidere in qua ante fuerant proprietatem. Pythagoras vero, Empedocles, Epicharmos aliique physici et philosophi haec principia esse quattuor proposuerunt, aerem ignem terram aquam, eorumque inter se cohaerentiam naturali figuratione e generum discriminibus efficere qualitates.
 
 	
@@ -18,6 +113,9 @@
 
 
 	
+Caput 1
+	
+
 
 1. Earum autem erit facilior, si erunt fontes aperti et fluentes. sin autem non profluent, quaerenda ubi terra sunt capita et colligenda. quae sic erunt experienda uti procumbatur in dentes antequam sol exortus fuerit, in locis quibus erit quaerendum, et in terra mento conlocato et fulto prospiciantur eae regiones. sic enim non errabit excelsius quam oporteat visus, cum erit inmotum mentum, sed libratam altitudinem in regionibus certa finitione designabit. tunc in quibus locis videbuntur umores concrispantes et in aera surgentes, ibi fodiatur. non enim in sicco loco hoc potest signum fieri.
 
@@ -49,6 +147,9 @@
 
 
 	
+Caput 2
+	
+
 
 1. itaque quae ex imbribus aqua colligitur salubriores habet virtutes, quod eligitur ex omnibus fontibus levissimis subtilibusque tenuitatibus deinde per aeris exercitationem percolata tempestatibus liquescendo pervenit ad terram. etiamque non crebriter in campis confluunt imbres sed in montibus aut ad ipsos montes, ideo quod umores ex terra matutino solis ortu moti cum sunt egressi, in quacumque partem caeli sunt proclinati, tradunt aera, deinde cum sunt moti propter vacuitatem loci post se recipiunt aeris redeuntis undas.
 
@@ -84,6 +185,9 @@
 
 
 	
+Caput 3
+	
+
 
 1. Sunt autem etiam nonnulli fontes calidi, ex quibus profluit aqua sapore optimo, qui in potione ita est suavis uti nec fontalis ab Camenis nec Marcia saliens desidereretur. haec autem ab natura perficiuntur his rationibus. cum in imo per alumen aut bitumen seu sulphur ignis excitatur, ardore percandefacit terram quae est supra, a se autem fervidum emittit in superiora loca vaporem, et ita si qui in iis locis quae sunt supra, fontes dulcis aquae nascuntur, offensi eo vapore effervescunt inter venas et ita profluunt incorrupto sapore.
 
@@ -178,11 +282,64 @@ Pinnae Vestinae, Cutiliis, aliisque locis similibus quae potionibus depurgat per
 21. Arcadia vero civitas est non ignota Clitor, in cuius agris est spelunca profluens aqua e qua qui biberint fiunt abstemii. ad eum autem fontem epigramma est in lapide inscriptum hac sententia versibus inimicam vitibus quod apud eum fontem restituissetque earum virginum mentes in pristinam sanitatem. epigramma autem est id quod est subscriptum
 
 
+
+
+ἀγρότα, σὺν ποίμαις τὸ μεσημβρινὸν ἤν σε βαρύνῃ
+			
+δίψος ἀν᾽ ἐσχατιὰς Κλείτορος ἐρχόμενον,
+			
+τῆς μὲν ἀπὸ κρήνης ἀρύσαι πόμα καὶ παρὰ νύμφαις
+			
+ὑδριάσιν στῆσον πᾶν τὸ σὸν αἰπόλιον·
+			
+ἀλλὰ σὺ μήτ᾽ ἐπὶ λουτρὰ βάλῃς χροί, μή σε καὶ αὔρη
+			
+πημήνῃ τερπνὴς ἐντὸς ἐόντα μέθης·
+			
+φεῦγε δ᾽ ἐμὴν πηγὴν μισάμπελον, ἔνθα Μελάμπους
+			
+λυσάμενος λύσσης Προιτίδας ἀργαλέης,
+			
+πάντα καθαρμὸν ἔκοψεν ἀπόκρυφον ὲτ᾽ ἄρ᾽ ῎Αργους
+
+οὔρεα τρηχείης ἤλυθεν ᾿Αρκαδίης.
+		
+
+
+
+
 22. item est in insula Cia fons e quo qui inprudentes biberint fiunt insipientes, et ibi est epigramma insculptum ea sententia, iucundam eam esse potionem fontis eius, sed qui biberit saxeos habiturum sensus. sunt autem versus hi
 
 
 
+
+
+ἡδεῖα ψυχροῦ πόματος λιβὰς ἣν ἀναβαίνει
+			
+πηγή, ἀλλὰ νόῳ πέτρος ὁ τῆσδε πιών.
+		
+
+
+
+
 23. Susis autem in qua civitate est regnum Persarum, fonticulus est ex quo qui biberint amittunt dentes. item in eo est scriptum epigramma quo significant hanc sententiam, egregiam esse aquam ad lavandum, sed ea si bibatur excutere e radicibus dentes. et huius epigrammatos sunt versus graece
+
+
+
+
+ὕδατα κρανάεντα βλέπεις, ξένε, τῶν ἀπὸ χερσὶν
+			
+λουτρὰ μὲν ἀνθρώποις ἀβλαβῆ ἔστιν ἔχειν·
+
+ἣν δὲ βάλῃς κοίλης ποτὶ νηδύος ἀγλαὸν ὕδωρ
+			
+ἄκρα μόνον δολιχοῦ χείλεος ἀψάμενος,
+
+αὐτῆμαρ πριστῆρες ἐπὶ χθονὶ δαιτὸς ὁδόντες
+
+πίπτουσιν, γενύων ὀρφανὰ θέντες ἕδη.
+		
+
 
 
 
@@ -209,6 +366,9 @@ Pinnae Vestinae, Cutiliis, aliisque locis similibus quae potionibus depurgat per
 
 
 	
+Caput 4
+	
+
 
 1. Expertiones autem et probationes eorum sic sunt providendae. si erunt profluentes et aperti, antequam duci incipiantur, aspiciantur animoque advertantur qua membratura sint qui circa eos fontes habitant homines, et si erunt corporibus valentibus coloribus nitidis, cruribus non vitiosis, non lippis oculis, erunt probatissimi. item si fons novus fossus fuerit et in vas corinthium sive alterius generis quod erit ex aere bono ea aqua sparsa maculam non fecerit, optima est. itemque in aeneo si ea aqua defervefacta et postea requieta et defusa fuerit neque in eius aenei fundo harena aut limus invenietur, ea aqua erit item probata.
 
@@ -220,6 +380,9 @@ Pinnae Vestinae, Cutiliis, aliisque locis similibus quae potionibus depurgat per
 
 
 	
+Caput 5
+	
+
 
 1. Nunc de perductionibus ad habitationes moeniaque ut fieri oporteat explicabo. cuius ratio est prima perlibratio. libratur autem dioptris aut libris aquariis aut chorobate, sed diligentius efficitur per chorobaten, quod dioptrae libraeque fallunt. corbates autem est regula longa circiter pedum viginti. ea habet ancones in capitibus extremis aequali modo perfectos inque regulae capitibus ad normam coagmentatos, et inter regulam et ancones a cardinibus compacta transversaria, quae habent lineas ad perpendiculum recte descriptas pendentiaque ex regula perpendicula in singulis partibus singula, quae, cum regula est conlocata eaque tangent aeque ac pariter lineas descriptionis, indicant libratam conlocationem.
 
@@ -235,6 +398,9 @@ Pinnae Vestinae, Cutiliis, aliisque locis similibus quae potionibus depurgat per
 
 
 	
+Caput 6
+	
+
 
 1. Ductus autem aquae fiunt generibus tribus rivis per canales structiles, aut fistulis plumbeis, seu tubulis fictilibus quorum hae sunt rationes. si canalibus ut structura fiat quam solidissima solumque rivi libramenta habeat fastigata ne minus in centenos pedes sicilico, eaeque structurae conformicentur ut minime sol aquam tangat. cumque venerit ad moenia, efficiatur castellum et castello coniunctum ad recipiendam aquam triplex inmissarium, conlocenturque in castello tres fistulae aequaliter divisae intra receptacula coniuncta, uti cum abundaverit ab extremis, in medium receptaculum redundet.
 
@@ -296,3 +462,130 @@ Pinnae Vestinae, Cutiliis, aliisque locis similibus quae potionibus depurgat per
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vitruvii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+APVD
+			
+ALIOS:
+		
+
+
+
+de Architectura:
+			
+altera editio
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+VIII Id. Aug. 2012

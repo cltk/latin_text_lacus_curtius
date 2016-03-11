@@ -1,4 +1,98 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber III
+				
+
+
+
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber V
+				
+
+
+
+
+ 
+Q. Curti Rufi
+	
+Historiarum Alexandri Magni Macedonis
+	
+libri qui supersunt
+	
+
+Liber IV
+	
+
+p29
+Caput I
+	
+
 1 Dareus, tanti modo exercitus rex, qui triumphantis magis quam dimicantis more curru sublimis inierat proelium, per loca, quae prope immensis agminibus inpleverat, iam inania et ingenti solitudine vasta, fugiebat.
 2 Pauci regem sequebantur: nam nec eodem omnes fugam intenderant et deficientibus equis cursum eorum, quos rex subinde mutabat, aequare non poterant.
 3 Onchas deinde pervenit, ubi excepere eum Graecorum quattuor milia: non segnius tamenº
@@ -86,6 +180,9 @@ p34leviora inter illos fuere discrimina unum certamen, ex quo cetera pendebant, 
 
 
 	
+Caput II
+	
+
 1 Iam tota Syria, iam Phoenice quoque excepta Tyro Macedonum erat, habebatque rex castra in continenti, a qua urbem angustum fretum dirimit.
 2 Tyros, et magnitudine et claritate ante omnes urbes Syriae Phoenicesque memorabilis, facilius societatem Alexandri acceptura videbatur, quam imperium. Coronam igitur auream donum legati adferebant commeatusque large et hospitaliter ex oppido advexerant. Ille dona ut ab amicis accipi iussit benigneque legatos adlocutus Herculi, quem praecipue Tyrii colerent, sacrificare velle se dixit:
 3 Macedonum reges credere, ab illo deo ipsos genus ducere, se vero, ut id faceret, etiam oraculo monitum.
@@ -131,6 +228,9 @@ captis.
 
 
 	
+Caput III
+	
+
 1 Ea res Alexandrum dividere copias coëgit et, ne segniter adsidere uni urbi videretur, operi Perdiccan Crateronque praefecit: ipse cum expedita manu Arabiam petiit.
 
 	
@@ -192,6 +292,9 @@ inligaverant, ut, cum tormento asseres promovissent, subito laxatis funibus inic
 
 
 	
+Caput IV
+	
+
 1 His rex fatigatus statuerat soluta obsidione Aegyptum petere. Quippe cum Asiam ingenti velocitate percucurrisset, circa muros unius urbis haerebat tot maximarum rerum opportunitate dimissa.
 2 Ceterum tam discedere irritum, quam morari pudebat, famam quoque, qua plura quam armis everterat, ratus leviorem fore, si Tyrum quasi testem, se posse vinci, reliquisset. Igitur ne quid inexpertum omitteret, plures naves admoveri
 
@@ -241,6 +344,9 @@ longa pace cuncta refovente sub tutela Romanae mansuetudinis adquiescit.
 
 
 	
+Caput V
+	
+
 1 Isdem ferme diebus Darei litterae adlatae sunt tandem ut regi scriptae. Petebat: 'uti filiam suam — Statirae eratº
 nomen — nuptiis Alexander sibi adiungeret: dotem offerreº
 omnem regionem inter Hellespontum et Halyn amnem sitam, inde orientem spectantibus terris contentum.
@@ -295,6 +401,9 @@ Pharnabazi copiam fore adfirmant.
 
 
 p46
+
+Caput VI
+	
 
 1 Dareus desperata pace, quam per litteras legatosque inpetrari posse crediderat, ad reparandas vires bellumque impigre renovandum intendit animum.
 2 Duces ergo copiarum Babyloniam convenire, Bessum quoque, Bactrianorum praetorem, quamº
@@ -355,6 +464,9 @@ novorum militum misit.
 
 
 	
+Caput VII
+	
+
 1 Aegyptii, olim Persarum opibus infensi, quippe avare et superbe imperitatum sibi esse credebant, ad spem adventus eius erexerant animos, utpote qui Amyntam quoque transfugam et cum precario imperio venientem laeti recepissent.
 2 Igitur ingens multitudo Pelusium, qua intraturus videbatur, convenerat. Atque ille septimo die, postquam a Gaza copias moverat, in regionem Aegypti, quam nunc castra Alexandri vocant, pervenit.
 3 Deinde pedestribus copiis Pelusium petere iussis ipse cum expedita delectorum manu Nilo amne vectus est. Nec sustinuere adventum eius Persae, defectione quoque perterriti.
@@ -412,6 +524,9 @@ potuissent: sed fortuna, quos uni sibi credere coëgit, magna ex parte avidos gl
 
 
 	
+Caput VIII
+	
+
 1 Alexander ab Hammone rediens ad Mareotinº
 paludem haud procul insula Pharo sitam venit. Contemplatus loci naturam primum in ipsa insula statuerat urbem novam condere, inde ut adparuit magnae sedis insulam haud capacem esse, elegit urbi locum, ubi nunc est Alexandrea, appellationem trahens ex nomine auctoris.
 2 Conplexus, quidquid soli est inter paludem ac mare, octoginta stadiorum muris ambitum destinat et, qui exaedificandae urbi praeessent, relictis Memphim petit.
@@ -453,6 +568,9 @@ converso.
 
 
 	
+Caput IX
+	
+
 1 At Dareus, cum Aegypto devertisse in Africam hostem conperisset, dubitaverat, utrumne circa Mesopotamiam subsisteret, an interiora regni sui peteret, haud dubie potentior auctor praesens futurus ultimis gentibus inpigre bellum capessendi, quas aegre per praefectos suos moliebatur.
 2 Sed ut idoneis auctoribus fama vulgavit, Alexandrum cum omnibus copiis, quamcumque ipse adisset regionem, petiturum: haud ignarus, quam cum strenuo res esset, omnia longinquarum gentium auxilia Babyloniam contrahi iussit. Bactriani Scythaeque et Indi convenerant: iam etºº
 ceterarum gentium copiae partibus simul adfuerunt.
@@ -503,6 +621,9 @@ dempsit, quod relatum magna cum laude ante regis pedes posuit.
 
 
 	
+Caput X
+	
+
 1 Biduo ibi stativa rexº
 habuit: in proximum deinde pronuntiari iter iussit.º
 2 Sed prima fere vigilia luna deficiens primum nitorem sideris sui condidit, deinde sanguinis colore suffuso lumen omne foedavit, sollicitisque sub ipsum tanti discriminis casum ingens religio et ex ea formido quaedam incussa est.
@@ -565,6 +686,9 @@ saevitiae meae? Odisti me, non quidem provocatus: sed finge iustum intulisse te 
 
 
 	
+Caput XI
+	
+
 1 Itaque quamquam frustra pace bis petita omnia in bellum consilia converterat, victus tamen continentia
 
 
@@ -611,6 +735,9 @@ p63est.'
 
 
 	
+Caput XII
+	
+
 1 Ille quidem confestim Mazaeum cum tribus equitum milibus ad itinera, quae hostis petiturus erat, occupanda praemisit.
 2 Alexander corpori uxoris eius iustis persolutis omnique graviore comitatu intra eadem munimenta cum modico praesidio relicto ad hostem contendit.
 3 In duoº
@@ -653,6 +780,9 @@ mercennarium equitem ex Paeonia praecedere iubet.
 23 Ipse phalangem, sicut antea dictum est, in duo cornua extenderat: utrumque cornu equites tegebant. Iamque nitidior lux discussa caligine aciem hostium ostenderat, et Macedones sive alacritate sive taedio expectationis ingentem pugnantium more edidere clamorem. Redditus et a Persis nemora vallesque circumiectas terribili sono inpleverat:
 24 nec iam contineri Macedones poterant, quin cursu quoque ad hostem contenderent. Melius adhuc ratus in eodem tumulo castra munire, rexº
 vallum iaci iussit: strenueque opere perfecto in tabernaculum, ex quo tota acies hostium conspiciebatur, secessit.º
+
+Caput XIII
+	
 
 1 Tum vero universa futuri discriminis facies in oculis erat: armis insignibus equi virique splendebant, et omni intentiore cura praeparari apud hostem sollicitudo praetorum agmina sua interequitantium ostendebat,º
 2 ac pleraque inania, sicut fremitus hominum, equorum hinnitus, armorum internitentium fulgor, sollicitam expectatione mentem turbaverant.
@@ -743,6 +873,9 @@ conspectu omnium duces et proximum quemque interequitans adloquebatur.
 
 
 	
+Caput XIV
+	
+
 1 'Emensis tot terras in spem victoriae, de qua dimicandum foret, hoc unum superesse discrimen. Granicum hic amnem Ciliciaeque montes et Syriam Aegyptumque praetereuntibusº
 raptas, ingentia spei gloriaeque incitamenta, referebat.
 2 Reprehensos ex fuga Persas pugnaturos, quia fugere non possent. Tertium iam diem metu exangues, armis suis oneratos in eodem vestigio haerere. Nullum desperationis illorum maius indicium esse, quam quod urbes, quod agros suos urerent, quidquid non corrupissent, hostium esse confessi.
@@ -792,6 +925,9 @@ contempserit: timidissimum quemque consequitur.
 
 
 	
+Caput XV
+	
+
 1 Interim Alexander, ut et demonstratum a transfuga insidiarum locum circumiret et Dareo, qui cornu tuebatur, occurreret, agmen obliquumº
 incedere iubet.
 2 Dareus quoque eodem suum obvertit Besso admonito,
@@ -857,6 +993,9 @@ abstulerat: ergo haud secus quam in tenebris errabant, ad sonum notae vocis aut 
 
 
 	
+Caput XVI
+	
+
 1 At in laevo Macedonum cornu — Parmenio, sicut ante estº
 dictum, tuebatur — longe alia fortuna utriusque partis res gerbeatur. Mazaeus cum omni suorum equitatu vehementer invectus urguebat Macedonum alas.
 2 Iamque abundans multitudine aciem circumvehi coeperat, cum Parmenio equites nuntiare iubet Alexandro, in quo discrimine ipsi essent: ni mature subveniretur, non posse sisti fugam.
@@ -918,3 +1057,119 @@ quam avidius persecutus est.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Q. Curti
+			
+ostium
+			
+
+
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+27 Jan 05

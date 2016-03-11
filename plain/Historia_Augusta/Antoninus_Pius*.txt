@@ -1,4 +1,112 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Aelius
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXI
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Marcus Aurelius
+				
+
+
+
+
+(Vol. I)
+Historia Augusta
+	
+
+p100
+Antoninus Pius
+	
+
 11 Tito Aurelio Fulvo Boionio Antonino Pio paternum genus e Gallia Transalpina, Nemausense scilicet, 2 avus Titus Aurelius Fulvus, qui per honores diversos ad secundum consulatum et praefecturam urbis pervenit, 3 pater Aurelius Fulvius, qui et ipse fuit consul, homo tristis et integer, 4 avia materna Boionia Procilla, mater Arria Fadilla, avus maternus Arrius Antoninus, bis consul, homo sanctus et qui Nervam miseratus esset, quod imperare coepisset, 5 soror uterina Iulia Fadilla, 6 vitricus Iulius Lupus consularis, 7 socer Annius Verus, uxor Annia Faustina, filii mares duo, duae feminae, gener per maiorem filiam Lamia Silanus, per minorem Marcus Antoninus fuere.
 
 	p102
@@ -134,121 +242,250 @@ Fuit statura elevata decorus. sed cum esset longus et senex incurvareturque, til
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 ingenio deleted by Peter, following Salm., who divides: forma conspicuus, clarus moribus, clemens, nobilis, uultu placidus, ingenio singulari, eloquentiae nitidae, litteraturae praecipuae, sobrius, diligens agri cultor, etc.; P punctuates: forma conspicuus ingenio clarus . moribus clemens . nobilis uultu placidus ingenio . singulari eloquentiae . nitidae litteraturae . praecipue sobrius . diligens . agri cultor., etc.
 
 
+❦
 
 2
 singularis P corr.
+❦
 
 3
 conparatus P; comparetur Kellerbauer.
 
 
+❦
 
 4
 quod quidem . . . reddat suspected as a marginal comment by Kellerbauer, probably rightly.
 
 
+❦
 
 5
 uita om. in P, supplied (before priuata) by P corr.
+❦
 
 6
 trallis P.
 
 
+❦
 
 7
 cilici P1 (for cidici; Salm.); cilice (i.e. ae) P corr.
+❦
 
 8
 So Peter; monitus sed penitus eius P; monitus est penatibus eius Cas.; monitus se dis penatibus eius Salm.
 
 
+❦
 
 9
 de om. in P, supplied by Jordan.
 
 
+❦
 
 10
 uel lauans P corr.
+❦
 
 11
 ab uxore P corr. (P1 omits ab); uxor Mommsen; cum ab uxore argueretur quasi carum (or rarum) nescio quid suis largiens Salm.
 
 
+❦
 
 12
 militibus, before populo in P, deleted by Jordan; militibus ac populo vulg.
+❦
 
 13
 cum aduixit P1; quoad uixit P corr.; dum aduixit Salm.; cum aduixerit Peter.
 
 
+❦
 
 14
 So P corr.; terdecentes P1.
 
 
+❦
 
 15
 al' anticipare P corr.
+❦
 
 16
 So Borghesi and Hirschfeld; Fabium Repentinum et Cornelium Victorinum P.
 
 
+❦
 
 17
 fabula famosa Novak; famosa P; famosa voce P corr.; famosis Peter.
 
 
+❦
 
 18
 So Peter; damno P.
 
 
+❦
 
 19
 rimethalcen P.
 
 
+❦
 
 20
 Eupatorem Cary, Hist. des Rois du Bosphore, p64 (ed. Berol.).
 
 
+❦
 
 21
 calchida P.
 
 
+❦
 
 22
 in omitted in P.
 
 
+❦
 
 23
 uetareturque P corr.; reuocareturque Cas.
 
 
+❦
 
 24
 cum tigridibus, in P before exhibuit, placed after leones by Peter, deleted by Salm. and Novak.
 
 
+❦
 
 25
 signum Novak (so Peter1); signatum P; signum tum Peter2 with Petschenig.
 
 
+❦
 
 26
 sine omitted in P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+X Kal. Mar. 05

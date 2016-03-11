@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars II
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXXII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Tacitus
+				
+
+
+
+
+(Vol. III)
+Historia Augusta
+	
+
+p268
+Aurelianus
+		
+(Pars III)
+	
+
 (37)5 Quia pertinet ad Aurelianum, id quod in historia relatum est tacere non debui. nam multi ferunt Quintillum, fratrem Claudii, cum in praesidio Italico esset, audita morte Claudii sumpsisse imperium. 6 verum postea, ubi Aurelianum comperit imperare, a toto exercitu eum derelictum;58 cumque contra eum contionaretur nec a militibus audiretur, incisis sibimet venis die vicesimo imperii sui perisse.
 
 	
@@ -131,83 +241,202 @@ p292detulit, Antistium et Gillonem; qui73 post eum ex senatus sententia manu mis
 
 
 	
+
+Apparatus Criticus:
+	
+
 58
 eum derelictum Peter; ea delectum P.
 
 
+❦
 
 59
 militibus P.
 
 
+❦
 
 60
 seueritatem P.
 
 
+❦
 
 61
 eam sugg. by Peter, Purser (cf. Eutrop. IX.15); suam P.
 
 
+❦
 
 62
 quo om. in P.
 
 
+❦
 
 63
 delectus est Salm.; delegit P.
 
 
+❦
 
 64
 qui uel P.
 
 
+❦
 
 65
 neque fortior ins. by Salm.; om. in P.
 
 
+❦
 
 66
 inde P.
 
 
+❦
 
 67
 separauit Gruter; paruit P.
 
 
+❦
 
 68
 dos Σ; om. in P.
 
 
+❦
 
 69
 et om. in P.
 
 
+❦
 
 70
 rectas purpureas editors; rectis purpureis P, Hohl.
 
 
+❦
 
 71
 urbis Σ; uerbis P.
 
 
+❦
 
 72
 pretia editors; gratia P; gratis Σ, Hohl.
 
 
+❦
 
 73
 qui om. in P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+III Non. Feb. 08

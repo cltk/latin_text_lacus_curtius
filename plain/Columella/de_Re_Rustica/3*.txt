@@ -1,6 +1,137 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber II
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Re Rustica
+				
+
+
+L. Junii Columellae
+				
+
+
+
+a
+H. B. Ash
+editi
+				
+apud
+Loeb Classical Library,
+				
+
+Londinio,
+MCMXLI
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber IV
+				
+
+
+
+
+p226
+L. Junii Columellae
+	
+
+De Re Rustica
+	
+
+Liber III
+	
+
 1
 "Hactenus arvorum cultus," ut ait praestantissimus poeta. Nihil enim prohibet nos, Publi Silvine, de iisdemJJJ rebus dicturos celeberrimi carminis auspicariJJJ principio.JJJ Sequitur arborum cura, quae pars rei rusticae vel maxima est. Earum species diversae et multiformes sunt: quippe varii generis, sicut auctor idem refert,
+
+
+
+
+
+nullis hominum cogentibus ipsae
+			
+Sponte sua veniunt;
+		
+
 
 
 2multaeJJJ etiam nostra manu satae procedunt. Sed quae non ope humana gignuntur, silvestres ac ferae, sui cuiusqueJJJ ingenii poma vel semina gerunt; at quibus labor adhibetur, magis aptae sunt frugibus.
@@ -22,6 +153,18 @@ p230posse qualitatem caeli frigidam vel calidam, siccam vel roscidam, grandinosa
 
 
 p232virentium veluti quadam scabra rubigineJJJ coerceat, si modo credimus Vergilio dicenti,
+
+
+
+
+
+Salsa autem tellus, et quae perhibeturJJJ amara,
+			
+Frugibus infelix; ea nec mansuescit arando,
+			
+Nec Baccho genus aut pomis sua nomina servat.
+		
+
 
 
 10Caelum porro neque nivaleJJJ vinea, sicut praedixi, nec rursus aestuosumJJJ desiderat, calido tamen potius quam frigido laetatur; imbribus magis quam serenitatibus offenditur; et solo sicco quam nimis pluviosoJJJ est amicior; perflatu modico leniqueJJJ gaudet, procellis obnoxia est. Atque haec maxime probabilis est caeli et soli qualitas.
@@ -70,6 +213,18 @@ p248sine imbribus sit; quod non nullis locis etiam vinum eius in vetustatem diff
 
 
 p250cum certa fide referre possumus. Neque enim,JJJ ut ait poeta,
+
+
+
+
+
+numero comprendereJJJ refert;
+			
+Quem qui scire velit, Libyci velit aequoris idem
+			
+DiscereJJJ quam multae Zephyro turbenturJJJ harenae:
+		
+
 
 
 30quippe universae regiones regionumque paene singulae partes habent propria vitium genera, quae consuetudine sua denominant;JJJ quaedam etiam stirpes cum locis vocabula mutaverunt; quaedam propter mutationem locorum, sicut supra diximus, etiam qualitate sua decesserunt, ita ut dinosci non possint. Ideoque in hac ipsa Italia, ne dicam in tam diffuso terrarum orbe, vicinaeJJJ nationes nominibus earum discrepant, variantque vocabula. 31Quare prudentis magistri est eius modi nomenclationis aucupio, quo potiri nequeat,JJJ studiosos non demorari; sed illud in totum praecipere, quod et Celsus ait et ante eum Marcus Cato, nullum genus vitium conserendum esse nisi fama, nullum diutius conservandum ni experimento,JJJ probatum. Atque ubi multa invitabunt regionis commoda, ut nobilem vitem conseramus, generosam requiremus, inquit Iulius Graecinus; ubi nihil erit aut non multum quodJJJ proritet, feracitatem potius sequemur, quae non eadem portione
@@ -139,3 +294,115 @@ decoravit altissimorum hominum exercitibus; sed et alias gentes non in totum fra
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Columella
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita 
+V Kal. Iul. 12

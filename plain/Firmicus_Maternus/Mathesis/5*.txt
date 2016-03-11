@@ -1,4 +1,130 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Liber IV
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Prima versio textus est, multis certe cum erroribus:
+				
+
+quos si invenies te rogo mihi scribere.
+				
+
+
+
+
+Liber VI
+				
+
+
+
+
+
+Vol. IIp1
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Quintus
+	
+
+
+<Praefatio>
+
+
 1 Maxima, Mavorti, promissionis nostrae fundamenta iactavimus, et plurimum per gradus singulos crescens adultus sermo profecit. Omnia enim quae ad explicandum quibusdam difficilia videbantur <et> obscuritatis ambagibus involuta, docili sermonis explicatione monstravimus. Si itaque capax ingenium et flagrantis animi desiderio commotum praecedentes hauserit libros et sit oportuna stellarum radiatione conceptum, ad divina istius scientiae secreta perveniet, et initiatum omnibus istius scientiae disciplinis totum ordinem divinae interpretationis accipiet, ut possit fata hominum et invenire pariter et explicare. 2 Sed plus aliquid a nobis expectat auditor; sic enim praecedentium librorum principia formata sunt, ut ex his quae scripsimus adhuc maioris operis substantia requiratur. Ne itaque desiderantis animi cupiditatem falsa promissione decipiam, omni invidiae livore deposito et omni desidiae torpore proiecto ad cumulata matheseos secreta perveniam, ne intentio tua in ipsis principiis invidae ac malitiosae taciturnitatis vitio relinquatur. Plenum itaque opus quod promisimus
 
 
@@ -11,6 +137,9 @@ p3videatur, ad quod Romanum non adfectasset ingenium. 5 Vosque perennium sideru
 
 
 	
+I. [De horoscopo.]
+
+
 1 Habent etiam Mavorti decus nostrum, <signa> sine alicuius stellae praesentia ex natura sua decernendi maximam potestatem, et multis in genituris operatur ipsa signorum nuda substantia. Sed haec efficacia in solis cardinibus invenitur. Cardines <enim> etiam si nudi ab stellarum testimoniis relinquantur, ex sua natura decernendi accipiunt potestatem. Quod ut manifestius intellegas, ipsius rationis auctoritate monstrabo.
 
 	p4
@@ -106,6 +235,10 @@ p17negotiis gloriam consequetur, sed processu temporis maioris dignitatis orname
 
 
 	
+p19
+II.
+	
+
 1 Quia itaque generaliter diximus, quid  ***** habentia horoscopus <in> stellarum finibus faciat. Tu intento animo ea quae dicimus accipias et assidua lectione memoriae manda. Aliter enim fata hominum explicare non poteris, nisi haec omnia tenax memoria crebra exercitatione possederit.
 
 	
@@ -153,6 +286,9 @@ p27doctos mundos amatores musicae, poetas sed quorum carmina splendore nobilitat
 
 
 	
+III.
+	
+
 1 Quia horoscopi decreta partiliter diximus, nunc explicemus quid stellae <in> signis singulis constitutae  ***** in quolibet loco partiliter intimabo, ne cum libros nostros malignus lector acceperit, aliquid nos dicat tibi invidiae stridoribus denegasse.
 
 	
@@ -281,6 +417,9 @@ p49Leonis intraverit, tunc negotia eorum corrigit, tunc gloriam tunc patrimonium
 
 
 	
+IV.
+	
+
 1 Sed nunc explicatis Saturni decretis ad Iovis decreta veniamus.
 
 	
@@ -346,6 +485,11 @@ p57humanitate officium. 23 In primo sane vitae suae tempore in omnibus rebus er
 p58atque sopitis maxima felicitatis commoda consequentur, et plurimorum conversationibus sublevati magnis erunt praepositi facultatibus, secundum geniturae vires atque substantiam.
 
 	
+ *************************
+
+V.
+	
+
 1 Cum talibus si consortium iungas, nunquam illis fidei tuae secreta conmittas, nunquam aliquid simplici ratione conmendes.  ***** abnegabunt, et inpudentiam suam inreligiosa periurii defensione conmunient. Erunt ad omne perfidiae facinus armati, praesertim si sic Mercurio constituto rursus in Mercurii finibus Mars fuerit inventus, vel si in deiectis geniturae locis Mercurium positum Mars superior effectus quadrata radiatione pulsaverit. 2 Tunc etiam propter haec criminum facinora aut diuturna carceris custodia aut perpetuis damnantur exsiliis, aut criminum †portione possedi, sed et metuentes inminentis sententiae severitatem, desertis patris laribus, ad semota et longinqua loca fugitivo errore ducuntur. Quodsi sic Mercurio et Marte
 
 
@@ -367,6 +511,9 @@ p60hominibus potentiae alicuius erunt honore praepositi, aut musicae modos dulci
 
 
 	
+VI.
+	
+
 1 [Luna in domo sua vel in decano suo.] Si Luna in domo sua vel in decano suo fuerit inventa, et sit nocturna genitura, magnam substantiam et magnae gloriae decernit insignia, et potentiae cuiusdam assignat officium, praesertim si in principalibus geniturae locis fuerit inventa. Faciet per semet ipsos idonea sibi quaerentes subsidia facultatum, efficaces populares artifices. Si vero fuerat diurna genitura, faciet laboriosos peregrinos, et quorum vita frequenti periculorum continuatione quassetur, aut valitudines et vitia cum acerborum dolorum cruciatu semper indicit. Sane in nocturna genitura si in domo sua vel in decano posita IX. ab horoscopo tenuerit locum, felicitatem divitias gloriam principatum cum maxima potestate decernit.
 
 	p61
@@ -397,6 +544,9 @@ p64accusationibus inplicari, et carceri tradit, aut publicis ligat vinculis cate
 
 
 	
+VII.
+	
+
 1 Haec tibi sunt omnia Mavorti decus nostrum, specialiter intimata, nec a nobis aliquid [de me] est praetermissum, quod [non] divini veteres et istius interpretes disciplinae prudentis sollertiae et docti sermonis studio protulerunt. Sed hoc quod frequenter diximus iisdem prudentiae tuae commonitionibus intimamus, ut omnem vim stellarum, mixturas omnium signorum, partium etiam efficacias pro locorum potestatibus conpares, nec ex unius stellae cursu totam geniturae velis explicare substantiam, 2 sed horoscopum cum XII locorum potestatibus iungas, stellas etiam cum stellis singulis conpares, et quaeras quae stellae cum horoscopo qua radiatione iungantur, et quatenus vires suas stellae et ipsae aut inpugnent aut erigant[ur],[tur] habet',WIDTH,120)"
 onMouseOut="nd();">º quas etiam formas singulis stellis signorum aut partium naturalis species attribuat, quid singulorum etiam locorum ac cardinum decernat auctoritas. Cum haec omnia sagaci fuerint inquisitione collecta, tunc inspecta geniturae substantia de singulis rebus prome sententias, sed has easdem moderata prius conparatione formatas. 3 Ortus etiam et anaphoras signorum diligenter
 
@@ -413,3 +563,122 @@ p66mixturas verissimis interpretationibus explicabo, ut explicato libro intentio
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XII Kal. Iul. 12

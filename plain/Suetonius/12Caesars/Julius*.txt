@@ -1,4 +1,123 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+De Vita XII Caesarum
+				
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIII
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Divus
+				
+Augustus
+				
+
+
+
+
+Suetonius,
+	
+De Vita Caesarum
+
+p2
+Divus Julius
+	
+
+*   *   *   *   *   *   *   *1
+
 1
 
 1 Annum agens sextum decimum patrem amisit; sequentibusque consulibus flamen Dialis destinatus dimissa Cossutia, quae familia equestri sed admodum dives praetextato desponsata fuerat, Corneliam Cinnae quater consulis filiam duxit uxorem, ex qua illi mox Iulia nata est; neque ut repudiaret compelli a dictatore Sulla ullo modo potuit. 2 Quare et sacerdotio et uxoris dote et gentilicis hereditatibus multatus diversarum partium habebatur, ut etiam discedere e medio et quamquam morbo quartanae adgravante prope per singulas noctes commutare latebras cogeretur seque ab inquisitoribus pecunia redimeret, donec per virgines Vestales perque Mamercum Aemilium et Aurelium Cottam propinquos et adfines suos veniam impetravit. 3 Satis constat Sullam, cum deprecantibus
@@ -162,8 +281,16 @@ Unus ex eo tempore omnia in re publica et ad arbitrium administravit, ut nonnull
 p26scriberent bis6 eundem praeponentes nomine atque cognomine, utque vulgo mox ferrentur hi versus:
 
 
+
+
+
+Non Bibulo quiddam nuper sed Caesare factum est;
+			
 Nam Bibulo fieri consule nil memini.
 		
+
+
+
 3
 Campum Stellatem maioribus consecratum agrumque Campanum ad subsidia rei publicae vectigalem relictum divisit extra sortem ad7 viginti milibus civium, quibus terni pluresve liberi essent. Publicanos remissionem petentis tertia mercedum parte relevavit ac, ne in locatione novorum vectigalium inmoderatius licerentur, propalam monuit. Cetera item, quae cuique libuissent, dilargitus est contra dicente nullo ac, si conaretur quis, absterrito. 4 Marcum Catonem interpellantem extrahi curia per lictorem ducique in carcerem iussit. Lucio Lucullo liberius resistenti tantum calumniarum metum iniecit, ut ad genua ultro sibi accideret. Cicerone in iudicio quodam deplorante temporum statum Publium Clodium inimicum eius, frustra iam pridem a patribus ad plebem transire nitentem, eodem die horaque nona transduxit. 5 Postremo in universos diversae factionis indicem induxit8 praemiis, ut se de inferenda
 
@@ -244,6 +371,15 @@ Et praetextum quidem illi civilium armorum hoc
 
 
 p42fuit; causas autem alias fuisse opinantur. Gnaeus Pompeius ita dictitabat, quod neque opera consummare, quae instituerat, neque populi expectationem, quam de adventu sui20 fecerat, privatis opibus explere posset, turbare omnia ac permiscere voluisse. 3 Alii timuisse dicunt, ne eorum, quae primo consulatu adversus auspicia legesque et intercessiones gessisset, rationem reddere cogeretur; cum M. Cato identidem nec sine iure iurando denuntiaret delaturum se nomen eius, simul ac primum exercitum dimisisset; cumque vulgo fore praedicarent, ut si privatus redisset, Milonis exemplo circumpositis armatis causam apud iudices diceret. 4 Quod probabilius facit Asinius Pollio, Pharsalica acie caesos profligatosque adversarios prospicientem haec eum ad verbum dixisse referens: "Hoc voluerunt; tantis rebus gestis Gaius Caesar condemnatus essem, nisi ab exercitu auxilium petissem." 5 Quidam putant captum imperii consuetudine pensitatisque suis et inimicorum viribus usum occasione rapiendae dominationis, quam aetate prima concupisset. Quod existimasse videbatur et Cicero scribens de Officiis tertio libro semper Caesarem in ore habuisse21 Euripidis versus, quos sic ipse convertit:
+
+
+
+
+"Nam si violandum est ius, regnandi22 gratia
+			
+violandum est; aliis rebus pietatem colas."
+		
+
 
 p44
 31
@@ -393,11 +529,32 @@ Etiam cultu notabilem ferunt; usum enim lato clavo ad manus fimbriato nec umquam
 p66praeter Nicomedis contubernium laesit, gravi tamen et perenni obprobrio et ad omnium convicia exposito. Omitto Calvi Licini notissimos versus:
 
 
+
+
+
+"Bithynia quicquid
+			
+et pedicator31 Caesaris umquam habuit."
+		
+
+
+
 Praetereo actiones Dolabellae et Curionis patris, in quibus eum Dolabella "paelicem reginae, spondam interiorem regiae lecticae," at Curio "stabulum Nicomedis et Bithynicum fornicem" dicunt. 2 Missa etiam facio edicta Bibuli, quibus proscripsit: collegam suum Bithynicam reginam, eique antea regem fuisse cordi, nunc esse regnum. Quo tempore, ut Marcus Brutus referet, Octavius etiam quidam valitudine mentis liberius dicax conventu maximo, cum Pompeium regem appellasset, ipsum reginam salutavit. Sed C. Memmius etiam ad cyathum et vinum32 Nicomedi stetisse obicit, cum reliquis exoletis, pleno convivio, accubantibus nonnullis urbicis negotiatoribus, quorum refert nomina. 3 Cicero vero non contentus in quibusdam epistulis scripsisse a satellitibus eum in cubiculum regium eductum in aureo lecto veste purpurea decubuisse floremque aetatis a Venere orti in Bithynia contaminatum, quondam etiam in senatu defendenti ei Nysae causam, filiae Nicomedis, beneficiaque regis in se commemoranti: "Remove," inquit, "istaec, oro te, quando notum est, et quid ille tibi et quid illi tute dederis." 4 Gallico denique triumpho milites eius inter cetera carmina, qualia
 
 
 
 p68currum prosequentes ioculariter canunt, etiam illud vulgatissimum pronuntiaverunt:
+
+
+
+
+"Gallias Caesar subegit, Nicomedes Caesarem:
+			
+Ecce Caesar nunc triumphat qui subegit Gallias,33
+
+Nicomedes non triumphat qui subegit Caesarem."
+		
+
 
 
 50
@@ -408,6 +565,15 @@ p68currum prosequentes ioculariter canunt, etiam illud vulgatissimum pronuntiave
 51
 
 1 Ne provincialibus quidem matrimoniis abstinuisse vel hoc disticho apparet iactato aeque a militibus per Gallicum triumphum:
+
+
+
+
+"Urbani, servate uxores: moechum calvom adducimus.
+			
+Aurum in Gallia effutuisti, hic sumpsisti mutuum."
+		
+
 
 
 52
@@ -616,12 +782,30 @@ p104Antonio admotum saepius capiti suo diadema reppulerit atque in Capitolium Io
 Consilia igitur dispersim antea habita et quae saepe bini ternive ceperant, in unum omnes contulerunt, ne populo quidem iam praesenti statu laeto, sed clam palamque detrectante dominationem atque assertores flagitante. 2 Peregrinis in senatum allectis libellus propositus est: "Bonum factum: ne quis senatori novo curiam monstrare velit!" Et illa vulgo canebantur:
 
 
+
+
+"Gallos Caesar in triumphum ducit, idem in curiam;
+			
+Galli bracas deposuerunt, latum clavum sumpserunt."
+		
+
+
+
 3
 Quinto Maximo suffecto trimenstrique consule theatrum introeunte, cum lictor animadverti ex more
 
 
 
 p106iussisset, ab universis conclamatum est non esse eum consulem. Post remotos Caesetium et Marullum tribunos reperta sunt proximis comitiis complura suffragia consules eos declarantium. Subscripsere quidam Luci Bruti statuae: "Utinam viveres!" item ipsius Caesaris:
+
+
+
+
+"Brutus, quia reges eiecit, consul primus factus est;
+			
+Hic, quia consules eiecit, rex postremo factus est."
+		
+
 
 
 4
@@ -672,6 +856,13 @@ Fuerat animus coniuratis corpus occisi in Tiberim trahere, bona publicare, acta 
 p114dies non videbatur, praeceptum, ut omisso ordine, quibus quisque vellet itineribus urbis, portaret in Campum. 2 Inter ludos cantata sunt quaedam ad miserationem et invidiam caedis eius accommodata, ex Pacuvi Armorum iudicio:
 
 
+
+
+"Men servasse, ut essent qui me perderent"?
+		
+
+
+
 et ex Electra Atili59 ad similem sententiam. Laudationis loco consul Antonius per praeconem pronuntiavit senatus consultum, quo omnia simul ei divina atque humana decreverat, item ius iurandum, quo se cuncti pro salute unius astrinxerant; quibus perpauca a se verba addidit. 3 Lectum pro rostris in Forum magistratus et honoribus functi detulerunt. Quem cum pars in Capitolini Iovis cella cremare pars in curia Pompei destinaret, repente duo quidam gladiis succincti ac bina iacula gestantes ardentibus cereis succenderunt confestimque circumstantium turba virgulta arida et cum subselliis tribunalia, quicquid praeterea ad donum aderat, congessit. 4 Deinde tibicines et scaenici artifices vestem, quam ex triumphorum instrumento ad praesentem usum induerant, detractam sibi atque discissam iniecere flammae et veteranorum militum legionarii arma sua, quibus exculti funus celebrabant; matronae etiam pleraeque ornamenta sua, quae gerebant, et liberorum bullas atque praetextas.
 
 	p116
@@ -713,287 +904,471 @@ Curiam, in qua occisus est, obstrui placuit Idusque Martias Parricidium nominari
 
 
 	
+
+Apparatus Criticus:
+	
+
 1
 See
 	
 p. xxi.
+❦
 
 2
 Ambranos] Lambranos, Sabellicus; Ambrones, Beroaldus; Ambarros, Urlichs; Arvernos, Mommsen; Campanos, Madvig.
+❦
 
 3
 quaestorem, Ω.
 
 
+❦
 
 4
 ornarentur, Lambinus; ordinarentur, Ω.
 
 
+❦
 
 5
 id est . . . callesque, del. Willems, Le Sénat de la république romaine, ii.576, N. 5.
 
 
+❦
 
 6
 bis . . . cognomine, regarded as a gloss by Lipsius and others.
+❦
 
 7
 ad, Casaubon; ac, Ω.
 
 
+❦
 
 8
 indicem, omitted in Ω; induxit, Stephanus; inductum, Ω.
 
 
+❦
 
 9
 cuius] quae et, Bentley; quae sibi, Kiessling. Of the various emendations of the passage cuius . . . triumphorum none is convincing. The general sense is, however, clear.
+❦
 
 10
 responderit, all the mss., except ρ and some other late codices, which have respondit; responderet, ς (Torrentius).
+❦
 
 11
 per added by Roth.
+❦
 
 12
 ne added by Erasmus.
+❦
 
 13
 cedentibus, ς; decedentibus, Ω.
 
 
+❦
 
 14
 The number is preserved only in V;
 	Eutropius, 6.17, has quadringenties.
 
 
+❦
 
 15
 maxima, G; the other mss. have maxime.
 
 
+❦
 
 16
 "Ex praeda quidam," Casaubon — "quidam" being apparently Ursinus; et praedia, Ω.
 
 
+❦
 
 17
 prosequebatur, L2Tς; persequebatur, Ω.
 
 
+❦
 
 18
 quis, mss. except M1 (quivis, G).
 
 
+❦
 
 19
 Iam, ς; tam, MGX′; tum, Υ.
 
 
+❦
 
 20
 sui, MGX′; suo, Υ.
 
 
+❦
 
 21
 after habuisse the mss. have the gloss, est in Phoenissis: εἴπερ γὰρ ἀδικεῖν χρή, τυραννίδος πέρι κάλλιστον ἀδίκημα· τὰ δ᾽ ἄλλα εὐσεβεῖν χρεών.
 
 
+❦
 
 22
 regnandi, supplied by ς.
 
 
+❦
 
 23
 esset, G; est, Υ′; the other mss. omit the word.
+❦
 
 24
 prosilivit, MΠT; the other mss. have prosiluit.
 
 
+❦
 
 25
 rebellantem, Bentley; cf. Eutr. 6.22.3.
+❦
 
 26
 novis, Ursinus; nobis, Ω.
 
 
+❦
 
 27
 circum tribum] circum tribus, Venetian ed. of 1510, Casaubon; tributim circummissos, Bentley; the early Roman editions have cuique tribui.
 
 
+❦
 
 28
 quadraginta, Basle ed. of 1533; LX, Casaubon; L, Oudendorp; decem, Ω.
 
 
+❦
 
 29
 proposita, an addition to the text suggested by Ihm.
+❦
 
 30
 ut, supplied by Bentley, ΠQς insert after nec.
 
 
+❦
 
 31
 pedicator] predicator, Ω.
 
 
+❦
 
 32
 et vinum, Υ′; et vina, G; et vi, MVL2δ.
 
 
+❦
 
 33
 The second line is omitted by MHGVPO′δ, while Q (and ε in the margin) add
 
+
+
+
+Et quare triumphat Caesar qui subegit Gallias?
+			
+Nicomedes non triumphat qui subegit Caesarem.
+		
+
+
+❦
+
 34
 primo, Torrentius; proximo, mss.
+❦
 
 35
 Naso, ς (Macinellus); vasa, Ω (apparently corrected from vasu in M; vasas, G).
+❦
 
 36
 idque, Modderman; the greater number of the mss. have que (=quae).
 
 
+❦
 
 37
 militarique re, Lipsius; militari quare, Ω (G omits quare).
 
 
+❦
 
 38
 Cuius . . . emendate, found only in ς; cf. praef. ad B.G. viii.
+❦
 
 39
 velit, ς; vellet, Ω; volet, Stephanus.
+❦
 
 40
 et a puero et ab, ΠQ; et a puero ab, R; et aituero ab, MV.
 
 
+❦
 
 41
 Salvitem, L′; Salutioni, ς.
 
 
+❦
 
 42
 auferre . . . umquam, only in ς.
 
 
+❦
 
 43
 aquilifer, Egnatius; aquilifero, Ω.
 
 
+❦
 
 44
 minora, Υ′; constantiae, ΠQSTς; immo maiora etiam, Υ′.
 
 
+❦
 
 45
 dedisset, P′O; the other mss. have desilisset.
 
 
+❦
 
 46
 forṭuna, M; the other mss. have fortuna; forma, Torrentius.
+❦
 
 47
 Since Caesar (B.C. 3.53) gives the number as milia . . . circiter XXX, Ernesti proposed to omit centum and read ad for ac.
 
 
+❦
 
 48
 deversiorolo eo, Politianus; deversiorolo, Casaubon; deversiorolo loco, Ω.
 
 
+❦
 
 49
 rebellaverant, Stephanus (ς); rebellaverunt, Ω.
 
 
+❦
 
 50
 permisit, Nς; permiserat, Ω.
 
 
+❦
 
 51
 pretoris, MV (sº erased in M); the other mss. have -iis.
 
 
+❦
 
 52
 Ampius, Pulmann, Torrentius; Amprius, Ω (Amplius, QT).
 
 
+❦
 
 53
 praeligata, M; the other mss. have praeligatam.
 
 
+❦
 
 54
 valuit, ς; voluit, Ω.
 
 
+❦
 
 55
 detineretur, MV; continetur GT.
 
 
+❦
 
 56
 illo, Turnebus, Bentley; ilio, MHGΥ; the other mss. have iulo or iulio.
 
 
+❦
 
 57
 adversum, GVO′ΠR.
 
 
+❦
 
 58
 reliquo, T (Lipsius); the other mss. have reliquos.
 
 
+❦
 
 59
 Atilii, ς; Acilii, Ω.
 
 
+❦
 
 60
 inscripsitque, Bentley; scripsitque, Ω.
 
 
+❦
 
 61
 adsectantium, conjecture of Ihm; inspectantium, X′; sectantium, Casaubon; adinspectantium, MGΥ.
 
 
+❦
 
 62
 sollicitum . . . etiam, supplied by Roth, such semper, which was added by Ihm.
+❦
 
 63
 primos consecrato, Basle ed. of 1546; primo consecratos, Ω.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Vita XII Caesarum
+			
+
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVI Kal. Jan. 04

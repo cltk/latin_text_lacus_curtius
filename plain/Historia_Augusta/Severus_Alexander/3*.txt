@@ -1,4 +1,114 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+Pars II
+				
+
+
+Haec pagina telaris pars est
+				
+
+
+
+Historiae Augustae
+				
+
+
+
+a
+Loeb Classical Library
+editae
+				
+MCMXXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Maximini duo
+				
+
+
+
+
+(Vol. II)
+Historia Augusta
+	
+p284
+
+Severus Alexander
+		
+(Pars III)
+	
+
 53
 
 Et ut severitas eius agnosci posset, unam contionem militarem indendam putavit, quae illius in re militari mores ostenderet. 2 nam cum Antiochiam venisset, ac milites lavacris muliebribus et deliciis vacarent eique nuntiatum esset, omnes eos comprehendi iussit et in vincula conici. 3 quod ubi compertum est, mota seditio est a legione, cuius socii erant in vincula coniecti. 4 tum ille tribunal ascendit vinctisque omnibus ad tribunal adductis, circumstantibus etiam militibus et quidem armatis ita coepit: 5 "Commilitones, si tamen ista vobis quae a vestris facta sunt displicent, disciplina maiorum rem publicam tenet. quae si dilabitur, et nomen Romanum et imperium amittemus. 6 neque enim sub nobis ista facienda sunt quae sub impura illa bestia nuper facta sunt. 7 milites
@@ -146,40 +256,51 @@ Et ut scias, qui viri in eius consilio fuerint: Fabius Sabinus, Sabini insignis 
 
 
 	
+
+Apparatus Criticus:
+	
+
 113
 So Editor; lauant Graecorum morem. etquidem se instituunt P; lauant Graecorum <in> morem. equidem si insistunt Salm., Peter.
 
 
+❦
 
 114
 de P.
 
 
+❦
 
 115
 telis Petschenig, Peter2; tuteli P.
 
 
+❦
 
 116
 et ins. by Petschenig; om. in P and Peter.
 
 
+❦
 
 117
 et P.
 
 
+❦
 
 118
 MDCCC Salm. (cf. c. lv.2); mille se adducere P; mille † se. adducere Peter.
 
 
+❦
 
 119
 salua res publica Flor. Cusanum, acc. to Mommsen, Ges. Schr., vii p301; om. in P and Peter.
 
 
+❦
 
 120
 With Isauria ends the portion of the vita transposed to
@@ -189,89 +310,206 @@ Maxim. v.3; see
 crit. note to c. xliii.7.
 
 
+❦
 
 121
 optatae uenissent P, acc. to Hohl, Klio, xiii p287; †uario t. c. e. d. I. optate uenisset Peter.
 
 
+❦
 
 122
 essent militarent P.
 
 
+❦
 
 123
 cuiusdam P corr.; cuius P1; eius Peter.
 
 
+❦
 
 124
 et om. in P.
 
 
+❦
 
 125
 est hoc Petschenig; est hic P; istic Jordan, Peter.
 
 
+❦
 
 126
 et om. in P.
 
 
+❦
 
 127
 dimiserunt ins. after optimum in P corr.; lacuna assumed by Peter.
 
 
+❦
 
 128
 romana P.
 
 
+❦
 
 129
 curis priuatis Madvig; curas priuatis P; curas <de> priuatis Salm., Peter.
 
 
+❦
 
 130
 qui . . . hominibus commendauerat Edit. princ.; mandauerit Ellis; quae rem p. temporis uitae ille P, susp. by Peter.
 
 
+❦
 
 131
 After fuit P has nam hoc nemo uult nisi bonus; del. by Jordan and Peter.
 
 
+❦
 
 132
 amicis summouent Cod. Vaticanus 5114 (see Hohl, Klio, xiii p413), Salm., Peter; amicissimum mouent P.
 
 
+❦
 
 133
 serui fuerint Petschenig; perui fuerit P; serui euirati Peter.
 
 
+❦
 
 134
 totis Peter; tota P; tuta Eyssenhardt, Baehrens.
 
 
+❦
 
 135
 parens uir Mommsen; ipsa res uiri P; filius scientia iuris Peter.
 
 
+❦
 
 136
 After amplissimus the first Venice edition has: Pomponius legum peritissimus, Alphenus, Aphricanus, Florentinus, Martianus, Callistratus, Hermogenes, Venuleius, Triphonius, Metianus, Celsus, Proculus, Modestinus: hi omnes iuris professores discipuli fuere splendidissimi Papiniani, et Alexandri imperatoris familiares et socii, ut scribunt Acholius et Marius Maximus; om. in P and rejected by Cas. and Peter; retained by Patzig, Byz. Zeitschr., xiii, p44 f.
 
 
+❦
 
 137
 Surum Salm., Peter; suum P.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Historia Augusta
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+prid. Non. Jan. 05

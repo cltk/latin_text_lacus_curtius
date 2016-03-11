@@ -1,4 +1,126 @@
 
+
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+ad litteras
+			
+mittendas
+			
+Bill Thayer
+			
+
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adjutorium
+			
+
+
+
+
+Sursum
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+Praefatio
+				
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+Matheseos
+				
+
+
+Firmici Materni
+				
+
+
+
+a
+W. Kroll et F. Skutsch
+editi
+				
+in aedibus
+B. G. Teubneri
+				
+
+Stutgardiae,
+MDCCCXCVII
+				
+Hic textus in dominio publico est.
+
+				
+Quem diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+Liber II
+				
+
+
+
+
+
+Vol. Ip1
+Firmici Materni
+	
+
+Matheseos
+	
+
+Liber Primus
+	
+
 Prooemium
 
 1 Olim tibi hos libellos, Mavorti decus nostrum, me dicaturum esse promiseram, verum diu me inconstantia verecundiae retardavit et ab isto scribendi studio dubia trepidatione revocavit, cum fragilitas ingenii mei nihil se scire tale posse conciperet, quod dignum fore tuis auribus iudicaret. 2 Nam cum esses in Campaniae provinciae fascibus constitutus, cuius te administrationis merito maxima honoris dignitate nobilitas, occurri tibi rigore hiemalium pruinarum et prolixi itineris diversitate confectus. Illuc tu languentis et fatigati corporis mei senium enisus es fidis et religiosissimis amicitiae relevare fomentis. 3 Cum itaque ad pristinum me statum solaciis ac medelis tuis sanitas restituta revocasset, recolentes invicem pristinos actus et ad memoriam revocantes honestas et varias sermonum fabulas serebamus. 4 Posteaquam de actibus ac de processibus nostris confabulati sumus, scrutatus a me es, sicut meministi, totius Siciliae situm, quam incolo et unde oriundo sum, et omnia, quae veteres fabulae
@@ -193,3 +315,122 @@ p39ea, quae Lolliano promisimus, <compleamus> et, quicquid divino sapientium mag
 
 	
 [Nec omnia, quae dicuntur, rigidia iudicationis auctoritate discussa; omnis enim, sicut nosti, nativitas mollis si fuerit, fructum dabit licet praecoquem, sed mox adulti temporis spatio mitiorem.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Firmicus
+			
+Maternus
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+VIDE
+			
+ETIAM:
+		
+
+
+
+Caelum Antiquum
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain only if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks, the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer. See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita:
+XIII Kal. Iul. 12

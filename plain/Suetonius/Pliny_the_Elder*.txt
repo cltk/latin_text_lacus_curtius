@@ -1,35 +1,248 @@
 
 
+
+
+
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+	try{
+var pageTracker = _gat._getTracker("UA-1191260-1");
+pageTracker._trackPageview();
+	} catch(err) {}
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Adiutorium
+			
+
+
+
+
+Altius
+			
+
+
+
+
+Ostium
+			
+
+
+
+
+
+
+
+
+
+Haec pagina telaris liber est operis
+				
+
+
+
+C. Suetonii Tranquilli
+				
+
+
+
+a
+Loeb Classical Library
+editi
+				
+MCMXIV
+				
+Hic textus in dominio publico est.
+
+				
+Textum quam diligentissime perscrutavi et recensui —
+				
+
+sed si quemlibet errorem invenies, mihi, quaeso, scribe.
+				
+
+
+
+
+
+
+
+p504
+Suetonius,
+	
+Vita Plinii Secundi1
+
+
+
+
 Plinius Secundus Novocomensis equestribus militiis industrie functus procurationes quoque splendidissimas et continuas summa integritate administravit, et tamen liberalibus studiis tantam operam dedit, ut non temere quis plura in otio scripserit. Itaque bella omnia, quae unquam2 cum Germanis gesta sunt, XX3 voluminibus comprehendit, itemque "Naturalis Historiae" XXXVII libros absolvit. Periit clade4 Campaniae; cum enim Misenensi classi praeesset et flagrante Vesubio ad explorandas propius causas liburnica5 pertendisset,6 nec adversantibus ventis remeare posset, vi pulveris ac favillae oppressus est, vel ut quidam existimant a servo suo occisus, quem aestu deficiens ut necem sibi maturaret oraverat.7
+
+
+Adnotationes Editoris:
+	
 
 1
 MSS.: various manuscripts of Pliny, dating from the eleventh to the fifteenth century. V = cod. Vaticanus, 1951, fifteenth century; T = cod. Toletanus, thirteenth century.
 
 
+❦
 
 2
 umquamº] undique, V.
 
 
+❦
 
 3
 XX], the MSS. have XXXVII.
 
 
+❦
 
 4
 clade, Hermolaus Barbarus; gades (gadis, V) or grades, MSS.
+❦
 
 5
 laburnica, T; the other MSS. have liburnicas (V) or liburnicam.
 
 
+❦
 
 6
 pertendisset, Burmann; praetendisset, MSS.
+❦
 
 7
 oraverat, MSS.; oraverit, Vinetus.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ALTIVS:
+		
+
+
+
+Suetonii
+			
+ostium
+			
+
+
+
+
+Textus
+			
+Aevi Classici
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Pagina recensita: 
+XVII Kal. Aug. 08
